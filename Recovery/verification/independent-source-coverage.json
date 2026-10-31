@@ -1,0 +1,223 @@
+{
+  "utc": "2026-10-30T19:24:35Z",
+  "objects": 394116,
+  "classes": {
+    "PlayerSettings": 1,
+    "InputManager": 1,
+    "TagManager": 1,
+    "AudioManager": 1,
+    "ScriptMapper": 1,
+    "MonoManager": 1,
+    "GraphicsSettings": 1,
+    "TimeManager": 1,
+    "DelayedCallManager": 1,
+    "PhysicsManager": 1,
+    "BuildSettings": 1,
+    "QualitySettings": 1,
+    "ResourceManager": 1,
+    "NavMeshProjectSettings": 1,
+    "Physics2DSettings": 1,
+    "ClusterInputManager": 1,
+    "RuntimeInitializeOnLoadManager": 1,
+    "CloudWebServicesManager": 1,
+    "UnityAnalyticsManager": 1,
+    "UnityConnectSettings": 1,
+    "CrashReportManager": 1,
+    "PerformanceReportingManager": 1,
+    "StreamingManager": 1,
+    "Shader": 370,
+    "PreloadData": 9,
+    "Material": 217,
+    "Texture2D": 634,
+    "MonoScript": 855,
+    "Sprite": 301,
+    "Mesh": 370,
+    "AnimationClip": 75,
+    "AudioClip": 211,
+    "Cubemap": 6,
+    "Avatar": 19,
+    "AnimatorController": 69,
+    "Flare": 5,
+    "Font": 8,
+    "GameObject": 92424,
+    "Transform": 87082,
+    "MeshRenderer": 43184,
+    "MeshFilter": 43181,
+    "Rigidbody": 65,
+    "BoxCollider": 56054,
+    "AudioSource": 686,
+    "Animator": 4189,
+    "TrailRenderer": 24,
+    "Light": 253,
+    "Projector": 26,
+    "LensFlare": 65,
+    "SkinnedMeshRenderer": 50,
+    "WheelCollider": 228,
+    "ParticleSystem": 2393,
+    "ParticleSystemRenderer": 2393,
+    "SpriteRenderer": 13538,
+    "CanvasRenderer": 4964,
+    "RectTransform": 5342,
+    "MonoBehaviour": 32124,
+    "TerrainData": 4,
+    "ParticleAnimator": 195,
+    "EllipsoidParticleEmitter": 195,
+    "Camera": 15,
+    "ParticleRenderer": 195,
+    "MeshCollider": 748,
+    "AudioListener": 11,
+    "RenderSettings": 8,
+    "Animation": 126,
+    "FlareLayer": 14,
+    "TerrainCollider": 4,
+    "LightmapSettings": 8,
+    "LODGroup": 972,
+    "Terrain": 5,
+    "Canvas": 13,
+    "CanvasGroup": 3,
+    "NavMeshData": 3,
+    "NavMeshSettings": 3,
+    "CapsuleCollider": 135,
+    "PhysicMaterial": 5,
+    "SphereCollider": 1,
+    "TextAsset": 2,
+    "CGProgram": 7,
+    "GUILayer": 4,
+    "ConfigurableJoint": 2,
+    "ComputeShader": 1
+  },
+  "serialized_files": [
+    {
+      "name": "globalgamemanagers",
+      "objects": 23,
+      "version": "2018.2.20f1",
+      "sha256": "bffb839fdc0a7c29d5e7784e2d0f27131baca7f574bc4e36833bd2e588dec0b1"
+    },
+    {
+      "name": "unity_builtin_extra",
+      "objects": 27,
+      "version": "2018.2.20f1",
+      "sha256": "354407f064ee536e4c48f54569a61a8661cdc59b9c2bea0b02017019b8905d68"
+    },
+    {
+      "name": "globalgamemanagers.assets",
+      "objects": 854,
+      "version": "2018.2.20f1",
+      "sha256": "8c2caa52b37963e5f1ac8e26e7466068a79b78d9b1dceeec049c7aabc64dc754"
+    },
+    {
+      "name": "sharedassets0.assets",
+      "objects": 4148,
+      "version": "2018.2.20f1",
+      "sha256": "cc9b85c646e330c5914107353341193f477cca8ac0fc41f29d69b45f3dfc72b2"
+    },
+    {
+      "name": "level0",
+      "objects": 18561,
+      "version": "2018.2.20f1",
+      "sha256": "1f26cd75a264d7f6eae36e6939bacaac56a35f2880db621c17e7eec8a8042f02"
+    },
+    {
+      "name": "sharedassets1.assets",
+      "objects": 129725,
+      "version": "2018.2.20f1",
+      "sha256": "da065e7f573f5fd7ac0d0db71b83cbcbe06128eb6e5b7b97bcd506deb7bfddcf"
+    },
+    {
+      "name": "level1",
+      "objects": 9167,
+      "version": "2018.2.20f1",
+      "sha256": "92e446a96814a1fa779b59227caddbf0396bc229e1651a54d0a7b21f7dbfc72b"
+    },
+    {
+      "name": "sharedassets2.assets",
+      "objects": 864,
+      "version": "2018.2.20f1",
+      "sha256": "ed1d1b0b3049c3d791152a7ca8e08365635fcbfd9973538497727820b20fda8c"
+    },
+    {
+      "name": "level2",
+      "objects": 34382,
+      "version": "2018.2.20f1",
+      "sha256": "e92f10f7bf15b4a9c3947b16b4cb77ab575c013cf7740c32118a68c3c24b7bd3"
+    },
+    {
+      "name": "sharedassets3.assets",
+      "objects": 18,
+      "version": "2018.2.20f1",
+      "sha256": "03946bae9a7b3912eecc72a2b91a3c44b6077db9a866195245a5af9ae1a04961"
+    },
+    {
+      "name": "level3",
+      "objects": 35495,
+      "version": "2018.2.20f1",
+      "sha256": "ec2b9ca8d997e0ba3f8d8647a1b588cadf29d1485d549a27028c60f2354d3479"
+    },
+    {
+      "name": "sharedassets4.assets",
+      "objects": 2,
+      "version": "2018.2.20f1",
+      "sha256": "4b1c54482c2c422f5388dd98ea6e66c072c584f939720559d0ab72245fc21a15"
+    },
+    {
+      "name": "level4",
+      "objects": 2244,
+      "version": "2018.2.20f1",
+      "sha256": "aa1a9c5d5f9d55129e06968fa8605fbe505b421d1d25fe7d86820abead71cfbd"
+    },
+    {
+      "name": "sharedassets5.assets",
+      "objects": 158,
+      "version": "2018.2.20f1",
+      "sha256": "25f2d9d4465f85847d4b77883517c0517b3b1178691594380475288c1d477c28"
+    },
+    {
+      "name": "level5",
+      "objects": 112929,
+      "version": "2018.2.20f1",
+      "sha256": "cec8afeb128fdaa674c5d95e4c18c9224702b9281d1797c6893b63c60c9c06a2"
+    },
+    {
+      "name": "sharedassets6.assets",
+      "objects": 774,
+      "version": "2018.2.20f1",
+      "sha256": "146926cc044103c86cb8b65d28acd10997b5dadf469bfe276d32ded7f3fe82d4"
+    },
+    {
+      "name": "level6",
+      "objects": 36925,
+      "version": "2018.2.20f1",
+      "sha256": "1f4817b6e8feea537adf45fdb5f0f58af9152a6527fae6c1ad13afe3c7e0211f"
+    },
+    {
+      "name": "sharedassets7.assets",
+      "objects": 3208,
+      "version": "2018.2.20f1",
+      "sha256": "67617058a7fea6c78893db0bbcf590cf3e6cdefa3237c9ba79c0ede87df87ddc"
+    },
+    {
+      "name": "level7",
+      "objects": 1698,
+      "version": "2018.2.20f1",
+      "sha256": "23bcebdae69dd71519feea87ec0cb20283d2f453c9ce5ee0ace75f720087c968"
+    },
+    {
+      "name": "resources.assets",
+      "objects": 2844,
+      "version": "2018.2.20f1",
+      "sha256": "8505fab31ee6f1150ea8a759dd1d21730e17756c40894fd206d9908f48d95742"
+    },
+    {
+      "name": "unity default resources",
+      "objects": 70,
+      "version": "2018.2.0b9",
+      "sha256": "e54075eb1065e989857f60c683cab5c5663e97a93cbfbc5fe374439e65064460"
+    }
+  ],
+  "matches_extraction_counts": true,
+  "external_stream_checks": 211,
+  "external_stream_valid": 211,
+  "external_stream_failures": [],
+  "full_source_tree_coverage": 394116,
+  "scope": "Independent container/object class recount and reported external stream range checks; supplemental generated custom layouts close original decode gap. Does not imply target import/fidelity."
+}

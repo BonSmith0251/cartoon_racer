@@ -1,0 +1,18 @@
+{
+  "original": {
+    "file_count": 198,
+    "expected_count": 198,
+    "missing": [],
+    "extra": [],
+    "changed": [],
+    "pass": true
+  },
+  "preserved_raw_copy": {
+    "file_count": 198,
+    "expected_count": 198,
+    "missing": [],
+    "extra": [],
+    "changed": [],
+    "pass": true
+  }
+}

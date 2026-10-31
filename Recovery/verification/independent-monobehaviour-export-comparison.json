@@ -1,0 +1,115 @@
+{
+  "scope": "Independent original generated MonoBehaviour layouts versus pristine AssetRipper scene YAML: scalar fields and original local/null references; no target import claim; nested fields, long/multiline strings, external references explicitly counted unchecked",
+  "counts": {
+    "objects": 11922,
+    "local_or_null_references": 21362,
+    "scalar_fields": 69956,
+    "cross_file_refs_unchecked": 15758,
+    "nested_fields_unchecked": 22189,
+    "long_strings_unchecked": 217
+  },
+  "scenes": [
+    {
+      "source": "level0",
+      "export": "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\pristine-export\\ExportedProject\\Assets\\MENU.unity",
+      "sha256": "805637ac78e6418517176450e41dcc8671baaf53d98fc6e7ba0452e048d8a94e",
+      "counts": {
+        "objects": 4832,
+        "local_or_null_references": 9018,
+        "scalar_fields": 28009,
+        "cross_file_refs_unchecked": 6813,
+        "nested_fields_unchecked": 10111,
+        "long_strings_unchecked": 72
+      }
+    },
+    {
+      "source": "level1",
+      "export": "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\pristine-export\\ExportedProject\\Assets\\GAME.unity",
+      "sha256": "b3ed9c11628f89673917b8f7fde614ad862aac355a6b6d44d577f1be99c16007",
+      "counts": {
+        "objects": 2208,
+        "local_or_null_references": 4613,
+        "scalar_fields": 17839,
+        "cross_file_refs_unchecked": 2832,
+        "nested_fields_unchecked": 5396,
+        "long_strings_unchecked": 118
+      }
+    },
+    {
+      "source": "level2",
+      "export": "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\pristine-export\\ExportedProject\\Assets\\FARM_STATIC.unity",
+      "sha256": "0bc09afa4b2e218cfa88521f335aeb7792541529c0c59249f25ef7941806d7f2",
+      "counts": {
+        "objects": 116,
+        "local_or_null_references": 146,
+        "scalar_fields": 488,
+        "cross_file_refs_unchecked": 138,
+        "nested_fields_unchecked": 74
+      }
+    },
+    {
+      "source": "level3",
+      "export": "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\pristine-export\\ExportedProject\\Assets\\CITY_STATIC.unity",
+      "sha256": "b5f2acf952e455168d34e0984bddc31788a86272733a3f28e0a8c04c63f11bb5",
+      "counts": {
+        "objects": 159,
+        "local_or_null_references": 184,
+        "scalar_fields": 726,
+        "cross_file_refs_unchecked": 177,
+        "nested_fields_unchecked": 130
+      }
+    },
+    {
+      "source": "level4",
+      "export": "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\pristine-export\\ExportedProject\\Assets\\TRAFFIC.unity",
+      "sha256": "9b86f51315d3140b15dbb79142e5a1469cdab77ab882d1cdd1271a4c6f806d11",
+      "counts": {
+        "objects": 1,
+        "local_or_null_references": 2,
+        "scalar_fields": 2,
+        "cross_file_refs_unchecked": 1
+      }
+    },
+    {
+      "source": "level5",
+      "export": "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\pristine-export\\ExportedProject\\Assets\\SCHOOL.unity",
+      "sha256": "1bf56fb08d7c15ac17602309f994d37a80293581e83dbbc2866d151221fb5459",
+      "counts": {
+        "objects": 4030,
+        "local_or_null_references": 6487,
+        "scalar_fields": 19599,
+        "cross_file_refs_unchecked": 5129,
+        "nested_fields_unchecked": 5607,
+        "long_strings_unchecked": 15
+      }
+    },
+    {
+      "source": "level6",
+      "export": "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\pristine-export\\ExportedProject\\Assets\\BENCHMARK.unity",
+      "sha256": "cfdf0a893d7f499dcdc35ddce0b8d0ace7da77e1c449e1085d5efd2c8ad4860d",
+      "counts": {
+        "objects": 415,
+        "local_or_null_references": 631,
+        "scalar_fields": 2392,
+        "cross_file_refs_unchecked": 444,
+        "nested_fields_unchecked": 559,
+        "long_strings_unchecked": 6
+      }
+    },
+    {
+      "source": "level7",
+      "export": "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\pristine-export\\ExportedProject\\Assets\\VILLY.unity",
+      "sha256": "0874ed94bb31c0b18fe2a98e3ae6b614c2a4443683198e6cf7ff6fef319e0483",
+      "counts": {
+        "objects": 161,
+        "local_or_null_references": 281,
+        "scalar_fields": 901,
+        "cross_file_refs_unchecked": 224,
+        "nested_fields_unchecked": 312,
+        "long_strings_unchecked": 6
+      }
+    }
+  ],
+  "issues": [],
+  "result": "pass"
+}
