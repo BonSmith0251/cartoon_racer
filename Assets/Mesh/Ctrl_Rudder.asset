@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  serializedVersion: 9
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Ctrl_Rudder
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 132
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 40
+    localAABB:
+      m_Center: {x: 0, y: 0.3183639, z: -0.588961}
+      m_Extent: {x: 0.38052145, y: 2.629283, z: 0.7079582}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes:
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 3
+  m_IsReadable: 0
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer:
+  m_VertexData:
+    serializedVersion: 2
+    m_VertexCount: 0
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 0
+    _typelessdata:
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 120
+      m_Range: 5.258566
+      m_Start: -2.310919
+      m_Data: d4a5ff0c7ff747c72002d111984033fd05d00c810044b75cfac7f0974031f4fd1f1d73f13f432002d9d5877f767f21909d63f867775802c5e096fe317f25d0cc6be93f432000d1fd05407487dd1f1d5e0844c75cfccfdc16ff338ffd1f1d7dff47f75afacf1c767f74782110dd5f0934735800cdfc054074fd05d00c810044c75f02c51c964031b8a57fcc72e91f531ffed939867f76
+      m_BitSize: 10
+    m_UV:
+      m_NumItems: 160
+      m_Range: 0.99397147
+      m_Start: 0.0016546446
+      m_Data: fe1bff12d912d91bd91bd912fe1bd91cff12fe1bd911ff11d90cff0eda20fe1cda20fe1dd911d90cff0dd90cd40ad50ad400d101d50ad400fa00fa09fa09fa00fe0aff00fe0afa0ad50ad40ad101d400fe1bff12d912d91bd91bd912fe1bd91cff12fe1bd911ff11d90cff0eda20fe1cda20fe1dd911d90cff0dd90cd40ad50ad400d101d50ad400fa00fa09fa09fa00fe0aff00fe0afa0ad50ad40ad101d400
+      m_BitSize: 8
+    m_Normals:
+      m_NumItems: 80
+      m_Range: 1.760578
+      m_Start: -0.87656474
+      m_Data: 7cfbbbffe44f6dd0062bcb4eedcff6add4ba9214b9d334b1c124b46d2005800b4c6c3ff5d2dffe420bb8c0144c5220056dd006ec344d13bbb2ad1bb9
+      m_BitSize: 6
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 40
+      m_Data: 263d3c9bc2
+      m_BitSize: 1
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 132
+      m_Data: 402000c2400c02211483010c87311007800440822480a1088152084ab02c01b230cad230c6e118ce033d0e143d92c248ccc4341443554c355917666199865dda8669dca6759cc775dec7819f07869f087aa23776a36791d7456a56499a196662e7896d
+      m_BitSize: 6
+    m_UVInfo: 85
+  m_LocalAABB:
+    m_Center: {x: 0, y: 0.3183639, z: -0.588961}
+    m_Extent: {x: 0.38052145, y: 2.629283, z: 0.7079582}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh:
+  m_BakedTriangleCollisionMesh:
+  m_MeshMetrics[0]: 1400.951
+  m_MeshMetrics[1]: 1400.951
+  m_MeshOptimized: 1
