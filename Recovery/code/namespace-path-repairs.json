@@ -1,0 +1,317 @@
+[
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\RavingBots.Water2D\\Water2DEffects.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\RavingBots\\Water2D\\Water2DEffects.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\RavingBots.Water2D\\Water2DMaterialScaler.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\RavingBots\\Water2D\\Water2DMaterialScaler.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\RavingBots.Water2D\\Water2DSplashFX.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\RavingBots\\Water2D\\Water2DSplashFX.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames.ExampleScene\\ExampleController.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames\\ExampleScene\\ExampleController.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames.ExampleScene\\ExampleMouseLook.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames\\ExampleScene\\ExampleMouseLook.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames.ExampleScene\\ExampleResetPlayer.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames\\ExampleScene\\ExampleResetPlayer.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames.ExampleScene\\ExampleRotatePrism.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames\\ExampleScene\\ExampleRotatePrism.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames.HUDNavigationSystem\\CustomLayer.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames\\HUDNavigationSystem\\CustomLayer.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames.HUDNavigationSystem\\CustomTransform.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames\\HUDNavigationSystem\\CustomTransform.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames.HUDNavigationSystem\\HNS.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames\\HUDNavigationSystem\\HNS.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames.HUDNavigationSystem\\HNSCompassBarPrefab.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames\\HUDNavigationSystem\\HNSCompassBarPrefab.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames.HUDNavigationSystem\\HNSIndicatorPrefab.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames\\HUDNavigationSystem\\HNSIndicatorPrefab.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames.HUDNavigationSystem\\HNSMapProfile.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames\\HUDNavigationSystem\\HNSMapProfile.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames.HUDNavigationSystem\\HNSMapProfileUtilities.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames\\HUDNavigationSystem\\HNSMapProfileUtilities.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames.HUDNavigationSystem\\HNSMinimapPrefab.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames\\HUDNavigationSystem\\HNSMinimapPrefab.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames.HUDNavigationSystem\\HNSPrefab.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames\\HUDNavigationSystem\\HNSPrefab.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames.HUDNavigationSystem\\HNSPrefabs.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames\\HUDNavigationSystem\\HNSPrefabs.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames.HUDNavigationSystem\\HNSRadarPrefab.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames\\HUDNavigationSystem\\HNSRadarPrefab.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames.HUDNavigationSystem\\HUDCurrentDegrees.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames\\HUDNavigationSystem\\HUDCurrentDegrees.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames.HUDNavigationSystem\\HUDKeepRotation.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames\\HUDNavigationSystem\\HUDKeepRotation.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames.HUDNavigationSystem\\HUDNavigationCanvas.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames\\HUDNavigationSystem\\HUDNavigationCanvas.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames.HUDNavigationSystem\\HUDNavigationElement.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames\\HUDNavigationSystem\\HUDNavigationElement.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames.HUDNavigationSystem\\HUDNavigationElementSettings.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames\\HUDNavigationSystem\\HUDNavigationElementSettings.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames.HUDNavigationSystem\\HUDNavigationExtensions.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames\\HUDNavigationSystem\\HUDNavigationExtensions.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames.HUDNavigationSystem\\HUDNavigationSystem.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames\\HUDNavigationSystem\\HUDNavigationSystem.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames.HUDNavigationSystem\\MinimapModes.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames\\HUDNavigationSystem\\MinimapModes.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames.HUDNavigationSystem\\NavigationElementEvent.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames\\HUDNavigationSystem\\NavigationElementEvent.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames.HUDNavigationSystem\\NavigationElementType.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames\\HUDNavigationSystem\\NavigationElementType.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames.HUDNavigationSystem\\NavigationTypeEvent.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames\\HUDNavigationSystem\\NavigationTypeEvent.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames.HUDNavigationSystem\\RadarModes.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames\\HUDNavigationSystem\\RadarModes.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames.HUDNavigationSystem\\_RotationReference.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\SickscoreGames\\HUDNavigationSystem\\_RotationReference.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.CrossPlatformInput\\AxisTouchButton.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\CrossPlatformInput\\AxisTouchButton.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.CrossPlatformInput\\ButtonHandler.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\CrossPlatformInput\\ButtonHandler.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.CrossPlatformInput\\CrossPlatformInputManager.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\CrossPlatformInput\\CrossPlatformInputManager.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.CrossPlatformInput\\InputAxisScrollbar.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\CrossPlatformInput\\InputAxisScrollbar.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.CrossPlatformInput\\Joystick.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\CrossPlatformInput\\Joystick.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.CrossPlatformInput\\MobileControlRig.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\CrossPlatformInput\\MobileControlRig.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.CrossPlatformInput\\TiltInput.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\CrossPlatformInput\\TiltInput.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.CrossPlatformInput\\TouchPad.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\CrossPlatformInput\\TouchPad.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.CrossPlatformInput\\VirtualInput.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\CrossPlatformInput\\VirtualInput.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.CrossPlatformInput.PlatformSpecific\\MobileInput.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\CrossPlatformInput\\PlatformSpecific\\MobileInput.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.CrossPlatformInput.PlatformSpecific\\StandaloneInput.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\CrossPlatformInput\\PlatformSpecific\\StandaloneInput.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.Utility\\ActivateTrigger.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\Utility\\ActivateTrigger.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.Utility\\AutoMobileShaderSwitch.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\Utility\\AutoMobileShaderSwitch.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.Utility\\AutoMoveAndRotate.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\Utility\\AutoMoveAndRotate.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.Utility\\CameraRefocus.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\Utility\\CameraRefocus.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.Utility\\CurveControlledBob.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\Utility\\CurveControlledBob.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.Utility\\DragRigidbody.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\Utility\\DragRigidbody.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.Utility\\DynamicShadowSettings.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\Utility\\DynamicShadowSettings.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.Utility\\FollowTarget.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\Utility\\FollowTarget.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.Utility\\FOVKick.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\Utility\\FOVKick.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.Utility\\FPSCounter.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\Utility\\FPSCounter.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.Utility\\LerpControlledBob.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\Utility\\LerpControlledBob.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.Utility\\ObjectResetter.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\Utility\\ObjectResetter.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.Utility\\ParticleSystemDestroyer.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\Utility\\ParticleSystemDestroyer.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.Utility\\PlatformSpecificContent.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\Utility\\PlatformSpecificContent.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.Utility\\SimpleActivatorMenu.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\Utility\\SimpleActivatorMenu.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.Utility\\SimpleMouseRotator.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\Utility\\SimpleMouseRotator.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.Utility\\SmoothFollow.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\Utility\\SmoothFollow.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.Utility\\TimedObjectActivator.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\Utility\\TimedObjectActivator.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.Utility\\TimedObjectDestructor.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\Utility\\TimedObjectDestructor.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.Utility\\WaypointCircuit.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\Utility\\WaypointCircuit.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  },
+  {
+    "old_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets.Utility\\WaypointProgressTracker.cs",
+    "exporter_path": "D:\\Games\\CartoonRacerRecon\\Assets\\Scripts\\Assembly-CSharp\\UnityStandardAssets\\Utility\\WaypointProgressTracker.cs",
+    "operation": "copied_recovered_source_to_original_exporter_namespace_path_preserve_meta"
+  }
+]

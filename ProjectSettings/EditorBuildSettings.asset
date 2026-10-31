@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MENU.unity
+    guid: bdf7fdbe647509448896dd9ecc696fa7
+  - enabled: 1
+    path: Assets/GAME.unity
+    guid: 9e914d8dac3833c4f80551c6b1611aae
+  - enabled: 1
+    path: Assets/FARM_STATIC.unity
+    guid: 0197394f096d7784ca99c6f9e60d83b9
+  - enabled: 1
+    path: Assets/CITY_STATIC.unity
+    guid: ce362963664e52344b340f144dd36ed9
+  - enabled: 1
+    path: Assets/TRAFFIC.unity
+    guid: f067f90bad38ee74ebd82ea6d5f90c0a
+  - enabled: 1
+    path: Assets/SCHOOL.unity
+    guid: ce8abc169216c0f42865ac851236ff26
+  - enabled: 1
+    path: Assets/BENCHMARK.unity
+    guid: 6b8f78aa6ed1fa24688b9abe7ea5183c
+  - enabled: 1
+    path: Assets/VILLY.unity
+    guid: 4cdd3cdd6dfc8d54ca6fe78b4325cce3
+  m_configObjects: {}

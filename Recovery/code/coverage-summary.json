@@ -1,0 +1,35 @@
+{
+  "source_unity": "2018.2.20f1",
+  "target_unity": "2023.2.22f1",
+  "backend": "Mono",
+  "decompiler": "ILSpy 8.2.0.7535 CSharp7_3",
+  "assemblies": 9,
+  "types": 1058,
+  "methods": 6936,
+  "status": {
+    "recovered_decompiled_not_runtime_validated": 6764,
+    "runtime_or_external_method": 104,
+    "abstract_contract": 64,
+    "external_native_dependency": 4
+  },
+  "bodies_recovered": 6764,
+  "source_files": 793,
+  "compile_scope": "9 recovered assemblies tested separately with installed Unity 2023 .NET Standard 2.1 and package references; editor project integration validation is owned by scenes worker",
+  "runtime_validation": "not yet performed by code expert",
+  "assembly_method_counts": {
+    "Assembly-CSharp": 4778,
+    "Assembly-UnityScript": 83,
+    "Assembly-UnityScript-firstpass": 59,
+    "ch.sycoforge.Combine": 54,
+    "ch.sycoforge.Unity.Runtime": 823,
+    "ES2": 845,
+    "MoodkieSecurity": 35,
+    "Tayx.Graphy": 259
+  },
+  "project_compile": "passed Unity 2023.2.22f1 editor-import-5.log after namespace-path, reserved-asmdef, package and AndroidJNI repairs",
+  "structural_source_issue_classification": {
+    "original_null_unityevent_targets": 16,
+    "original_null_script_unityevent_targets": 10,
+    "original_absent_callback_methods": 17
+  }
+}

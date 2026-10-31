@@ -1,0 +1,3424 @@
+[
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\AIRPLANE.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "121cac74bf81cd81f6ddacc0e53bf1f974b9ee247fa49942b4327900dfc438ea",
+    "after": "121cac74bf81cd81f6ddacc0e53bf1f974b9ee247fa49942b4327900dfc438ea"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\AIRPLANE2.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "ecab160865343c68ec49b7865c3cd08973c625bf06ef5e52183704b06bfdc9bf",
+    "after": "ecab160865343c68ec49b7865c3cd08973c625bf06ef5e52183704b06bfdc9bf"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\AIRPLANE_MOVE.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "a43763d6d6b46e51c998be29ced7c8ca7d73565048e471659e7ce9be2627baed",
+    "after": "a43763d6d6b46e51c998be29ced7c8ca7d73565048e471659e7ce9be2627baed"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\air_zone.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "5ae275613adfbb40d3996de2f513e7d0ac17cc257f262286d3d7a391ca50308b",
+    "after": "0fa6ea8b4f6d2fa1b0ccd00f94877d8251b09296c855cd29a7bfda195cc2229c"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\AI_TYPE_RANDOM.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "6a0e37c6530a878c5943817691ec596a8214fbafd65391002498910fe885f4b4",
+    "after": "6a0e37c6530a878c5943817691ec596a8214fbafd65391002498910fe885f4b4"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\AlphaButtonClickMask.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "b92a0adb370cab5873651b4c28b7f14fd05c661528f7dac3c66d50591d77c4ba",
+    "after": "328db6e98f43872bd3841b35bdb0008a7e27de97bf2a34a716c8c286d7c8b36d"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\BENCHMARK_MANAGER.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "f25e4cb3a15fc5175400adc09f53e453688b0176b5f2306e64e54602dd6bd209",
+    "after": "e381f04f9a84ff1945af5c1fc77676088efc0807b3b2f24e525441167d858989"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\BIRD_COLLIDER.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "b81685201a5311b41edbd3b284dda1c4a3c3df6eeb0932382d7be1720bf5e8db",
+    "after": "b81685201a5311b41edbd3b284dda1c4a3c3df6eeb0932382d7be1720bf5e8db"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\BloomEffect.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "10d6f26b4a6c49735353550d8b54a3c47bf88cfab2bb5cd0431d2981eb92bdfb",
+    "after": "10d6f26b4a6c49735353550d8b54a3c47bf88cfab2bb5cd0431d2981eb92bdfb"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\BOMB_.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "9a1235231ce94263e9c7fc3559e4b9ae79fbba289db4ec20568762af28b58eb7",
+    "after": "dd196d9f9c70420e4b1817caa1cf14ac7de0a262db565ab24f401ffe435f6988"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_3D_Anomaly.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "5c0d4122f3e05f55614f67c5883245e933d4eeb595c3c533c0f04b527b056e9d",
+    "after": "5c0d4122f3e05f55614f67c5883245e933d4eeb595c3c533c0f04b527b056e9d"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_3D_Binary.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "553d6f6f63b8def36b70830d8f4aff049c38ab5f5e455ad7dc5a48880931c1de",
+    "after": "553d6f6f63b8def36b70830d8f4aff049c38ab5f5e455ad7dc5a48880931c1de"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_3D_BlackHole.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "dde1fdcfa91eb3ace653715acfb68aa857a89b8d9fe6e13945707881f7782e95",
+    "after": "dde1fdcfa91eb3ace653715acfb68aa857a89b8d9fe6e13945707881f7782e95"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_3D_Computer.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "b7d875a628005b820ab74252ca795a5346892cd1c420976c791d908e2bab646e",
+    "after": "b7d875a628005b820ab74252ca795a5346892cd1c420976c791d908e2bab646e"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_3D_Distortion.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "6592836dacbda6e4a0b3bc73633ce69fc9c19040e4769b082706a041bd0cd6e6",
+    "after": "6592836dacbda6e4a0b3bc73633ce69fc9c19040e4769b082706a041bd0cd6e6"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_3D_Fog_Smoke.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "c97757f7f8bcc49075cc489faf7a92eec54e90fcc860d581e1286475d102595b",
+    "after": "c97757f7f8bcc49075cc489faf7a92eec54e90fcc860d581e1286475d102595b"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_3D_Ghost.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "7ce94e32b9f5cd9ce446a36f4cf18da5e7892a5a78b994fa827bd38d1e75a87a",
+    "after": "7ce94e32b9f5cd9ce446a36f4cf18da5e7892a5a78b994fa827bd38d1e75a87a"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_3D_Inverse.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "e5799dc6da8e0f21c414ed304594a01536c5cf227f29ee762ecbd1418fa06818",
+    "after": "e5799dc6da8e0f21c414ed304594a01536c5cf227f29ee762ecbd1418fa06818"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_3D_Matrix.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "5ff4e46b7339eb13e542b13dc8b2c022501c8f436efb561220a3664f32fd6a3c",
+    "after": "5ff4e46b7339eb13e542b13dc8b2c022501c8f436efb561220a3664f32fd6a3c"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_3D_Mirror.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "1f134c79aa213059dc5f8347c553bc4535d3a8b040d1394a9f4a21c452ec87fc",
+    "after": "1f134c79aa213059dc5f8347c553bc4535d3a8b040d1394a9f4a21c452ec87fc"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_3D_Myst.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "b0974f744ef6bed500ad1cdad32d23b9a68cfba43702853f2679dba53ed965e9",
+    "after": "b0974f744ef6bed500ad1cdad32d23b9a68cfba43702853f2679dba53ed965e9"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_3D_Scan_Scene.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "54d8ed20e74f618a04716c8c4275b535a854ea05cc85b9020f918cd6b3ba3a51",
+    "after": "54d8ed20e74f618a04716c8c4275b535a854ea05cc85b9020f918cd6b3ba3a51"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_3D_Shield.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "b447929af64442e2040628a766a8aa0eff46a8337026cc77c0392235bdc391eb",
+    "after": "b447929af64442e2040628a766a8aa0eff46a8337026cc77c0392235bdc391eb"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_3D_Snow.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "069aa479442d9ba1b1bd46e14aedce70ee543e955be9f3d500207b3453cfc8b7",
+    "after": "069aa479442d9ba1b1bd46e14aedce70ee543e955be9f3d500207b3453cfc8b7"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_AAA_Blood.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "e1eea9e70b4c27196e6094ad994e915e828181a3ec6d58b97fe6383c030c62c1",
+    "after": "e1eea9e70b4c27196e6094ad994e915e828181a3ec6d58b97fe6383c030c62c1"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_AAA_BloodOnScreen.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "1016d8ace43eb076137074d112b274cc84908c0ccbcb100a2b01b1f7e7043655",
+    "after": "1016d8ace43eb076137074d112b274cc84908c0ccbcb100a2b01b1f7e7043655"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_AAA_Blood_Hit.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "3c92e1ef6318ba4e0524c0eb948b933fbf242f68b10099e7ed38c898e8149513",
+    "after": "3c92e1ef6318ba4e0524c0eb948b933fbf242f68b10099e7ed38c898e8149513"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_AAA_Blood_Plus.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "a67df5860928d3251db2b9a4056f33692a30a58771ed369e55bbb43b0f5e72bb",
+    "after": "a67df5860928d3251db2b9a4056f33692a30a58771ed369e55bbb43b0f5e72bb"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_AAA_SuperComputer.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "2a4e51eb5c52d89d1882ea237103bb7b026714cebd570c85b365aa80767ffda8",
+    "after": "2a4e51eb5c52d89d1882ea237103bb7b026714cebd570c85b365aa80767ffda8"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_AAA_SuperHexagon.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "b869c444772ed1205e58a2584e15ddce202fa74722084709d16a0f48f631ed99",
+    "after": "b869c444772ed1205e58a2584e15ddce202fa74722084709d16a0f48f631ed99"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_AAA_WaterDrop.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "6b3df6261705fed41628cfd8b2b5c1bf6459c8ae275d270909d685fbf1fa6b3d",
+    "after": "6b3df6261705fed41628cfd8b2b5c1bf6459c8ae275d270909d685fbf1fa6b3d"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_AAA_WaterDropPro.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "f58da1ca2c7ab266c703c7cc967ce01e2a493a579d5ec02d7d43455659618903",
+    "after": "f58da1ca2c7ab266c703c7cc967ce01e2a493a579d5ec02d7d43455659618903"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Alien_Vision.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "0bafde7835b4413695a118ff655e43e360e462e4b753bcc1285784e6d8772ad8",
+    "after": "0bafde7835b4413695a118ff655e43e360e462e4b753bcc1285784e6d8772ad8"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Antialiasing_FXAA.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "866cbd0a1402ae71697a49facedc441209f8dd4e2862e1a23b9b997d3a265af2",
+    "after": "866cbd0a1402ae71697a49facedc441209f8dd4e2862e1a23b9b997d3a265af2"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Atmosphere_Fog.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "e79753d2f1f0884f8948b80c22c4dabca7b7b176cfc22a5d3004d3c01212693d",
+    "after": "e79753d2f1f0884f8948b80c22c4dabca7b7b176cfc22a5d3004d3c01212693d"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Atmosphere_Rain.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "bc9612ec2f8eab5686b124055943e9304a45986997e307b54f959f584ac0696f",
+    "after": "bc9612ec2f8eab5686b124055943e9304a45986997e307b54f959f584ac0696f"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Atmosphere_Rain_Pro.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "48f5d0b1e09b5fbbfc0f0068b4b5b6c990cf58297eebbc1c39abb3613f01a554",
+    "after": "48f5d0b1e09b5fbbfc0f0068b4b5b6c990cf58297eebbc1c39abb3613f01a554"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Atmosphere_Rain_Pro_3D.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "3d5c89c16f1987e13d27c1e8097d9873f9724a1e7dd8891a6aafce5e8b252b8d",
+    "after": "3d5c89c16f1987e13d27c1e8097d9873f9724a1e7dd8891a6aafce5e8b252b8d"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Atmosphere_Snow_8bits.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "b7e63dba19fe3dd0dd6d7e02c40c8780a719a671abcdd7fc37f540d7bea37be3",
+    "after": "b7e63dba19fe3dd0dd6d7e02c40c8780a719a671abcdd7fc37f540d7bea37be3"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_Blend.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "283f5f5d568c914a7eec407b1fecafa3bab5ef35c29c640cb498a4a817de1a21",
+    "after": "283f5f5d568c914a7eec407b1fecafa3bab5ef35c29c640cb498a4a817de1a21"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_BlueScreen.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "131237dfa45aabe9dfd13cd2422cab889145c46a578b82dd8b48f6c7ed63514a",
+    "after": "131237dfa45aabe9dfd13cd2422cab889145c46a578b82dd8b48f6c7ed63514a"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_Color.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "4d6f762f15aad6f5c089c69ae48de1234a8aea15e9fb61a8444cfb372e43b9c2",
+    "after": "4d6f762f15aad6f5c089c69ae48de1234a8aea15e9fb61a8444cfb372e43b9c2"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_ColorBurn.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "5ea4447c47b1d5c2a74fe048ea50234f3bf618b0afb24584fe36899f7efa8530",
+    "after": "5ea4447c47b1d5c2a74fe048ea50234f3bf618b0afb24584fe36899f7efa8530"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_ColorDodge.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "71b71cea9c17f42b4a83520672cc56f4a43a4a31991744b1e07149166bff2ed3",
+    "after": "71b71cea9c17f42b4a83520672cc56f4a43a4a31991744b1e07149166bff2ed3"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_ColorKey.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "8aada502cb35807d4e986a805f26a6e12c948cbb49e1bd96f904db45fd321f38",
+    "after": "8aada502cb35807d4e986a805f26a6e12c948cbb49e1bd96f904db45fd321f38"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_Darken.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "8ece6d3dec5ba48318c9f614235177b48d3abcb7c81921d13f85750f3f2596af",
+    "after": "8ece6d3dec5ba48318c9f614235177b48d3abcb7c81921d13f85750f3f2596af"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_DarkerColor.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "ee4a6311c3b9173af890768eccbf6d2f389eb0b9d7ca86aae4ff043dbce14557",
+    "after": "ee4a6311c3b9173af890768eccbf6d2f389eb0b9d7ca86aae4ff043dbce14557"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_Difference.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "71cbf9a9e56a3cfcb0e8cb3fd8b278d5c9c1109928edf27f55d31460b5bd58eb",
+    "after": "71cbf9a9e56a3cfcb0e8cb3fd8b278d5c9c1109928edf27f55d31460b5bd58eb"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_Divide.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "5e0ee796c5da034cface2d940bccac188c1bfdbd65423a1e3670efa6ec3bf2bb",
+    "after": "5e0ee796c5da034cface2d940bccac188c1bfdbd65423a1e3670efa6ec3bf2bb"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_Exclusion.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "419b48f2d49c9b61534567e0e934bbdc3e7aae8276e083a2b6f701f29e8388c2",
+    "after": "419b48f2d49c9b61534567e0e934bbdc3e7aae8276e083a2b6f701f29e8388c2"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_GreenScreen.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "211a90fe8c37f9aa768f528eadcb4148c5aed50a9c13e1f59ca0c60b59e474f1",
+    "after": "211a90fe8c37f9aa768f528eadcb4148c5aed50a9c13e1f59ca0c60b59e474f1"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_HardLight.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "2b144bda0cc14700c1db01081db55c6892677f3397f8e52b3a6449d4c5f85463",
+    "after": "2b144bda0cc14700c1db01081db55c6892677f3397f8e52b3a6449d4c5f85463"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_HardMix.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "b423558ce661524e68e229b6a6ae9c6f182584e17d9982621f7b227f9635330b",
+    "after": "b423558ce661524e68e229b6a6ae9c6f182584e17d9982621f7b227f9635330b"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_Hue.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "e161d8b7276d196908a1ab55ad534fb171525ea8c97361f3469224bdea2108d7",
+    "after": "e161d8b7276d196908a1ab55ad534fb171525ea8c97361f3469224bdea2108d7"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_Lighten.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "7bce3a6362caf24f1c924fc8440e8f2a994641e1502172f8f94183478c53e23c",
+    "after": "7bce3a6362caf24f1c924fc8440e8f2a994641e1502172f8f94183478c53e23c"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_LighterColor.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "f12fe69527b21eea5f5582182fce793c841586f1a2a94be937a0687145bbd441",
+    "after": "f12fe69527b21eea5f5582182fce793c841586f1a2a94be937a0687145bbd441"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_LinearBurn.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "7b380eb7857bccf61032d4fab0438de1ebac5448dd76d6c83c810cc4671affd5",
+    "after": "7b380eb7857bccf61032d4fab0438de1ebac5448dd76d6c83c810cc4671affd5"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_LinearDodge.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "b747f155e33e6679048b92a16cb20c367700e2531e321c2abcd61913331f9145",
+    "after": "b747f155e33e6679048b92a16cb20c367700e2531e321c2abcd61913331f9145"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_LinearLight.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "00392e45a8649c96c6e7650a1a8e6ae29d2b5f4b3a82c5e63ef4ef654f84d7f3",
+    "after": "00392e45a8649c96c6e7650a1a8e6ae29d2b5f4b3a82c5e63ef4ef654f84d7f3"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_Luminosity.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "32347f2b23b9f3342bf729ce2c0047821c82728e4bc002fbd34220eab4a77205",
+    "after": "32347f2b23b9f3342bf729ce2c0047821c82728e4bc002fbd34220eab4a77205"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_Multiply.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "885f74bc37cd6cb2718d370b172e8c4bd593e49fec61126feae09b4f51291cb7",
+    "after": "885f74bc37cd6cb2718d370b172e8c4bd593e49fec61126feae09b4f51291cb7"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_Overlay.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "a27626dd8cf28176e8fffb7ef81fc792c6f2442fd32fc85bcf239f47e70dbb8c",
+    "after": "a27626dd8cf28176e8fffb7ef81fc792c6f2442fd32fc85bcf239f47e70dbb8c"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_PhotoshopFilters.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "35b38180b17dedfdc0175fb107661a6e4a2105435cd3e81f3ab02d23de03d004",
+    "after": "e1245cc0dd33a76457c5025ec2fb5c2aaa9b24f09d9920d7eabb81ee0a41e475"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_PinLight.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "b60c4804dfbc54b5b15e96e680ae68e107523be4a0a875e6dfa2a36aab2e8d33",
+    "after": "b60c4804dfbc54b5b15e96e680ae68e107523be4a0a875e6dfa2a36aab2e8d33"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_Saturation.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "962f2b33a10092385bf5a7578a5056d9954d39bec508f5a554b02ef03ade7775",
+    "after": "962f2b33a10092385bf5a7578a5056d9954d39bec508f5a554b02ef03ade7775"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_Screen.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "56089800e612f5d328eaeb630d902bb585b31a5ee2cda204a8dcbb7a4ed93681",
+    "after": "56089800e612f5d328eaeb630d902bb585b31a5ee2cda204a8dcbb7a4ed93681"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_SoftLight.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "19a527939a19cc1776b0c7fb6b50c27d1e13af37ccdbb0e7d1468c709a748c3c",
+    "after": "19a527939a19cc1776b0c7fb6b50c27d1e13af37ccdbb0e7d1468c709a748c3c"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_SplitScreen.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "36344e01c14dce0385ab1f5a2926cbdfe18e28ad20b27f8d152fc9f530857294",
+    "after": "36344e01c14dce0385ab1f5a2926cbdfe18e28ad20b27f8d152fc9f530857294"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_SplitScreen3D.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "f3fd38e1ceff4adea149b5580225c396ba78489e0aca028e47187de9788a4ec9",
+    "after": "f3fd38e1ceff4adea149b5580225c396ba78489e0aca028e47187de9788a4ec9"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_Subtract.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "9447cc47428c73e2f878ff5a4da6fbb9d62cb03bd3844c91adce367b98b8bef6",
+    "after": "9447cc47428c73e2f878ff5a4da6fbb9d62cb03bd3844c91adce367b98b8bef6"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blend2Camera_VividLight.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "1e21a28705e1f5a5924432e82093de7c2f2ced81bd23300ec7665242776750d4",
+    "after": "1e21a28705e1f5a5924432e82093de7c2f2ced81bd23300ec7665242776750d4"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blizzard.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "c41217e8bac309c250de5f9bc5243f6ff1bebd52de2154d940a2dc22bbac37a1",
+    "after": "c41217e8bac309c250de5f9bc5243f6ff1bebd52de2154d940a2dc22bbac37a1"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blur_Bloom.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "d2e8b7393b067ef4fdc978f4091405ab9261d9f833a2702df0ef9242d1ed7c2a",
+    "after": "d2e8b7393b067ef4fdc978f4091405ab9261d9f833a2702df0ef9242d1ed7c2a"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blur_BlurHole.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "c1194edfbb10a4bede3a2ddd8e2235670a5c4c558a4b8e65c5826a2584261570",
+    "after": "c1194edfbb10a4bede3a2ddd8e2235670a5c4c558a4b8e65c5826a2584261570"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blur_Blurry.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "96d5df4d48edc2e9b755bf292826333a707a25e88b8234c17ebd99296cae0c9a",
+    "after": "96d5df4d48edc2e9b755bf292826333a707a25e88b8234c17ebd99296cae0c9a"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blur_Dithering2x2.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "f126828e2bd6d282505494879f8a06a2037ad985776d884469797368902ee008",
+    "after": "f126828e2bd6d282505494879f8a06a2037ad985776d884469797368902ee008"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blur_DitherOffset.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "4e4888a6990d6bf885c302f8b168e878a3a61db232a35f8fa98c87b1de97cee9",
+    "after": "4e4888a6990d6bf885c302f8b168e878a3a61db232a35f8fa98c87b1de97cee9"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blur_Focus.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "286be1892a42bfd84a734371316fbf54e97bd75782e9c1a3a3dc0cb6e1c64d20",
+    "after": "286be1892a42bfd84a734371316fbf54e97bd75782e9c1a3a3dc0cb6e1c64d20"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blur_GaussianBlur.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "f52a9e3e33b7d19bb0c5b13782e88e8008765123f67d351223a81aa51f2b0b0f",
+    "after": "f52a9e3e33b7d19bb0c5b13782e88e8008765123f67d351223a81aa51f2b0b0f"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blur_Movie.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "4e9ef8b5f0ee7459db757a6bd8fa045bfa1460db8e4421dc42e0562df01cbd57",
+    "after": "4e9ef8b5f0ee7459db757a6bd8fa045bfa1460db8e4421dc42e0562df01cbd57"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blur_Noise.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "6101132294f98fcd0c5de05975e1dd8f070d836678352e93e0ca2cf4f4836761",
+    "after": "6101132294f98fcd0c5de05975e1dd8f070d836678352e93e0ca2cf4f4836761"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blur_Radial.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "e32c924a72b76a94fb45ce7fae289db29f62c8b22aa975fae3c1110644dfb756",
+    "after": "e32c924a72b76a94fb45ce7fae289db29f62c8b22aa975fae3c1110644dfb756"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blur_Radial_Fast.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "db94d71f87e9ef518f4c4aec362f6bb34dda3febd246908b07c28e1435c8f9ce",
+    "after": "db94d71f87e9ef518f4c4aec362f6bb34dda3febd246908b07c28e1435c8f9ce"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blur_Regular.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "059912dba8d7f4a543eb8380fe5327864c28b153bdf5f855c7b8242ab44aceae",
+    "after": "059912dba8d7f4a543eb8380fe5327864c28b153bdf5f855c7b8242ab44aceae"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blur_Steam.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "75d3b6cf50689ffdefd9c01f34b13493072db2a009b55fa137d497c201fe9835",
+    "after": "75d3b6cf50689ffdefd9c01f34b13493072db2a009b55fa137d497c201fe9835"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blur_Tilt_Shift.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "5d9767bdc586c1136c1f525905bdc441c4ec7685f4abb21a5b587686d3dcca43",
+    "after": "5d9767bdc586c1136c1f525905bdc441c4ec7685f4abb21a5b587686d3dcca43"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blur_Tilt_Shift_Hole.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "4227d94e20227f54034f9b11a708af5734e479d4b9a46e738765bad9d8e48d1f",
+    "after": "4227d94e20227f54034f9b11a708af5734e479d4b9a46e738765bad9d8e48d1f"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Blur_Tilt_Shift_V.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "5045c4b6d53e7ebe7bba657edc2bef78424d1076e12c1bb6a442b97072e23555",
+    "after": "5045c4b6d53e7ebe7bba657edc2bef78424d1076e12c1bb6a442b97072e23555"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Broken_Screen.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "16cbceaaae62a6b83b8d40d8eb04b5991ce326cefc2cd2ecc81e7c1e7ebf0fcd",
+    "after": "16cbceaaae62a6b83b8d40d8eb04b5991ce326cefc2cd2ecc81e7c1e7ebf0fcd"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Colors_Adjust_ColorRGB.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "4d6e9ab4a4d8d0a0bdb3df4038f96d1edf70eaf885e0ae37a3b3976e2e7963dd",
+    "after": "4d6e9ab4a4d8d0a0bdb3df4038f96d1edf70eaf885e0ae37a3b3976e2e7963dd"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Colors_Adjust_FullColors.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "cdf9ef849749426e73a15c6f99d24a79d24dd2bbd2da02b62298a04468f57160",
+    "after": "cdf9ef849749426e73a15c6f99d24a79d24dd2bbd2da02b62298a04468f57160"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Colors_Adjust_PreFilters.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "6137af57f5e2505c9b2edb520c562f373ad69abfe443be3e978ec4eb5b5cd334",
+    "after": "5e2de9b27acd8ad6874262948479e2d4b22d64a015a93f4cb806f3c38d57691f"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Colors_BleachBypass.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "31c03c4be8bf357b3433c2ccd7ba1aff7eba5d37d00ef2ba0fddd3be1ebc14f7",
+    "after": "31c03c4be8bf357b3433c2ccd7ba1aff7eba5d37d00ef2ba0fddd3be1ebc14f7"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Colors_Brightness.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "f0f5775ee4e08e76baff2b13185985e754b2142656b10b66b0a11039f9ceda56",
+    "after": "f0f5775ee4e08e76baff2b13185985e754b2142656b10b66b0a11039f9ceda56"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Colors_DarkColor.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "c77b94134a6354d57ca02ad30e26159a94c735e139893d114634e675b4a87fdb",
+    "after": "c77b94134a6354d57ca02ad30e26159a94c735e139893d114634e675b4a87fdb"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Colors_HSV.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "df9df74618a49fa7e192fb5a34a7d2856fe5f6ee73b55a3f7bcd6501ba55f026",
+    "after": "df9df74618a49fa7e192fb5a34a7d2856fe5f6ee73b55a3f7bcd6501ba55f026"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Colors_HUE_Rotate.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "3abc94a785272332f6589a4f1a9d87eaa248585486f0942394cbbd1492bf05f9",
+    "after": "3abc94a785272332f6589a4f1a9d87eaa248585486f0942394cbbd1492bf05f9"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Colors_NewPosterize.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "b83e335596f928c315ab1f7de781b184f2b5c6cc41d9518837c7f0ac03f321b7",
+    "after": "b83e335596f928c315ab1f7de781b184f2b5c6cc41d9518837c7f0ac03f321b7"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Colors_RgbClamp.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "62dc05d9656c14e6630cb1ab4d04215818b8d9da546243be25d860c7f28fcd48",
+    "after": "62dc05d9656c14e6630cb1ab4d04215818b8d9da546243be25d860c7f28fcd48"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Colors_Threshold.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "f2711d046c8b80bdd7ce0e25e135008c1cd8c7b253904212d4988dfb19df0e47",
+    "after": "f2711d046c8b80bdd7ce0e25e135008c1cd8c7b253904212d4988dfb19df0e47"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Color_BrightContrastSaturation.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "a2ab183c59b39a1697451a44015f06369d5bb9d4657ee0a2e64d54df0bd36cb3",
+    "after": "a2ab183c59b39a1697451a44015f06369d5bb9d4657ee0a2e64d54df0bd36cb3"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Color_Chromatic_Aberration.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "bba8190e03e141486898bad06648776367750eef6b91373190d53819c96a61ec",
+    "after": "bba8190e03e141486898bad06648776367750eef6b91373190d53819c96a61ec"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Color_Chromatic_Plus.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "b601681eeaf7dbac02713fa7339d165d5244ae7fc45edc4da8f26fadca4330cc",
+    "after": "b601681eeaf7dbac02713fa7339d165d5244ae7fc45edc4da8f26fadca4330cc"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Color_Contrast.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "d638db3b063f16f9d5b87aed2fc9f7993dc8a1fbe305157f6cfd34cea823f7e0",
+    "after": "d638db3b063f16f9d5b87aed2fc9f7993dc8a1fbe305157f6cfd34cea823f7e0"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Color_GrayScale.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "e71425c9de3b65aae23aebb82801bce1cb278f0a8f62ccdb7095bdc80faaa3cb",
+    "after": "e71425c9de3b65aae23aebb82801bce1cb278f0a8f62ccdb7095bdc80faaa3cb"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Color_Invert.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "1630d3c7a394f51280d44b22cc58d1d7bffe3e0b0ccf1ee24825c44fee83dee5",
+    "after": "1630d3c7a394f51280d44b22cc58d1d7bffe3e0b0ccf1ee24825c44fee83dee5"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Color_Noise.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "a7a90dbca1ef39688c6140f0986e8dfada655891525dba417704c158c009258d",
+    "after": "a7a90dbca1ef39688c6140f0986e8dfada655891525dba417704c158c009258d"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Color_RGB.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "d4207821ee4ccd92540c8edfa0a20cb9770e3e900ce87c2a2b25f05ac563850f",
+    "after": "d4207821ee4ccd92540c8edfa0a20cb9770e3e900ce87c2a2b25f05ac563850f"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Color_Sepia.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "4d0fb9f5ee2dbb6867e304fb8bdddebd3d9bb9af5457d11e44c32d9136315f17",
+    "after": "4d0fb9f5ee2dbb6867e304fb8bdddebd3d9bb9af5457d11e44c32d9136315f17"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Color_Switching.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "705d0bc7370fe96bed6528755ffd68840174a48575bef14edd30c893329c7a15",
+    "after": "705d0bc7370fe96bed6528755ffd68840174a48575bef14edd30c893329c7a15"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Color_YUV.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "d3093b3fdf9206aebe61abc3aef9fbb3969bc99950607c604e12dee5919fd8e3",
+    "after": "d3093b3fdf9206aebe61abc3aef9fbb3969bc99950607c604e12dee5919fd8e3"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Convert_Normal.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "17f38a042b91ed0204a03d40b91991a621d141720da3f3d705fca0af389fb64d",
+    "after": "17f38a042b91ed0204a03d40b91991a621d141720da3f3d705fca0af389fb64d"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Distortion_Aspiration.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "ef1e5497455499936f108d74d8535649f481155e812a9cd33562fb08eac6340f",
+    "after": "ef1e5497455499936f108d74d8535649f481155e812a9cd33562fb08eac6340f"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Distortion_BigFace.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "409c400b433994134a66893c176a2ee9b69c9f1d101cd552431a87bfec398ea6",
+    "after": "409c400b433994134a66893c176a2ee9b69c9f1d101cd552431a87bfec398ea6"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Distortion_BlackHole.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "89237be8312d97fff32a08357c9e2ce3dbd79e7edbe87d4c7f24ec43218f901d",
+    "after": "89237be8312d97fff32a08357c9e2ce3dbd79e7edbe87d4c7f24ec43218f901d"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Distortion_Dissipation.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "47c0b3b49de6a7da4bc40cfb96da320d944f04fac0893fbea724496ced81d63d",
+    "after": "47c0b3b49de6a7da4bc40cfb96da320d944f04fac0893fbea724496ced81d63d"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Distortion_Dream.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "09d3fd5ef123e519364854bb48d6252856ebf2ddd777f999e5d21d0e31d39b78",
+    "after": "09d3fd5ef123e519364854bb48d6252856ebf2ddd777f999e5d21d0e31d39b78"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Distortion_Dream2.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "9bf7496e4787e86f5aa8cceee2a94b9c88a98e6e67d4f96c306ff29686aeb1fc",
+    "after": "9bf7496e4787e86f5aa8cceee2a94b9c88a98e6e67d4f96c306ff29686aeb1fc"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Distortion_FishEye.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "0e8ac8039a23ab441ccf9f952e088449c194fdf8b364fcac0ffad33fdaada7d8",
+    "after": "0e8ac8039a23ab441ccf9f952e088449c194fdf8b364fcac0ffad33fdaada7d8"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Distortion_Flag.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "7ce3965285405183a37ff3ecc79e9d5fce447e1e244e39a79588670fa4c8c9cc",
+    "after": "7ce3965285405183a37ff3ecc79e9d5fce447e1e244e39a79588670fa4c8c9cc"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Distortion_Flush.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "8792e5992633edc18c7e68c5d961e29b50c6a67f7c1bbb274a11fbd1e0b40262",
+    "after": "8792e5992633edc18c7e68c5d961e29b50c6a67f7c1bbb274a11fbd1e0b40262"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Distortion_Half_Sphere.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "e304f99471469b395628462a969a26105155c575340934491ed4de4856001bc2",
+    "after": "e304f99471469b395628462a969a26105155c575340934491ed4de4856001bc2"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Distortion_Heat.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "3427c18e4b854349e4d82e33978602b3babce8ebb24ddf6ed2382598a5ff4397",
+    "after": "3427c18e4b854349e4d82e33978602b3babce8ebb24ddf6ed2382598a5ff4397"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Distortion_Lens.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "9c347dd8d03cbeb8c20363be41b87ae86d5225a7d6f7f24fac9eee430dc0b4f5",
+    "after": "9c347dd8d03cbeb8c20363be41b87ae86d5225a7d6f7f24fac9eee430dc0b4f5"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Distortion_Noise.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "6d670f18892007227d36906cd9847fbe16dbcde256c39e630eef5fde7f8b3686",
+    "after": "6d670f18892007227d36906cd9847fbe16dbcde256c39e630eef5fde7f8b3686"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Distortion_ShockWave.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "0fdb7356a4005e0888bc11b24c184a296b36cc847e5116d291e8244b8ca9b584",
+    "after": "0fdb7356a4005e0888bc11b24c184a296b36cc847e5116d291e8244b8ca9b584"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Distortion_ShockWaveManual.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "6f56090793bb7f57c3254a37c50002985f7861249761101ab47ca174fd680408",
+    "after": "6f56090793bb7f57c3254a37c50002985f7861249761101ab47ca174fd680408"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Distortion_Twist.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "95376bd7eff1a8bd7ba2d981edfbf89dd41be996c9cc51ca173b153de05f5398",
+    "after": "95376bd7eff1a8bd7ba2d981edfbf89dd41be996c9cc51ca173b153de05f5398"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Distortion_Twist_Square.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "bab189dfdd96b003885b8ce3710eca65b16752b77fd6a7dcf811b344de5690f3",
+    "after": "bab189dfdd96b003885b8ce3710eca65b16752b77fd6a7dcf811b344de5690f3"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Distortion_Water_Drop.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "295a044e8602e8d6233381c6ffa77df6a53e80cf72e9120aa3819da5f99dbfab",
+    "after": "295a044e8602e8d6233381c6ffa77df6a53e80cf72e9120aa3819da5f99dbfab"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Distortion_Wave_Horizontal.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "6d213931c5fa18915dc1680d3decdacca95e51a0fb2b397d43979b33a6613661",
+    "after": "6d213931c5fa18915dc1680d3decdacca95e51a0fb2b397d43979b33a6613661"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Drawing_BluePrint.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "dd110dde1b8e89cfe297eb2c5746143c18bb44185cd6082c31c1bcb09a4f66c3",
+    "after": "dd110dde1b8e89cfe297eb2c5746143c18bb44185cd6082c31c1bcb09a4f66c3"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Drawing_CellShading.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "602e9f01ccb48b4efcc5d7e7a4a7d2047e7b9d2b7fd3c428219b5ef8b4eec7fa",
+    "after": "602e9f01ccb48b4efcc5d7e7a4a7d2047e7b9d2b7fd3c428219b5ef8b4eec7fa"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Drawing_CellShading2.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "15cb6a86c31625948b23a5784c835d82b365826afc7a6c5984bf2a4fd7bfc9b5",
+    "after": "15cb6a86c31625948b23a5784c835d82b365826afc7a6c5984bf2a4fd7bfc9b5"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Drawing_Comics.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "6415ebb8eaf183805c32a257118d9f4c0b061ffdd99fec367c5db52e86cad94c",
+    "after": "6415ebb8eaf183805c32a257118d9f4c0b061ffdd99fec367c5db52e86cad94c"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Drawing_Crosshatch.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "5c8413a3cf90b68008bfeca0088389bf28080682fb358c19c89737250a5ea295",
+    "after": "5c8413a3cf90b68008bfeca0088389bf28080682fb358c19c89737250a5ea295"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Drawing_Curve.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "7bfa77bb468103c53819195ff3e674034444af19e68d424b8ef0630428bcd56b",
+    "after": "7bfa77bb468103c53819195ff3e674034444af19e68d424b8ef0630428bcd56b"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Drawing_EnhancedComics.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "2da4141f10344840b81658606c329c33867e6a4ed511334a0846731111008633",
+    "after": "2da4141f10344840b81658606c329c33867e6a4ed511334a0846731111008633"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Drawing_Halftone.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "2b358a5e7f0a141b243799fce246de8425f701f5d07167c8912383ae85583767",
+    "after": "2b358a5e7f0a141b243799fce246de8425f701f5d07167c8912383ae85583767"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Drawing_Laplacian.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "b3eebdd76f84cb4f44b75ddc5f5461c3e6057fefddb41b616221180064afceed",
+    "after": "b3eebdd76f84cb4f44b75ddc5f5461c3e6057fefddb41b616221180064afceed"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Drawing_Lines.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "801b2822541876a2bc2de0bb4379288c7861e2fc03d17c69b70c13a6200279b1",
+    "after": "801b2822541876a2bc2de0bb4379288c7861e2fc03d17c69b70c13a6200279b1"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Drawing_Manga.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "2d5c32a4553c64439b1733f2d78e1d2bad002f7148c577069f3abadfbc48a75d",
+    "after": "2d5c32a4553c64439b1733f2d78e1d2bad002f7148c577069f3abadfbc48a75d"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Drawing_Manga2.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "a78990e113149c1270be4196ee6d9d662a0abd23bfa67d7eaca756d23b3323ee",
+    "after": "a78990e113149c1270be4196ee6d9d662a0abd23bfa67d7eaca756d23b3323ee"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Drawing_Manga3.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "f7a31dc7a5bb76c69cbb6a7192fc49f61adecc79ddf0118ef523c77535506df8",
+    "after": "f7a31dc7a5bb76c69cbb6a7192fc49f61adecc79ddf0118ef523c77535506df8"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Drawing_Manga4.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "77836eec7208a451af8279e7a17c34e0ab35490eeeb045d5f30a08551ca0b91e",
+    "after": "77836eec7208a451af8279e7a17c34e0ab35490eeeb045d5f30a08551ca0b91e"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Drawing_Manga5.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "9b9b36a16e0c627f8631dd4ed076d316df2d4effce58813499ae8b26b8bac05a",
+    "after": "9b9b36a16e0c627f8631dd4ed076d316df2d4effce58813499ae8b26b8bac05a"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Drawing_Manga_Color.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "9bd6d9491221aa8ed1a0af844626e1f71c7a7d0da820ded8cbbeaac91b57e0f8",
+    "after": "9bd6d9491221aa8ed1a0af844626e1f71c7a7d0da820ded8cbbeaac91b57e0f8"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Drawing_Manga_Flash.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "0dd24a2b45489c2f91ead6384a458bfc001495f3632e6f1ba099233a36ab4bd1",
+    "after": "0dd24a2b45489c2f91ead6384a458bfc001495f3632e6f1ba099233a36ab4bd1"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Drawing_Manga_FlashWhite.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "b42bffd99d490d912f9a1061aaf25887737ca0888e0822aacbf25e60f4e516da",
+    "after": "b42bffd99d490d912f9a1061aaf25887737ca0888e0822aacbf25e60f4e516da"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Drawing_Manga_Flash_Color.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "bf9f06767c62158a2eeb9054b922b6f3c76d345ca0b7dac7cb23f6b71af41a30",
+    "after": "bf9f06767c62158a2eeb9054b922b6f3c76d345ca0b7dac7cb23f6b71af41a30"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Drawing_NewCellShading.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "f9e2f679124469060cd08a001200b290721633415f338830382231c43fcac41f",
+    "after": "f9e2f679124469060cd08a001200b290721633415f338830382231c43fcac41f"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Drawing_Paper.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "df2e76fc3f0d1ad92e9de38d545c0352fa24995716b54a47b8022ba5175ac175",
+    "after": "df2e76fc3f0d1ad92e9de38d545c0352fa24995716b54a47b8022ba5175ac175"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Drawing_Paper2.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "198dd3fb8ec297a2392acfe9855c834fe6983e450e65b948c4f600d69e05e654",
+    "after": "198dd3fb8ec297a2392acfe9855c834fe6983e450e65b948c4f600d69e05e654"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Drawing_Paper3.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "e5842dc3df39661522ddfcd982fbbf511a7370e7c175aaa313d5cd5ad50d11ae",
+    "after": "e5842dc3df39661522ddfcd982fbbf511a7370e7c175aaa313d5cd5ad50d11ae"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Drawing_Toon.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "766c787cf0c8b4cd94f2ec60c8b3d224a02c31b3222aa6a64865ba62b934d9fd",
+    "after": "766c787cf0c8b4cd94f2ec60c8b3d224a02c31b3222aa6a64865ba62b934d9fd"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Edge_BlackLine.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "015d196419d3ce38b8006785a10f1dfb1888b65030ee80119edb45ca95fbfbe3",
+    "after": "015d196419d3ce38b8006785a10f1dfb1888b65030ee80119edb45ca95fbfbe3"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Edge_Edge_filter.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "952630477645d6ec406ccbdc9dd9a1c7d135df80e22201fb1cc16a86c545b4f3",
+    "after": "952630477645d6ec406ccbdc9dd9a1c7d135df80e22201fb1cc16a86c545b4f3"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Edge_Golden.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "0a4997277cd24cf5ed1216220cd8affcfbd2e3bc03d1c1bbfd66cfd00bc46383",
+    "after": "0a4997277cd24cf5ed1216220cd8affcfbd2e3bc03d1c1bbfd66cfd00bc46383"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Edge_Neon.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "f5ae6b5167dbc37856a8252cda469a25137238f0af67febe018a5c3e2d1a6a30",
+    "after": "f5ae6b5167dbc37856a8252cda469a25137238f0af67febe018a5c3e2d1a6a30"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Edge_Sigmoid.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "a9f47f03f5ae905c648d727fe8484e13fbdc2b47158f637658f1c115641a69d7",
+    "after": "a9f47f03f5ae905c648d727fe8484e13fbdc2b47158f637658f1c115641a69d7"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Edge_Sobel.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "ab59a22c0dd86f6d13dfbfa72fb1de58ed4f143d5932c9e14d1207384dbbcafd",
+    "after": "ab59a22c0dd86f6d13dfbfa72fb1de58ed4f143d5932c9e14d1207384dbbcafd"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_EXTRA_Rotation.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "e614eeacac01c2ad2966be57259f7b9e1dee4c6cd202e7209c19a04ab97addc4",
+    "after": "e614eeacac01c2ad2966be57259f7b9e1dee4c6cd202e7209c19a04ab97addc4"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_EXTRA_SHOWFPS.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "9fa0b7e91a78b1449f07bb603c0fafa57ed5b6d8c1cf397d8c3c40f3a79e95ce",
+    "after": "9fa0b7e91a78b1449f07bb603c0fafa57ed5b6d8c1cf397d8c3c40f3a79e95ce"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_EyesVision_1.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "c160b42967103448217870e71b59ece14ac071b4916181f9609c6b5b874629be",
+    "after": "c160b42967103448217870e71b59ece14ac071b4916181f9609c6b5b874629be"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_EyesVision_2.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "1739eda499e97f7ae5fdce40032af63a41927f33df88e1b2e80bbf54b36e7341",
+    "after": "1739eda499e97f7ae5fdce40032af63a41927f33df88e1b2e80bbf54b36e7341"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Film_ColorPerfection.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "2d9798d0556faa5ba2d9acdd4d5e9989f6137e2ec64ffe6dc7463f7ad6a20324",
+    "after": "2d9798d0556faa5ba2d9acdd4d5e9989f6137e2ec64ffe6dc7463f7ad6a20324"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Film_Grain.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "f32a761666782b0c237b95dfe1a36eb73544ca120adbf3cbe5261cf7e75fe40f",
+    "after": "f32a761666782b0c237b95dfe1a36eb73544ca120adbf3cbe5261cf7e75fe40f"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Fly_Vision.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "0a0d933cc38afbd791df1b24646dbd507140dcd4903599f088e8b6d1ec1cefae",
+    "after": "0a0d933cc38afbd791df1b24646dbd507140dcd4903599f088e8b6d1ec1cefae"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_FX_8bits.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "c40b3ac489a0dba7db5d3e7ac8e422d404d901c4dea791c16bf22b681a0aac16",
+    "after": "c40b3ac489a0dba7db5d3e7ac8e422d404d901c4dea791c16bf22b681a0aac16"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_FX_8bits_gb.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "34d2638878985638f0d7996d5822c182513c2e648ae634d4811b3779aa66ced6",
+    "after": "34d2638878985638f0d7996d5822c182513c2e648ae634d4811b3779aa66ced6"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_FX_Ascii.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "847a270012b0e05b3a7fddb43572bbd2e7ff806d21680e3afb94997ee809a24c",
+    "after": "847a270012b0e05b3a7fddb43572bbd2e7ff806d21680e3afb94997ee809a24c"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_FX_DarkMatter.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "2ffe89765ce389cff7041b06851d4e64d70f863853629c9729980fac036236cd",
+    "after": "2ffe89765ce389cff7041b06851d4e64d70f863853629c9729980fac036236cd"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_FX_DigitalMatrix.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "93cdef4bbc5221faa2b5c94278280fbc093fc20e658e9773b1fc90e9d4e5cc1c",
+    "after": "93cdef4bbc5221faa2b5c94278280fbc093fc20e658e9773b1fc90e9d4e5cc1c"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_FX_DigitalMatrixDistortion.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "35a17f5632d06bd8ebc3443163defe745e50feed23fbb021c04b69c4d8e7f457",
+    "after": "35a17f5632d06bd8ebc3443163defe745e50feed23fbb021c04b69c4d8e7f457"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_FX_Dot_Circle.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "2b31befee569a0beadb88dcb21f12c0bac19aaf9da3c5e44d8350996c27718f9",
+    "after": "2b31befee569a0beadb88dcb21f12c0bac19aaf9da3c5e44d8350996c27718f9"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_FX_Drunk.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "07b32083cd94d4dff361f6c1f4d67da364b7aea54828a73e80c46efff6c75f41",
+    "after": "07b32083cd94d4dff361f6c1f4d67da364b7aea54828a73e80c46efff6c75f41"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_FX_Drunk2.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "40606de1cce83a7d00c0c2551bc17db68f1c8aaaaed584d1a2227d7c683b4d4b",
+    "after": "40606de1cce83a7d00c0c2551bc17db68f1c8aaaaed584d1a2227d7c683b4d4b"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_FX_EarthQuake.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "fc24b0c6362bc5a6df7abaafa0a6e874dcc8266836cdaa7a9be4b870c80ce4b2",
+    "after": "fc24b0c6362bc5a6df7abaafa0a6e874dcc8266836cdaa7a9be4b870c80ce4b2"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_FX_Funk.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "4de3dd017def74958490e72a2a2f15a117c5391017ad6d5ac82e756aef9af0d8",
+    "after": "4de3dd017def74958490e72a2a2f15a117c5391017ad6d5ac82e756aef9af0d8"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_FX_Glitch1.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "48660d6ef858f7220dba055059f848dd4b1eb57440ff5b94f390fc6ffa154b92",
+    "after": "48660d6ef858f7220dba055059f848dd4b1eb57440ff5b94f390fc6ffa154b92"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_FX_Glitch2.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "19491f808c3f78e19909efecdd477ec91704409ccf8a06496819e63d0d14f586",
+    "after": "19491f808c3f78e19909efecdd477ec91704409ccf8a06496819e63d0d14f586"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_FX_Glitch3.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "bd47061005a7c7ae048236e0c208b04037842dddfb4da07bb16fecb6af466a72",
+    "after": "bd47061005a7c7ae048236e0c208b04037842dddfb4da07bb16fecb6af466a72"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_FX_Grid.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "9121128ee967d6ef0792a488e7cd68e2d2a9baab1f3d6bf4ac75bc7ddda3358b",
+    "after": "9121128ee967d6ef0792a488e7cd68e2d2a9baab1f3d6bf4ac75bc7ddda3358b"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_FX_Hexagon.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "57c448237b6cdbec2d8dd77b0f6b9c2b62b64d094d40e6680a33c6c313ce6dfa",
+    "after": "57c448237b6cdbec2d8dd77b0f6b9c2b62b64d094d40e6680a33c6c313ce6dfa"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_FX_Hexagon_Black.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "ce576adb4dea6c3bd7cf5964d36c64288c447c05aa4d95d07fb95e61114dc43d",
+    "after": "ce576adb4dea6c3bd7cf5964d36c64288c447c05aa4d95d07fb95e61114dc43d"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_FX_Hypno.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "0bb422faa69a415f51c424b12e20e254a8a7d5899302ab015e55ff55a1b1ec1b",
+    "after": "0bb422faa69a415f51c424b12e20e254a8a7d5899302ab015e55ff55a1b1ec1b"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_FX_InverChromiLum.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "96d6ebf6161f2a5cd264e6d7eec16bde330f8e636b00c97ced478dacd89eabe5",
+    "after": "96d6ebf6161f2a5cd264e6d7eec16bde330f8e636b00c97ced478dacd89eabe5"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_FX_Mirror.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "ba6906d7684fa6e72c16161949cd2ee8e0fa528838fa89d450d78a00821bdf91",
+    "after": "ba6906d7684fa6e72c16161949cd2ee8e0fa528838fa89d450d78a00821bdf91"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_FX_Plasma.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "524996da92eb6dc4133fdadf7a8d60e9a6b6b4ee91fe2c27d00fa76480c5463f",
+    "after": "524996da92eb6dc4133fdadf7a8d60e9a6b6b4ee91fe2c27d00fa76480c5463f"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_FX_Psycho.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "4f84e4ce13fa13f3537ca3da9d127b4a13f517ab395d2f75efc42dede98b34ea",
+    "after": "4f84e4ce13fa13f3537ca3da9d127b4a13f517ab395d2f75efc42dede98b34ea"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_FX_Scan.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "15712c9fc6cf5c1cdccaafcdae5f29920818165a7c4918ced40c18a99fddf30a",
+    "after": "15712c9fc6cf5c1cdccaafcdae5f29920818165a7c4918ced40c18a99fddf30a"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_FX_Screens.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "2b0b514ef3b79772617d0ba134edf2a2e3e7f76ac0814cdcf68bfcbd42a62fb1",
+    "after": "2b0b514ef3b79772617d0ba134edf2a2e3e7f76ac0814cdcf68bfcbd42a62fb1"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_FX_Spot.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "189e46e42f707c297ec61132c299be275342f5d9a8a4c95a029cd243ac0b963b",
+    "after": "189e46e42f707c297ec61132c299be275342f5d9a8a4c95a029cd243ac0b963b"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_FX_superDot.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "a47e157094c812b82b56389ba69aea36427de05dddf3ff30a9aee38b570d4201",
+    "after": "a47e157094c812b82b56389ba69aea36427de05dddf3ff30a9aee38b570d4201"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_FX_ZebraColor.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "4325bb809a0fef8bc30b58c46748aa3af508190c4fa619a5e0a56f2bd8f001ab",
+    "after": "4325bb809a0fef8bc30b58c46748aa3af508190c4fa619a5e0a56f2bd8f001ab"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Glasses_On.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "23a5a4cc35c47827cd94c8bf52f478e57189248f02ca7df16f664d48fc9f919c",
+    "after": "23a5a4cc35c47827cd94c8bf52f478e57189248f02ca7df16f664d48fc9f919c"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Glasses_On_2.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "6074857cff40e7b45ed69e3187678c5f1aa0204f10a5f027b88ef20df853a4c2",
+    "after": "6074857cff40e7b45ed69e3187678c5f1aa0204f10a5f027b88ef20df853a4c2"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Glasses_On_3.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "71c3b4c470d7dcb92345f510feb2141a0060f085c6d4f0e4ba345fb9c6a6a433",
+    "after": "71c3b4c470d7dcb92345f510feb2141a0060f085c6d4f0e4ba345fb9c6a6a433"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Glasses_On_4.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "e5566d112a88ca15f46f1dd60c62350c8bd2a1925d9306634b9a35eddd694ba2",
+    "after": "e5566d112a88ca15f46f1dd60c62350c8bd2a1925d9306634b9a35eddd694ba2"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Glasses_On_5.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "99604b2359e68b918fc09b3accf5620a56c8b3314c11606392b8bf291d6e3fbc",
+    "after": "99604b2359e68b918fc09b3accf5620a56c8b3314c11606392b8bf291d6e3fbc"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Glasses_On_6.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "8f4f0c801ad9586de8124f0d497655a10afa4f185cc90bd93982e93f3c07b401",
+    "after": "8f4f0c801ad9586de8124f0d497655a10afa4f185cc90bd93982e93f3c07b401"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Glitch_Mozaic.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "36e2afecd9d0ac85324e807bc953282423dbcc1b9ee41c895ab930a82710182e",
+    "after": "36e2afecd9d0ac85324e807bc953282423dbcc1b9ee41c895ab930a82710182e"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Glow_Glow.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "7d461b039fb0dde5beb70df886291b085ad5e5a4a91a34198272759e5e664981",
+    "after": "7d461b039fb0dde5beb70df886291b085ad5e5a4a91a34198272759e5e664981"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Glow_Glow_Color.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "ef21fc81dca0fdc5801bb31587d323c37b1841f7cfafe385e67ee8b5aa17ec16",
+    "after": "ef21fc81dca0fdc5801bb31587d323c37b1841f7cfafe385e67ee8b5aa17ec16"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Gradients_Ansi.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "4c3532ce77fae8d165524233668f9a78625038a66c8d1ede28908712f151526d",
+    "after": "4c3532ce77fae8d165524233668f9a78625038a66c8d1ede28908712f151526d"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Gradients_Desert.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "966203792fab1c22a1ec4cdf77d07f2c79377b3fe5448e1bd267fce2feb76720",
+    "after": "966203792fab1c22a1ec4cdf77d07f2c79377b3fe5448e1bd267fce2feb76720"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Gradients_ElectricGradient.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "dd173503c20a86179eeae1495766d666762997bf802738d9096c07b4d6311985",
+    "after": "dd173503c20a86179eeae1495766d666762997bf802738d9096c07b4d6311985"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Gradients_FireGradient.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "afebd2d0bea67f866180d6ccbc2286ddb412573f01e397d7c763c6f133f349f1",
+    "after": "afebd2d0bea67f866180d6ccbc2286ddb412573f01e397d7c763c6f133f349f1"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Gradients_Hue.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "339aa908fe830ef51344ac5b70b4621fb2ec6f483806a0aad5f8059810b90079",
+    "after": "339aa908fe830ef51344ac5b70b4621fb2ec6f483806a0aad5f8059810b90079"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Gradients_NeonGradient.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "170b68705caf226049d1fbb88826e39332a037ac271994ce9ca099551b1cb790",
+    "after": "170b68705caf226049d1fbb88826e39332a037ac271994ce9ca099551b1cb790"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Gradients_Rainbow.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "d38b95c1e4d42b419ba48c8fd2430d317b53edc9af8a4c543f2c8eadb4de0359",
+    "after": "d38b95c1e4d42b419ba48c8fd2430d317b53edc9af8a4c543f2c8eadb4de0359"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Gradients_Stripe.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "dd2bfa92ff69ae55e8b1f4c86808fed0feae6448803dd65562ba7dc644cfee1b",
+    "after": "dd2bfa92ff69ae55e8b1f4c86808fed0feae6448803dd65562ba7dc644cfee1b"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Gradients_Tech.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "971d8545c9d7865df9d958244d753f3bdd8affda6d80b512dcc97dd687cd8698",
+    "after": "971d8545c9d7865df9d958244d753f3bdd8affda6d80b512dcc97dd687cd8698"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Gradients_Therma.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "80233caf742ef3bf5f047f4e374e62898e132c483ebed207cee057b0f19193ea",
+    "after": "80233caf742ef3bf5f047f4e374e62898e132c483ebed207cee057b0f19193ea"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Light_Rainbow.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "09f25cc35edace39a2bae1e5495b5f96831807399c1301a4973faa5a5d71679a",
+    "after": "09f25cc35edace39a2bae1e5495b5f96831807399c1301a4973faa5a5d71679a"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Light_Rainbow2.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "725dbde1aedd6ab831d51789fe083b92fcb8c58d3dec7aaa32d622eb9ac57b20",
+    "after": "725dbde1aedd6ab831d51789fe083b92fcb8c58d3dec7aaa32d622eb9ac57b20"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Light_Water.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "a319783a36ab3673313c6220931d890597eafc2da9509fbb2a947be989225efe",
+    "after": "a319783a36ab3673313c6220931d890597eafc2da9509fbb2a947be989225efe"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Light_Water2.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "cc8c55532d3198df9b298188d6b0e4507d7572013a1dce432789c9ef962caf2b",
+    "after": "cc8c55532d3198df9b298188d6b0e4507d7572013a1dce432789c9ef962caf2b"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Lut_PlayWith.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "10c15c32a86582926bf87f7e222296431aef7e6e1ad7fb121287c6235071feb4",
+    "after": "934768ff35bfd500dc04401bc5f958356f83428a7e8302767d6d7828a7f5ea57"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Lut_Plus.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "36d559575ae74760a3aed2db65b199b8a5ac6ab0f571f0bba5572f059b6676a1",
+    "after": "e42a4466aa676a37d4b135c042896b4910cc975f6cfcb05ec4eacc31f507f045"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Lut_Simple.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "7ff955f20f4098fe8f9ac3d7a1499ed53f378f466b7e753e4ff7b00349822395",
+    "after": "2201dd2530beb3205d88ef54b0e67f6211f549765a9a594918018f7578912466"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Lut_TestMode.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "fe34a9203a3298a3b0550a9631026fc2ebbfc688a9eefa7eb75e94bb3e6f55c2",
+    "after": "20bf2a184ba8826086777be22706d536dc2fd196231f172741538c7d84e06382"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_NightVisionFX.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "6ea393d9035e735f435302e33f03c94600803e152247b67c1fad215db724684c",
+    "after": "3d372160d63ed9a39a62e6b3ccf8fc4312fef2a1c21c5f5a86336f8dcd41cf93"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_NightVision_4.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "9417e449cd54532d67a782991f900bf47ae10f7c1d275002827a4e455d7a5219",
+    "after": "9417e449cd54532d67a782991f900bf47ae10f7c1d275002827a4e455d7a5219"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Noise_TV.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "9d94637c467bb9e84e1bbf6a6b160df6ee70106c564ab982918160617d1a22b9",
+    "after": "9d94637c467bb9e84e1bbf6a6b160df6ee70106c564ab982918160617d1a22b9"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Noise_TV_2.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "9cbdbd6ad81744129cfb78a5ed2e23290c0bc961493824a3be6726dd1bf88f22",
+    "after": "9cbdbd6ad81744129cfb78a5ed2e23290c0bc961493824a3be6726dd1bf88f22"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Noise_TV_3.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "96336b9a473991b2380b504060e7084b883c7a841194bceb121c475b1109366f",
+    "after": "96336b9a473991b2380b504060e7084b883c7a841194bceb121c475b1109366f"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Oculus_NightVision1.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "9ae986292bd737da7e9967d7ff630ef9dc019763b53b2a51e39d25723f0be082",
+    "after": "9ae986292bd737da7e9967d7ff630ef9dc019763b53b2a51e39d25723f0be082"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Oculus_NightVision2.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "0996b108c515b2b53a76f78847f15fc01207e119e5a9441d937a3a87ee520ce6",
+    "after": "0996b108c515b2b53a76f78847f15fc01207e119e5a9441d937a3a87ee520ce6"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Oculus_NightVision3.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "09e496555339c4f2f6ded19e380c3f3cecfc875d393e3a4c17451a636ea01d33",
+    "after": "09e496555339c4f2f6ded19e380c3f3cecfc875d393e3a4c17451a636ea01d33"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Oculus_NightVision5.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "2cd44532897dd0a004a678e7fdab87d959174f5574553fe66c94c1e3032368f0",
+    "after": "2cd44532897dd0a004a678e7fdab87d959174f5574553fe66c94c1e3032368f0"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Oculus_ThermaVision.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "258d495fe9455597afda7dc8f65724b0b0519bdc078160ed6710d9dc6edda598",
+    "after": "258d495fe9455597afda7dc8f65724b0b0519bdc078160ed6710d9dc6edda598"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_OldFilm_Cutting1.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "d242667fbd3f57c4edd49c22f30a514a8845ef3b0ed0f9f046c9f049af9434c0",
+    "after": "d242667fbd3f57c4edd49c22f30a514a8845ef3b0ed0f9f046c9f049af9434c0"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_OldFilm_Cutting2.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "61c82416426956c84faa8c4567ed57994cfaf5c2158a2ba263ec455c2870024e",
+    "after": "61c82416426956c84faa8c4567ed57994cfaf5c2158a2ba263ec455c2870024e"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Pixelisation_DeepOilPaintHQ.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "5cc7d67f0668bfeecbc21b2a28cd7855f88e602f02222453127a2c4db4af7cd1",
+    "after": "5cc7d67f0668bfeecbc21b2a28cd7855f88e602f02222453127a2c4db4af7cd1"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Pixelisation_Dot.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "276d0d12c86441d8047dbe1c8f93e42c276232927595833df8fe5caf821acc24",
+    "after": "276d0d12c86441d8047dbe1c8f93e42c276232927595833df8fe5caf821acc24"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Pixelisation_OilPaint.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "670b2f8aa5cb1ef62892bd50bc7d3c4437d18a51d7d5e47ace8104304acdc5c4",
+    "after": "670b2f8aa5cb1ef62892bd50bc7d3c4437d18a51d7d5e47ace8104304acdc5c4"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Pixelisation_OilPaintHQ.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "1a16de09624aa2c4d073287e5bce719beb47455ee8422e099c4b1c2f441607fa",
+    "after": "1a16de09624aa2c4d073287e5bce719beb47455ee8422e099c4b1c2f441607fa"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Pixelisation_Sweater.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "04b45c5ce12a4ba1f1c82c60c4f7b0788e135faff77bde94caed882f524c7520",
+    "after": "04b45c5ce12a4ba1f1c82c60c4f7b0788e135faff77bde94caed882f524c7520"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Pixel_Pixelisation.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "c46e8d0692e9c245b7cdcbe6c76a293a4321a56bffd859fe8e0db92faac7190e",
+    "after": "c46e8d0692e9c245b7cdcbe6c76a293a4321a56bffd859fe8e0db92faac7190e"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Rain_RainFX.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "c88545cf293ae6db63b2fd222c68649d282257955e49a0efb1b9c052e1bf361a",
+    "after": "ad74ddcafb2bacd75244f22a8820a6f5d8ba38fdd7f1489233734a4668c2f50e"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Real_VHS.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "b4d0823e602f955af3e6cd725d8ce8f51d55b07905922ea81eeba9f831158144",
+    "after": "b4d0823e602f955af3e6cd725d8ce8f51d55b07905922ea81eeba9f831158144"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Retro_Loading.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "7383eaf0820abbff07c403cfacd7002ba440ee9fd24a3418ae41addd5f5e7d94",
+    "after": "7383eaf0820abbff07c403cfacd7002ba440ee9fd24a3418ae41addd5f5e7d94"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Sharpen_Sharpen.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "5cad869ba32f0c7d1ebf77cf373e907225da933a73f48b69d74c5ed3554ca0ee",
+    "after": "5cad869ba32f0c7d1ebf77cf373e907225da933a73f48b69d74c5ed3554ca0ee"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Special_Bubble.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "fb93b98b2974aade6c6ff82733120be6a502b1778c3fadf0de42a690fbc2f90e",
+    "after": "fb93b98b2974aade6c6ff82733120be6a502b1778c3fadf0de42a690fbc2f90e"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_50.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "2383fbc9fdbaf044a925be322a0a2dc6ee54c36a8e3c2fad198304e5ef6ff3b8",
+    "after": "2383fbc9fdbaf044a925be322a0a2dc6ee54c36a8e3c2fad198304e5ef6ff3b8"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_80.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "3099caddd5f392f1c96f636574c51d6bcc84ed87a5f132d05c37640c0ef5f4ec",
+    "after": "3099caddd5f392f1c96f636574c51d6bcc84ed87a5f132d05c37640c0ef5f4ec"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_ARCADE.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "60a0feab347dfca0fb85d513222007d4f78d09df4ee84d3522259ddfeb184eee",
+    "after": "60a0feab347dfca0fb85d513222007d4f78d09df4ee84d3522259ddfeb184eee"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_ARCADE_2.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "a5ca9523b6d009b97e8204ddbcdbc2b15c53ef7472fbde5cd1be9e223a863130",
+    "after": "a5ca9523b6d009b97e8204ddbcdbc2b15c53ef7472fbde5cd1be9e223a863130"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_ARCADE_Fast.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "02627a000a609bc41f51b7805cff8da1f5b44ffd894c9fdbc8a16d9f816e00e7",
+    "after": "02627a000a609bc41f51b7805cff8da1f5b44ffd894c9fdbc8a16d9f816e00e7"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_Artefact.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "97017233e1775653c19cacd9f8a4b544349e92c56684336d4c0b0390d9aee3fa",
+    "after": "97017233e1775653c19cacd9f8a4b544349e92c56684336d4c0b0390d9aee3fa"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_BrokenGlass.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "d511b2a063943e9b276742e97247bc4f4d236b924808d3c7cbea8d36fa26f113",
+    "after": "d511b2a063943e9b276742e97247bc4f4d236b924808d3c7cbea8d36fa26f113"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_BrokenGlass2.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "1ebe7250cd43fda5621fb89af45b7c4f04eb72ee9cf50e5d278afb26e63a8459",
+    "after": "1ebe7250cd43fda5621fb89af45b7c4f04eb72ee9cf50e5d278afb26e63a8459"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_Chromatical.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "665d20eeb9ddf7d01f28ca1f84d2b138b0b6cbfbd956b556ea1430491192b502",
+    "after": "665d20eeb9ddf7d01f28ca1f84d2b138b0b6cbfbd956b556ea1430491192b502"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_Chromatical2.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "bb420937de0df4e23d11bf731c1c6f88b9519c9b583d58a58bf394b2b92a6c05",
+    "after": "bb420937de0df4e23d11bf731c1c6f88b9519c9b583d58a58bf394b2b92a6c05"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_CompressionFX.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "c00c213a55aa2aec092efd1ce2980152549bcba11c7d398dda31b22be588ce77",
+    "after": "c00c213a55aa2aec092efd1ce2980152549bcba11c7d398dda31b22be588ce77"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_Distorted.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "72270e3e7eb5a6a39acb2fa8c12e93e8684e2ab5e835dd6e243d70a2214e7d2c",
+    "after": "72270e3e7eb5a6a39acb2fa8c12e93e8684e2ab5e835dd6e243d70a2214e7d2c"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_Horror.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "95dd1764029f9bc641a292950d371e1b8ef860b4f8a7b065d8cfbd83daeb7e40",
+    "after": "95dd1764029f9bc641a292950d371e1b8ef860b4f8a7b065d8cfbd83daeb7e40"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_LED.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "37122001490a9e40780746e050eb0cb651759f29eba0652e49a8d0f260810bcc",
+    "after": "37122001490a9e40780746e050eb0cb651759f29eba0652e49a8d0f260810bcc"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_MovieNoise.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "b12fc1baef7ccc7fa3fe27670fc3f9cf1a1e47b83ebc08ae8be60756c2341fdf",
+    "after": "b12fc1baef7ccc7fa3fe27670fc3f9cf1a1e47b83ebc08ae8be60756c2341fdf"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_Noise.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "f0180db59d8a2eb5af31244042eec2676873bb49c32ed6a9e20abe7c5ae227a7",
+    "after": "f0180db59d8a2eb5af31244042eec2676873bb49c32ed6a9e20abe7c5ae227a7"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_Old.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "08c36845f75198bea7de2626989d43895744de94e62144a8feeb76d6864e2df1",
+    "after": "08c36845f75198bea7de2626989d43895744de94e62144a8feeb76d6864e2df1"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_Old_Movie.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "738d77123f9e63c904ebc9e3311ebfb2dc4f6b93a553d8961bfb27bc5a0e3a22",
+    "after": "738d77123f9e63c904ebc9e3311ebfb2dc4f6b93a553d8961bfb27bc5a0e3a22"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_Old_Movie_2.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "9f5d1c305ed75c7a278165ced73d764a136b519b64a6d1eb8e80a6d5794ae32e",
+    "after": "9f5d1c305ed75c7a278165ced73d764a136b519b64a6d1eb8e80a6d5794ae32e"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_PlanetMars.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "02b1e055493bebd0ecc536703c72b8f68ad5f129d656c1a86de687463c366c06",
+    "after": "02b1e055493bebd0ecc536703c72b8f68ad5f129d656c1a86de687463c366c06"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_Posterize.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "4a75a2b3ba8d334e3323529cde73d63fe834a660ddbd995a7a2dd27fb0c524d7",
+    "after": "4a75a2b3ba8d334e3323529cde73d63fe834a660ddbd995a7a2dd27fb0c524d7"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_Rgb.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "a0b0a21d6b07a41ae6d41915875f42944b0b027f5f5284d83b80e0e09ebadf14",
+    "after": "a0b0a21d6b07a41ae6d41915875f42944b0b027f5f5284d83b80e0e09ebadf14"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_Tiles.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "182aedf246f7e7254121170a28e0e76902c70ad326592d702454a55503e4b081",
+    "after": "182aedf246f7e7254121170a28e0e76902c70ad326592d702454a55503e4b081"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_Vcr.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "c9d5f8fe14e2d7a62ae0ab6e74dcdfb919ac4b47dc53f58cf92a370ba79d614c",
+    "after": "c9d5f8fe14e2d7a62ae0ab6e74dcdfb919ac4b47dc53f58cf92a370ba79d614c"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_VHS.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "8adedfb4c015c349f0df85dc6defaaa6ac5429089aa717dcdb6c91392f223329",
+    "after": "8adedfb4c015c349f0df85dc6defaaa6ac5429089aa717dcdb6c91392f223329"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_VHS_Rewind.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "96b77285b5c603251540df5e276f9689f3e4ee05a73216b0273f73248080a24b",
+    "after": "96b77285b5c603251540df5e276f9689f3e4ee05a73216b0273f73248080a24b"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_Video3D.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "7380428eef589373f9d2db14988599ad2314493f6690dd29b7038678ac5f9e3e",
+    "after": "7380428eef589373f9d2db14988599ad2314493f6690dd29b7038678ac5f9e3e"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_Videoflip.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "23a79e6d5077f91979747b1209abdb67fcc480903d2d8927d0771600b7fbf425",
+    "after": "23a79e6d5077f91979747b1209abdb67fcc480903d2d8927d0771600b7fbf425"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_Vignetting.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "c9ab64c738952272543a00a92f8a1d8f58f470b4e71766e478abb986546df228",
+    "after": "c9ab64c738952272543a00a92f8a1d8f58f470b4e71766e478abb986546df228"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_Vintage.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "1d3d4c300e62845b1cba28c2b84867736826306b01511f52e3d6c658e9dfd6bb",
+    "after": "1d3d4c300e62845b1cba28c2b84867736826306b01511f52e3d6c658e9dfd6bb"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_WideScreenCircle.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "3bf0562a4b6292d03c2558fff358fa2b35399c2495892267617e5569b8e9a747",
+    "after": "3bf0562a4b6292d03c2558fff358fa2b35399c2495892267617e5569b8e9a747"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_WideScreenHorizontal.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "da71ca3d46007078eafe825999b440ec71fc7afc50b18b23716adadd6ea82627",
+    "after": "da71ca3d46007078eafe825999b440ec71fc7afc50b18b23716adadd6ea82627"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_WideScreenHV.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "34d8c4c6e2271c2407b8823a6b126b688a77ed90731ec502f2c7c0c0485b7b09",
+    "after": "34d8c4c6e2271c2407b8823a6b126b688a77ed90731ec502f2c7c0c0485b7b09"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_TV_WideScreenVertical.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "7b30e9916317522ca8734c6410a134663acfebbb2dc4fdd78938726875ca062f",
+    "after": "7b30e9916317522ca8734c6410a134663acfebbb2dc4fdd78938726875ca062f"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_VHS_Tracking.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "316dcc009c4a96de6d77cf9b8f451d0e94decb0d620ec720f7c3db580b758595",
+    "after": "316dcc009c4a96de6d77cf9b8f451d0e94decb0d620ec720f7c3db580b758595"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Vision_Aura.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "df6fed0cd2c16a0fb929f833050b459780a3bb46c6e754cbfa8ef3bc289fa592",
+    "after": "df6fed0cd2c16a0fb929f833050b459780a3bb46c6e754cbfa8ef3bc289fa592"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Vision_AuraDistortion.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "d90e4307d133289c2c4a2e179000878eaa3ce072c529f5e8b2906838e9644cac",
+    "after": "d90e4307d133289c2c4a2e179000878eaa3ce072c529f5e8b2906838e9644cac"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Vision_Blood.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "fe1ac50182a57c237c1fbaca26e895664fd680cf7fc1a97fa0eb9a2b46382c56",
+    "after": "fe1ac50182a57c237c1fbaca26e895664fd680cf7fc1a97fa0eb9a2b46382c56"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Vision_Blood_Fast.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "e3db34a2d09a2ead05ad7c47ce4ec73f02f7ba1d3977a5aba0dc4f86a4ffdca8",
+    "after": "e3db34a2d09a2ead05ad7c47ce4ec73f02f7ba1d3977a5aba0dc4f86a4ffdca8"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Vision_Crystal.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "e656ff1f449be4f99352706ec91c632c804fadad61633e079f2ba8998140d2ff",
+    "after": "e656ff1f449be4f99352706ec91c632c804fadad61633e079f2ba8998140d2ff"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Vision_Drost.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "2875ff4a57c53fc5a9b52eb7ed70342b0beb63fdc5e66dbf6f179156ae7aceab",
+    "after": "2875ff4a57c53fc5a9b52eb7ed70342b0beb63fdc5e66dbf6f179156ae7aceab"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Vision_Hell_Blood.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "9bb708dfbca8127e20d88359d1448c2d62c34c7c31149870ffea5787a41be0e7",
+    "after": "9bb708dfbca8127e20d88359d1448c2d62c34c7c31149870ffea5787a41be0e7"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Vision_Plasma.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "b6ed61bf3c6fbf53bdb58af3dc019edc2b5b0c5835abeccb3e8dd8c5b1676e9a",
+    "after": "b6ed61bf3c6fbf53bdb58af3dc019edc2b5b0c5835abeccb3e8dd8c5b1676e9a"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Vision_Psycho.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "9018cca6f3c099de3b1dce348bb44d5a690504c5fb8d1f6dc313764716f261a8",
+    "after": "9018cca6f3c099de3b1dce348bb44d5a690504c5fb8d1f6dc313764716f261a8"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Vision_Rainbow.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "37bce1355aeb1a10d85fee70e960d8c1d808b70eb750ac3a898b7d52cb9c1186",
+    "after": "37bce1355aeb1a10d85fee70e960d8c1d808b70eb750ac3a898b7d52cb9c1186"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Vision_SniperScore.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "3eb92d27135644b1f92ee061de318c8a8c0915c2650e7b08497bbefe6baf2eb1",
+    "after": "3eb92d27135644b1f92ee061de318c8a8c0915c2650e7b08497bbefe6baf2eb1"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Vision_Tunnel.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "686cfeb1e18b1348e3fe057aa8bf546b694106f5db5ee542e7f540e676025a5c",
+    "after": "686cfeb1e18b1348e3fe057aa8bf546b694106f5db5ee542e7f540e676025a5c"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Vision_Warp.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "9e91e2ccc2c9a394e6594ed46386f1a8b1c5407014b995e2efa347fbb0228320",
+    "after": "9e91e2ccc2c9a394e6594ed46386f1a8b1c5407014b995e2efa347fbb0228320"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraFilterPack_Vision_Warp2.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "f25f5a6148c299de8ad1de98e47ee18ed9738f81859664d8d2da2eea7b2b56a7",
+    "after": "f25f5a6148c299de8ad1de98e47ee18ed9738f81859664d8d2da2eea7b2b56a7"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraPath.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "472b6dcc53447975b9b6d26343654e2501fc9edfda74841a0fa5046fbe242cdf",
+    "after": "dacfb41682298920569956f17223fc1f71ac9c458539f69ad485f19d80ac7459"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraPathAnimator.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "927f2bf06c66198cfde98bb7311d05bd5512b9b1a613b32e4699a4264b377dc6",
+    "after": "07271ebd12bf9e52d7a04569e4045ba7a723861c2ef339c1d9351f7c8b63fc7b"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraPathColours.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "d2c2aa15827ea79a971f73aae615d93a9e941797cac5780dd68eb7b0c982e77e",
+    "after": "d2c2aa15827ea79a971f73aae615d93a9e941797cac5780dd68eb7b0c982e77e"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraPathControlPoint.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "b205111d8667b6dccdfb08d332e9e311aa6a2345a8081dd3387f0915dca34e4e",
+    "after": "b205111d8667b6dccdfb08d332e9e311aa6a2345a8081dd3387f0915dca34e4e"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraPathDelay.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "b297f1845110e4e032a3b1483128fc34188d90d9a14ce56cd0fc3508aa9f731b",
+    "after": "b297f1845110e4e032a3b1483128fc34188d90d9a14ce56cd0fc3508aa9f731b"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraPathDelayList.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "dbad5f33b44020b57da28f51a20524b0e407eb3c95643b395862fd161fe8b2f2",
+    "after": "3d78a29dfb5eee72560693c0221c34ab29d561f47f1d9d47388a677e43627337"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraPathEvent.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "2b6835ea9ad2dda7da61add0b0ff5d42fb6066abf5fc2234ae21a6b760ae37b8",
+    "after": "80f0a8077098e03170f421e45e25e33ee70e223b5ede71421aa08aaabe0a5e04"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraPathEventList.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "a14c1c5884afc44977c5f60fbf92abb69c212407e64d058f8a3b3bf0f59630c8",
+    "after": "49bbf02703a307ef9311f5e32cd1b11e03e380114c33afd5dc2ffe608fce50d2"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraPathFOV.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "39ae944c964e973481f23ce74b9e9f47a5198a92beab84566c38f7408a15f711",
+    "after": "39ae944c964e973481f23ce74b9e9f47a5198a92beab84566c38f7408a15f711"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraPathFOVList.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "9e2a71e7ee1a44051c8bb6251d5ed9bbb50981a1d3e4ecf2adfc641488580958",
+    "after": "92eeaf39b978cc9801764bcaf0c734d5534829a592d64ab70e01312e60c27bd3"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraPathOrientation.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "16e1134d988e2c5a7add51d1dd6a86b33f23260d98391bf21af028746470f969",
+    "after": "16e1134d988e2c5a7add51d1dd6a86b33f23260d98391bf21af028746470f969"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraPathOrientationList.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "597d151b7f547d9716d6b11d082b206c9e3c370ee4a85262ba0ecef8415e35da",
+    "after": "4dc624042f2c01d68b8566a12b6e53641f6ba1fed918110f5d4e6600f022328a"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraPathPoint.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "200abff30cf9e1597446d128d341399b58dd0f1cad191d44bb34c62071c01e5c",
+    "after": "cafc15113ae996fb08555eb086788cbb60fb3eac6ec782ca49b57e319f23e9a2"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraPathPointList.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "f13415799397182841a280c2609f38f94e6d468be5ff7795a6954be8eff87328",
+    "after": "f8ee7345a0568b4aee9fd2ef3a09a299fe118779fcf1b271f5e038f1d46bb86d"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraPathPreviewSupport.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "3675322eae724d136003eb05bf46dbb27835bef3d47a17e7d112ae971cbbd006",
+    "after": "1166351fc9e7aebeceecb6de87cb3e7321506a4c4a29c6b24970e37a36d982a1"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraPathSpeed.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "a4cb6ce279c02064174ff01781dabd047cf7c8123ee09842ce503a213f741a1e",
+    "after": "a4cb6ce279c02064174ff01781dabd047cf7c8123ee09842ce503a213f741a1e"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraPathSpeedList.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "16baa5dc798fb07f69b5ea7cd0ea0bb701faffc233f456cf9aa4361a6c435ffa",
+    "after": "2ce77f6964e9e96cdf958d3768d5deee05fb375162d63eb60621a33be18c0558"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraPathTilt.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "f9803610d46eb3017380af89af904398bbf04c5ec9fd80da7e1bda2707104277",
+    "after": "f9803610d46eb3017380af89af904398bbf04c5ec9fd80da7e1bda2707104277"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CameraPathTiltList.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "036997b17e46ab7c02761da677549d65a379361d3cb3bc20f750ac98709096e2",
+    "after": "85a2f8da002cc4fb01de2624baa1f7992e79a6cb698a06833fb026f6529a2e3b"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CAMERA_MOVE.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "3b1cfa887a9c2e97b538e848158cac9b72e6529a7788ff1c2dac658e91043642",
+    "after": "3b1cfa887a9c2e97b538e848158cac9b72e6529a7788ff1c2dac658e91043642"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\carAddons.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "a35dd9f0aa33bda3d6f5e41924bc7edf7db58785c19e708a7eda47f3329a720b",
+    "after": "a35dd9f0aa33bda3d6f5e41924bc7edf7db58785c19e708a7eda47f3329a720b"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\carTheme.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "e77b55f7ddeddafd32c05a220d6d1748a0d9a1beffb21fe7f6c15b0d67f2c7f5",
+    "after": "e77b55f7ddeddafd32c05a220d6d1748a0d9a1beffb21fe7f6c15b0d67f2c7f5"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CAR_MOVE.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "ad52a3d51b18562ced12b7cc2166bea9cde4bdfaf7456a31b85eac017b9d8de6",
+    "after": "ad52a3d51b18562ced12b7cc2166bea9cde4bdfaf7456a31b85eac017b9d8de6"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CFX2_AutoRotate.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "0f950a291fb838f0ddabfad3edfb7a37bd9c7473a3ad919406ea1253aff9f885",
+    "after": "0f950a291fb838f0ddabfad3edfb7a37bd9c7473a3ad919406ea1253aff9f885"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CFX2_Demo.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "c704862c2c015277f92ce8aa71830f71431463f7e5ef8e125926117a2d08d225",
+    "after": "003017c8a1ab1be67ab7b23b7e0fa3fa90b8bbae32b2c645481846d665a5e4e4"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CFX_AutoDestructShuriken.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "e424fac7dd1d742b5b8d290b10cdfaed3ec7783785cba8d3fdb0da102b99da48",
+    "after": "1811bed3de4815316ef847349aabab4c2e4479b3ce7da95f79a7377ce21ad1ef"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CFX_AutodestructWhenNoChildren.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "3e8bfa435aa62860b915232daf0ef67a9cad33388b0a586e64c1a774cb259272",
+    "after": "3e8bfa435aa62860b915232daf0ef67a9cad33388b0a586e64c1a774cb259272"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CFX_AutoRotate.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "e5c328abdd3ce2bc237d02555dcdae38da79c03367cc487f945276478866f157",
+    "after": "e5c328abdd3ce2bc237d02555dcdae38da79c03367cc487f945276478866f157"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CFX_Demo.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "ace7aa0a38c35d44abef6b7a56572e84b50d0995e000d826f66b24dd83eec745",
+    "after": "0a29d9a3addc1adf6ca90cbc3f91593acab4207e97e6052e7ea125b5f69f36a2"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CFX_Demo_RandomDir.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "1577a78c1633361004fcb1ed0769717a1a330d7f64ac877093ac3276a45e4076",
+    "after": "1577a78c1633361004fcb1ed0769717a1a330d7f64ac877093ac3276a45e4076"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CFX_Demo_RandomDirectionTranslate.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "1e5a9a76cbfa395a8c8bf13fa518f92ab251f8b69b5789309098e84502d98981",
+    "after": "1e5a9a76cbfa395a8c8bf13fa518f92ab251f8b69b5789309098e84502d98981"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CFX_Demo_RotateCamera.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "00a14339cb1136c7e1e77fd8d73ad7b92314cdda6ded88b95f2d1543ddf6bd27",
+    "after": "00a14339cb1136c7e1e77fd8d73ad7b92314cdda6ded88b95f2d1543ddf6bd27"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CFX_InspectorHelp.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "836d246dd149107e295147a533842abc1f1259e302f4ea0f261ed9a8c10e5a6c",
+    "after": "836d246dd149107e295147a533842abc1f1259e302f4ea0f261ed9a8c10e5a6c"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CFX_LightIntensityFade.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "5fd71d7d33e26ee42e58e7c9961e2ea8a1793c75e7bdd29d04440d899674135d",
+    "after": "5fd71d7d33e26ee42e58e7c9961e2ea8a1793c75e7bdd29d04440d899674135d"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CFX_ShurikenThreadFix.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "0359e9989f43eafffe384a8e022822cd2c89eb779f1d9b7902504c6d7f426992",
+    "after": "ed9475046d37958f29864248a89caa60679391f4d25496de1295a06e8a046eca"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CFX_SpawnSystem.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "6687fcedab6fcd000d724666fa6a965700ba2ba8c5ea873001d1c1ead1341c36",
+    "after": "3ce2d611686d7e051312dc67ba46177f465e5b49514cbf440e60e86ea4f3eb8b"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CHECKPOINT_TIMEADD.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "3957c9f71234bd04cd1fcc76c6f4a1ba8cb7daa2e8fcfb4a4c563f8a6c915c42",
+    "after": "3957c9f71234bd04cd1fcc76c6f4a1ba8cb7daa2e8fcfb4a4c563f8a6c915c42"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CHECK_BRIDGE.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "71b750d917cae27f6f7814323156678fbf6032774362302c845f8b2362b30b3b",
+    "after": "71b750d917cae27f6f7814323156678fbf6032774362302c845f8b2362b30b3b"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CHECK_DAY.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "d73aab1463880a6125b8d59f11d7eb63b48ec76e19bc14ec80567b52786418ee",
+    "after": "d73aab1463880a6125b8d59f11d7eb63b48ec76e19bc14ec80567b52786418ee"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CHECK_UPGRADE_ITEM.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "ab762855df525e908f3658b60d87a6c9cc95abf6f8d1b570346563497cba2458",
+    "after": "c4666b47439db7ee21d8d8ae4347d0a800a27571ef2965763769903feb452c96"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\Clips.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "67ce5588882b2fd8b5fb5c8e3856c66300546363b2d8f1a5e301deed2eb24614",
+    "after": "67ce5588882b2fd8b5fb5c8e3856c66300546363b2d8f1a5e301deed2eb24614"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\ClothesScale.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "eaa2f429a8506eb6572d720531fa6cf97d0d4d4ef5a5cdc19b9df1b25c9bed46",
+    "after": "eaa2f429a8506eb6572d720531fa6cf97d0d4d4ef5a5cdc19b9df1b25c9bed46"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\cloud_control.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "764f586327f0a3e0e9300ca18844c1d46c8ac7bb231d20cab667cc62a5564a71",
+    "after": "764f586327f0a3e0e9300ca18844c1d46c8ac7bb231d20cab667cc62a5564a71"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\COLLECT_.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "2576b40aef0efe53c78974a6e6d96aca99c5bba03614c39ae95ab666f65ac6ed",
+    "after": "9e630f2dc8c197d62c505d606a26f8c5159f2ff4d8d3d492a77fae33512e4bde"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\COLLIDER_CHECK.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "b8834bf0776d7f1cedeb32095e6b643cde4083ae2095001722147a9ab0d332c0",
+    "after": "b8834bf0776d7f1cedeb32095e6b643cde4083ae2095001722147a9ab0d332c0"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\COP_MANAGER.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "6ebe25719b328b057cd05e70558724037fde0a46df28bf3b46d32566ae2a9e54",
+    "after": "9c6975ea9d701e37b7c53905aab8a533b61600d9b40bcf8c5654d01f2d417a2e"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CPMath.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "7ec8a84dcc183a01c79b4d47b5b1114f29dc1272d55cdec06d07f4e5f1dd4628",
+    "after": "7ec8a84dcc183a01c79b4d47b5b1114f29dc1272d55cdec06d07f4e5f1dd4628"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CRYSTAL_.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "593896d29b895a7a2e0f6d068c8421fda245266e05f20b1511eae2aa80785ce9",
+    "after": "f8b4f455a9856e13f19abfc9d446ebd9fb9b1cd8d953865e3b6080ed22411990"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CUSTOMIZER_.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "6ec62fc06783898f138f2370a0a938fb650bf14d3f5da956b24f8a51fa4d33e0",
+    "after": "a7936fa26d7f0613a3b8a71e56373ccf0a253661ee3d550bcd5729fb23627aeb"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\DDS.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "297adbca46ebdb4a098b09da9dd62ff277dcf744a3ce1246ee8e2ee794844044",
+    "after": "297adbca46ebdb4a098b09da9dd62ff277dcf744a3ce1246ee8e2ee794844044"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\DeferredFogEffect.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "8dca8168c1bf9d6413b5eebff7113e02c80ed959b86fc8ece00c13c5b6e60e02",
+    "after": "8412e904b563eb02553a5343eb16d96a55972a83c12310b7ff04406e5bf1b885"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\DepthOfFieldEffect.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "2bdfde723a2f7f9987d1f06d5d742604d466ba62dba10ae75328094242410986",
+    "after": "2bdfde723a2f7f9987d1f06d5d742604d466ba62dba10ae75328094242410986"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\destoy_zone.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "dfc599b42a314baf50e16f390f9ad6fb9ed3f9218e01a2405bda7815a73010db",
+    "after": "4b3989db0dbfcd5b87517fe2083c98e9bf46999ea55d774d486053d57ac399cf"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\DEVIL.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "37841f726415eddd6b2f62f485faca1d0bdfed0eb2de9e6859468b2d36b1835b",
+    "after": "a3fbe1209aa19b566c3b615824b5a6b5b6239295729753cfdda1dcd1fc08fa5b"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\DISTANCE_DESTROYER.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "77e42e0c7cb3a6500e3ba219636a0f5a4746ee90eb5813648002e367c1c2a26b",
+    "after": "77e42e0c7cb3a6500e3ba219636a0f5a4746ee90eb5813648002e367c1c2a26b"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\DISTANCE_DESTROYER2.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "16366f4d55036fe780e0b41f895d0ca2de09aa929f9e59fdfeb3484d44e78097",
+    "after": "16366f4d55036fe780e0b41f895d0ca2de09aa929f9e59fdfeb3484d44e78097"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\DRIFT_ZONE.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "8fd0a150a60eaddff90e72891c450b780374d589e79f23135c3acfd4ad1e5846",
+    "after": "340f806723173063779b98a8ee84d0aba2737ec502474d36825392f576cb866b"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\DRIVER_MENU.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "7151c9d168fa7142704b42adf43542a6af57c08a16a5ca4aa9eded628eb181b4",
+    "after": "14cd423ccf7ab84299b30417af2e0a94140b2540cd7c820074f511e0f42211d6"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\EmissiveOscillator.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "4d766db77811350d88243b8fe088cbbfad430c872e259ef4129cff8a458e3589",
+    "after": "4d766db77811350d88243b8fe088cbbfad430c872e259ef4129cff8a458e3589"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\ENTER_TO.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "dd4fa6e8839dc289cc8791bb0f21fe77615ef37b81cfc594d4abd4e65b222c32",
+    "after": "dd4fa6e8839dc289cc8791bb0f21fe77615ef37b81cfc594d4abd4e65b222c32"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\ES2Init.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "dc4c54a1707c96db9c64a5de6b3611340eadd83044c732735a1a86ca67e71ba7",
+    "after": "dc4c54a1707c96db9c64a5de6b3611340eadd83044c732735a1a86ca67e71ba7"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\ES2UniqueID.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "e4cf365acddb513f9fac5bbddf40cd81c7d624c8e8a06102f4672baeeba57411",
+    "after": "e4cf365acddb513f9fac5bbddf40cd81c7d624c8e8a06102f4672baeeba57411"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\ES2_AudioClip.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "06b9467fc20d721aecec8f7bdf7c9d55353cfa9af6ad97e1e500420439bde1e9",
+    "after": "a4a6c24a7eac28568516d6e510e1428a7dc76abc3223a6918662f2dad60f7308"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\EventSystemChecker.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "1e53625218f92ef2ed597218641b28d984e4007467620b86f6177f3f735bc119",
+    "after": "1e53625218f92ef2ed597218641b28d984e4007467620b86f6177f3f735bc119"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\ExampleCallbackScript.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "75f6d0fba2492947d0a756ba6d4b231a6ae7259a167d4df50599b6d18da85f69",
+    "after": "75f6d0fba2492947d0a756ba6d4b231a6ae7259a167d4df50599b6d18da85f69"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\ExampleInteractions.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "13569223b56a9f9b3c5fa7309440509d639697005b513b76a3c5d6cab541fd5f",
+    "after": "0b51bbb590d762a1681371e6084687e91223cf9150302bce7396c4a93e9f7027"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\EYES_.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "3a8f67a10652a663271ee2223fd8b14d79ebd0e45d913691454b979701609826",
+    "after": "3a8f67a10652a663271ee2223fd8b14d79ebd0e45d913691454b979701609826"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\FARM_MANAGER.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "224d708537007dd3374d32329742e510beb6a479b3bda43e2e2cac37fdb98a6e",
+    "after": "15c83784afee6b979bbc4ec13a70d758a513d8899c3297d3b8b3ba52f99911a6"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\FINISH_POINT.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "aa7754bbaa876e99dfea5d6331dc98bda29f5dfb3dc9eef2e7c24b61eac66435",
+    "after": "a444635a419dabdab036026f4c8f7ad8fcf0a8c018d751d1ba297a2718e61ef6"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\ForcedReset.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "a711e54bdc403fc56c694d5af00a425fc19f67f659a0c6bb6c3a8ad16e53f0f6",
+    "after": "ce6aad7408237c3eb8baaeddf52d2b09aeb4b1742ad0454c78afe1157468b028"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\Fruit_screen_Fx.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "d2dc8601dd86cacfb73755344eafdcc9b0730b41a322c17f854e2254a6418ab6",
+    "after": "d2dc8601dd86cacfb73755344eafdcc9b0730b41a322c17f854e2254a6418ab6"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\FUEL_HIDE.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "d359a17ad4795d449293f223bac5f04322bfaada400abba4ff12d819bcc43fcd",
+    "after": "05ec7946a2e7cb543a4a2b788a39f1ece641eaa329af210f6b3299ce64538e8a"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\FxPro.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "a565b8ab0512f76dd2628d22cd06a8a9e645ffded26b78c32777df9ef2276452",
+    "after": "f20fe584c7b5eb6c7fb51092a205651a6ea5c3e182e2fe4c884b6a957b5bac73"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\FX_BLACKSCREEN.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "051b7edd88ca05c7b0d1def59c87b2852f04e67363b9253203f9530129811a72",
+    "after": "f1625989911fc66013a1489b2a66b85557560d2007110b6f6efdc80f17e369d6"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\FX_GREENSCREEN.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "539bb929cf5e8b9792b7e5ebfceb22488b02cfae86a2edbe878091ee1749761c",
+    "after": "7df566cadb894de5989fbe5f4993fca537c338e79905967a6ca836eec52cd1fe"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\GAME_MANAGER.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "812c8d08f36b4b55efc44eb8f0e74ab39a464aa1c47fd1c7730e8193c4b79953",
+    "after": "bee460627becc25e29f8ba062a2eb07e27accc0611c610726c7de3da97ee1105"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\GEAR_PICKUP.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "9f922718135b8ce0bad36c128a06cbf9136a3aff56b21fbc8a74676aa941e228",
+    "after": "9f922718135b8ce0bad36c128a06cbf9136a3aff56b21fbc8a74676aa941e228"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\GPUInstancingTest.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "7044547dea8f7b72ef6d0a847296acc9cb36bf807c125430f4bd7a6b56b4d103",
+    "after": "7044547dea8f7b72ef6d0a847296acc9cb36bf807c125430f4bd7a6b56b4d103"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\GUARD.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "94610c833f8dca152f6b382c6d671cc04321fe078fbd5c3b9757cc57ddfb3618",
+    "after": "94610c833f8dca152f6b382c6d671cc04321fe078fbd5c3b9757cc57ddfb3618"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\GUARD_CHECK.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "6830e3ab5263d3f270f5a76bf6ee2f49da4ee536e6899c67113efe63f0403554",
+    "after": "585a777d288dfddab817ab99cd4daae9cb0665bbecccca09aa631ced77fafa25"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\HELMET_PICKUP.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "bc441937186ab71d39f73f208ef2e4aadd7602a487761d4dd79b3a2fb48dce09",
+    "after": "bc441937186ab71d39f73f208ef2e4aadd7602a487761d4dd79b3a2fb48dce09"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\HexBokeh.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "6948187bbd67d458db202965de1df8d229903759325d095ff7376ad55735d8bd",
+    "after": "b7943b1ec443fc1818825309fab7022088bee42035f138ee18a896b7e93c374d"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\HOUSE_TRIGGER.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "a96064056e5a40aeacc9a54e823ed78b3602c0db73bc60f7726120d90d9da3d6",
+    "after": "a96064056e5a40aeacc9a54e823ed78b3602c0db73bc60f7726120d90d9da3d6"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\IntenseVibration.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "ea39f10ff8f0850143e70fc728facb36e73f7af5438c5d4004d4859a37c1dc03",
+    "after": "ea39f10ff8f0850143e70fc728facb36e73f7af5438c5d4004d4859a37c1dc03"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\INTERNTER_CHECK.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "7b59ad79dd4aff071ddcc77cd7a93f8fc22204c5d98439a0dd38e8c05c623f18",
+    "after": "d14b5b15d2bb14490f1ee71e582d85cbec212f05c264603264e93e5be203c9cb"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\LANG_.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "b3d455a9fea830c552bb50b7625317f17218bc0c69f5766bd20719297196ed3a",
+    "after": "b3d455a9fea830c552bb50b7625317f17218bc0c69f5766bd20719297196ed3a"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\LANG_OBJ_.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "38c513395515254314ddf31d81a6d74e456f8bc12d42efb2749a36e90602e8c8",
+    "after": "55110102173b0c8651317ae4b44f597c5c67e00f99485d72cb837ee803fea95b"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\layer_.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "43abefdd2176274b14bf294ecf8b52f475016953e08dd7e759ee298594ee7733",
+    "after": "43abefdd2176274b14bf294ecf8b52f475016953e08dd7e759ee298594ee7733"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\LETTER_CHECK.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "5d44f1db14d3d4581ec38fc2697c017d601ceacd3f7a1b6398664722b25aa08d",
+    "after": "5d44f1db14d3d4581ec38fc2697c017d601ceacd3f7a1b6398664722b25aa08d"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\LEVEL_GROUP_CHECKER.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "0e97a5438fd07905e3ce526d57048ed24dc97a6b964139da042f83aa6801bf29",
+    "after": "ce6150367518583629cc9839374c3891caa5bf036e62f39007e3703b99834f54"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\line.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "014bf1e7f473cdfb47de6dc4514c2caa90fab8ee9600ac4b900032ba17ceb86f",
+    "after": "014bf1e7f473cdfb47de6dc4514c2caa90fab8ee9600ac4b900032ba17ceb86f"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\LOGO_.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "10c1ad25f41399fd0e55b987d2ee29a13c400b9ad3ff5ecab5b685206fa41ae7",
+    "after": "10c1ad25f41399fd0e55b987d2ee29a13c400b9ad3ff5ecab5b685206fa41ae7"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\LOOK_AT.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "f621853ab9f69763ef36fa5e6eb47506ca8146a3633a6578fdf8b1f87bd5c298",
+    "after": "f621853ab9f69763ef36fa5e6eb47506ca8146a3633a6578fdf8b1f87bd5c298"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\LPWWaterChunk.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "48a45a1022e7dea8b96ed4bd580a1513e1f3bee99c2757f969c53c02e175d679",
+    "after": "48a45a1022e7dea8b96ed4bd580a1513e1f3bee99c2757f969c53c02e175d679"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\MEDIC_MANAGER.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "10f1e14b84e9f9e7bf4b0b1044fe176f3d73b63ae51b8f9ee9afa79b391b4726",
+    "after": "993f28bae9a4508c6e8ba5ca3bdf43d7b1c822e26aef67f2c6f33074b495e6c7"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\MENU_MANAGER.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "d409257682d344e75f0756032d90da9b06f810981011a5eb9de40658587e73bb",
+    "after": "9873ccdfb3acbe94b7197538dbe6d701375430effb45ea9d24de66b7a5f2940f"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\MISSION_MANAGER.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "99597fc46e850ebc51d626db17e3fcffa791a87e7f76c38e0da8b37ab65522f6",
+    "after": "d28bb1fd4273086afc3f7103ad10a2df6855d09374b98b22fa71b208a6e2834c"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\MISSION_TRIGGER.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "dccdc3c67c25720fcfe0427c4f2a2fa937751f4eaa8fb67a30302bbe16479a37",
+    "after": "55f1637e1771fdde0e4e24ff60ccd03d564609ef11aab1005046b3bf84a945fc"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\MISSION_UI.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "e307b66e3ff6a12c5e6331b3aed27f8b001e55b99d33b5aa4d703e0710247cfc",
+    "after": "fb2995831e6b5bfbfe8faa09e96225b048b7ff3344fbe6f14a2d4074b111aca8"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\MouseLook.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "f20cd85d6219b2b2dd27a1441f1dd7b375f5d38dce7c4552f7cb4be466ef77f9",
+    "after": "39c0e7858d18f15b0e3eb41b9451144fb08bbc5068299761612bd4bb9a34fed6"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\Mouse_drag_rotate_scale_control.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "4e317ffd1139ad24e2663ae98b227053de7cfa1edfd5c8eac6e531b35f0d6f30",
+    "after": "5418f046769dc7c4a890caf9d974d3c0ca9d1cc1f30560242dc876d55c422acf"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\Mouse_drag_rotate_scale_control_ui.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "7f20a0b5a131ffc18fd9f8e52dad7ee1e755893355f5fbada0424b9d683479be",
+    "after": "7f20a0b5a131ffc18fd9f8e52dad7ee1e755893355f5fbada0424b9d683479be"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\MOVE_TEXT.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "3dbb902a09b3de5810ecf84f8a8386d35b7c30ebf73285f93223dd19a04ef5f1",
+    "after": "3dbb902a09b3de5810ecf84f8a8386d35b7c30ebf73285f93223dd19a04ef5f1"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\music.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "5a640e0b69718b1b5bfaec0e4b431ddbf7e4dd0d024fc6e194d635f9539e0843",
+    "after": "8893fe11040dc17fec5a0d5b1f66ba36046ae10390c06116623bf05105f0b0f7"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\MUSIC_MANAGER.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "56b323bd18ce5ab8a0ec82a435efc15cfbc6ebb68d32829a44a6ee2f3339dba2",
+    "after": "81ab892b671e620eacddc56872e2f8f1239852e3044123db705b4404f26345d9"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\MyExampleScript.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "6e9b6f816c2427c9539b4d1ee278716025afff539541ae0c4ce6dacac69f64e8",
+    "after": "6e9b6f816c2427c9539b4d1ee278716025afff539541ae0c4ce6dacac69f64e8"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\NAME_POS.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "6bb4e76325d38580a39c93abbeb1e3a911e0f9016bfc047c0622cf033cfb714a",
+    "after": "6bb4e76325d38580a39c93abbeb1e3a911e0f9016bfc047c0622cf033cfb714a"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\NEXT_TILE.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "08e23cf3d2a73266d556938733037750bb46aa561c97ae8305b3b78b35c874ab",
+    "after": "08e23cf3d2a73266d556938733037750bb46aa561c97ae8305b3b78b35c874ab"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\OIL_ZONE.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "4e94a9a08c5271607cf160d7bcf76e67e111a7cfb9c8f342eca36d60f3318510",
+    "after": "4e94a9a08c5271607cf160d7bcf76e67e111a7cfb9c8f342eca36d60f3318510"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\OPTIONS_MANAGER.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "f0405f274b5b4d3d0d3a3199e545e12db01960a99a18c98a5eb542f29fbb23c2",
+    "after": "a3cc56a9ef42e91638b4c422c3fcbfd1625b49b8750659174fe5e2713cfe35ba"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\PARKING_FINISH.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "e83c26db4c1cf8bb1fe1c306bd6d9270c5729f8a67fc33c5f7a71f7df70f6a9d",
+    "after": "e83c26db4c1cf8bb1fe1c306bd6d9270c5729f8a67fc33c5f7a71f7df70f6a9d"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\PASSENGER_TRIGGER.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "340cd5047ffb97bacf2173a21f50742c381b70dcfeeb95774b263e1b8370ce53",
+    "after": "340cd5047ffb97bacf2173a21f50742c381b70dcfeeb95774b263e1b8370ce53"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\PIKCUP_ITEM.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "09655a2e24b4944c2d7c65447c4a56fc2092b642bb2fef1de9c5ddb41132ac91",
+    "after": "6b0a5c07ddb41de88cb2ff340f1ce88e422738ba6f15d792990ca22739f26ff5"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\PowerUpAnimation.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "1f8bc8d30f191effe780b0f922ca414332109271505bc602d781eaab371c58af",
+    "after": "d8aed927cfeee39ad6f4f43ebbccf956a9c86ab194e020048bf39f27c9baa1ef"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\PrefabManager.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "83d4c3412f8bbfe9e0eaeee22841090733664919089d338dabd174d14d00c975",
+    "after": "83d4c3412f8bbfe9e0eaeee22841090733664919089d338dabd174d14d00c975"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RACE_.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "d7aaf0547888b866b3b8b71b561d30cb1f5e9210d55417ba7a297126680a4d3d",
+    "after": "e9080e52c452d1022f00986c9b21de98bc924e9d43ee6c57cee7daf06c8b5bc9"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RACE_CHECKPOINT.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "02251e5c92650bdaf6b8bfb0411a406f50e0d2623d82a6a80d98a8bede19b151",
+    "after": "2ba169b2485abcfa222a78c2edc24f51836c85bd809fb1d15ade653585400ff6"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RACE_MANAGER.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "f72944ad00d626c12b672d58ce14f6477cf4d79ab6145b87b027ae2a64de43db",
+    "after": "a3ca175a0ac89cbfda5aae5ed24aff46ff6ba31269826cd2e1a710ff3fa18b31"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RACE_MENU.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "adc62583d0b5e7468eb16dc377bcbf6e5c5aa6d6890ffa5cfc4324b1009200c7",
+    "after": "c1a1ed724fb34736aa8a58759d59f9bc29cdcc5416543496f9b9cc258305bd75"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RACE_TRIGGER.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "604c18350f2599c936f438d39c5dd62510bc4785d9de5332f4b5db7b06ae09bd",
+    "after": "1875e815819f721e3b36a1e606cf0a18800ba9303de1d1720ad01a4cf18b9976"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RACE_UI.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "b0d8462b81730f0130aab1a0f8a2c5f08a422409b2061ebc7a1bdcc991b6af23",
+    "after": "08e76105d9ccd70b2de2edeac6f52072000fc30a21228e5ce80471dabb5c8f85"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "bc88a22598bb031463d4941c8948c3ce84025e75f1781a39f86b15bc45e1de21",
+    "after": "136b150d6997263ff6d9c8974d5d195ef3867384324f4443c3a278102cde25e5"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_AIBrakeZone.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "e8588d9c9d6973dc20e2634264463ff0c41749a4f6473d1d37f034839250c0d4",
+    "after": "e8588d9c9d6973dc20e2634264463ff0c41749a4f6473d1d37f034839250c0d4"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_AIBrakeZonesContainer.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "5149bebe263496b3b0ef98fb520a51d9cdac0b60eac8075f5b734911647793c7",
+    "after": "5149bebe263496b3b0ef98fb520a51d9cdac0b60eac8075f5b734911647793c7"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_AICarController.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "b7b08026d807fecdb7b0a9cfd878364fe3079d37dd4b0d79c32ebab525097591",
+    "after": "f4a3df3c044635faa1d58419ed3653cdde1ec995ae9bccba0eadb8ea01b75d0e"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_AIO.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "2521464a18b7247917228713fa222b272f13aa2f515b3577ac8a3b8a49337881",
+    "after": "3af715c38c49e7b4f5ccd5fa044373f18d05d732707d01884b5f21a655995f2b"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_AIWaypointsContainer.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "73d51b10c35a5a614dc057ea8a208a860d071414d7f16abc9d84ec061e2db3a1",
+    "after": "3ca17bb4761e2dc661906fcbf1f3122cc8d1ba0ac591c91d817b2ba9ddf205a4"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_APIExample.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "e10a91ddf2b2883442c8594cbb8001274a52c84728b4c5de56f28e725c18ef8c",
+    "after": "e10a91ddf2b2883442c8594cbb8001274a52c84728b4c5de56f28e725c18ef8c"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_Caliper.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "4d69fbd3d1107ecd89399fec25bc3ab17afbd2e563616b9e270c5529bdcf30dc",
+    "after": "e0acd09e269ddc44e3af78ea8e9f1fc7b3c2537c187c892562373a4c0e68e51b"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_Camera.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "df7df7014c772d21bf11e1c705b17d018ed6b400054ccc945f3dfe1506c62048",
+    "after": "0d5b7d08fff96171e34820eb546e8afa7ca8541fa1d256c7dee34192f43baf1a"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_CameraCarSelection.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "c1a12641b2080f115b8ec5650411024a4f2cada4c6eaf6c0220b6904d2cadc15",
+    "after": "c1a12641b2080f115b8ec5650411024a4f2cada4c6eaf6c0220b6904d2cadc15"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_CameraConfig.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "04150edd6861a02b9372283c9784f54280d83291cbf51f6d5e180413f547ae59",
+    "after": "04150edd6861a02b9372283c9784f54280d83291cbf51f6d5e180413f547ae59"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_CarControllerV3.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "beb1f18c3a0cd75b89f5c03feef72a35a470a8656a5f406c42be76894efc4a85",
+    "after": "7f9e8c2d33a7384aa1f76dc3521986f198809f43dbf20ccc7e1ae6abb9b51ac3"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_CarSelectionExample.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "67bbf3c203cdaa8ff7e4767625ec54f616c87f6692af05c9419db68c289a50b1",
+    "after": "c3a878b1a233a853b1b5b5588aca3b42e7b541bbe2d137f92fab731550cc41c1"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_ChangableWheels.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "1f471868b3d7c8ca30152c440de558232f6bbd1a0393e17f6c00e66cced86a71",
+    "after": "1f471868b3d7c8ca30152c440de558232f6bbd1a0393e17f6c00e66cced86a71"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_CharacterController.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "45174d8924572ca26d678e268fd5d3dfa26dd1241ed81440c59bbf5d0cbe235d",
+    "after": "5babdce904b38c5dcedad34a2844c3dabe2fd7d8a8bd5ba080fc66e34e5c9b21"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_Chassis.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "d60a8917ef38bf906f5550e4d34d4a88b00699be1601773d4ff65ad5f4c3a888",
+    "after": "471505d03fe4b5a05e06d16eae623fc04569b32db1075424a0594e802528aa56"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_CinematicCamera.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "06835cdd0330a142aee95d54518478a656d496d155b09c03e52ddce98f41af22",
+    "after": "9b06dfbe3fd6e333a8aaa664de2841b52ed73d8497318bae4a3affb54fb2ec0c"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_ColorPickerBySliders.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "57ed59f6c19d98d25f466a0c144854c2a4f30fd4bfe4b13d3e9b03b66cd2da64",
+    "after": "57ed59f6c19d98d25f466a0c144854c2a4f30fd4bfe4b13d3e9b03b66cd2da64"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_CreateAudioSource.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "7ec20f1ce5a951b1594490905ef258e8a9e0339870e96fa98035622cc132a51e",
+    "after": "6e979f0d861ab826bb3d34c484f0f7afbb46dc195c5dbc61366d14c5d7707895"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_Customization.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "fb8223990a8f4272b6c90edf4cc12af621640a8953ecdab2adcc7a0f042ba933",
+    "after": "1e2231999524c2e67377e1d81bc4608e546f2bfeaa2f3561cf6a7723f5eb7cf1"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_CustomizerExample.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "b8f228e6826523e04ebe7bc36c2877bff9fb9507d0ac19370aea60bad7215310",
+    "after": "dd68853d3fe4a9ec3768ac80fbc35c5dd7433f46016d63ed84550d294b696c04"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_DashboardColors.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "f85f651a9c965638295bed13a0ebad241d4f790cc538b5b517382de445e437f9",
+    "after": "f85f651a9c965638295bed13a0ebad241d4f790cc538b5b517382de445e437f9"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_DashboardInputs.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "9f854c3fe4b662f1c483d14034462ebf31ae08d2049b971790fbce1752316d32",
+    "after": "ecaea1908253c9557c60d8960a84a824251c014c9d8e6ab8b6063044a63fd9e6"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_DashboardObjects.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "d32cee05873bae3368afb8fd8b93bacf4b59e36e9cc878783a9bdbd2893d6450",
+    "after": "f55504ff835bcebfa1e9ffe5d8a785e7ec0377082ad11337e3719ccea2d8f0b6"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_Demo.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "8c29d9027e37904ada6916b29461c4d632d20903248fc57bfe32d5981ef62600",
+    "after": "7f0fba734ec00c675307ff933070dce83ab7c362d862f2fc59435c374a8cfedb"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_Exhaust.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "8a0d7116428a981e710233c3036b0a5da71ebca9cd231132c9cd791b173e7913",
+    "after": "414377332ffbe4345e66348030a1a77e6190ba685acd7007958d2c6e40a05248"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_FixedCamera.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "385801c348f550142e7c0c42dec99c161bcbe951c5c2ce0427330c1b13cdd413",
+    "after": "610c33836f46a664287043e92bf8765b79602de4323645f0082accec6b4d9e35"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_FOVForCinematicCamera.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "3f5c403b3473e44d72d243307e691663c27dbe236f32f53d370405a83468d468",
+    "after": "3f5c403b3473e44d72d243307e691663c27dbe236f32f53d370405a83468d468"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_FuelStation.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "4f2478ccb28359f97953c0eddd4789fd0f4338c1ee0d0d5e2ed92f10bf7d1cf0",
+    "after": "4f2478ccb28359f97953c0eddd4789fd0f4338c1ee0d0d5e2ed92f10bf7d1cf0"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_GetBounds.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "4a6856ea3b7f451a2ecc26bcf7ae23bc833639b8bf7efe2df5d5c8792dd20c67",
+    "after": "4a6856ea3b7f451a2ecc26bcf7ae23bc833639b8bf7efe2df5d5c8792dd20c67"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_GroundMaterials.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "f1351de9b62216f3c2a94952a181010040eced6a86ded9fdf4767c6da28ece8d",
+    "after": "f1351de9b62216f3c2a94952a181010040eced6a86ded9fdf4767c6da28ece8d"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_HoodCamera.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "7477f26f444d019fda0154ec9805f4247117008ffee3eb0f601d49fbc762081f",
+    "after": "7477f26f444d019fda0154ec9805f4247117008ffee3eb0f601d49fbc762081f"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_InfoLabel.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "bc77b9112a3362e906fef2a22b10e044a3e3d4294839ec691b6ce29fee941c22",
+    "after": "bc77b9112a3362e906fef2a22b10e044a3e3d4294839ec691b6ce29fee941c22"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_LevelLoader.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "6a5cf0697258ca0c631d0cb29d0882cb3fa656ea673ea77b36dd3bd7242b7952",
+    "after": "6a5cf0697258ca0c631d0cb29d0882cb3fa656ea673ea77b36dd3bd7242b7952"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_Light.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "ee8c8e3375e1a2471c99ffd5c10ef9c35e3e51505cbd23d5a9d566cbbd818bed",
+    "after": "4f97beb655183c33d9814f99bfb0806c30334dbc77e71a8740b1bd462df981fe"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_LightEmission.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "0367de2139264ab7f840b5f00abfa89fbf055e70960d89375d79aa0c0921f7c3",
+    "after": "0367de2139264ab7f840b5f00abfa89fbf055e70960d89375d79aa0c0921f7c3"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_Mirror.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "1d7a9dd6a281ea68c4ad35ccfd7d1411b5c29ffff3ee98699c3373b8605807eb",
+    "after": "1d7a9dd6a281ea68c4ad35ccfd7d1411b5c29ffff3ee98699c3373b8605807eb"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_MobileButtons.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "70b4f39d21a058efe047a561d3a18c5f1e39a4e40ca64e211d9ee4f7be536e2e",
+    "after": "b1be9d7a9070bc3add63aa2c23e110d3649870cae31fb6e10f2e0d7568194af2"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_PlayerPrefsX.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "a6dbfca381afa89171f4fcdc92d387f244182625eff6059b90e93d51f56c3680",
+    "after": "88e1f95d0b172b91b7554ebd85baeb8f25cbc7301e15d34ef2ec2ee20aca59f4"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_PoliceSiren.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "99dc989ba9b0e659ed088a62a2cd7a0871eeb41bbe44798bb40789ab6fd13713",
+    "after": "3702d1009cba8de84a3a98269d9d08c4d232d70f131c081af9827ae81a870a3a"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_SceneManager.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "a026d27bd45e4c0d454a66cb8f5df3789fb9dce9228dc7fac847c3f18902dfbd",
+    "after": "7ace6fdcea485655c45b60af1a5e67923cf91653a0870f43f22a59e78f7be54f"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_Settings.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "bc0eb53333d4a5f59ca28b1718e6bb1bb33ee8736c89da04f04f58aad22d573b",
+    "after": "2b703b4e1ca9c0427884b7957afac0188dc78f307104c798e9d7eb46514eaf6f"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_ShadowRotConst.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "5da11a28e296164fc23bf40172b88c08fc6e1b7a2a1fbf228f7636d800fcd800",
+    "after": "5eeda097106eac72348da956dfc1f8665be8ae97c397b4417b2d0f98cbf054d5"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_Skidmarks.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "1143ff4950a910f113fc135dbf7e046f36235c228c9d073a29e93bee49de161b",
+    "after": "578e95b64e91f6f55cb325ba454a2efb31463f51e27d58442ea7488f5724f5d1"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_SuspensionArm.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "4b475b0a08dcd524f52b47de6a6e0b6f3bcf183898122f9427853985c1ac3900",
+    "after": "349f0e43e21ad9cf52fb81181b4ff2c6e0c8bfc0c545db0419f012dd7ee1940f"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_TruckTrailer.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "0f1b972a46fcfdfa229e9f152be7227d7858a210ac49e6ee16e6d005cf6ead11",
+    "after": "0f1b972a46fcfdfa229e9f152be7227d7858a210ac49e6ee16e6d005cf6ead11"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_UIController.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "53e538e9af0d4be8fc97a1e68356a58ab7086d5f28ce980d107d6f6fc55ada03",
+    "after": "677114edcb256252f2e36012ff7f0cbd253a64a9bd7d684fcb4d7cab537cd9f6"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_UIDashboardButton.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "17efbfdba48c8c4efabb41461151974129e658fa3f6d99511844293e9faa9761",
+    "after": "2e447e1451a1bd1b10c081b6b59efaa47ef1bb8d1547f5a0e9f1937909b55240"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_UIDashboardDisplay.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "9c174aa21f7e8d06b4249755ec27a9026db9a4e4b302a81234974b5af43c42a4",
+    "after": "02055616bc91adef2534ddcdc275a5a6361c1bdf8d8e6e108f35cdc12dc64773"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_UIDrag.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "c6546b435e1b4f2047ddad582bf3cdafd37140239ad29c0852ee069049f8b796",
+    "after": "c6546b435e1b4f2047ddad582bf3cdafd37140239ad29c0852ee069049f8b796"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_UIJoystick.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "21270fc5c9154b2da34c29f8427372c7605a03005893079bc898b811953b185a",
+    "after": "41ce442deac327b5f374e7cc992f8418ec8782053b1a52892326e6fbefd0538b"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_UISliderTextReader.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "d9aa60578ae525d634d0c7ae6e413b8790f778d3e51ad4579668d94873dc7c2b",
+    "after": "d9aa60578ae525d634d0c7ae6e413b8790f778d3e51ad4579668d94873dc7c2b"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_UISteeringWheelController.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "28c78cd20214b19ce9d616b1d2543ccfdf57970582977184324206a5493af162",
+    "after": "6178880f9fba637f0b120a5cc5a88e8c098d6c3b6c8fbd793a5bcbe11f9bc202"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_UNetNetwork.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "6ee5af16710d97bdfc4b5069fdc791b7df1887e7acb1ffaf3d38f423e44eab1d",
+    "after": "e86bdf5d80953ee32075328364216459fbc6bb530756735b2a3f8162b0146439"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_Useless.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "3aa8bdd897681ca1fbd22a90f07d3e4122dab49a6a23e9153d96435abc09dbe9",
+    "after": "683b38c35340397c9d8b4fc8e828393cf9409efec8273ebe207bf8a40fb2bfbc"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_WheelCamera.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "a2ae8ee95c8a765e94e2cc5a6461fe423b4c18d0c2528ba36b0095fa8913ef99",
+    "after": "a2ae8ee95c8a765e94e2cc5a6461fe423b4c18d0c2528ba36b0095fa8913ef99"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RCC_WheelCollider.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "48b03f1b6dd422d66c3f2821459ea0954f00e6302ac5ed1501e17b669c2c496d",
+    "after": "d02fe78291297fb5e209f0edf5e5fb55c8f1d0b9c5e9fad07b3813c639c83b9c"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RETURN_TRIGGER.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "450041b35435dc7d42e004a6a97ac758bb93f68ea8dbd7a8132e400798caa62c",
+    "after": "450041b35435dc7d42e004a6a97ac758bb93f68ea8dbd7a8132e400798caa62c"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RE_ENABLE.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "4e5a36646f76493c03264ea8d968dd5c641b421cef62810f0ab92dfb76036b2d",
+    "after": "b0e4cb10e277616f30a5ac3e4bc2dfd0edd424ba417de87baaae8613ab4a149f"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\RING_.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "3b1e83de204f66ae36859006c6e6a0ee7ae7af94778b25c35ed5408dda1826e6",
+    "after": "3b1e83de204f66ae36859006c6e6a0ee7ae7af94778b25c35ed5408dda1826e6"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\rotate.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "716f6d63ad2a3bb80b74b72f970050fb45fbcb3f032f4384128782de04556df8",
+    "after": "716f6d63ad2a3bb80b74b72f970050fb45fbcb3f032f4384128782de04556df8"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\SCHOOLRACE_.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "8bc8d7e661f91e0f6f9b912bcbfc85a220d37b330c6ad1c20c0a093ddecec92c",
+    "after": "a03ff92837a1f958caebaeaa235f452de9dbd41e71066bebb8c0d1772c06df04"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\SCHOOL_MANAGER.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "074afa9b8bc490535e718608532056b4546837c84581616d35ff2a3615414883",
+    "after": "05be76eeeb1bfb08e65aa4fca693c6358cec34d4edd6e2abd5083c1334fe1c68"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\ScreenFader.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "3f7a3c4d23d2bc577834252565aa222ddbde007c9d47df3d2eb3843fea86f618",
+    "after": "d20a3f6cc2ad1470c1ce048d08624e86b3d6ac6af27704e2c1bbb8eb1c36edc0"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\SEAGULL.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "cb1e5c563e73a0fbc3a4627bff10640d5786c37689f389e88a6c8e8d6b63bdd3",
+    "after": "cb1e5c563e73a0fbc3a4627bff10640d5786c37689f389e88a6c8e8d6b63bdd3"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\Sea_TRIGGER.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "d0ca117786a1ad5d740c5778d52b2822719d64b1a457ea29001b3f2ec83d54fa",
+    "after": "d0ca117786a1ad5d740c5778d52b2822719d64b1a457ea29001b3f2ec83d54fa"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\SECTOR.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "91fcf1870a943cf87020b34744d70bd6e0684a5faa6c0d705750fb1b38e0b88d",
+    "after": "91fcf1870a943cf87020b34744d70bd6e0684a5faa6c0d705750fb1b38e0b88d"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\SEED.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "21a4507f4f231191ff878e0570ce8565f367da0abdfc361505032484c348f0b9",
+    "after": "21a4507f4f231191ff878e0570ce8565f367da0abdfc361505032484c348f0b9"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\SEED_GEN.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "7a02bdd0a3f8b39c6f44faf0a5dcb35e91b1b05c00a9ce9eaf1de334c3efb2ff",
+    "after": "7a02bdd0a3f8b39c6f44faf0a5dcb35e91b1b05c00a9ce9eaf1de334c3efb2ff"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\SF_OFF.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "c8b099d194af86b1c8b515cbaaae3403e98731d165e5a4cce4f5e842e848559a",
+    "after": "c8b099d194af86b1c8b515cbaaae3403e98731d165e5a4cce4f5e842e848559a"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\sky_move.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "bdee18938c4f584385b2889b79725ecd61b6b751bff452f28a7f47f821050321",
+    "after": "bdee18938c4f584385b2889b79725ecd61b6b751bff452f28a7f47f821050321"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\SMOKE_.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "6db49eb6d05dbcb1b61044fd7ad21c9f3da3ef65e0b58f4b6b144dc51a5788e6",
+    "after": "1a428cf667910ba5f539aed2bcd71aaf092060e04d5e8f882873707495f7b56a"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\SOVET.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "1c67a18b89511e24f6b0f31f079d71a929e9d94d1b49249482916732f63adbfe",
+    "after": "1c67a18b89511e24f6b0f31f079d71a929e9d94d1b49249482916732f63adbfe"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\SPEED_.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "b01e11a73a157f2df2bae6a7c198b15995065cf80e7f1ffb9a5e2bfcb556b40d",
+    "after": "ce18b24a592e071ba423007f65aa2a33d18611879013bbf067bab0ced7abedaa"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\SPLASH_.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "341ced7f3cddc7b677dc4effd676dd0f12ca0674784ef17ce471242603038aff",
+    "after": "b967bb89488efaab26e2ca4e7549bef9f8896c301f6a6f82bcbee42244348415"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\STOP_TRIGGER.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "5c2b0fe08141c094fc9f462b26f8407378f20ffd11b1b7909abc781282f4b063",
+    "after": "5c2b0fe08141c094fc9f462b26f8407378f20ffd11b1b7909abc781282f4b063"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\TangentSpaceVisualizer.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "51b490eef07c436dacbb7b49c283f4896fbc796c9ee9b9051a9fe632bf467838",
+    "after": "51b490eef07c436dacbb7b49c283f4896fbc796c9ee9b9051a9fe632bf467838"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\TARGETS_MENU.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "50681e97886b05e36df429866d641850b935536f04e92fc9d8ea6d5cf6683d17",
+    "after": "330485bd361fdcced5e48e8d10aee70cf2763399d35ad7fdd57541e6cd6d5b96"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\TAXI_MANAGER.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "21121230857057a2ed8d5082ca30791774f7675d25891326a892a61e3e2c49b4",
+    "after": "da47ec29c617be72775ce8e54d8111a050f94f39ea8c58a21a623a7362d3dbd2"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\TestIntenseVibration.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "f1bed445563916a536aeb05747a77fef6d26b8eaa003dba31246d5f8c4cd7dba",
+    "after": "f1bed445563916a536aeb05747a77fef6d26b8eaa003dba31246d5f8c4cd7dba"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\TIME_ADD.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "1a1ff002c08b1ab887e7b36edf3928ec6c5900e1c34121e3230a9c938e78bb44",
+    "after": "85d0474b5b2584afd115ee0ab2f6439ed107e35672c2f973edd6597c8834192a"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\TIME_PICKUP.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "ed66ed152ba9be1480447589279e3c6fdaa50aca7c6b939e3a9e93b9339c10b1",
+    "after": "ed66ed152ba9be1480447589279e3c6fdaa50aca7c6b939e3a9e93b9339c10b1"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\TORNADO.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "0add38da2022561da6dae2973b4af2cbb2648cdd0b50752f8f5a998755085117",
+    "after": "0add38da2022561da6dae2973b4af2cbb2648cdd0b50752f8f5a998755085117"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\Touch_drag_rotate_scale_control.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "72c2c3b2cea30db1878b7849a8fcc3fd0563e60116c14373c5c96c52241c727f",
+    "after": "2ec1f7c5908e5d47dbf89637b570747ccd4a42cf99c7aaa973a29831fd5b4596"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\Touch_drag_rotate_scale_control_ui.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "1f8ac2e1b8997660fe62b8e1fc372bc8214aa5a4000f79b2b9b3b6ceb3cafac7",
+    "after": "1f8ac2e1b8997660fe62b8e1fc372bc8214aa5a4000f79b2b9b3b6ceb3cafac7"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\TRAFFIC_DESTROY.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "1efe4182e6fd7614a4074bdef4f65e2327f299bfa51bc7fef2665b0ff0f4f2c7",
+    "after": "1efe4182e6fd7614a4074bdef4f65e2327f299bfa51bc7fef2665b0ff0f4f2c7"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\TRAFFIC_DESTROYS.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "7a2be832832110b2ab8a2d1e3c4fc06c1773f862c661d1671fcc84553cdde808",
+    "after": "7a2be832832110b2ab8a2d1e3c4fc06c1773f862c661d1671fcc84553cdde808"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\TRAFFIC_MANAGER.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "6ebbadf1dea2f59997b8df81ebba5402c149b9042c42a530eea8c3bfbfc0b9fe",
+    "after": "f76ff1e0a0de4518edf5466252f6ed5e0305f59cb07699c1393bdb643c3b91bb"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\TRAFFIC_MOVE.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "6b9ae9037b023c14bd56788035563e8b65ad6703de9b8a3506b6b960dffbaaa1",
+    "after": "6b9ae9037b023c14bd56788035563e8b65ad6703de9b8a3506b6b960dffbaaa1"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\TRAFFIC_POINT.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "aa1fc4704e026fc7842463f118e422905afc3fc11096823f6daf70a47100bf29",
+    "after": "aa1fc4704e026fc7842463f118e422905afc3fc11096823f6daf70a47100bf29"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\TRAFFIC_POINT1.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "a465b10d63ac4d7fca9b075832a8b4b11a5f05f9e37e3e50fdbf4cb01bd25e29",
+    "after": "a465b10d63ac4d7fca9b075832a8b4b11a5f05f9e37e3e50fdbf4cb01bd25e29"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\TRAFFIC_TRIGGER.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "490fd9d05e4a2667d36db6926c62a92fe776adfa39e40c932cf28263ed182faa",
+    "after": "490fd9d05e4a2667d36db6926c62a92fe776adfa39e40c932cf28263ed182faa"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\TRAIL_CONTROLLER.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "b63ca53cc52d2a7cf53b8d815db68ae62cfabd8a323259c717309139797bd94e",
+    "after": "c7aa129c600812b6c9a4692170397a734d634c43cbc09ee8b5b62f7797dff1dd"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\TRAMPLINE_AI.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "b9409c83bac0d9236b2adfc6a5441b10679c70ef5b1261e5345e057d8de48a86",
+    "after": "a640b226f9bad74050f8165ddd0f9dd2fd5b47cf16d51c1f0996db935cf28eb6"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\TUNING_ITEM_CHECK.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "88819fce1699950a5882b5a07dcceb3cbeed73f9259b66a0afb2415a3ceddc07",
+    "after": "fd97cc0dfad40d75f4fc8f93160843d565a43ddde1d8cf427c551056a8991088"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\TUNING_MENU.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "23a0466544ca01103c7611813c2f9ce92392e4f9598d861ffec71caa4f3c1589",
+    "after": "dc609751ebb8456542f886df4e165958604dd87150801484b191dfad178c5155"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\UniqueGameLogic.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "deac89aaf9c8242380092c6c96ce52ec2b3fc416c59d7b4349905eb60e0260bc",
+    "after": "deac89aaf9c8242380092c6c96ce52ec2b3fc416c59d7b4349905eb60e0260bc"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\UniqueObjectManager.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "300306a44ab67975f76c1c5363a272df4b1c00a5f0c96c55f2cc3fe55a457413",
+    "after": "5f3d606ff0a5af01e97f6cdda594c317ef4b5d04bb76f65aeacddebf6e30df4a"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\UniqueSaveManager.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "f012fc4e27cbadde51f18bdfed295654e03e93323af7a3fb36c993f5c6e945cc",
+    "after": "f012fc4e27cbadde51f18bdfed295654e03e93323af7a3fb36c993f5c6e945cc"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\UPGRADE_MENU.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "fefb960120924e27c478d281f86b3e5fc3d22de9b322fd166da15af45f5f0468",
+    "after": "77dbbca2b18078e138022172b56382fa0168fbddf857d8de8a10c296b56fe469"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\UploadDownloadTexture.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "0fc7e343047209580ceb5358f08c6a49a7e9dc3623c9ce75a89e12c14d90d12b",
+    "after": "edb12e59bcb5929af7396780156d5b47c1b35e8f301ee7c6f71d03c371856552"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\VILLY_MANAGMENT.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "007b1a70ee6bc6c7e1fb5c374e568015c776789253bd5ec06355b0c95e76c722",
+    "after": "5ea057ba29afe1f77bb8a1b4b8110a080af8f8f884ee3ee58ff3cf6302003560"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\WATER_QUALITY.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "4dc42c2436ca50457d7a39772d57f87397623fe8b81b2d4b2ce7f28b1acfeb21",
+    "after": "24681590f629005e2d6ca070544250450b3ae213dddb807a5635330c969eca9b"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\XMLVariableConverter.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "2a5ce97fe302934b872db4b235e2fb78fa4269859e7278efcfe61794ef9967c9",
+    "after": "2a5ce97fe302934b872db4b235e2fb78fa4269859e7278efcfe61794ef9967c9"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\_LEVEL.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "2df0dd97f44b75c19556f88188b8d4d8e047320fecadd33adc31cf8813444a55",
+    "after": "2df0dd97f44b75c19556f88188b8d4d8e047320fecadd33adc31cf8813444a55"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\CPA\\UnityVersionWrapper.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "98785a9348b290d6cf0e2480dc6f33f21616d9d41ed84d6558963038c168bd6d",
+    "after": "98785a9348b290d6cf0e2480dc6f33f21616d9d41ed84d6558963038c168bd6d"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\FxProNS\\BloomHelper.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "be42bb84881ea2b4538c496a63686359e4b9acc29e71b13465bb5e52d9dba9b6",
+    "after": "be42bb84881ea2b4538c496a63686359e4b9acc29e71b13465bb5e52d9dba9b6"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\FxProNS\\BloomHelperParams.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "dae99be165eab1c13315c8bd7ca6660fbba189fe797fdc5b49ec75c62bc68878",
+    "after": "dae99be165eab1c13315c8bd7ca6660fbba189fe797fdc5b49ec75c62bc68878"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\FxProNS\\DOFHelper.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "8fd273b06f0def20e062f505cd4cd6952c67dc7ed6fd6949770d940a341d20e0",
+    "after": "36a96d2531533cdb91cd218c8ade11662ea6d0dcc2c41867b955d965ac2326bf"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\FxProNS\\DOFHelperParams.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "aac5b716e23e68e9b3f30ddaf0e3276bd2e47c3aba8e7bcc35c4e979d342234d",
+    "after": "aac5b716e23e68e9b3f30ddaf0e3276bd2e47c3aba8e7bcc35c4e979d342234d"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\FxProNS\\EffectsQuality.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "8efffc35baa8d2546f6065f2a39a434c07fb750f474fc3c91131431f0e36b2fd",
+    "after": "0195bec0da8311218b7c199a3058bde39da2b49f5b7dd933dc991a0df6e0adc9"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\FxProNS\\RenderTextureManager.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "fe44d6c1278a6d233b634d1b855e612445583b2ba6eddfd765725eb6dc2f39cf",
+    "after": "00c0aae07cf23a8c86ca22838024c774f68ca56eed7417ea369b94111ff23b0e"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\FxProNS\\Singleton.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "6a618c7871820896ef3aec315594841b17db72518d8079c567c68cbbcdedaf07",
+    "after": "6a618c7871820896ef3aec315594841b17db72518d8079c567c68cbbcdedaf07"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\LowPolyWaterv2Demo\\DemoFreeFlyCamera.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "7bd4eb943dd5d31a15145b7fc85052044b8e498a4efcec99525f1a45ee11ec85",
+    "after": "7bd4eb943dd5d31a15145b7fc85052044b8e498a4efcec99525f1a45ee11ec85"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\LPWAsset\\Displacement.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "1d94a69056cc3588a04ceb064abbf26fa278652953b27e15b1941ff44cde22c4",
+    "after": "4270f63848bdca633307718eb5f035dcb536d5e714cdffb52226bf22bb855052"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\LPWAsset\\LowPolyWaterScript.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "fa07846b099b25cd3ab0ac2903f9314a2bc7770904f30d65028adffa71198685",
+    "after": "1116b259e598353a8c37f1934f0f397edc789325668b0da9eaab6f7e66cb1db8"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\LPWAsset\\LPWDepthEffect.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "0bc7eec7c71d8b40189eb69a2fd9a3575e75c68aaefcd2a26e5181b70a0c723e",
+    "after": "64d9fec126d226091e6f4a89716b859957ef7a9651e74361c8538aac75ba676e"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\LPWAsset\\LPWNoise.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "9ce1fccdf32ca39776c406ebf15274177267a407538e7eb84398097f2fcdcd37",
+    "after": "9ce1fccdf32ca39776c406ebf15274177267a407538e7eb84398097f2fcdcd37"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\LPWAsset\\LPWNormalSolver.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "b938b291867323aa4100b13075aff4c0bd311f3e4b45b1fa04edbb35218ad008",
+    "after": "e444d76e5fb5a860eb9e91a09d772aee079a584183651117b0b784d07ac15012"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\LPWAsset\\LPWReflection.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "2e302e7c1523bcdf8b23d6105cd8670565954547db0d48171d08a199264fef1f",
+    "after": "324cb1447660a1a4148382fa822b4e60c5a19f0ee155c8d38a72f65ac7b34d44"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\LPWAsset\\LPWReflectionParams.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "17cfa5453631a9f6e0ffcc33437a8d4012e01bce36650680b57b089815fefdcc",
+    "after": "17cfa5453631a9f6e0ffcc33437a8d4012e01bce36650680b57b089815fefdcc"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\LPWAsset\\WaterMode.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "233fdd9b93bae0c69d8e2ecb41cab8a66f9fac15b0515325a891d8471c3ab47e",
+    "after": "233fdd9b93bae0c69d8e2ecb41cab8a66f9fac15b0515325a891d8471c3ab47e"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\Properties\\AssemblyInfo.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "3f2d9aef361f6bd45cf542030116d1b94381b4b5be99101d240db38543a523e9",
+    "after": "3f2d9aef361f6bd45cf542030116d1b94381b4b5be99101d240db38543a523e9"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-CSharp\\Unity\\GeneratedNetworkCode.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "948a2a4edec3571d42c607b30f31aced5127cedb550de48ab8a02e3a52110e70",
+    "after": "7927cadf6297705eab202091a61719fb53394b7a030348b9924a35c685eb5f9a"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-UnityScript\\CharacterMotor.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "7fad26767c11bc5e76cf5897ce334bb415d59f84c3fe1229feb8746559149bbe",
+    "after": "2d80e03374ca88055c49e93a1c0d4337cf92ce5e8d6ba8aecd95c709a85a4b1f"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-UnityScript\\CharacterMotorJumping.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "775eb8ab571da3e0dbbe86d7fa9754339d2a517868560e304ae4b367d6115d4d",
+    "after": "775eb8ab571da3e0dbbe86d7fa9754339d2a517868560e304ae4b367d6115d4d"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-UnityScript\\CharacterMotorMovement.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "3807968a917eebf838fcba3ac7019a15d8d7da2cc68ab9615555705f9c66c1cc",
+    "after": "3807968a917eebf838fcba3ac7019a15d8d7da2cc68ab9615555705f9c66c1cc"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-UnityScript\\CharacterMotorMovingPlatform.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "f018dfc8f2292d971c98da3dcca6720069cf50c07573f36b0c7827dbe9e8ae5e",
+    "after": "f018dfc8f2292d971c98da3dcca6720069cf50c07573f36b0c7827dbe9e8ae5e"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-UnityScript\\CharacterMotorSliding.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "b6c1210b894057ff401288dd86eac0a60b3e6a37dca45ca987827184016c6c14",
+    "after": "b6c1210b894057ff401288dd86eac0a60b3e6a37dca45ca987827184016c6c14"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-UnityScript\\CharacterState.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "87d2b8b8422e4480122f8b4106018f97e3cdf033b35b26acee4a8aa2cb780c17",
+    "after": "e744acdd606451abd4c450efde252a7aa7a0330478a7e1971bddb2c847344ce9"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-UnityScript\\FPSInputController.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "27b59cd9ba52f36f89ed43e48b038c399380b77bd597c23f883228a467447ca6",
+    "after": "27b59cd9ba52f36f89ed43e48b038c399380b77bd597c23f883228a467447ca6"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-UnityScript\\Light_Flicker.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "9a6e28c805e155afe53e6f9b418bcb30fe8d5aaa6ade6e967dfa6185dc8319bc",
+    "after": "9a6e28c805e155afe53e6f9b418bcb30fe8d5aaa6ade6e967dfa6185dc8319bc"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-UnityScript\\MovementTransferOnJump.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "60a6572ab959e22be0a80cc202e4458d4a4ac977a67b150203d0f8a3bf1077c8",
+    "after": "a1cdd9397d625b0188b3602497367def56f25414c4fa69d3f36fd58883528327"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-UnityScript\\PlatformInputController.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "c026592e86ae674dc6849f3d6b6c87b2a6ec3794cacafa54a247741852dc4577",
+    "after": "c026592e86ae674dc6849f3d6b6c87b2a6ec3794cacafa54a247741852dc4577"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-UnityScript\\ScrollUV.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "ad15e0badf5957b96fa2799d34d888d52dd6dcdb37d7aa56e8b41ce5d8e77ce3",
+    "after": "ad15e0badf5957b96fa2799d34d888d52dd6dcdb37d7aa56e8b41ce5d8e77ce3"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-UnityScript\\ThirdPersonCamera.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "85cee973d5c20983082170a8405bccbd2acd09931095f1327efa45852ac9c94f",
+    "after": "f122bb29600c815574e26f283d91df77b9390aa8c1c994fb7a34c94914596cbb"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-UnityScript\\ThirdPersonController.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "3ae2ac8e87d936c3ca517023cb10920514da96da6420544adff59187550cf60b",
+    "after": "3ae2ac8e87d936c3ca517023cb10920514da96da6420544adff59187550cf60b"
+  },
+  {
+    "path": "Assets\\Scripts\\Assembly-UnityScript\\Properties\\AssemblyInfo.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "3f2d9aef361f6bd45cf542030116d1b94381b4b5be99101d240db38543a523e9",
+    "after": "3f2d9aef361f6bd45cf542030116d1b94381b4b5be99101d240db38543a523e9"
+  },
+  {
+    "path": "Assets\\Plugins\\Assembly-UnityScript-firstpass\\AI_Traffic_Car_PRO.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "9447944d7f591db271132c23add96f1bf3144b2d3891ee1e06a9e45f271ad293",
+    "after": "4b7cd437c16feba0120eb15f7490a76098e4bce5ed493e9199b3118153250dbe"
+  },
+  {
+    "path": "Assets\\Plugins\\Assembly-UnityScript-firstpass\\CMode.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "dd6a94d540f60d38748387018b0be7b8f74d5cc41b0f95f85d13b214635aa5d3",
+    "after": "5465e2094eda185e4c0152dd532f1a4971b7c0b46c3a873ebd9b02d234ab0c92"
+  },
+  {
+    "path": "Assets\\Plugins\\Assembly-UnityScript-firstpass\\CType2.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "2789af06b9c60404566258eaf96a748203e087267d1dfe438be57d07c3687430",
+    "after": "b1e0a3cd8e8ed6b8d99dd9e1db00925a9962a768d408352f3f0eb1d27822d18e"
+  },
+  {
+    "path": "Assets\\Plugins\\Assembly-UnityScript-firstpass\\PostEffectsBase.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "a28fe404c49f63bacf808ae60f81f7d38ac2de8232ec14bd402356785324010f",
+    "after": "fddacbc1747fa1127091aa26d766577d832985893c4214c645e23599f1c25f4f"
+  },
+  {
+    "path": "Assets\\Plugins\\Assembly-UnityScript-firstpass\\TrafficLight.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "6af1d133106305f923ad70c96bdd0dbf706da4101016f1fe1c1129982b625f13",
+    "after": "f25ba5ba397c0b2e8a5f98103a2a072d368e7ec790ba1af4a493cdc26ffe65ff"
+  },
+  {
+    "path": "Assets\\Plugins\\Assembly-UnityScript-firstpass\\WAYPOINTS_S.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "adc397d31d2b1e7e7f50733c6c48770aef320e20dbda71a9341ce80d89b08de8",
+    "after": "e2c2ea1ab13a72c7c908eafbcbaf158653ef40aa1c5ead5ce9b00a40d4fc291f"
+  },
+  {
+    "path": "Assets\\Plugins\\Assembly-UnityScript-firstpass\\WheelAlignScript.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "711c707421d8017d71817b3568ab1ab032398f717767f1b21e6049e8ceb1cda1",
+    "after": "711c707421d8017d71817b3568ab1ab032398f717767f1b21e6049e8ceb1cda1"
+  },
+  {
+    "path": "Assets\\Plugins\\Assembly-UnityScript-firstpass\\Properties\\AssemblyInfo.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "3f2d9aef361f6bd45cf542030116d1b94381b4b5be99101d240db38543a523e9",
+    "after": "3f2d9aef361f6bd45cf542030116d1b94381b4b5be99101d240db38543a523e9"
+  },
+  {
+    "path": "Assets\\Plugins\\Assembly-CSharp-firstpass\\Properties\\AssemblyInfo.cs",
+    "operation": "replace_source_preserve_meta",
+    "before": "3f2d9aef361f6bd45cf542030116d1b94381b4b5be99101d240db38543a523e9",
+    "after": "3f2d9aef361f6bd45cf542030116d1b94381b4b5be99101d240db38543a523e9"
+  },
+  {
+    "path": "Assets\\Plugins\\ES2.dll",
+    "operation": "target_recompiled_plugin_preserve_meta",
+    "sha256": "06919bdf49d3001a1b5b9c96004c2c083ff5cf7c019c63c8676bb69922231b0c"
+  },
+  {
+    "path": "Assets\\Plugins\\MoodkieSecurity.dll",
+    "operation": "target_recompiled_plugin_preserve_meta",
+    "sha256": "dfde718b340b5b9f79ee9a995b2408d72d5960034daeabf82b3272a8eeea2f08"
+  },
+  {
+    "path": "Assets\\Plugins\\Tayx.Graphy.dll",
+    "operation": "target_recompiled_plugin_preserve_meta",
+    "sha256": "6e1c184183799c4eaf027b024248f1c650d9a9ca3220d77235fd71328d4916a6"
+  },
+  {
+    "path": "Assets\\Plugins\\ch.sycoforge.Combine.dll",
+    "operation": "target_recompiled_plugin_preserve_meta",
+    "sha256": "389717085a8a2294fa5b10e9f30a37edd7b68da5aa0adf4ec06cd7671ace9b65"
+  },
+  {
+    "path": "Assets\\Plugins\\ch.sycoforge.Unity.Runtime.dll",
+    "operation": "target_recompiled_plugin_preserve_meta",
+    "sha256": "3f0bfdb4caf33d5ef4f0124aaa69e7159fdd7fd608946e7186210563853cdc25"
+  },
+  {
+    "path": "Assets\\Plugins\\UnityEngine.Analytics.dll",
+    "operation": "excluded_unused_exported_framework_or_platform_binary",
+    "reference_count": 0
+  },
+  {
+    "path": "Assets\\Plugins\\UnityEngine.Purchasing.dll",
+    "operation": "excluded_unused_exported_framework_or_platform_binary",
+    "reference_count": 0
+  },
+  {
+    "path": "Assets\\Plugins\\UnityEngine.StandardEvents.dll",
+    "operation": "excluded_unused_exported_framework_or_platform_binary",
+    "reference_count": 0
+  },
+  {
+    "path": "Assets\\Plugins\\System.Runtime.InteropServices.dll",
+    "operation": "excluded_unused_exported_framework_or_platform_binary",
+    "reference_count": 0
+  },
+  {
+    "path": "Assets\\Plugins\\System.Runtime.CompilerServices.Unsafe.dll",
+    "operation": "excluded_unused_exported_framework_or_platform_binary",
+    "reference_count": 0
+  }
+]

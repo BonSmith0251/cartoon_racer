@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - pGrass
+  - PHYS_OBJ
+  - PHYS_OBJ2
+  - FxTemporaire
+  - COIN
+  - PARTICLE_OBJ
+  - PARTICLE_OBJ2
+  - PARTICLE_OBJ3
+  - FENCE
+  - FENCE2
+  - TRASH
+  - LIGHT
+  - STRAW
+  - BARREL
+  - BOX
+  - CAR
+  - SEED
+  - SEED_
+  - FUEL
+  - PASSENGER_TARGET
+  - PASSENGER_PREFAB
+  - STRAW_BIG
+  - TRAFFIC
+  - COINS_MANAGER
+  - WAY_LEFT
+  - WAY_RIGHT
+  - NUTRO
+  - CHEKPOINT
+  - START
+  - AI_1
+  - AI_2
+  - AI_3
+  - SPEED_CHECK
+  - CHARACTER
+  - GEAR
+  - SECTOR
+  - COIN2
+  - TIME+
+  - LETTER
+  - HYDRANT
+  - WATER
+  - LIGHTS
+  - TERRAIN
+  - PLAYER
+  - RACE_PREFAB
+  - CONE
+  - BLOCK
+  - BLOCK_2
+  - MISSION_PICKUP
+  - MISSION_
+  - HELEMT
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - RCC
+  - TERRAIN
+  - DYNAMIC
+  - TRAFFIC
+  - RCC2
+  - GUARD
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

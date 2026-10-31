@@ -1,0 +1,129 @@
+﻿[
+    {
+        "assembly":  "Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "sha256":  "1F6EA4EC3663709087C69CB2AC1F64181181BA811E88A300694DF92168BF6F47",
+        "source_file_count":  602,
+        "source":  "C:\\Program Files (x86)\\GameTop.com\\Cartoon Hot Racer 3D\\Cartoon Hot Racer 3D_Data\\Managed\\Assembly-CSharp.dll",
+        "references":  [
+                           "mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                           "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "UnityEngine.AIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "UnityEngine.VehiclesModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "UnityEngine.Networking, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "UnityEngine.TerrainModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "UnityEngine.IMGUIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                           "ES2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                           "Tayx.Graphy, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "Assembly-UnityScript-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+                       ]
+    },
+    {
+        "assembly":  "Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "sha256":  "3CB39E97E5162A7BE7A63470613313E8233730667BC44C3F5A809F0121FE79A3",
+        "source_file_count":  1,
+        "source":  "C:\\Program Files (x86)\\GameTop.com\\Cartoon Hot Racer 3D\\Cartoon Hot Racer 3D_Data\\Managed\\Assembly-CSharp-firstpass.dll",
+        "references":  [
+                           "mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+                       ]
+    },
+    {
+        "assembly":  "Assembly-UnityScript, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "sha256":  "1F17C3C72562A80B17EC4B307767DE8528C901F7C341D709C4746B945DFE1BC0",
+        "source_file_count":  14,
+        "source":  "C:\\Program Files (x86)\\GameTop.com\\Cartoon Hot Racer 3D\\Cartoon Hot Racer 3D_Data\\Managed\\Assembly-UnityScript.dll",
+        "references":  [
+                           "mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                           "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "Boo.Lang, Version=2.0.9.5, Culture=neutral, PublicKeyToken=32c39770e9a21a67",
+                           "UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+                       ]
+    },
+    {
+        "assembly":  "Assembly-UnityScript-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "sha256":  "7EFF94757CF5CFB32F8E0FBAFB7F4769BADA4EBEDBFB98A50278716E2EC03A78",
+        "source_file_count":  8,
+        "source":  "C:\\Program Files (x86)\\GameTop.com\\Cartoon Hot Racer 3D\\Cartoon Hot Racer 3D_Data\\Managed\\Assembly-UnityScript-firstpass.dll",
+        "references":  [
+                           "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                           "UnityEngine.VehiclesModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "UnityScript.Lang, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "Boo.Lang, Version=2.0.9.5, Culture=neutral, PublicKeyToken=32c39770e9a21a67"
+                       ]
+    },
+    {
+        "assembly":  "ch.sycoforge.Combine, Version=2018.2.3.0, Culture=neutral, PublicKeyToken=null",
+        "sha256":  "B9BB5A0FB0D1CF8D50284B05ECD65153D7B71A337514C4734EDF8D370651E003",
+        "source_file_count":  10,
+        "source":  "C:\\Program Files (x86)\\GameTop.com\\Cartoon Hot Racer 3D\\Cartoon Hot Racer 3D_Data\\Managed\\ch.sycoforge.Combine.dll",
+        "references":  [
+                           "mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                           "UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+                       ]
+    },
+    {
+        "assembly":  "ch.sycoforge.Unity.Runtime, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "sha256":  "E4220FBC7F3C815F9CAFC7B075695F6DBB0188C33B62C570A3AF5C884AB0A73E",
+        "source_file_count":  47,
+        "source":  "C:\\Program Files (x86)\\GameTop.com\\Cartoon Hot Racer 3D\\Cartoon Hot Racer 3D_Data\\Managed\\ch.sycoforge.Unity.Runtime.dll",
+        "references":  [
+                           "mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                           "UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                           "System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+                       ]
+    },
+    {
+        "assembly":  "ES2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "sha256":  "62111565EB8BA2760B88E5D2DFA4390F00E906696D8C187B331D63D0FF33A255",
+        "source_file_count":  80,
+        "source":  "C:\\Program Files (x86)\\GameTop.com\\Cartoon Hot Racer 3D\\Cartoon Hot Racer 3D_Data\\Managed\\ES2.dll",
+        "references":  [
+                           "System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                           "mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                           "UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                           "MoodkieSecurity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+                       ]
+    },
+    {
+        "assembly":  "MoodkieSecurity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "sha256":  "3A6403562A63373DF40D44530EBE3A278628A04E71EAA2BD7D93617E9C8C5DDA",
+        "source_file_count":  7,
+        "source":  "C:\\Program Files (x86)\\GameTop.com\\Cartoon Hot Racer 3D\\Cartoon Hot Racer 3D_Data\\Managed\\MoodkieSecurity.dll",
+        "references":  [
+                           "mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+                       ]
+    },
+    {
+        "assembly":  "Tayx.Graphy, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "sha256":  "093DFEF10D4DB1976C4E715709CE3F4579B6B0056494364904E597155B5E2AA8",
+        "source_file_count":  24,
+        "source":  "C:\\Program Files (x86)\\GameTop.com\\Cartoon Hot Racer 3D\\Cartoon Hot Racer 3D_Data\\Managed\\Tayx.Graphy.dll",
+        "references":  [
+                           "mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                           "UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                           "UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "UnityEngine.ScreenCaptureModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                           "UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+                       ]
+    }
+]

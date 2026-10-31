@@ -1,0 +1,22 @@
+[
+  {
+    "path": "Assembly-CSharp/ForcedReset.cs",
+    "old": "typeof(GUITexture)",
+    "new": "typeof(UnityEngine.UI.Image)",
+    "reason": "Removed engine GUITexture replaced with supported UI Image requirement; attachment usage must be checked."
+  },
+  {
+    "path": "Assembly-CSharp/UnityStandardAssets.Utility/SimpleActivatorMenu.cs",
+    "old": "public GUIText camSwitchButton;",
+    "new": "public UnityEngine.UI.Text camSwitchButton;",
+    "reason": "Removed engine GUIText replaced with UI Text; any original field reference needs migration."
+  },
+  {
+    "path": "Assembly-CSharp/RCC_UNetNetwork.cs",
+    "reason": "Isolated removed UNet subsystem behind explicit define pending original attachment audit; no replacement stubs."
+  },
+  {
+    "path": "Assembly-CSharp/Unity/GeneratedNetworkCode.cs",
+    "reason": "Isolated removed UNet subsystem behind explicit define pending original attachment audit; no replacement stubs."
+  }
+]
