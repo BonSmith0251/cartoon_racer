@@ -1,0 +1,1051 @@
+{
+  "scene_issues": [
+    {
+      "scope": "Assets/MENU.unity",
+      "owner": "GlobalObjectId_V1-2-bdf7fdbe647509448896dd9ecc696fa7-1510-0",
+      "type": "missing-script",
+      "message": "Null component in slot 3",
+      "source_go": "level0:1510",
+      "active_self": true,
+      "classification": "original-null-script",
+      "source_components": [
+        {
+          "component_id": "15479",
+          "enabled": 0,
+          "script_path_id": "0"
+        }
+      ]
+    },
+    {
+      "scope": "Assets/MENU.unity",
+      "owner": "GlobalObjectId_V1-2-bdf7fdbe647509448896dd9ecc696fa7-2187-0",
+      "type": "invalid-unityevent",
+      "message": "m_OnClick.m_PersistentCalls.m_Calls[0] target/method missing: OPEN_URL",
+      "source_go": "level0:2187",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level0:16215",
+          "method": "OPEN_URL",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "target_type": null,
+          "classification": "original-null-target"
+        }
+      ],
+      "classification": "original-null-target"
+    },
+    {
+      "scope": "Assets/MENU.unity",
+      "owner": "GlobalObjectId_V1-2-bdf7fdbe647509448896dd9ecc696fa7-327-0",
+      "type": "invalid-unityevent",
+      "message": "m_OnClick.m_PersistentCalls.m_Calls[0] target/method missing: OPEN_URL",
+      "source_go": "level0:327",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level0:14121",
+          "method": "OPEN_URL",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "target_type": null,
+          "classification": "original-null-target"
+        }
+      ],
+      "classification": "original-null-target"
+    },
+    {
+      "scope": "Assets/MENU.unity",
+      "owner": "GlobalObjectId_V1-2-bdf7fdbe647509448896dd9ecc696fa7-3141-0",
+      "type": "invalid-unityevent",
+      "message": "m_OnClick.m_PersistentCalls.m_Calls[0] target/method missing: OPEN_URL",
+      "source_go": "level0:3141",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level0:17336",
+          "method": "OPEN_URL",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "target_type": null,
+          "classification": "original-null-target"
+        }
+      ],
+      "classification": "original-null-target"
+    },
+    {
+      "scope": "Assets/MENU.unity",
+      "owner": "GlobalObjectId_V1-2-bdf7fdbe647509448896dd9ecc696fa7-1736-0",
+      "type": "invalid-unityevent",
+      "message": "m_OnClick.m_PersistentCalls.m_Calls[0] target/method missing: OPEN_URL",
+      "source_go": "level0:1736",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level0:15711",
+          "method": "OPEN_URL",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "target_type": null,
+          "classification": "original-null-target"
+        }
+      ],
+      "classification": "original-null-target"
+    },
+    {
+      "scope": "Assets/MENU.unity",
+      "owner": "GlobalObjectId_V1-2-bdf7fdbe647509448896dd9ecc696fa7-3047-0",
+      "type": "invalid-unityevent",
+      "message": "m_OnClick.m_PersistentCalls.m_Calls[0] target/method missing: CLOSE_GDPR",
+      "source_go": "level0:3047",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level0:17221",
+          "method": "CLOSE_GDPR",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "target_type": null,
+          "classification": "original-null-target"
+        }
+      ],
+      "classification": "original-null-target"
+    },
+    {
+      "scope": "Assets/MENU.unity",
+      "owner": "GlobalObjectId_V1-2-bdf7fdbe647509448896dd9ecc696fa7-356-0",
+      "type": "invalid-unityevent",
+      "message": "m_OnClick.m_PersistentCalls.m_Calls[0] target/method missing: OPEN_SHOP",
+      "source_go": "level0:356",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level0:14159",
+          "method": "OPEN_SHOP",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 15478
+          },
+          "target_type": "MENU_MANAGER",
+          "classification": "original-method-absent-on-target-type"
+        }
+      ],
+      "classification": "original-method-absent-on-target-type"
+    },
+    {
+      "scope": "Assets/MENU.unity",
+      "owner": "GlobalObjectId_V1-2-bdf7fdbe647509448896dd9ecc696fa7-141-0",
+      "type": "invalid-unityevent",
+      "message": "m_OnClick.m_PersistentCalls.m_Calls[0] target/method missing: CLOSE_SHOP",
+      "source_go": "level0:141",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level0:13890",
+          "method": "CLOSE_SHOP",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 15478
+          },
+          "target_type": "MENU_MANAGER",
+          "classification": "original-method-absent-on-target-type"
+        }
+      ],
+      "classification": "original-method-absent-on-target-type"
+    },
+    {
+      "scope": "Assets/MENU.unity",
+      "owner": "GlobalObjectId_V1-2-bdf7fdbe647509448896dd9ecc696fa7-3397-0",
+      "type": "invalid-unityevent",
+      "message": "m_OnClick.m_PersistentCalls.m_Calls[0] target/method missing: BUY_1000_COINS",
+      "source_go": "level0:3397",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level0:17651",
+          "method": "BUY_1000_COINS",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 15479
+          },
+          "target_type": null,
+          "classification": "original-target-has-null-script"
+        }
+      ],
+      "classification": "original-target-has-null-script"
+    },
+    {
+      "scope": "Assets/MENU.unity",
+      "owner": "GlobalObjectId_V1-2-bdf7fdbe647509448896dd9ecc696fa7-3397-0",
+      "type": "missing-reference-candidate",
+      "message": "UnityEngine.UI.Button.m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target",
+      "source_go": "level0:3397",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level0:17651",
+          "method": "BUY_1000_COINS",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 15479
+          },
+          "target_type": null,
+          "classification": "original-target-has-null-script"
+        }
+      ],
+      "classification": "original-target-has-null-script"
+    },
+    {
+      "scope": "Assets/MENU.unity",
+      "owner": "GlobalObjectId_V1-2-bdf7fdbe647509448896dd9ecc696fa7-4082-0",
+      "type": "invalid-unityevent",
+      "message": "m_OnClick.m_PersistentCalls.m_Calls[0] target/method missing: BUY_5000_COINS",
+      "source_go": "level0:4082",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level0:18416",
+          "method": "BUY_5000_COINS",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 15479
+          },
+          "target_type": null,
+          "classification": "original-target-has-null-script"
+        }
+      ],
+      "classification": "original-target-has-null-script"
+    },
+    {
+      "scope": "Assets/MENU.unity",
+      "owner": "GlobalObjectId_V1-2-bdf7fdbe647509448896dd9ecc696fa7-4082-0",
+      "type": "missing-reference-candidate",
+      "message": "UnityEngine.UI.Button.m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target",
+      "source_go": "level0:4082",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level0:18416",
+          "method": "BUY_5000_COINS",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 15479
+          },
+          "target_type": null,
+          "classification": "original-target-has-null-script"
+        }
+      ],
+      "classification": "original-target-has-null-script"
+    },
+    {
+      "scope": "Assets/MENU.unity",
+      "owner": "GlobalObjectId_V1-2-bdf7fdbe647509448896dd9ecc696fa7-4036-0",
+      "type": "invalid-unityevent",
+      "message": "m_OnClick.m_PersistentCalls.m_Calls[0] target/method missing: BUY_10000_COINS",
+      "source_go": "level0:4036",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level0:18367",
+          "method": "BUY_10000_COINS",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 15479
+          },
+          "target_type": null,
+          "classification": "original-target-has-null-script"
+        }
+      ],
+      "classification": "original-target-has-null-script"
+    },
+    {
+      "scope": "Assets/MENU.unity",
+      "owner": "GlobalObjectId_V1-2-bdf7fdbe647509448896dd9ecc696fa7-4036-0",
+      "type": "missing-reference-candidate",
+      "message": "UnityEngine.UI.Button.m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target",
+      "source_go": "level0:4036",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level0:18367",
+          "method": "BUY_10000_COINS",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 15479
+          },
+          "target_type": null,
+          "classification": "original-target-has-null-script"
+        }
+      ],
+      "classification": "original-target-has-null-script"
+    },
+    {
+      "scope": "Assets/MENU.unity",
+      "owner": "GlobalObjectId_V1-2-bdf7fdbe647509448896dd9ecc696fa7-2784-0",
+      "type": "invalid-unityevent",
+      "message": "m_OnClick.m_PersistentCalls.m_Calls[0] target/method missing: BUY_25000_COINS",
+      "source_go": "level0:2784",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level0:16929",
+          "method": "BUY_25000_COINS",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 15479
+          },
+          "target_type": null,
+          "classification": "original-target-has-null-script"
+        }
+      ],
+      "classification": "original-target-has-null-script"
+    },
+    {
+      "scope": "Assets/MENU.unity",
+      "owner": "GlobalObjectId_V1-2-bdf7fdbe647509448896dd9ecc696fa7-2784-0",
+      "type": "missing-reference-candidate",
+      "message": "UnityEngine.UI.Button.m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target",
+      "source_go": "level0:2784",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level0:16929",
+          "method": "BUY_25000_COINS",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 15479
+          },
+          "target_type": null,
+          "classification": "original-target-has-null-script"
+        }
+      ],
+      "classification": "original-target-has-null-script"
+    },
+    {
+      "scope": "Assets/MENU.unity",
+      "owner": "GlobalObjectId_V1-2-bdf7fdbe647509448896dd9ecc696fa7-2947-0",
+      "type": "invalid-unityevent",
+      "message": "m_OnClick.m_PersistentCalls.m_Calls[0] target/method missing: BUY_50000_COINS",
+      "source_go": "level0:2947",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level0:17128",
+          "method": "BUY_50000_COINS",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 15479
+          },
+          "target_type": null,
+          "classification": "original-target-has-null-script"
+        }
+      ],
+      "classification": "original-target-has-null-script"
+    },
+    {
+      "scope": "Assets/MENU.unity",
+      "owner": "GlobalObjectId_V1-2-bdf7fdbe647509448896dd9ecc696fa7-2947-0",
+      "type": "missing-reference-candidate",
+      "message": "UnityEngine.UI.Button.m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target",
+      "source_go": "level0:2947",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level0:17128",
+          "method": "BUY_50000_COINS",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 15479
+          },
+          "target_type": null,
+          "classification": "original-target-has-null-script"
+        }
+      ],
+      "classification": "original-target-has-null-script"
+    },
+    {
+      "scope": "Assets/MENU.unity",
+      "owner": "GlobalObjectId_V1-2-bdf7fdbe647509448896dd9ecc696fa7-1949-0",
+      "type": "invalid-unityevent",
+      "message": "m_OnClick.m_PersistentCalls.m_Calls[0] target/method missing: BUY_50_GEAR",
+      "source_go": "level0:1949",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level0:15969",
+          "method": "BUY_50_GEAR",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 15479
+          },
+          "target_type": null,
+          "classification": "original-target-has-null-script"
+        }
+      ],
+      "classification": "original-target-has-null-script"
+    },
+    {
+      "scope": "Assets/MENU.unity",
+      "owner": "GlobalObjectId_V1-2-bdf7fdbe647509448896dd9ecc696fa7-1949-0",
+      "type": "missing-reference-candidate",
+      "message": "UnityEngine.UI.Button.m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target",
+      "source_go": "level0:1949",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level0:15969",
+          "method": "BUY_50_GEAR",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 15479
+          },
+          "target_type": null,
+          "classification": "original-target-has-null-script"
+        }
+      ],
+      "classification": "original-target-has-null-script"
+    },
+    {
+      "scope": "Assets/MENU.unity",
+      "owner": "GlobalObjectId_V1-2-bdf7fdbe647509448896dd9ecc696fa7-2571-0",
+      "type": "invalid-unityevent",
+      "message": "m_OnClick.m_PersistentCalls.m_Calls[0] target/method missing: BUY_100_GEAR",
+      "source_go": "level0:2571",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level0:16692",
+          "method": "BUY_100_GEAR",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 15479
+          },
+          "target_type": null,
+          "classification": "original-target-has-null-script"
+        }
+      ],
+      "classification": "original-target-has-null-script"
+    },
+    {
+      "scope": "Assets/MENU.unity",
+      "owner": "GlobalObjectId_V1-2-bdf7fdbe647509448896dd9ecc696fa7-2571-0",
+      "type": "missing-reference-candidate",
+      "message": "UnityEngine.UI.Button.m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target",
+      "source_go": "level0:2571",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level0:16692",
+          "method": "BUY_100_GEAR",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 15479
+          },
+          "target_type": null,
+          "classification": "original-target-has-null-script"
+        }
+      ],
+      "classification": "original-target-has-null-script"
+    },
+    {
+      "scope": "Assets/MENU.unity",
+      "owner": "GlobalObjectId_V1-2-bdf7fdbe647509448896dd9ecc696fa7-978-0",
+      "type": "invalid-unityevent",
+      "message": "m_OnClick.m_PersistentCalls.m_Calls[0] target/method missing: BUY_250_GEAR",
+      "source_go": "level0:978",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level0:14871",
+          "method": "BUY_250_GEAR",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 15479
+          },
+          "target_type": null,
+          "classification": "original-target-has-null-script"
+        }
+      ],
+      "classification": "original-target-has-null-script"
+    },
+    {
+      "scope": "Assets/MENU.unity",
+      "owner": "GlobalObjectId_V1-2-bdf7fdbe647509448896dd9ecc696fa7-978-0",
+      "type": "missing-reference-candidate",
+      "message": "UnityEngine.UI.Button.m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target",
+      "source_go": "level0:978",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level0:14871",
+          "method": "BUY_250_GEAR",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 15479
+          },
+          "target_type": null,
+          "classification": "original-target-has-null-script"
+        }
+      ],
+      "classification": "original-target-has-null-script"
+    },
+    {
+      "scope": "Assets/MENU.unity",
+      "owner": "GlobalObjectId_V1-2-bdf7fdbe647509448896dd9ecc696fa7-2218-0",
+      "type": "invalid-unityevent",
+      "message": "m_OnClick.m_PersistentCalls.m_Calls[0] target/method missing: BUY_500_GEAR",
+      "source_go": "level0:2218",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level0:16255",
+          "method": "BUY_500_GEAR",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 15479
+          },
+          "target_type": null,
+          "classification": "original-target-has-null-script"
+        }
+      ],
+      "classification": "original-target-has-null-script"
+    },
+    {
+      "scope": "Assets/MENU.unity",
+      "owner": "GlobalObjectId_V1-2-bdf7fdbe647509448896dd9ecc696fa7-2218-0",
+      "type": "missing-reference-candidate",
+      "message": "UnityEngine.UI.Button.m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target",
+      "source_go": "level0:2218",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level0:16255",
+          "method": "BUY_500_GEAR",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 15479
+          },
+          "target_type": null,
+          "classification": "original-target-has-null-script"
+        }
+      ],
+      "classification": "original-target-has-null-script"
+    },
+    {
+      "scope": "Assets/MENU.unity",
+      "owner": "GlobalObjectId_V1-2-bdf7fdbe647509448896dd9ecc696fa7-268-0",
+      "type": "invalid-unityevent",
+      "message": "m_OnClick.m_PersistentCalls.m_Calls[0] target/method missing: BUY_1000_GEAR",
+      "source_go": "level0:268",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level0:14031",
+          "method": "BUY_1000_GEAR",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 15479
+          },
+          "target_type": null,
+          "classification": "original-target-has-null-script"
+        }
+      ],
+      "classification": "original-target-has-null-script"
+    },
+    {
+      "scope": "Assets/MENU.unity",
+      "owner": "GlobalObjectId_V1-2-bdf7fdbe647509448896dd9ecc696fa7-268-0",
+      "type": "missing-reference-candidate",
+      "message": "UnityEngine.UI.Button.m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target",
+      "source_go": "level0:268",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level0:14031",
+          "method": "BUY_1000_GEAR",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 15479
+          },
+          "target_type": null,
+          "classification": "original-target-has-null-script"
+        }
+      ],
+      "classification": "original-target-has-null-script"
+    },
+    {
+      "scope": "Assets/SCHOOL.unity",
+      "owner": "GlobalObjectId_V1-2-ce8abc169216c0f42865ac851236ff26-12473-0",
+      "type": "invalid-unityevent",
+      "message": "m_OnValueChanged.m_PersistentCalls.m_Calls[0] target/method missing: CHANGE_MAINVOLUME",
+      "source_go": "level5:12473",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level5:110412",
+          "method": "CHANGE_MAINVOLUME",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "target_type": null,
+          "classification": "original-null-target"
+        }
+      ],
+      "classification": "original-null-target"
+    },
+    {
+      "scope": "Assets/SCHOOL.unity",
+      "owner": "GlobalObjectId_V1-2-ce8abc169216c0f42865ac851236ff26-10363-0",
+      "type": "invalid-unityevent",
+      "message": "m_OnValueChanged.m_PersistentCalls.m_Calls[0] target/method missing: CHANGE_MUSICVOLUME",
+      "source_go": "level5:10363",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level5:110025",
+          "method": "CHANGE_MUSICVOLUME",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "target_type": null,
+          "classification": "original-null-target"
+        }
+      ],
+      "classification": "original-null-target"
+    },
+    {
+      "scope": "Assets/SCHOOL.unity",
+      "owner": "GlobalObjectId_V1-2-ce8abc169216c0f42865ac851236ff26-10363-0",
+      "type": "invalid-unityevent",
+      "message": "m_OnValueChanged.m_PersistentCalls.m_Calls[1] target/method missing: CHANGE_VOLUME",
+      "source_go": "level5:10363",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level5:110025",
+          "method": "CHANGE_VOLUME",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "target_type": null,
+          "classification": "original-null-target"
+        }
+      ],
+      "classification": "original-null-target"
+    },
+    {
+      "scope": "Assets/SCHOOL.unity",
+      "owner": "GlobalObjectId_V1-2-ce8abc169216c0f42865ac851236ff26-26590-0",
+      "type": "invalid-unityevent",
+      "message": "m_OnValueChanged.m_PersistentCalls.m_Calls[0] target/method missing: CHANGE_DISPLAYRESOLUTION",
+      "source_go": "level5:26590",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level5:112897",
+          "method": "CHANGE_DISPLAYRESOLUTION",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "target_type": null,
+          "classification": "original-null-target"
+        }
+      ],
+      "classification": "original-null-target"
+    },
+    {
+      "scope": "Assets/SCHOOL.unity",
+      "owner": "GlobalObjectId_V1-2-ce8abc169216c0f42865ac851236ff26-20000-0",
+      "type": "invalid-unityevent",
+      "message": "m_OnClick.m_PersistentCalls.m_Calls[0] target/method missing: SELECT_ARROWS",
+      "source_go": "level5:20000",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level5:111756",
+          "method": "SELECT_ARROWS",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "target_type": null,
+          "classification": "original-null-target"
+        }
+      ],
+      "classification": "original-null-target"
+    },
+    {
+      "scope": "Assets/SCHOOL.unity",
+      "owner": "GlobalObjectId_V1-2-ce8abc169216c0f42865ac851236ff26-3098-0",
+      "type": "invalid-unityevent",
+      "message": "m_OnClick.m_PersistentCalls.m_Calls[0] target/method missing: SELECT_GYRO",
+      "source_go": "level5:3098",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level5:108760",
+          "method": "SELECT_GYRO",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "target_type": null,
+          "classification": "original-null-target"
+        }
+      ],
+      "classification": "original-null-target"
+    },
+    {
+      "scope": "Assets/SCHOOL.unity",
+      "owner": "GlobalObjectId_V1-2-ce8abc169216c0f42865ac851236ff26-10455-0",
+      "type": "invalid-unityevent",
+      "message": "m_OnClick.m_PersistentCalls.m_Calls[0] target/method missing: SELECT_WHEEL",
+      "source_go": "level5:10455",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level5:110038",
+          "method": "SELECT_WHEEL",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "target_type": null,
+          "classification": "original-null-target"
+        }
+      ],
+      "classification": "original-null-target"
+    },
+    {
+      "scope": "Assets/SCHOOL.unity",
+      "owner": "GlobalObjectId_V1-2-ce8abc169216c0f42865ac851236ff26-16756-0",
+      "type": "invalid-unityevent",
+      "message": "m_OnClick.m_PersistentCalls.m_Calls[0] target/method missing: TO_MAIN",
+      "source_go": "level5:16756",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level5:111209",
+          "method": "TO_MAIN",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "target_type": null,
+          "classification": "original-null-target"
+        }
+      ],
+      "classification": "original-null-target"
+    },
+    {
+      "scope": "Assets/SCHOOL.unity",
+      "owner": "GlobalObjectId_V1-2-ce8abc169216c0f42865ac851236ff26-11626-0",
+      "type": "invalid-unityevent",
+      "message": "m_OnClick.m_PersistentCalls.m_Calls[0] target/method missing: CLOSE_COMPLETE_",
+      "source_go": "level5:11626",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level5:110269",
+          "method": "CLOSE_COMPLETE_",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "target_type": null,
+          "classification": "original-null-target"
+        }
+      ],
+      "classification": "original-null-target"
+    },
+    {
+      "scope": "Assets/SCHOOL.unity",
+      "owner": "GlobalObjectId_V1-2-ce8abc169216c0f42865ac851236ff26-6660-0",
+      "type": "invalid-unityevent",
+      "message": "m_OnClick.m_PersistentCalls.m_Calls[0] target/method missing: CLOSE_COMPLETE_",
+      "source_go": "level5:6660",
+      "active_self": true,
+      "source_events": [
+        {
+          "component": "level5:109370",
+          "method": "CLOSE_COMPLETE_",
+          "call_state": 2,
+          "target": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "target_type": null,
+          "classification": "original-null-target"
+        }
+      ],
+      "classification": "original-null-target"
+    }
+  ],
+  "scene_classification_counts": {
+    "original-null-script": 1,
+    "original-null-target": 15,
+    "original-method-absent-on-target-type": 2,
+    "original-target-has-null-script": 20
+  },
+  "rcccanvas_source_onclicked_events": [
+    {
+      "source_component": "resources.assets:2220",
+      "source_gameobject": {
+        "m_FileID": 0,
+        "m_PathID": 645
+      },
+      "target": {
+        "m_FileID": 0,
+        "m_PathID": 2315
+      },
+      "target_type": "RCC_UIDashboardButton",
+      "classification": "original-method-absent-on-target-type"
+    },
+    {
+      "source_component": "resources.assets:2267",
+      "source_gameobject": {
+        "m_FileID": 0,
+        "m_PathID": 558
+      },
+      "target": {
+        "m_FileID": 0,
+        "m_PathID": 2387
+      },
+      "target_type": "RCC_UIDashboardButton",
+      "classification": "original-method-absent-on-target-type"
+    },
+    {
+      "source_component": "resources.assets:2275",
+      "source_gameobject": {
+        "m_FileID": 0,
+        "m_PathID": 637
+      },
+      "target": {
+        "m_FileID": 0,
+        "m_PathID": 2246
+      },
+      "target_type": "RCC_UIDashboardButton",
+      "classification": "original-method-absent-on-target-type"
+    },
+    {
+      "source_component": "resources.assets:2310",
+      "source_gameobject": {
+        "m_FileID": 0,
+        "m_PathID": 553
+      },
+      "target": {
+        "m_FileID": 0,
+        "m_PathID": 2336
+      },
+      "target_type": "RCC_UIDashboardButton",
+      "classification": "original-method-absent-on-target-type"
+    },
+    {
+      "source_component": "resources.assets:2314",
+      "source_gameobject": {
+        "m_FileID": 0,
+        "m_PathID": 635
+      },
+      "target": {
+        "m_FileID": 0,
+        "m_PathID": 2262
+      },
+      "target_type": "RCC_UIDashboardButton",
+      "classification": "original-method-absent-on-target-type"
+    },
+    {
+      "source_component": "resources.assets:2358",
+      "source_gameobject": {
+        "m_FileID": 0,
+        "m_PathID": 696
+      },
+      "target": {
+        "m_FileID": 0,
+        "m_PathID": 2236
+      },
+      "target_type": "RCC_UIDashboardButton",
+      "classification": "original-method-absent-on-target-type"
+    },
+    {
+      "source_component": "resources.assets:2359",
+      "source_gameobject": {
+        "m_FileID": 0,
+        "m_PathID": 540
+      },
+      "target": {
+        "m_FileID": 0,
+        "m_PathID": 2242
+      },
+      "target_type": "RCC_UIDashboardButton",
+      "classification": "original-method-absent-on-target-type"
+    },
+    {
+      "source_component": "resources.assets:2386",
+      "source_gameobject": {
+        "m_FileID": 0,
+        "m_PathID": 653
+      },
+      "target": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "target_type": null,
+      "classification": "original-null-target"
+    },
+    {
+      "source_component": "resources.assets:2444",
+      "source_gameobject": {
+        "m_FileID": 0,
+        "m_PathID": 917
+      },
+      "target": {
+        "m_FileID": 0,
+        "m_PathID": 2449
+      },
+      "target_type": "RCC_UIDashboardButton",
+      "classification": "original-method-absent-on-target-type"
+    },
+    {
+      "source_component": "resources.assets:2454",
+      "source_gameobject": {
+        "m_FileID": 0,
+        "m_PathID": 756
+      },
+      "target": {
+        "m_FileID": 0,
+        "m_PathID": 2693
+      },
+      "target_type": "RCC_UIDashboardButton",
+      "classification": "original-method-absent-on-target-type"
+    },
+    {
+      "source_component": "resources.assets:2501",
+      "source_gameobject": {
+        "m_FileID": 0,
+        "m_PathID": 909
+      },
+      "target": {
+        "m_FileID": 0,
+        "m_PathID": 2405
+      },
+      "target_type": "RCC_UIDashboardButton",
+      "classification": "original-method-absent-on-target-type"
+    },
+    {
+      "source_component": "resources.assets:2596",
+      "source_gameobject": {
+        "m_FileID": 0,
+        "m_PathID": 582
+      },
+      "target": {
+        "m_FileID": 0,
+        "m_PathID": 2431
+      },
+      "target_type": "RCC_UIDashboardButton",
+      "classification": "original-method-absent-on-target-type"
+    },
+    {
+      "source_component": "resources.assets:2688",
+      "source_gameobject": {
+        "m_FileID": 0,
+        "m_PathID": 889
+      },
+      "target": {
+        "m_FileID": 0,
+        "m_PathID": 2466
+      },
+      "target_type": "RCC_UIDashboardButton",
+      "classification": "original-method-absent-on-target-type"
+    },
+    {
+      "source_component": "resources.assets:2783",
+      "source_gameobject": {
+        "m_FileID": 0,
+        "m_PathID": 1126
+      },
+      "target": {
+        "m_FileID": 0,
+        "m_PathID": 2778
+      },
+      "target_type": "RCC_UIDashboardButton",
+      "classification": "original-method-absent-on-target-type"
+    },
+    {
+      "source_component": "resources.assets:2818",
+      "source_gameobject": {
+        "m_FileID": 0,
+        "m_PathID": 1092
+      },
+      "target": {
+        "m_FileID": 0,
+        "m_PathID": 2822
+      },
+      "target_type": "RCC_UIDashboardButton",
+      "classification": "original-method-absent-on-target-type"
+    },
+    {
+      "source_component": "resources.assets:2821",
+      "source_gameobject": {
+        "m_FileID": 0,
+        "m_PathID": 1011
+      },
+      "target": {
+        "m_FileID": 0,
+        "m_PathID": 2798
+      },
+      "target_type": "RCC_UIDashboardButton",
+      "classification": "original-method-absent-on-target-type"
+    }
+  ],
+  "rcccanvas_note": "16 target audit OnClicked callbacks; source resource declarations identify original RCC_UIDashboardButton targets and original Assembly-CSharp metadata has no OnClicked method. Original stale callbacks, not decompilation stubs."
+}

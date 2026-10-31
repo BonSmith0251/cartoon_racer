@@ -1,0 +1,31 @@
+﻿{
+    "checked":  5,
+    "removed_new_files":  [
+                              "Unity\\c9fd055a-3b40-4b9b-b4fb-162781ea2bc4\\Analytics\\ArchivedEvents\\179338792700002.a2e6e1c1\\e",
+                              "Unity\\c9fd055a-3b40-4b9b-b4fb-162781ea2bc4\\Analytics\\ArchivedEvents\\179338792700002.a2e6e1c1\\g",
+                              "Unity\\c9fd055a-3b40-4b9b-b4fb-162781ea2bc4\\Analytics\\ArchivedEvents\\179338792700002.a2e6e1c1\\s"
+                          ],
+    "entries":  [
+                    {
+                        "path":  "Unity\\c9fd055a-3b40-4b9b-b4fb-162781ea2bc4\\Analytics\\ArchivedEvents\\179203161500004.0866337e\\s",
+                        "equal":  true
+                    },
+                    {
+                        "path":  "Unity\\c9fd055a-3b40-4b9b-b4fb-162781ea2bc4\\Analytics\\values",
+                        "equal":  true
+                    },
+                    {
+                        "path":  "Unity\\c9fd055a-3b40-4b9b-b4fb-162781ea2bc4\\Analytics\\config",
+                        "equal":  true
+                    },
+                    {
+                        "path":  "Unity\\c9fd055a-3b40-4b9b-b4fb-162781ea2bc4\\Analytics\\ArchivedEvents\\179203161500004.0866337e\\e",
+                        "equal":  true
+                    },
+                    {
+                        "path":  "Unity\\c9fd055a-3b40-4b9b-b4fb-162781ea2bc4\\Analytics\\ArchivedEvents\\179203161500004.0866337e\\g",
+                        "equal":  true
+                    }
+                ],
+    "unequal":  0
+}

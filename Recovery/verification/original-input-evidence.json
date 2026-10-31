@@ -1,0 +1,42 @@
+{
+  "window_handle": 1051830,
+  "client_resolution": [
+    1280,
+    720
+  ],
+  "mouse_events": [
+    {
+      "client": [
+        640,
+        680
+      ],
+      "action": "Start Game"
+    },
+    {
+      "client": [
+        640,
+        680
+      ],
+      "action": "Start"
+    },
+    {
+      "client": [
+        1135,
+        615
+      ],
+      "action": "Select Green Valleys"
+    }
+  ],
+  "keyboard_events": [
+    {
+      "virtual_key": "W",
+      "duration_seconds": 3
+    },
+    {
+      "virtual_key": "D",
+      "duration_seconds": 1
+    }
+  ],
+  "method": "Win32 mouse_event and keybd_event to foreground original window; no runtime reflection",
+  "note": "Player may auto-accelerate; screenshots substantiate scene and input delivery, not speed measurement"
+}

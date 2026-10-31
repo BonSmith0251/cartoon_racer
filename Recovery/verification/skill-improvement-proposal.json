@@ -1,0 +1,37 @@
+{
+  "scope": "UnityPy 1.25.4 with TypeTreeGeneratorAPI 0.0.10; original Unity Mono 2018.2.20f1",
+  "evidence": "decode_monobehaviours.py; monobehaviour-decode-summary.json; original DLLs",
+  "findings": [
+    {
+      "issue": "AssetsTools generated MonoBehaviour m_Enabled lacks alignment; m_Script reads byte-shifted yet total byte-size may still pass",
+      "remedy": "Replace only the four engine header nodes with version-matched UnityPy TPK MonoBehaviour header, preserving custom layout; check pointer resolution as well as byte consumption."
+    },
+    {
+      "issue": "UnityScript assemblies have module names without .dll and AssetsTools backend fails its lookup",
+      "remedy": "Use loaded module names and AssetRipper backend for the affected UnityScript classes; keep backend-specific failures explicit."
+    },
+    {
+      "issue": "Generated string[] wrapper may be called string although its Array.data child is string; fast parser treats array bytes as one string",
+      "remedy": "After confirming managed field is string[], rebuild wrapper as vector with same child nodes. Construct fresh TypeTreeNodes because mutating m_Type leaves C parser cached behavior unchanged."
+    },
+    {
+      "issue": "Raw type-tree API can replace Unicode managed field names with question marks (Cyrillic U+0421 in TRAFFIC_MANAGER field)",
+      "remedy": "Prefer get_nodes_as_json and JSON decoding to preserve Unicode field names; validate exact field identity against original metadata/export."
+    }
+  ],
+  "validation": {
+    "previous_failures": 26724,
+    "strictly_decoded_after": 26724,
+    "supplemental_resolved_refs": 90811,
+    "supplemental_original_nulls": 15607,
+    "missing_refs": 0,
+    "remaining_failures": 0,
+    "export_check": {
+      "scene_monobehaviours": 11922,
+      "scalar_fields": 69956,
+      "local_or_null_refs": 21362,
+      "differences": 0
+    }
+  },
+  "bounds": "These checks close source decoding coverage only; do not prove exported serialized values or runtime fidelity. No installed tools were patched. Original managed layouts and raw objects remain preserved."
+}
