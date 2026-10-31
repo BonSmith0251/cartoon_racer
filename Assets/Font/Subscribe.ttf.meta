@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: a96ae47c8abb22e419b9ed49b06a154e
+timeCreated: 1793387445
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  name:
+  externalObjects: {}
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FTY Garishing Worse NCV
+  fontNames:
+  - FTY Garishing Worse NCV
+  - Subscribe
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  output:
+    hasEmptyFontData: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:
