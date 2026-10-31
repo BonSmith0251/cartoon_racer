@@ -1,0 +1,140 @@
+{
+  "schema": "independent-reconstruction-verification/1",
+  "updated_utc": "2026-10-30T19:36:47Z",
+  "target_editor": "2023.2.22f1",
+  "source_version": "2018.2.20f1",
+  "overall": "PASS for recorded recovery/build/rendered startup and driving scopes; INCONCLUSIVE for whole-game behavioral or visual equivalence",
+  "checks": [
+    {
+      "scope": "Final original installation and raw preservation copy",
+      "verdict": "pass",
+      "evidence": "final-source-integrity.json",
+      "result": "Both complete file sets contain exactly the initial 198 paths: zero extra, missing or hash-changed files."
+    },
+    {
+      "scope": "Source inventory, object decoding and reported external stream ranges",
+      "verdict": "pass",
+      "evidence": [
+        "independent-source-coverage.json",
+        "monobehaviour-decode-summary.json"
+      ],
+      "result": "394116 source objects in 21 serialized files; all decoded by combined base/supplemental ledgers. All 211 external stream ranges valid. Supplemental layouts: 26724/26724 strict byte-size reads, 90811 resolved references and 15607 original nulls; no missing/ambiguous edges."
+    },
+    {
+      "scope": "Independent pristine scene custom-component exported values",
+      "verdict": "pass",
+      "evidence": "independent-monobehaviour-export-comparison.json",
+      "result": "11922 MonoBehaviours across eight scenes; 69956 scalar fields and 21362 local/null references match source.",
+      "limits": "15758 cross-file references, 22189 nested fields and 217 long/multiline strings not checked in this comparison. Target import not claimed."
+    },
+    {
+      "scope": "Integrated target scene custom-component scalar values and local/null references",
+      "verdict": "pass",
+      "evidence": "independent-target-monobehaviour-comparison.json",
+      "result": "11922 MonoBehaviours;69956scalar fields+21362local/null references match original across eight scenes; exact target scene SHA256s recorded.",
+      "limits": "Static YAML comparison; external references/nested fields/longstrings not fully compared; full runtime behavior not established."
+    },
+    {
+      "scope": "Initial editor audit warning provenance",
+      "verdict": "pass for original-versus-introduced classification",
+      "evidence": [
+        "original-issue-classification.json",
+        "original-managed-method-names.json"
+      ],
+      "result": "All 54 warning rows trace to original serialized nulls or original absent target methods. One disabled original missing script retained. This classification does not make the stale callbacks functional."
+    },
+    {
+      "scope": "Original reference menu/Green Valleys driving",
+      "verdict": "pass for exercised route",
+      "evidence": [
+        "original-menu.png",
+        "original-start.png",
+        "original-driving-before.png",
+        "original-driving-after.png",
+        "original-input-evidence.json"
+      ],
+      "result": "Separate unmodified original runtime copy. Physical mouse Start Game ? Start ? Select Green Valleys. Physical W for 3 seconds and D for 1 second; scene progressed and car turned into truck/curb.",
+      "limits": "No synchronized original telemetry; no complete mission/race loop; original player log not produced despite -logFile."
+    },
+    {
+      "scope": "Original user-state preservation after reference play",
+      "verdict": "pass",
+      "evidence": [
+        "original-registry-restore-check.json",
+        "original-save-restore-check.json"
+      ],
+      "result": "PlayerPrefs export restored byte-identical SHA256; five pre-existing LocalLow files restored/hash-equal, three newly created analytics files removed. Original reference process exited."
+    },
+    {
+      "scope": "Initial target standalone build, visible UI and physical driving",
+      "verdict": "pass for exercised route",
+      "evidence": [
+        "tested-build-files.json",
+        "target-input-evidence.json",
+        "target-visible-menu.png",
+        "target-driving-before.png",
+        "target-driving-after.png",
+        "target-visible-player.log"
+      ],
+      "result": "Build log independently reports Success; report0errors417warnings. Actual mouse route followed fresh-profile car requirement, garage tutorial and3000-game-coin starter-car purchase, then Start?Select Green Valleys. Verified target HWND ownership before physical W3seconds+D1second input. Car accelerated/steered off road and drift reward overlay appeared. Runtime log contains no Exception/Error matches.",
+      "limits": "Only startup/first-run menu/garage/map/driving exercised. No full race/mission, audio recording, precise physics matching, or all-map coverage. Menu camera time/profile/random state differ from reference. Visible trial version and Development Build watermark retained without attributing cause."
+    },
+    {
+      "scope": "Final migration and shader compile evidence review",
+      "verdict": "pass for tested checks",
+      "evidence": [
+        "../scenes/native-renderer-audit.json",
+        "../scenes/shader-audit/shader-report.json"
+      ],
+      "result": "Reviewed final graphics-capable editor reports: 195 migrated native Renderer links and 32 prefab root names checked, 0 failures. ShaderUtil checked 303 custom shader assets, 0 compile errors.",
+      "limits": "Shader compilation does not establish original shader semantics; 281 placeholders remain."
+    },
+    {
+      "scope": "Final frozen Windows build and normal visible runtime smoke",
+      "verdict": "pass for startup/menu/additive gameplay rendering",
+      "evidence": [
+        "../../Build/CartoonRacerRecon.exe.build-result.json",
+        "final-runtime-normal/process-result.json",
+        "final-runtime-normal/runtime.jsonl",
+        "final-runtime-normal/player.log",
+        "final-runtime-normal/7-initial-menu.png",
+        "final-runtime-normal/25-gameplay.png"
+      ],
+      "result": "Final build Succeeded: 0 errors, 410 warnings, 390976647 bytes. Normal-window player exit 0; final event complete; 0 app errors; zero managed exceptions and zero native PresentFrame diagnostics. MENU action loaded GAME and CITY_STATIC additively; authentic 1280x720 captures show textured UI, environment and car.",
+      "limits": "Automated actual menu-method invocation bypasses physical first-run purchase/map buttons and applies no driving input. Physical end-to-end route was separately tested on the preceding build. Runtime retains 191 negative-scale BoxCollider warnings and one source-original missing-script warning."
+    },
+    {
+      "scope": "Presentation diagnostic isolation",
+      "verdict": "pass for normal launch; failed presentation automation retained as historical evidence",
+      "evidence": [
+        "final-runtime-smoke/player.log",
+        "final-runtime-normal/player.log"
+      ],
+      "result": "Repeated startup show/resize automation produced eight native D3D11 PresentFrame diagnostics. The same frozen build launched normally without any ShowWindow/SetWindowPos calls produced zero such diagnostics. Earlier hidden black screenshots are excluded from visual verification."
+    },
+    {
+      "scope": "Original PlayerPrefs after target testing",
+      "verdict": "pass",
+      "evidence": "final-original-playerprefs-check.json",
+      "result": "Original registry export remains byte-identical to backup after isolated target runs."
+    }
+  ],
+  "known_limitations": [
+    "281 of 303 exported custom shaders remain placeholders; 11 selected custom shaders are evidence-based reconstructions and 11 are target TMP package replacements. Optional FxPro/Graphy/filter features and broader shader fidelity are incomplete.",
+    "Legacy particle behavior is migrated through compatibility implementations; four obsolete GUILayer records are retained as data-preservation bridges. Exact original effects are not established.",
+    "No complete mission/race progression, all-map behavior, measured physics equivalence, synchronized pixel comparison, audio recording/listening audit or online-feature validation.",
+    "Original and reconstructed screenshots use different profile state, elapsed camera animation time and random state; visual comparison is qualitative.",
+    "Negative-scale BoxCollider warnings remain; exact collision equivalence is unverified.",
+    "Visible trial version and Development Build watermarks are retained; no cause attributed or restriction bypass attempted.",
+    "Original stale null-script/callback defects remain classified separately; preserved defects are not functional repairs."
+  ],
+  "frozen_revision": {
+    "build_manifest": "final-tested-build-files.json",
+    "build_file_count": 255,
+    "build_manifest_sha256": "44c8b48511ec31dc06f790898453070b2f3f9a71661320892abe2c53ea45c86a",
+    "project_manifest": "final-tested-project-files.json",
+    "project_file_count": 6389,
+    "project_manifest_sha256": "71835aa086c9c958615b0926a016e5df8ce70821d95da38d7c04be5904500eca",
+    "original_inventory_sha256": "f7ed73940d335701b0685d516e57fb3cb0a59dd23aaaa008234c2f98f18ad796"
+  }
+}

@@ -1,0 +1,1282 @@
+{
+  "utc": "2026-10-30T19:30:59Z",
+  "build_root": "D:\\Games\\CartoonRacerRecon\\Build",
+  "version_label": "initial successful target build physically tested before final shader/GUILayer update",
+  "files": [
+    {
+      "path": "CartoonRacerRecon.exe",
+      "bytes": 667648,
+      "sha256": "8b1b768251995739f67ad97487352952921452aa2869b3671c377e9e116ab8dc"
+    },
+    {
+      "path": "CartoonRacerRecon.exe.build-result.json",
+      "bytes": 169,
+      "sha256": "e360b256987ee3745973c0311766646bc05690a7c633d0299ad02c16f1a985de"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\app.info",
+      "bytes": 49,
+      "sha256": "34116458bc84283d9cbbc2df9c1171e71eb4942ba1f82a4c0fd58c001ab87eb7"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\boot.config",
+      "bytes": 429,
+      "sha256": "f63c3f7feb1b5fc48fb1b110a8351fbac5ac2c59542b0708dc772cd07665365a"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\globalgamemanagers",
+      "bytes": 203196,
+      "sha256": "8bdc26cff69d94bd43da32d2ab02c2204a16fe9a2df30604e04a7175af867564"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\globalgamemanagers.assets",
+      "bytes": 109068,
+      "sha256": "dc970d2b156eb4e13a6241f7e6a100f6cf876a1aa29021f696792d13ac102b9c"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\globalgamemanagers.assets.resS",
+      "bytes": 3584720,
+      "sha256": "6f83bad8ccd350b9ca3574b0286111efee0def8483b412c4e47de2558eebe5c8"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\level0",
+      "bytes": 2339252,
+      "sha256": "699ab2571da7fa28dc4105422625650188d038c8f83e1ee9a26a168b2c1e886a"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\level1",
+      "bytes": 1151000,
+      "sha256": "d763fd944eb0c89a26bc5f3c0745017f2cacbdfcfb5eb619d47c4f167641f893"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\level2",
+      "bytes": 4221788,
+      "sha256": "70d105c977c30dac13ca1c2f8d33996a8ebfabaf579d48b875e9d34bce6fe683"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\level3",
+      "bytes": 4708788,
+      "sha256": "94cc53ff8bfaec1ed3ebc7db4625fcd7017852533ca6824a1f5a04d7c55bc075"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\level4",
+      "bytes": 241804,
+      "sha256": "cbcfb3fe0052e2dc19940ba52ec3adc99ce3c0f7c0d2305cb20f0e614e85d5b4"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\level5",
+      "bytes": 18931952,
+      "sha256": "19a9fe7a59bb9b67d1b7d7d87afe7222045f541c75f5670c1cccdd9909173833"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\level6",
+      "bytes": 4976172,
+      "sha256": "60841e67c894df93757cee3653d3eadc7c7e1d2deeb56f8898676f81113e2d00"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\level7",
+      "bytes": 220664,
+      "sha256": "74168f53f3419ababffdcea319bdd035fef806809b8288bb91fbe1c894660091"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\Assembly-CSharp-firstpass.dll",
+      "bytes": 4608,
+      "sha256": "b71c987e9f47075d69bb024b82a468cf067cbde55728f711c25b1be07cb7e4be"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\Assembly-CSharp-firstpass.pdb",
+      "bytes": 15956,
+      "sha256": "a383e884f1b7c235b4eeb168ac07cd638e3785b617d4ec0c501e636f088859ac"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\Assembly-CSharp.dll",
+      "bytes": 1060864,
+      "sha256": "b02cac623f496c2e305bc3651989ade4cf93b02708b225f6c5ae821abf5f894c"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\Assembly-CSharp.pdb",
+      "bytes": 496124,
+      "sha256": "14469bd8032e0a62372c3baf4a4f5a73ba22510ebded1cc435e0babd41f7dcb9"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\Assembly-UnityScript-firstpass.dll",
+      "bytes": 21504,
+      "sha256": "972bc3a75f3cb58e3424dac71caed63243e96bb9d23b0fe873a02e634a0dcedf"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\Assembly-UnityScript-firstpass.pdb",
+      "bytes": 23228,
+      "sha256": "30abf49705dd541cf05d6e4e5771ae005aadc6f33eb49fe118bed0b5da7af7cd"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\Assembly-UnityScript.dll",
+      "bytes": 27648,
+      "sha256": "351f018193fd9c9d588bf2277389094ea2b67ac2ff25a6c6286fa292b98126a0"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\Assembly-UnityScript.pdb",
+      "bytes": 26552,
+      "sha256": "571c5f451a64ea41af0ad0e6f7d36646f4f8be74f5e5cd1a45e5b81399ae4ac3"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\Boo.Lang.dll",
+      "bytes": 126976,
+      "sha256": "16e0ada242f69ceed4efc9edc85bb941e0639bba90c78c06696d8384f2966a77"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\ch.sycoforge.Combine.dll",
+      "bytes": 19968,
+      "sha256": "389717085a8a2294fa5b10e9f30a37edd7b68da5aa0adf4ec06cd7671ace9b65"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\ch.sycoforge.Unity.Runtime.dll",
+      "bytes": 95744,
+      "sha256": "3f0bfdb4caf33d5ef4f0124aaa69e7159fdd7fd608946e7186210563853cdc25"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\ES2.dll",
+      "bytes": 136704,
+      "sha256": "06919bdf49d3001a1b5b9c96004c2c083ff5cf7c019c63c8676bb69922231b0c"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\Mono.Security.dll",
+      "bytes": 241152,
+      "sha256": "bd89653eafe878bcfd3165d000d277163985f21fdd55fd30680a65b6b024a33f"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\MoodkieSecurity.dll",
+      "bytes": 11776,
+      "sha256": "dfde718b340b5b9f79ee9a995b2408d72d5960034daeabf82b3272a8eeea2f08"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\mscorlib.dll",
+      "bytes": 4632064,
+      "sha256": "ef3885425e230cac5c275485943527684182de69b90ed26c93352e39251faadd"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\netstandard.dll",
+      "bytes": 90112,
+      "sha256": "6ae62e082dc494a2433984177f60ca4db5fae69b1f360a8b33754172b310b8c5"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\System.ComponentModel.Composition.dll",
+      "bytes": 257024,
+      "sha256": "1a139c594fea8da72f66379e91f0af373e6615570f48164cb04d23206a2529bf"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\System.Configuration.dll",
+      "bytes": 124928,
+      "sha256": "5adadfa1595ac01128ed7a804dff648e7dd39a8261eeac6745ba69d01521268d"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\System.Core.dll",
+      "bytes": 1113088,
+      "sha256": "8255a459f3bc8af6bb1cc4f1309f6d99b499d05c10582e418606f6b0282051e8"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\System.Data.DataSetExtensions.dll",
+      "bytes": 29696,
+      "sha256": "4a38e58df1a6d4922e9ea82696557102747bbfa73828de332cd814e71ef9a865"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\System.Data.dll",
+      "bytes": 2125312,
+      "sha256": "a409a6db2cd45755a5991dd603a0fabd66f6d4af4d64c1380ecdabe485c8a234"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\System.dll",
+      "bytes": 2640384,
+      "sha256": "366d4436b2efde50b14332daafa0c434e5c09526a4bac8d9976d1dd9dcc3b1eb"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\System.Drawing.dll",
+      "bytes": 489984,
+      "sha256": "0e75a327f2beb0b24931027c9515ce37bd175c8b198205a06f5ea90af9f0bf83"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\System.EnterpriseServices.dll",
+      "bytes": 44544,
+      "sha256": "eb28aacedd7b79f1dea273888e7bd37826171161c56a8986cf418c2026116462"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\System.IO.Compression.dll",
+      "bytes": 114688,
+      "sha256": "92c0b73d3217b72c7847a969dec6d6047951c68119afae4727bfacdd7beb4822"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\System.IO.Compression.FileSystem.dll",
+      "bytes": 18432,
+      "sha256": "74dcbcb9ce6f0f841e05a0d129bfdbccc9d0685254702e2eea87004faeb83f4f"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\System.Net.Http.dll",
+      "bytes": 122880,
+      "sha256": "0279179b0da86d3ccb2af465607e68cc8ed0226f8b6fc70433a3b9a892c078f6"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\System.Numerics.dll",
+      "bytes": 119296,
+      "sha256": "10c40df322a1d61422c9ca7891f98a9c5542d5b206b54aa8a942a6484fb2ab46"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\System.Runtime.Serialization.dll",
+      "bytes": 934400,
+      "sha256": "2839505fdf7271c6a3551ee14f18bfde1f3c73abf7792be4d1d8fd1512194788"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\System.Security.dll",
+      "bytes": 320000,
+      "sha256": "620a1ffe5ca9922e3ad12cd92585a6b0a8f36dbd230d773699b2be0846945b7d"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\System.ServiceModel.Internals.dll",
+      "bytes": 215040,
+      "sha256": "a30c908f95f66d234053c7d9d79b159328e7fba4a803facf8a2f84940b9276d5"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\System.Transactions.dll",
+      "bytes": 35328,
+      "sha256": "58907c73afa677f19b5e065bb04914762756c0c579316db423f2fb3d0b0021ef"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\System.Xml.dll",
+      "bytes": 3160064,
+      "sha256": "28cd21a059579e80117392280c19f32f43acc8603a6c27997f804676e86772b4"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\System.Xml.Linq.dll",
+      "bytes": 136704,
+      "sha256": "e978d6431e17f17cee65d8cc96cbdcc8e51d7f17f8ec3c54c6fed7bc30da0e68"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\Tayx.Graphy.dll",
+      "bytes": 49664,
+      "sha256": "6e1c184183799c4eaf027b024248f1c650d9a9ca3220d77235fd71328d4916a6"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\Unity.TextMeshPro.dll",
+      "bytes": 471552,
+      "sha256": "cd247986d87ad1ba73985406d84794cf0a8814c15f29be21ab8a0436b3495adc"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\Unity.TextMeshPro.pdb",
+      "bytes": 253136,
+      "sha256": "aa0c9de458c20e615640b872272b6412f4b3c85b81b4a59d28351cf6663cbf37"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.AccessibilityModule.dll",
+      "bytes": 47352,
+      "sha256": "28099ff417b4c960b224c284d7b6ec6bad10e5b79fbefb3cc5d26b2aecb98323"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.AccessibilityModule.pdb",
+      "bytes": 23692,
+      "sha256": "5f7f240234023eeb8370a671cc4fc240039492239cf39e90fdc28b9c74b61cc9"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.AIModule.dll",
+      "bytes": 71416,
+      "sha256": "591ca199ea83883d9f6becb53e149497f868e5aff45b51b4bb2d8788d4c0f922"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.AIModule.pdb",
+      "bytes": 20308,
+      "sha256": "c1ff4cee7cd371941f44777284ec4a7199d79da3add69533dc44c86d0e78c8be"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.AndroidJNIModule.dll",
+      "bytes": 102648,
+      "sha256": "4d834134d286184f804b887ac8b38d1c825e299c0b876a5647841484f2d32670"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.AndroidJNIModule.pdb",
+      "bytes": 46744,
+      "sha256": "f0f7ec40e1f5e196351d24636cc0ee657234e8f9e71a8d121dd68a4a3092785c"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.AnimationModule.dll",
+      "bytes": 211704,
+      "sha256": "41e9e771bdc3a5b90ef182bf44bda04b71a84350526b82fc718b94841f852410"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.AnimationModule.pdb",
+      "bytes": 58416,
+      "sha256": "e09a573f583abbf8ccca619242f2a5863b7555daf7d6da88b8523ab404ea4bb2"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.ARModule.dll",
+      "bytes": 20216,
+      "sha256": "44a52c20b28c3f857b890e58d76d303bb975e5e94d4e7547519b3ea161538100"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.ARModule.pdb",
+      "bytes": 9704,
+      "sha256": "7ece6691554ed655522455f83e433cd273605e2efeba79f273d8cb0432972a97"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.AssetBundleModule.dll",
+      "bytes": 37112,
+      "sha256": "5d726599751b450953c356e869c920dfed37912c10566e605ca00483ef892b90"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.AssetBundleModule.pdb",
+      "bytes": 13848,
+      "sha256": "6ead42da267be25bc1d5565ff4d8b2d04742f149b1cfb81cbefeb9e955d6083f"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.AudioModule.dll",
+      "bytes": 101112,
+      "sha256": "608481b7ae4beb1392158f2d93046debdba8a208cabb6fddefe6dad7c8555a6d"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.AudioModule.pdb",
+      "bytes": 23580,
+      "sha256": "c14a0a0fa7f0241a5927f5f2fb70cdf6ab5132627af2f2e0969acbbe6d1c2bcc"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.ClothModule.dll",
+      "bytes": 30968,
+      "sha256": "5bafa01e23f8a44bef998d00fe5a54c1f1b47395a1f0c364ed2980cfa8c6defa"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.ClothModule.pdb",
+      "bytes": 10296,
+      "sha256": "21e9ff0c055f99a11a9befe20da50db1577edaaaef59e1388aae0f48e132e659"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.ClusterInputModule.dll",
+      "bytes": 22264,
+      "sha256": "58a393581e9d50631e15e5b6de36353ab841655f987f5ad1829ac5606858e9f7"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.ClusterInputModule.pdb",
+      "bytes": 9088,
+      "sha256": "c394c63aac1340409b39899285d2455b2a1a23d49e86aa49d43752e9295e2cab"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.ClusterRendererModule.dll",
+      "bytes": 21240,
+      "sha256": "a068c2e781cff16a8a7ef0ba60a6dc9ded57048166c2e62d24ed8784193e4a05"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.ClusterRendererModule.pdb",
+      "bytes": 9688,
+      "sha256": "244068194d84e36f7ec40567ab3b05bcfa6173e86c531cb260637310e3b65cda"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.CommandStateObserverModule.dll",
+      "bytes": 54520,
+      "sha256": "35f6277bfa1c48801a19e34b534248f550a31d000ef07f951c71643597675748"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.CommandStateObserverModule.pdb",
+      "bytes": 23992,
+      "sha256": "af4875ec75b546e3940fb6ba2c37223770ea8011da0d27c3570c3cf741acc5c8"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.ContentLoadModule.dll",
+      "bytes": 26872,
+      "sha256": "5094db14bce3186f47b429c9ac4a9bee827e726eb232d870edaa2f5f90642a4c"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.ContentLoadModule.pdb",
+      "bytes": 10768,
+      "sha256": "f01d54b3b2efede20f79deea3ed9ea6fd4d429f9785d0555d4619efd783269ea"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.CoreModule.dll",
+      "bytes": 1717496,
+      "sha256": "e44b24a0f2c4c0545ee21b1da7197bb8f7e791f4c00f454538efd90e49409e62"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.CoreModule.pdb",
+      "bytes": 504292,
+      "sha256": "42fb4c22fb6979b6093bfb97b494599c3b26357ae236e4e9bccae5723f5d00f3"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.CrashReportingModule.dll",
+      "bytes": 21240,
+      "sha256": "fe70bc67cafbda02e7a3b20b3b7aec4e3fbfa52a1447851e3c5271a5c9e2098b"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.CrashReportingModule.pdb",
+      "bytes": 9588,
+      "sha256": "5a0326d67b8ff1112201731eb02d5bde9c15c90ea896fbbcd683cae8354bdfb3"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.DirectorModule.dll",
+      "bytes": 36088,
+      "sha256": "7c55108db613bf68d1c5b4360093c9a752c7bfad0f567ca2f6944de0fad2e3c0"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.DirectorModule.pdb",
+      "bytes": 13616,
+      "sha256": "c4bab0be1a8739e95938030102c5f52efffbf8e796183cab8526e894cb7c87c4"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.dll",
+      "bytes": 164088,
+      "sha256": "24649b136101acf8a5f9ce2a55e8e4321009fc111235e50faa03d061bc3f7295"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.DSPGraphModule.dll",
+      "bytes": 28408,
+      "sha256": "c3ffbed4f81585402243038b4b138f28d9e7b7eb91b87b082b40f3a23bb64da4"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.DSPGraphModule.pdb",
+      "bytes": 10240,
+      "sha256": "4a78e7a930b1bae4a448618c1c000367c613057e9faaefc13a45f8cb720a55d4"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.GameCenterModule.dll",
+      "bytes": 40184,
+      "sha256": "f4c5211a974f163e31ceb06297b9fb3188922b2f33be6c142e66983a7799a5b0"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.GameCenterModule.pdb",
+      "bytes": 17184,
+      "sha256": "a1b860c14c4f548a004a30a608be829e88223d0a1b0c6500a11e6895ce4d9bf4"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.GIModule.dll",
+      "bytes": 19192,
+      "sha256": "bd653c0e2b89b89d2c8b0b5d0e95e71becd078a2a53af64fb30d619b260c85b6"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.GIModule.pdb",
+      "bytes": 8968,
+      "sha256": "47a6f079a18f6cc17b1aeeb1eaa06aa120702ff2beb103721cce4263ffada550"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.GraphToolsFoundationModule.dll",
+      "bytes": 40696,
+      "sha256": "f1e70cde8be6b4c24a741b88bc01d87d442ba0382a04957cb30084ae66bffa31"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.GraphToolsFoundationModule.pdb",
+      "bytes": 20792,
+      "sha256": "c607ef6a589f17c8e4e901345ec97c6572a69a1eb8a8069467916e092eb90542"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.GridModule.dll",
+      "bytes": 24824,
+      "sha256": "b5fd5a7ebc1566dc7dccad681eeff222516ab0d304261aa1f35d3f4b061b14e6"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.GridModule.pdb",
+      "bytes": 9724,
+      "sha256": "8b55c796c3cfc716987a309a2be1c5045852aeb5829f310cc8fffaad6e97d6db"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.HierarchyCoreModule.dll",
+      "bytes": 78584,
+      "sha256": "dfce93ac9701feae93aaa3715db796757fa52fd2e82c3d0098adb9655423efd2"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.HierarchyCoreModule.pdb",
+      "bytes": 28704,
+      "sha256": "ff407676b793a6dc291fda87ce5dc0578cd6fedb7aa40a07fcd2c0543fda01c8"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.HotReloadModule.dll",
+      "bytes": 19192,
+      "sha256": "b754be701a5ec6c711843da797d3637cdc555bc7d797ea75e82ecd4261754028"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.HotReloadModule.pdb",
+      "bytes": 8968,
+      "sha256": "7c7a117510ec5b0f640c6862b35a1a697a13cc5ac3564662045aef7201de977e"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.ImageConversionModule.dll",
+      "bytes": 24824,
+      "sha256": "1f626b4637a8ed62e4d125b2d09470d3b213f9d8be1bd31ea127d081270e31ef"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.ImageConversionModule.pdb",
+      "bytes": 10140,
+      "sha256": "d66d4250b78bd90d83634921edc5e58f31044dca45e81eaa4be34b42c27f9cd7"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.IMGUIModule.dll",
+      "bytes": 200952,
+      "sha256": "5dcbc6e27e6fbb45574c6d86338b6b0682491d04de88ba596a09399c10657bfc"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.IMGUIModule.pdb",
+      "bytes": 87580,
+      "sha256": "68dea8a949730c42080a1f1f8fcd4688548f73b845322a6764fc7275388d89fe"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.InputForUIModule.dll",
+      "bytes": 55544,
+      "sha256": "fdd6510f1aa2bbf16c70494b338a0356ec07631829624687262e4db79bfc5287"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.InputForUIModule.pdb",
+      "bytes": 25644,
+      "sha256": "b730ec72bf97495654b0e47f2ae3f7ad8bc8db8245dc5a654f5199f01ccf2be4"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.InputLegacyModule.dll",
+      "bytes": 39672,
+      "sha256": "364697956f5b19209880d080dcfe519114e43675eb4e098475f3e93b587c9163"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.InputLegacyModule.pdb",
+      "bytes": 14964,
+      "sha256": "5b4adbc57394ab5bfbfc95c6071366929afb580017b7358fb906ea6f460a8bbb"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.InputModule.dll",
+      "bytes": 22776,
+      "sha256": "c95c77f96f0849ae17b0040defbc6afa7a4e79d291fdf08c0d6036747b9899ad"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.InputModule.pdb",
+      "bytes": 10324,
+      "sha256": "d1beaf431a09cf955a3d5556c8a226857f6bb67563d588181f2acd0f65b88fe3"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.JSONSerializeModule.dll",
+      "bytes": 21752,
+      "sha256": "a296e27eacb29f9244f24323b010dfacc53af713d480de8b01cff1e584c80482"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.JSONSerializeModule.pdb",
+      "bytes": 9592,
+      "sha256": "07f053e7b81f7912981daeec12161e73331a8f260a18392472356f44f75ff2c5"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.LocalizationModule.dll",
+      "bytes": 21752,
+      "sha256": "c3fbbf19c862f88fab69bf98afb3b9a2f93b9d7b4e70c2d8d0128cfe8ad87ef9"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.LocalizationModule.pdb",
+      "bytes": 9388,
+      "sha256": "4bc65d4937a6fac644f397e3c1b122a060787769aca46693ca2a751359d649eb"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.MarshallingModule.dll",
+      "bytes": 60664,
+      "sha256": "662078a63acb6250dde435e73f2b4e983f3afc4fa6cf60315f7c44f85ed46eb5"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.MarshallingModule.pdb",
+      "bytes": 12364,
+      "sha256": "7d709a4fd68904fe8c17b5a8288025d1dc382a283602a3ced087063960da85a9"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.MultiplayerModule.dll",
+      "bytes": 14072,
+      "sha256": "fdf0963e6128e6c1a266cf869a5efe2a93f5895e282f3aa0d530006532ad1112"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.MultiplayerModule.pdb",
+      "bytes": 8992,
+      "sha256": "a4c1000e66514fa0e31d9d4482925a79a7294b0a1daf8db621849daadd0f5679"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.NVIDIAModule.dll",
+      "bytes": 33016,
+      "sha256": "4c88550569d62c502f8d3e903b55d6561efada9b19f4a166e43699b8420689fa"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.NVIDIAModule.pdb",
+      "bytes": 15404,
+      "sha256": "d93e10e4c5e2021b7cf62475345591bbf6deb419c6bbfdf7a4a5a7aead4837ad"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.ParticleSystemModule.dll",
+      "bytes": 164600,
+      "sha256": "881e65c7888a15516fa1c0bce2c09d8726db6c40535f79dca466853330e5a144"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.ParticleSystemModule.pdb",
+      "bytes": 39764,
+      "sha256": "b432b680c853f6c8d9c19ddb63e87e5660154d5a244a4e1ee326713180f58b53"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.pdb",
+      "bytes": 12112,
+      "sha256": "c5ce00f7a21be8880c1d282c9a74094740950be80fcf45b3196a9d0ffc418f57"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.PerformanceReportingModule.dll",
+      "bytes": 19704,
+      "sha256": "c52e3f2a5fee45672c2caf5696341c8a27cf9873c157614ccf41b72c531ad1c2"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.PerformanceReportingModule.pdb",
+      "bytes": 9176,
+      "sha256": "8662aa37c5da6b5b9d0df446be501e8116872bb6bb86d06b6899e669701f6047"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.Physics2DModule.dll",
+      "bytes": 195832,
+      "sha256": "e481151e803e58544b1052def3ea9b3a101074bb1ef844a0ce4d0a91e5edff81"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.Physics2DModule.pdb",
+      "bytes": 47624,
+      "sha256": "de995cd843590a836b63632e0fc461141977f4851d2bc24da5b4d057f12cc868"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.PhysicsModule.dll",
+      "bytes": 175864,
+      "sha256": "6da8089bdddd35e6f353b33430ecb820d57dd2aa38e8bfb63a2eb1eca232496c"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.PhysicsModule.pdb",
+      "bytes": 44696,
+      "sha256": "50fe1c7276fe67fc23b87c5bacb6b352ed8526ef08a4e186458e628b9d04b6e2"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.ProfilerModule.dll",
+      "bytes": 19192,
+      "sha256": "c5531ece663f6938b3d8b4719885eab3eade6f9c3d31ac7e77d15cd0285de817"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.ProfilerModule.pdb",
+      "bytes": 8968,
+      "sha256": "bb4c7801f98e35380e8e32f7d5f716b540f17f849ecbaa112b0b9f4baac7837b"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.PropertiesModule.dll",
+      "bytes": 147704,
+      "sha256": "8618ced7b951d30c35830558b5fb157e808c4fcb309be9dbe472319279992c54"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.PropertiesModule.pdb",
+      "bytes": 58556,
+      "sha256": "47d46a5aeb88861ae0b1797f7f0d2cf4c0163c366f6c800fbf6c9bce2e572be1"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+      "bytes": 19192,
+      "sha256": "77e4c7ec1dc2ab0af50fc50cb0b3dcde0e05d1fdfbdfa20ca97c581bb25198a7"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.pdb",
+      "bytes": 9032,
+      "sha256": "451ca5dc089b5eb96fbf1080186c6b5217652f03350acc74fcedf7e875cec46c"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.ScreenCaptureModule.dll",
+      "bytes": 20728,
+      "sha256": "33510792c1f834150a3c542c423c25049f5c2fc9730073810f35d0595b88cc71"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.ScreenCaptureModule.pdb",
+      "bytes": 9572,
+      "sha256": "6b716745f9944a85746e403407992310de658ac495cbbcb69363be5a0c13bd8b"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.SharedInternalsModule.dll",
+      "bytes": 30456,
+      "sha256": "c8fdb9487caf306f0f124553128f0c71509544fd271f2a80ca33bcdbd5c52182"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.SharedInternalsModule.pdb",
+      "bytes": 13392,
+      "sha256": "1d8f757423d06ec90fda38f7f548b1d89663869a53592225947364fb2f0d0361"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.SpriteMaskModule.dll",
+      "bytes": 22776,
+      "sha256": "d68e6938286f2208b2d0ea52cd35f813fafea0e83d51ca8117e6a1dd652aca84"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.SpriteMaskModule.pdb",
+      "bytes": 9296,
+      "sha256": "d10d845da4fccc9da2bc505510a478cea9fee29b04b72086af3a6ce8ca536aee"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.SpriteShapeModule.dll",
+      "bytes": 26360,
+      "sha256": "f0e7a639dea70bf7290448517e1f91da9ffb0f55784c58f82dd9ef5045731801"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.SpriteShapeModule.pdb",
+      "bytes": 10532,
+      "sha256": "3fafa9f399bcdab0b972d3122fe65736a31500b5819586d4bc9e43254174754f"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.StreamingModule.dll",
+      "bytes": 20216,
+      "sha256": "45ac375827c43ebe6880ff5ab67b1956dd6762093359e3531d17df5250bfade8"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.StreamingModule.pdb",
+      "bytes": 9044,
+      "sha256": "e22c48bf8a91f3baad5db60fba71318c1406608d1e79ecd1e0773fbe971eb119"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.SubstanceModule.dll",
+      "bytes": 23800,
+      "sha256": "80317af6c54479ea86cff80ec8dffec9050a20d83b09274969458df1e601b6d3"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.SubstanceModule.pdb",
+      "bytes": 11172,
+      "sha256": "a4a2abaffbc570a2ac09f4c53c116d13b199e67be09c0ecd499077baf7d1ddcb"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.SubsystemsModule.dll",
+      "bytes": 36600,
+      "sha256": "ac3ab17c30f99d4c941755320529c231eb0eb8ca3f1e1b4f57e4d0c981676ebe"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.SubsystemsModule.pdb",
+      "bytes": 15712,
+      "sha256": "0e027872caa1251adcdb3819a639fd129adf3ab018e3f16169f753ce3b6b49bb"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.TerrainModule.dll",
+      "bytes": 121080,
+      "sha256": "6d39c05f46cbf786d7e90f61804a805ac3137e630a9082e1640459edc24e66d5"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.TerrainModule.pdb",
+      "bytes": 33192,
+      "sha256": "28e0b14841d816603ea18dd760dac8e5ed714ece2c088aa109b4207942dccc20"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.TerrainPhysicsModule.dll",
+      "bytes": 20216,
+      "sha256": "6bd7aed8dceeabe632e6ea6cd4d8ef15ff2a9ffd58e070960abed264312f93cb"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.TerrainPhysicsModule.pdb",
+      "bytes": 9432,
+      "sha256": "e010499d83f2f635dc67c7fb4940731ed4b04f24beafd900e4526390d1ddb320"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.TextCoreFontEngineModule.dll",
+      "bytes": 82168,
+      "sha256": "16e5f927a9586b875f000aa4ea8caaf8f7461b031c17504eb00f8ea55f790f8c"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.TextCoreFontEngineModule.pdb",
+      "bytes": 27924,
+      "sha256": "9992b8ac2be15a61320b976c66c9c249e95ab6f9076e6bf3d3e4cf1cfb0194d0"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.TextCoreTextEngineModule.dll",
+      "bytes": 268024,
+      "sha256": "f038f67c77b35b3b04779fd14112f1454f81038572f5c9a82686ec9fda6af66e"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.TextCoreTextEngineModule.pdb",
+      "bytes": 125080,
+      "sha256": "e83bd2f2a749a7b4aefcbcafb8065867fd37e69b5ca55ba32560394dfbb1ea6c"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.TextRenderingModule.dll",
+      "bytes": 43768,
+      "sha256": "205798723b43ff81e614ce47449b8627f199e4e1a58270896b67e72e096f6116"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.TextRenderingModule.pdb",
+      "bytes": 14860,
+      "sha256": "39332823a4b96f1641db409b60a5631363b5f2a434bea5b0df3a3670c21105d3"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.TilemapModule.dll",
+      "bytes": 52472,
+      "sha256": "2f14f0a6267bf40638c3e24de14347e1aa9da93471fc40224141b879336b79e8"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.TilemapModule.pdb",
+      "bytes": 18672,
+      "sha256": "6b8d49ce8f41023477d6314b95331cf18f7d11a6fa3dd71388b9f861c41d5eec"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.TLSModule.dll",
+      "bytes": 25848,
+      "sha256": "bd240c2bce5ada5efbfd1d6528a7f16123b0c5e19c4f42bc5667f9e71fa7be4e"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.TLSModule.pdb",
+      "bytes": 8988,
+      "sha256": "86385edcde6f2dd1e15e89a2f56fdaa0d7926ed56ce44d9d2d3b25fcd22db32f"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.UI.dll",
+      "bytes": 296448,
+      "sha256": "6af6dfe62769dcba5b7726ae016bf354f4eee014467ff2b8c78114ece3721586"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.UI.pdb",
+      "bytes": 180716,
+      "sha256": "c6d22fc77dfa1805e656bc1fa8fbc92e6362bf125719a9c1a48c29e12bf770d6"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.UIElementsModule.dll",
+      "bytes": 1953528,
+      "sha256": "7a709798f5a6c4bdef3ed4a3d196ca31b14d04821dd2407e19d7584cf226fc2f"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.UIElementsModule.pdb",
+      "bytes": 875728,
+      "sha256": "a679eaf2c21e022f110cedf9e0cb7ff41824a5f593721dee177e0419b4a0c093"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.UIModule.dll",
+      "bytes": 43256,
+      "sha256": "af6baebd1db526ff9ce2892a8e7909a6cd8271b2e87d5edfffaa76e116ebaa1d"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.UIModule.pdb",
+      "bytes": 13524,
+      "sha256": "43fa92e30585b62a5ccff852c5c41c3836d8adbd199a4d9bc0d2812d6a49d408"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.UmbraModule.dll",
+      "bytes": 19192,
+      "sha256": "9c20ece71fff6e9c253a7d626f81e29fe29bf1a3cd7f46fba2ec2c9e3d52bdea"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.UmbraModule.pdb",
+      "bytes": 8968,
+      "sha256": "59a5fac432e42bf7deeb64e5a1557bbea6c6ab3a61f95b46fea38a5020e70106"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.UnityAnalyticsCommonModule.dll",
+      "bytes": 29432,
+      "sha256": "ce762a6147c5daef10afc2a5e3fa8f0c76612cf6fc7e90e097b5837bf1a2ab8a"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.UnityAnalyticsCommonModule.pdb",
+      "bytes": 13184,
+      "sha256": "96d1f7fda2fa8f343fe16cac64d3b42fe920c891d7603c1e12a05ca0bfa6aca8"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.UnityAnalyticsModule.dll",
+      "bytes": 55544,
+      "sha256": "9cf8a5ab2c09c250858e45e6f6a4253e20bb7d34f67de24d64f435c2191e4575"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.UnityAnalyticsModule.pdb",
+      "bytes": 17692,
+      "sha256": "871bbc31bc0d05e7ad5697f9efb2647fa256a18db037a4db5880aedfa7f59c87"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.UnityConnectModule.dll",
+      "bytes": 22264,
+      "sha256": "1d48f6a343e74c073fe82f22167e7c01363069b5a0be6194ca0cd359579b0cad"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.UnityConnectModule.pdb",
+      "bytes": 9564,
+      "sha256": "742931f5a09c2ba33bb7c2df933cb51b73e2009660cd77901df465d5b85899b1"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.UnityCurlModule.dll",
+      "bytes": 20728,
+      "sha256": "a9108e21f7ce71410f5bb5c2b7ae977dc86806adffe093a07544b30afbfa8956"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.UnityCurlModule.pdb",
+      "bytes": 9360,
+      "sha256": "98e4f89789691741eae34927318bdcff27053def5cc968c653090f237a78a000"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.UnityTestProtocolModule.dll",
+      "bytes": 19192,
+      "sha256": "1acbbcef0896c0186274c9df611a5c1da4a953fd7f166ccde037d92b4b493c5c"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.UnityTestProtocolModule.pdb",
+      "bytes": 9032,
+      "sha256": "cd1132bbad9704745b77b3adb47980bf491443abbfe69b89ee14d9ca3f88d7d1"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.UnityWebRequestAssetBundleModule.dll",
+      "bytes": 23288,
+      "sha256": "e7cbad76f16d266e66b033b8f2c617b22445e6eb1461b994b02af1231c7a01a2"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.UnityWebRequestAssetBundleModule.pdb",
+      "bytes": 10544,
+      "sha256": "57ad0767cbc4e904cb232dbbc6a13dffd4196593ece8df98c665a5f11a77dd30"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.UnityWebRequestAudioModule.dll",
+      "bytes": 22776,
+      "sha256": "e63ecb614c4cce0cc14e8552a125257192824468eac74782bbe1cd0f54c1eff5"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.UnityWebRequestAudioModule.pdb",
+      "bytes": 10344,
+      "sha256": "2485773fb1eea21a5ab2bca2a8d80670be9afc372cff4c053b53097e9745f139"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.UnityWebRequestModule.dll",
+      "bytes": 63736,
+      "sha256": "f143fedb265748081996823d7cf0657da5793716a7e92056c52e4423aee7ccef"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.UnityWebRequestModule.pdb",
+      "bytes": 28036,
+      "sha256": "dd3dac720ce7ae36f1cb4d488f357a2fac2ac99f7fe551d23d15a38074a50cdf"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.UnityWebRequestTextureModule.dll",
+      "bytes": 21240,
+      "sha256": "2f5e854df2de18e432e9f7cada55889e353cf3084587989407b11f9ee693deef"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.UnityWebRequestTextureModule.pdb",
+      "bytes": 10080,
+      "sha256": "0a6dc49cc2b3ad0c781dc7f144c04778a7c47d3e7f3235b6f6e3af225478baf3"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.UnityWebRequestWWWModule.dll",
+      "bytes": 30968,
+      "sha256": "ea86748417ac5516540d56b9b043f6af0a4ff3bffe2a98b0c115bae0fa12e04d"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.UnityWebRequestWWWModule.pdb",
+      "bytes": 13412,
+      "sha256": "d95e7194370a68303396ffcb80c07700213bef193b8c069025813471af0833e1"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.VehiclesModule.dll",
+      "bytes": 25848,
+      "sha256": "74b5d78da6a6372525df0b6728a2a61c89d1f27af70d9cd0fe607ebff30e30a1"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.VehiclesModule.pdb",
+      "bytes": 10228,
+      "sha256": "03a89f33f02ded13d6e27e29bd042eb5f371aa4a4f352ce0d828e305dcb8b7bd"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.VFXModule.dll",
+      "bytes": 70392,
+      "sha256": "879279e5f5c8877bed3a7eb8654f26f1221c56e3ebaa2f3cf96f0d9e03977430"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.VFXModule.pdb",
+      "bytes": 18224,
+      "sha256": "89afdcf4d7d65ff14ab7ad8c8a9693e5501cb95e4f8d20d2bf18bc0750fbaf62"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.VideoModule.dll",
+      "bytes": 52984,
+      "sha256": "a72a34554d38f7f563cdb56eaabb55cae67d18641a0820213ee23e176293ec11"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.VideoModule.pdb",
+      "bytes": 13868,
+      "sha256": "d64c8f4efb433544abeb779752c8bf3d36e909d7e46c2abb2aa96d15bddc0e3e"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.VirtualTexturingModule.dll",
+      "bytes": 37624,
+      "sha256": "0436cf1cef0b2e1b7d6bd81c13ba43c6276279771c0eadf6ec3b1167010fa240"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.VirtualTexturingModule.pdb",
+      "bytes": 13216,
+      "sha256": "6160f645b64a29d3e1793f7a7c17cd92c18713590cc474031217b66e472d9488"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.VRModule.dll",
+      "bytes": 25848,
+      "sha256": "dad8bd8ef72fd3c7f1fdf40ddc6bd185480d2e606dc48f44ae651e73edd28337"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.VRModule.pdb",
+      "bytes": 10092,
+      "sha256": "ff3068ac2a9befda375a65c4aa48606392219f247b6ccacdd29292c530881bdb"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.WindModule.dll",
+      "bytes": 21240,
+      "sha256": "06c3098bc0da3517fb0785423e1519abe784e202320c01705101e401f1985e59"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.WindModule.pdb",
+      "bytes": 9104,
+      "sha256": "088063771fbfc1b1c0afda8db2ce11667139f2a7e516eb93b2785f0f4d82127f"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.XRModule.dll",
+      "bytes": 82168,
+      "sha256": "be873250bb30f01b6e9dd7e90d6de5af0d659951ab5c3dd5c696b30ada0724e9"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityEngine.XRModule.pdb",
+      "bytes": 23952,
+      "sha256": "2a2ca442d80d5645248dcd9de2cb6d520011f572ea66bb1a7e8e310791ec590e"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Managed\\UnityScript.Lang.dll",
+      "bytes": 13824,
+      "sha256": "aa41144cd36bda689a741a2515c953f6ab2e3470f2373295e4e296ca55940890"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Resources\\unity default resources",
+      "bytes": 5891748,
+      "sha256": "164d1a1c103137503024c3e8dedbbc203b771718fddcb2f0c15d30c111e34bae"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\Resources\\unity_builtin_extra",
+      "bytes": 279788,
+      "sha256": "950afa900415220b5655dfebaaa5a4968206621ae21e79f2ceb74bda438756b6"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\resources.assets",
+      "bytes": 1676840,
+      "sha256": "4dc1940a8d7625159b33db6b2c591e6b041ed0ae728d1ea6f18b350eeed37322"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\resources.assets.resS",
+      "bytes": 18785248,
+      "sha256": "d73950b7d299a2ebccf97f5e852d9fd3a8964d8908e066c7a2de9aa673db103a"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\resources.resource",
+      "bytes": 262016,
+      "sha256": "b0841806ddbff54652e105eb3e75dc1f2ca1d42aaca0f6fdd5b8b4ccdd259ca8"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\RuntimeInitializeOnLoads.json",
+      "bytes": 175,
+      "sha256": "57beec0f71e9d5fcfba61c548e77c53b715c887681ca11879a7339426f33ef25"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\ScriptingAssemblies.json",
+      "bytes": 3164,
+      "sha256": "43acd49b61349582e056cdfcd363fb906efc101f1e25584914c6fbcff96ce589"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\sharedassets0.assets",
+      "bytes": 10893900,
+      "sha256": "060e7f6cfca99da6494372a5fb49714eea6b556cefc44d75f4c9dc052b736723"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\sharedassets0.assets.resS",
+      "bytes": 88195360,
+      "sha256": "25564fc98df2b4f360e422dabca53b8799d52aeb56f77aa817ee7e4b59613658"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\sharedassets0.resource",
+      "bytes": 1394112,
+      "sha256": "0a9287d79c0504044c23d2250f9fe4b2aea0e39b7492411f541a028bc6b0186c"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\sharedassets1.assets",
+      "bytes": 32945804,
+      "sha256": "a12952bbfc729a70595d874b2f1f0e9e5ff746e9fee3fc02a988244409f51313"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\sharedassets1.assets.resS",
+      "bytes": 38485856,
+      "sha256": "ff31b373f86bc6ec735da77b2a9f223673e2234f8aa7ef9b01fa19ebc9f57d5e"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\sharedassets1.resource",
+      "bytes": 27322816,
+      "sha256": "f64b7a0d463f96478a7637c676b1dfbea178b2604eeef72ce47151281150c428"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\sharedassets2.assets",
+      "bytes": 1217872,
+      "sha256": "1df36c0d6dd5f7b5574d949bbbd617e098e5880079f0269c40fb3a441113b484"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\sharedassets2.assets.resS",
+      "bytes": 4159984,
+      "sha256": "412e9785e02ec90beeb4d1f987b6457b97fdc20aef814253baae5dcfdba4d213"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\sharedassets2.resource",
+      "bytes": 129888,
+      "sha256": "545b8db70fe5c67f23522858d70d5cf218b97036ba9ce6534e6283537ec1ec68"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\sharedassets3.assets",
+      "bytes": 617912,
+      "sha256": "3e10e9db525da8530d4515a40568b92f5f161f81ed2818784031bff47ddaf9d7"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\sharedassets3.assets.resS",
+      "bytes": 1398128,
+      "sha256": "1d633fe33d773f264b2599c2cf418fb5a0beb6e0765389db5c1b3b4bdd358e0f"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\sharedassets4.assets",
+      "bytes": 2220,
+      "sha256": "31a53b8d3f2440387193571567df80545b5b84ae9ecb3bfeef436e595ddff8c1"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\sharedassets5.assets",
+      "bytes": 4314348,
+      "sha256": "7c7c9d592bf1dbfc9af6d26037c6822c864f1ec052f719c54eb3c87dc5d3039c"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\sharedassets5.assets.resS",
+      "bytes": 2583632,
+      "sha256": "fb540cc9bd095f57a8b0f71ab002de9ef76610457aa179fda4644621ec6d0b4f"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\sharedassets5.resource",
+      "bytes": 321344,
+      "sha256": "4794b2d1c427c9d8aa42b4ec56d53587cb360e71fe54a7d50ca9b978fb00e051"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\sharedassets6.assets",
+      "bytes": 122696,
+      "sha256": "d072901be1a1f0ca80fa040e454ec84aa93de4baccb5195c238c3c874e03bbba"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\sharedassets6.assets.resS",
+      "bytes": 16,
+      "sha256": "5ac6a5945f16500911219129984ba8b387a06f24fe383ce4e81a73294065461b"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\sharedassets7.assets",
+      "bytes": 513764,
+      "sha256": "e2926e350850ae96c7de3c5fc5beedfbbe2227b3e638b83a2c3adb4881d8eeef"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\sharedassets7.assets.resS",
+      "bytes": 891616,
+      "sha256": "0586310694cae715ba456c293e9830374bb6660624ed385fa1c7b008ad1d3614"
+    },
+    {
+      "path": "CartoonRacerRecon_Data\\sharedassets7.resource",
+      "bytes": 15264,
+      "sha256": "4a827d6ed3d681b031e0f49a7e897ae52dfd57d293c257aa4b2952fb93fa843b"
+    },
+    {
+      "path": "D3D12\\D3D12Core.dll",
+      "bytes": 5617048,
+      "sha256": "8710110eccf43a32e5e1a04552cb344832922a0cd23caeecb764e18bd5cdffa8"
+    },
+    {
+      "path": "D3D12\\d3d12SDKLayers.dll",
+      "bytes": 9456024,
+      "sha256": "82528c7687d7e83ee46393cf9a348c92dd68a2ccde4010fcf50a3f3f274e4635"
+    },
+    {
+      "path": "MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll",
+      "bytes": 7827192,
+      "sha256": "d87e9d572cb60181ef6b94d8ea0431bbc0a4d550c45ba582f090c4bd97b826ed"
+    },
+    {
+      "path": "MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll",
+      "bytes": 609528,
+      "sha256": "bf961726222867f6e21f57e7923f184279e41d391bd08d7954de75f2050d296d"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\2.0\\Browsers\\Compat.browser",
+      "bytes": 1605,
+      "sha256": "8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\2.0\\DefaultWsdlHelpGenerator.aspx",
+      "bytes": 60575,
+      "sha256": "751861040b69ea63a3827507b7c8da9c7f549dc181c1c8af4b7ca78cc97d710a"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\2.0\\machine.config",
+      "bytes": 29066,
+      "sha256": "e91782a27fa39fc6c1d6ee8b08529f5d35052310d0006034b878eb04b8f2af30"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\2.0\\settings.map",
+      "bytes": 2622,
+      "sha256": "49c6160f9d54af4270a3b4e997fc4a8301f79b9e2070118fa46ddbcbbc44f9a2"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\2.0\\web.config",
+      "bytes": 11635,
+      "sha256": "cf2b54339e069b9e42f7d6795eecbf562c50c1011f4ca8f65f578fe52d97ff92"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\4.0\\Browsers\\Compat.browser",
+      "bytes": 1605,
+      "sha256": "8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\4.0\\DefaultWsdlHelpGenerator.aspx",
+      "bytes": 60575,
+      "sha256": "751861040b69ea63a3827507b7c8da9c7f549dc181c1c8af4b7ca78cc97d710a"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\4.0\\machine.config",
+      "bytes": 33598,
+      "sha256": "e60aec2c5115d65b3acb3c55ea21576dbd770f579166c017125571e46ae560ed"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\4.0\\settings.map",
+      "bytes": 2622,
+      "sha256": "ce1db1ad8a9512073164e3eccdc193f7eda036e1a9733caec4635de21b2865c8"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\4.0\\web.config",
+      "bytes": 18802,
+      "sha256": "e38bb8cc68fe5b4edecdfd288d094b9e8ced7629039b2a347682aba0d8bd7492"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\4.5\\Browsers\\Compat.browser",
+      "bytes": 1605,
+      "sha256": "8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\4.5\\DefaultWsdlHelpGenerator.aspx",
+      "bytes": 60575,
+      "sha256": "751861040b69ea63a3827507b7c8da9c7f549dc181c1c8af4b7ca78cc97d710a"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\4.5\\machine.config",
+      "bytes": 34056,
+      "sha256": "ee950004b576fb28dc85f4b0435ed04bf96612de2e8b53be84d07afe85a0de6c"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\4.5\\settings.map",
+      "bytes": 2622,
+      "sha256": "ce1db1ad8a9512073164e3eccdc193f7eda036e1a9733caec4635de21b2865c8"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\4.5\\web.config",
+      "bytes": 18811,
+      "sha256": "c4cbddd4fd9347b58cc5a72b36dc4ba1ad2bb699e65869d05cd3fb9865f0d824"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\browscap.ini",
+      "bytes": 311984,
+      "sha256": "4ddd50f31fb968f30bedefc253a46dc3f2890192d05cdaa9e0a64a056eee807e"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\config",
+      "bytes": 3815,
+      "sha256": "5776169973a26a387b8b3e5c0f2301a7ab9a6dd7c7d3efa22a96abc47fbf8662"
+    },
+    {
+      "path": "MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml",
+      "bytes": 25817,
+      "sha256": "0c56e34c69124510fa8c19e7b4c2ca6c1c4ff460ae19f798dd0ca035809e396d"
+    },
+    {
+      "path": "UnityCrashHandler64.exe",
+      "bytes": 1022200,
+      "sha256": "61373fafb0b31df475cc91672780122da0208d873f2f70bafd144ba7eea3b557"
+    },
+    {
+      "path": "UnityPlayer.dll",
+      "bytes": 51243768,
+      "sha256": "456b814dd1de3a9a607c3ca6047be71f7451fd4aa579c71a88b30f821af6c8d5"
+    },
+    {
+      "path": "WinPixEventRuntime.dll",
+      "bytes": 55032,
+      "sha256": "365a63da6a83c91b76bd7f8a9efcc3806b6188a6d29acdbe9d7e43decf3510d8"
+    }
+  ]
+}
