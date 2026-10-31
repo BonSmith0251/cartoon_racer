@@ -1,0 +1,3260 @@
+{
+  "scope": "303 exporter-created custom shaders; built-in editor shaders excluded. Material and Shader.Find references are static evidence, not proof of runtime use.",
+  "counts": {
+    "placeholder": 281,
+    "evidence-based-reconstruction": 11,
+    "target-package-replacement": 11
+  },
+  "render_validation": "See independent verification reports; target compile alone does not prove original visual equivalence.",
+  "shaders": [
+    {
+      "name": "Hidden/BloomPro",
+      "path": "Assets/Resources/bloompro.shader",
+      "guid": "87d794cfe52453c45bc3f424463d0c83",
+      "status": "placeholder",
+      "sha256": "68164da057dcf7ae86120c4842e3ab5dcbb0e5dea744c92c239770ef7a382d80",
+      "original_materials": [
+        "Assets/Resources/BloomDummyMat.mat"
+      ],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/FxProNS/BloomHelper.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/3D_Anomaly",
+      "path": "Assets/Resources/camerafilterpack_3d_anomaly.shader",
+      "guid": "2885206364c5d09499b425dee4559739",
+      "status": "placeholder",
+      "sha256": "171c7a4e76e7b9596c99bd0aeea52e32a9d1d8591abb5948cdea97792373726c",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_3D_Anomaly.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/3D_Binary",
+      "path": "Assets/Resources/camerafilterpack_3d_binary.shader",
+      "guid": "b512d8a3f503d1943a76083532024c5e",
+      "status": "placeholder",
+      "sha256": "59a4c83e444eb8def94bb22efb1aa4fe677c923b8029cf61f12da00fdbc1e9f5",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_3D_Binary.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/3D_BlackHole",
+      "path": "Assets/Resources/camerafilterpack_3d_blackhole.shader",
+      "guid": "27f517e79a32089498b611e7c1bbf31a",
+      "status": "placeholder",
+      "sha256": "e5b693cfeb47e362c829f891de865e4a0821484c4d5916191557fb5d1b8e82e3",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_3D_BlackHole.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/3D_Computer",
+      "path": "Assets/Resources/camerafilterpack_3d_computer.shader",
+      "guid": "33605198c7b439e41820470c8450e424",
+      "status": "placeholder",
+      "sha256": "9aad59ad0e2e293f04bde6d13d8c42f3a2c1c75705c4790182e86ee74bf4c799",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_3D_Computer.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/3D_Distortion",
+      "path": "Assets/Resources/camerafilterpack_3d_distortion.shader",
+      "guid": "59ab49b22b8a2d84fbabdde3333e97d1",
+      "status": "placeholder",
+      "sha256": "f25a18b4aab414c74b11031ed4b00bfd66c826cef02cd97491e25a93c21c567d",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_3D_Distortion.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/3D_Dust",
+      "path": "Assets/Resources/camerafilterpack_3d_dust.shader",
+      "guid": "3bb85694c7934e242afdb4b3d9f5e33b",
+      "status": "placeholder",
+      "sha256": "306240c53b286977c73a188ebe10e223bfe8159501d1847c555347dbe647ffaa",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/3D_Fog_Smoke",
+      "path": "Assets/Resources/camerafilterpack_3d_fog_smoke.shader",
+      "guid": "5f4fc50459d014143a51afb29709f82d",
+      "status": "placeholder",
+      "sha256": "441c18f244fd5065d818025e8b0ab3ecfe7c10fc73bdf14016c577fc49b84fe6",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/3D_Ghost",
+      "path": "Assets/Resources/camerafilterpack_3d_ghost.shader",
+      "guid": "c12eb26463dcade4bb6402fec27ab6b6",
+      "status": "placeholder",
+      "sha256": "c9685133ae214d416aefebdeebf685d3fbe6d4d58da4ff7c8ae8f765be97f74e",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_3D_Ghost.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/3D_Inverse",
+      "path": "Assets/Resources/camerafilterpack_3d_inverse.shader",
+      "guid": "1f7c00090e945c749af8d578c50a943b",
+      "status": "placeholder",
+      "sha256": "ea3e6bb2b0c24d8a6884ac5422dfaf4f77acc46c9068de4d899e4d7ec6fd94b5",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_3D_Inverse.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/3D_Matrix",
+      "path": "Assets/Resources/camerafilterpack_3d_matrix.shader",
+      "guid": "7f084a96973f05548bf6449a0fc30471",
+      "status": "placeholder",
+      "sha256": "7b7efa83f7e0ce1d638bce122cc235cce15cf9e7b72d957fc7fe3554b913c725",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_3D_Matrix.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/3D_Mirror",
+      "path": "Assets/Resources/camerafilterpack_3d_mirror.shader",
+      "guid": "a0917ce91171a1b409dc8957ac697c51",
+      "status": "placeholder",
+      "sha256": "c65b8dfec6ad5cdf2cb63e0abc8eff3a8cf5e5cf93dfa28ef1081a6ade5136a7",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_3D_Mirror.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/3D_Myst",
+      "path": "Assets/Resources/camerafilterpack_3d_myst.shader",
+      "guid": "35a409bdc149e4a439580d16124f4bae",
+      "status": "placeholder",
+      "sha256": "64866fa2f05c35c020053aaffbb94cbdcc69e27e45c814b119e83bde3abeff66",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_3D_Fog_Smoke.cs",
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_3D_Myst.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/3D_Scan_Scene",
+      "path": "Assets/Resources/camerafilterpack_3d_scan_scene.shader",
+      "guid": "a7ac82a3eba9f9a4e9da206def347a81",
+      "status": "placeholder",
+      "sha256": "7b914232e0b0e74b2817b8ac109d51e7ae0acb23926fc7d3aadb24f81773ddba",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_3D_Scan_Scene.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/3D_Shield",
+      "path": "Assets/Resources/camerafilterpack_3d_shield.shader",
+      "guid": "9271d3d3a0a44ba4b98864de87627122",
+      "status": "placeholder",
+      "sha256": "04125f38df79c11e88ebd18c7b2972afbe780f7ddcb89645c4f174db84803ea7",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_3D_Shield.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/3D_Snow",
+      "path": "Assets/Resources/camerafilterpack_3d_snow.shader",
+      "guid": "19de4c078b07ad44ab5637996bf2df00",
+      "status": "placeholder",
+      "sha256": "4817cdeb929bc23f281ca1f75d7fe0340067e56f45f9f2c88ba23dfcca8ed1b2",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_3D_Snow.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/AAA_Blood",
+      "path": "Assets/Resources/camerafilterpack_aaa_blood.shader",
+      "guid": "280a7dbd957a25848ab6403a59a3ccdc",
+      "status": "placeholder",
+      "sha256": "2754263f78c1cdee32352ea8db75b71ff5794855bde07b74b305bab479b67d72",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_AAA_Blood.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/AAA_BloodOnScreen",
+      "path": "Assets/Resources/camerafilterpack_aaa_bloodonscreen.shader",
+      "guid": "ce74ab97409cc4249a083df6ab153146",
+      "status": "placeholder",
+      "sha256": "150fef29b70ae859c762504ded57a57fc7d3ecbe57cbb22523267e90f420f1f7",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_AAA_BloodOnScreen.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/AAA_Blood_Hit",
+      "path": "Assets/Resources/camerafilterpack_aaa_blood_hit.shader",
+      "guid": "587a45298dfab4045b7f09b1c4011e70",
+      "status": "placeholder",
+      "sha256": "511309c821f6dfd1f045f443aa68eb161b2bf5fdfc366e997288446c0188fed8",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_AAA_Blood_Hit.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/AAA_Blood_Plus",
+      "path": "Assets/Resources/camerafilterpack_aaa_blood_plus.shader",
+      "guid": "2f530fe8d1b6b654f959286e578abc3b",
+      "status": "placeholder",
+      "sha256": "c7c032fd55a6447a07fbee71c59ff814f0ad5a32937ba1c154bb9ffb8c51e9eb",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_AAA_Blood_Plus.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/AAA_Super_Computer",
+      "path": "Assets/Resources/camerafilterpack_aaa_supercomputer.shader",
+      "guid": "a1e50547189134443928e90ac9b5a55e",
+      "status": "placeholder",
+      "sha256": "86bc376eb0f402b105bbc7592651631ee57acd3ad45b25854060b45df916a88d",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_AAA_SuperComputer.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/AAA_Super_Hexagon",
+      "path": "Assets/Resources/camerafilterpack_aaa_superhexagon.shader",
+      "guid": "184ee35bf38d87249855ca2c77515436",
+      "status": "placeholder",
+      "sha256": "b4f828b3ac5e4be87c59642350c59338f7c16989f4a9bc4be2cb7155b38e6272",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_AAA_SuperHexagon.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/AAA_WaterDrop",
+      "path": "Assets/Resources/camerafilterpack_aaa_waterdrop.shader",
+      "guid": "3e5c4429937d2a54b979bb18125dcce1",
+      "status": "placeholder",
+      "sha256": "a35c9d39dce2c85e62361be6c763693d80b238824c78f48d33550b9a41dffa89",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_AAA_WaterDrop.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/AAA_WaterDropPro",
+      "path": "Assets/Resources/camerafilterpack_aaa_waterdroppro.shader",
+      "guid": "be2c49f45ab8cad40872fb10b4ce7983",
+      "status": "placeholder",
+      "sha256": "9bc31d6e726bcf20000f22766f0cc9accbad887e69e03395f5a79172091ec7f4",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_AAA_WaterDropPro.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Alien_Vision",
+      "path": "Assets/Resources/camerafilterpack_alien_vision.shader",
+      "guid": "cbbb0c1bbc5c214419a1989afac5dea4",
+      "status": "placeholder",
+      "sha256": "12dccbedf4c3394b2c2f4683b76a522256d7bee2989e302095957255053ea4d9",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Alien_Vision.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Antialiasing_FXAA",
+      "path": "Assets/Resources/camerafilterpack_antialiasing_fxaa.shader",
+      "guid": "302883cd4cf83f2499cc5b4929222abd",
+      "status": "placeholder",
+      "sha256": "78dce9dd4399d817a35e05c83891170cb9a6cb9e430cffb3952d1a67532aeaa1",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Antialiasing_FXAA.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Atmosphere_Fog",
+      "path": "Assets/Resources/camerafilterpack_atmosphere_fog.shader",
+      "guid": "b427e1eeb80813440a18fab8e4d8eb1e",
+      "status": "placeholder",
+      "sha256": "d81e5b7817f6ab45530168dd68b4f3a44f8f53c932a6a2bf0b1d541f178a1e86",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Atmosphere_Fog.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Atmosphere_Rain",
+      "path": "Assets/Resources/camerafilterpack_atmosphere_rain.shader",
+      "guid": "3a6df73d033af904bb8018e4734674d7",
+      "status": "placeholder",
+      "sha256": "c7333a4fec02a3a4a6bb29f87cc0c78bb8d6e4610b759e66a99bc3324380d3ec",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Atmosphere_Rain.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Atmosphere_Rain_Pro",
+      "path": "Assets/Resources/camerafilterpack_atmosphere_rain_pro.shader",
+      "guid": "dc277a6155d456a4cb8376b580d31b88",
+      "status": "placeholder",
+      "sha256": "ea2cb3a2acac0674bf69db802f7dcd59ffbb45d8b93690c467478c6ff469ddd0",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Atmosphere_Rain_Pro.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Atmosphere_Rain_Pro_3D",
+      "path": "Assets/Resources/camerafilterpack_atmosphere_rain_pro_3d.shader",
+      "guid": "d6e6b62d74394f64b9b0c8399f67a0ad",
+      "status": "placeholder",
+      "sha256": "72e690b35590eb57558fdf0cea2be11d4933e82cb805db05edd3925f0ae2f5ed",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Atmosphere_Rain_Pro_3D.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Atmosphere_Snow_8bits",
+      "path": "Assets/Resources/camerafilterpack_atmosphere_snow_8bits.shader",
+      "guid": "94c343fddb919494080635964f783d4b",
+      "status": "placeholder",
+      "sha256": "5ee3c7e182792fa4f07a58be76276757f3b99f9c4f57c560dd6799f9c5ef15e6",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Atmosphere_Snow_8bits.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_Blend",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_blend.shader",
+      "guid": "46a87f70f164bfd4593db6a0d51c05e4",
+      "status": "placeholder",
+      "sha256": "9177e91b283c338b82919e2c0900e0475667b448eb94c2d3e75a8b17ceed0f0e",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_BlueScreen",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_bluescreen.shader",
+      "guid": "b7352ff7824ceb84c888a42a61b94320",
+      "status": "placeholder",
+      "sha256": "da7e08f16176d1dae5baafcf5418887b2ce210dd97c0ea7b8b67376c16589e5a",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_Color",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_color.shader",
+      "guid": "1a0461c796a248d4580ee8cb04e391f5",
+      "status": "placeholder",
+      "sha256": "b8d9b55830064c73c4a67532e6c65ca78ab2ef203531530092db778571f26485",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_ColorBurn",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_colorburn.shader",
+      "guid": "b03a5a4cd19fa304683171eb0c820686",
+      "status": "placeholder",
+      "sha256": "94122cdb29319bfbf34c074d732fc11c0874890275026e312cccde1862cb6578",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_ColorDodge",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_colordodge.shader",
+      "guid": "726346fbf3f68f34e8786b44de6cce6e",
+      "status": "placeholder",
+      "sha256": "391689bb524f2d06405f65722053320cb40f752d12da3a0ec9060f6af5b4cd0e",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_ColorKey",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_colorkey.shader",
+      "guid": "d825a268adea4584a90c348ef2efac27",
+      "status": "placeholder",
+      "sha256": "562893bed0b4e376d42b7fc137cd90f7a0d14be4067ee329e62a7f69c5fe15a7",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_Darken",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_darken.shader",
+      "guid": "81af50652a2b68f4aacd636a857dd675",
+      "status": "placeholder",
+      "sha256": "168177b379920fb4c9b07f433934633403b76ec708f26b13987909ea9939d617",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_DarkerColor",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_darkercolor.shader",
+      "guid": "62564282b3aa0e94bb81810e2d308c22",
+      "status": "placeholder",
+      "sha256": "ecfce25d3781ae7d4aa8cac5fcefc55325262c5432cc63a803efeb34a73d063e",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_Difference",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_difference.shader",
+      "guid": "e35de6f507482d647b6d8d7d5c37c935",
+      "status": "placeholder",
+      "sha256": "b9e8fc8673fe1d17a863bb0d03d20b13b94766bbb0da7ed06f3a2e622c5ff931",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_Divide",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_divide.shader",
+      "guid": "2dbe401544f18854190eda343aea5c47",
+      "status": "placeholder",
+      "sha256": "7a34529771519ca0775850d08b881d551dc56ee60301a2507769f641458387cc",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_Exclusion",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_exclusion.shader",
+      "guid": "9acc8b3825c33614bb03cd5ed3fd71bb",
+      "status": "placeholder",
+      "sha256": "f54fc027009c01e27b278c083af883e0df5aa8ece923b9da18f7048beb5a4e52",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_GreenScreen",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_greenscreen.shader",
+      "guid": "cb541948c85a05f418b3ffd15773b4db",
+      "status": "placeholder",
+      "sha256": "73a30df52d8be12621d4a42d4031ca8124a69f3b528e50f6fb17159fdf71d7d8",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_HardLight",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_hardlight.shader",
+      "guid": "ef74954845bde0e4d937c7932f645a68",
+      "status": "placeholder",
+      "sha256": "b4fab230d7914d0ee5c17c3bb7d572666eed30332443de96c97d145568f1cdd9",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_HardMix",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_hardmix.shader",
+      "guid": "d0a9d3fb0dc81514fa4a7dceaa863bb1",
+      "status": "placeholder",
+      "sha256": "e8f4b0c85c071a1551e075b1db4b39c0cb5bb89033e7de325d8806488f81fac2",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_Hue",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_hue.shader",
+      "guid": "0444610105a81ad4588e702da79bbdaa",
+      "status": "placeholder",
+      "sha256": "531e5ada774051cc448b420bbcf915b6715dc2d5df7fe9bcc7b6ee0eef6c5166",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_Lighten",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_lighten.shader",
+      "guid": "a6e6b6f252d8c4d40b17994e0c22ca3f",
+      "status": "placeholder",
+      "sha256": "3556990f507c1b3e1504238fca3715e66cb25d7402fab8ac263646cf1e6fb4cb",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_LighterColor",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_lightercolor.shader",
+      "guid": "b80815274422b9344a5afeca217ba230",
+      "status": "placeholder",
+      "sha256": "304d3f8d0e944b96546074fdfb6272058b7bf3de83c9b9011d44fefea54c20cb",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_LinearBurn",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_linearburn.shader",
+      "guid": "9966f2a3ee56a6c449098758b31afad7",
+      "status": "placeholder",
+      "sha256": "37e93f8ac328baa694f408ca5a36737f72e4c7bfd50c29428151641352cb1c33",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_LinearDodge",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_lineardodge.shader",
+      "guid": "db8212c854dc0554f8b20fbb5a129704",
+      "status": "placeholder",
+      "sha256": "0c012ff6f68e6e6e0f7f9fd185d06d5ca2ed1ff2df2d07a3d3a2f0b73374be42",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_LinearLight",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_linearlight.shader",
+      "guid": "800d00827f7925a44a690f95e5118355",
+      "status": "placeholder",
+      "sha256": "31f57ddbce741ee45c9f630ad38b02a1e5376bf074d8f6b9605e123f583eb844",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_Luminosity",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_luminosity.shader",
+      "guid": "70e1cddfa9c7f9249a575781bcff0da2",
+      "status": "placeholder",
+      "sha256": "32c654b32e6ce32ad488d7f6dff19117dc6fd9665988321269af3325c99710fe",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_Multiply",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_multiply.shader",
+      "guid": "0b804d54800c3c34c8b7ca75df9eb9bb",
+      "status": "placeholder",
+      "sha256": "e6d7b4b25d88737505504c83274c8912b0490394ddc1207cb1442fca394bf824",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_Overlay",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_overlay.shader",
+      "guid": "672bd4031fec79845a66cd9863a87607",
+      "status": "placeholder",
+      "sha256": "fdfad48bc0b9600ca2669bcde91bb22cb31965a5181aeb989818dcfd0f28abae",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_PinLight",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_pinlight.shader",
+      "guid": "08b242f1be917d345953a93cdf8b10f6",
+      "status": "placeholder",
+      "sha256": "8b687c206205122118e036c76b4cd882ed44591bcf9dc5ce421f9a839bc953c5",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_Saturation",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_saturation.shader",
+      "guid": "c88a93548e25c3a4a820cade8ff1eb08",
+      "status": "placeholder",
+      "sha256": "5d74e1afa9f870aaedfd3f35b166db8c9be27eb2ac192ff82cb6bd8c015fc86a",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_Screen",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_screen.shader",
+      "guid": "32fb39aac74b3ce478234615a65b85b0",
+      "status": "placeholder",
+      "sha256": "10d695c0c42d0a5a96e43538f98b3eaa974cd6a836896c6bc63fdf214fbe4956",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_SoftLight",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_softlight.shader",
+      "guid": "2007c9c7b2d4d994385f9746d0f22935",
+      "status": "placeholder",
+      "sha256": "e0e3a7e7286ca9daa6952e21ff28eba4e1a9fdcd351a00959b0984cec5da1399",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_SplitScreen",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_splitscreen.shader",
+      "guid": "4a22fc699d7cf604fb04214d18daf346",
+      "status": "placeholder",
+      "sha256": "af66fe02082f20223bfb7f85718d788bcbc3203e0b66bea69b77228a4a45d02e",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_SplitScreen3D",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_splitscreen3d.shader",
+      "guid": "6b42e16992f062242950b49d661c43ee",
+      "status": "placeholder",
+      "sha256": "b35ba129c41f1e2f253d9431abf91510ed3db2b1e0ce93db9ffd26a2676f89d1",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_Subtract",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_subtract.shader",
+      "guid": "55e89992fdf917345bedf78a13bfe520",
+      "status": "placeholder",
+      "sha256": "705e0da9404ed81a7796acb6eab0cc78d0282a23ff10d267d0cbf6009838f944",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blend2Camera_VividLight",
+      "path": "Assets/Resources/camerafilterpack_blend2camera_vividlight.shader",
+      "guid": "ce50c2a5991e90b49855a4341a0704be",
+      "status": "placeholder",
+      "sha256": "a9ca8641e0401edc1ad97cfc780d98e38d9787af8a27dbc99ae53afc30be0b09",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Blizzard",
+      "path": "Assets/Resources/camerafilterpack_blizzard.shader",
+      "guid": "4dedb285ca23d964ba6e307fd74ba534",
+      "status": "placeholder",
+      "sha256": "57119d10c93b998277f6cdc49c129f6575bf15c8826321e0bc72eb6b4067240a",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Blizzard.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Blur_Bloom",
+      "path": "Assets/Resources/camerafilterpack_blur_bloom.shader",
+      "guid": "5749163130a427848ad9a6019a851173",
+      "status": "placeholder",
+      "sha256": "d04d45f2073dd375ae72943de937f7a248fdfab55e966b4126ff142ef48f1156",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Blur_Bloom.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/BlurHole",
+      "path": "Assets/Resources/camerafilterpack_blur_blurhole.shader",
+      "guid": "73c220930c7b73945a0bfaa9c564de68",
+      "status": "placeholder",
+      "sha256": "324ed77c2ce7db54d3427aca8463618a2ade662fc2d3c0de743df5cad86ab22f",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Blur_BlurHole.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Blur_Blurry",
+      "path": "Assets/Resources/camerafilterpack_blur_blurry.shader",
+      "guid": "1aca6d1a296778744a877986b7300171",
+      "status": "evidence-based-reconstruction",
+      "sha256": "56618f6efb881a0c17efe903159d2a07d1b60646182d4b0a77a3cbb85804160d",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Blur_Blurry.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Blur_Dithering2x2",
+      "path": "Assets/Resources/camerafilterpack_blur_dithering2x2.shader",
+      "guid": "5b6e7bd4123ff914e9733f912e73932f",
+      "status": "placeholder",
+      "sha256": "8f4b0e4cb90901106bc3f0b1cf951f4143fb2cec849381ee1e4a8b63c3361878",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Blur_Dithering2x2.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Blur_DitherOffset",
+      "path": "Assets/Resources/camerafilterpack_blur_ditheroffset.shader",
+      "guid": "80e17c0f3ade5f34eb761decee26bcdf",
+      "status": "placeholder",
+      "sha256": "018b96709ec5a52b00b2801ca2ec52d1bb29f8bc1659888df5011f5215fa3ee9",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Blur_DitherOffset.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Blur_Focus",
+      "path": "Assets/Resources/camerafilterpack_blur_focus.shader",
+      "guid": "08e5df781216f514189250f143a750d6",
+      "status": "placeholder",
+      "sha256": "31ca0457d9ebc6b822d385015fd512e112851e64902df3af4b631d276567c5cc",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Blur_Focus.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Blur_GaussianBlur",
+      "path": "Assets/Resources/camerafilterpack_blur_gaussianblur.shader",
+      "guid": "31378fd59ead8e0499fd0f4c4d6f7007",
+      "status": "placeholder",
+      "sha256": "32e54f86a9f46a0fe191e38d260cbcd8fd618114923b5ed2c714ab0e89088086",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Blur_GaussianBlur.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Blur_Movie",
+      "path": "Assets/Resources/camerafilterpack_blur_movie.shader",
+      "guid": "d0fca26ed9894464ead3318f399111a0",
+      "status": "placeholder",
+      "sha256": "ddf72764370c75238bf3d3dced2b2d0baa2f11b007c8bc10b3c63cfd6373d96b",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Blur_Movie.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Blur_Noise",
+      "path": "Assets/Resources/camerafilterpack_blur_noise.shader",
+      "guid": "2b785abf55b80eb489192c8bdb2fe486",
+      "status": "placeholder",
+      "sha256": "698208fbfdf85134f317cfef0b8dacb5d96948dc2246eb226860038563aaffc4",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Blur_Noise.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Blur_Radial",
+      "path": "Assets/Resources/camerafilterpack_blur_radial.shader",
+      "guid": "302027e6a1620cb48911a32101862a07",
+      "status": "placeholder",
+      "sha256": "b15e006f338c37746f3d51d42cec5e33289b6669b2f023e09276c16dc25723e4",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Blur_Radial.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Blur_Radial_Fast",
+      "path": "Assets/Resources/camerafilterpack_blur_radial_fast.shader",
+      "guid": "c533ec55d17a0f64a94eb73d7f9212e2",
+      "status": "evidence-based-reconstruction",
+      "sha256": "76a46f900676cc65691cc5ca822909182643793c94ffa37dc3783ceca5b6be6e",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Blur_Radial_Fast.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Blur_Regular",
+      "path": "Assets/Resources/camerafilterpack_blur_regular.shader",
+      "guid": "21b6891e76e92ca419a6b686151bc365",
+      "status": "placeholder",
+      "sha256": "dc17cf984829af40f6a8de9a6daad6dfa830938c4f9359fca3418b6fa910dbc1",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Blur_Regular.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Blur_Steam",
+      "path": "Assets/Resources/camerafilterpack_blur_steam.shader",
+      "guid": "105237c8deb027c4f8eb8bd693f0c921",
+      "status": "placeholder",
+      "sha256": "03e7cd392b7acc65018a0aa67c5b4021e97c369de1a45af46842be73c34ddfd8",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Blur_Steam.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/BlurTiltShift",
+      "path": "Assets/Resources/camerafilterpack_blur_tilt_shift.shader",
+      "guid": "b3b55f469bea8104a8f2e2cff390e7cc",
+      "status": "placeholder",
+      "sha256": "c29c98a62d79b2c395565f840b2a503613b312bab8c55f360e0fbc006b0b84b8",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Blur_Tilt_Shift.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/BlurTiltShift_Hole",
+      "path": "Assets/Resources/camerafilterpack_blur_tilt_shift_hole.shader",
+      "guid": "2863b28e62a1f0842b37349407892a7c",
+      "status": "placeholder",
+      "sha256": "b4c6138fc497ffa569df26c3a70081764b11a72454225aba135898508be2150f",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Blur_Tilt_Shift_Hole.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/BlurTiltShift_V",
+      "path": "Assets/Resources/camerafilterpack_blur_tilt_shift_v.shader",
+      "guid": "24dffaf1a74eb7c40885a99e4e4868f8",
+      "status": "placeholder",
+      "sha256": "c662eca1703fe9e59f524b75a1ea5e7dd98ca2e1e914194adf0d9bd7056be2da",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Blur_Tilt_Shift_V.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Colors_Adjust_ColorRGB",
+      "path": "Assets/Resources/camerafilterpack_colors_adjust_colorrgb.shader",
+      "guid": "8c788a3f932643f4e84efcd0740f5e51",
+      "status": "placeholder",
+      "sha256": "211ee362a24e2dc45f112fe70e1cdd0e703fc0e7be4b35b2cd2c5b30818af761",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Colors_Adjust_ColorRGB.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Colors_Adjust_FullColors",
+      "path": "Assets/Resources/camerafilterpack_colors_adjust_fullcolors.shader",
+      "guid": "c807a41813ac472479bef9d050cd84ae",
+      "status": "placeholder",
+      "sha256": "e32461a4cd120630960d88bd3d82590463e06e3e12d2bbd647eef9bc92aed202",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Colors_Adjust_FullColors.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Colors_Adjust_PreFilters",
+      "path": "Assets/Resources/camerafilterpack_colors_adjust_prefilters.shader",
+      "guid": "8e502224b864df7429f6f5ac6e4f9563",
+      "status": "placeholder",
+      "sha256": "c66cdbdaea0379ce1efc498ef1b0f68fa21f64743e860ee1ee75523d20afd322",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Colors_BleachBypass",
+      "path": "Assets/Resources/camerafilterpack_colors_bleachbypass.shader",
+      "guid": "e772964bee020cc4881165fe2e88d67f",
+      "status": "placeholder",
+      "sha256": "23eda6ac7ac3b745ede9ffe14036e4657a1d76b4156a71bb9b6a6210a31ce9c1",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Colors_BleachBypass.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Colors_Brightness",
+      "path": "Assets/Resources/camerafilterpack_colors_brightness.shader",
+      "guid": "cb382480ba7d52c439821583a7425fa2",
+      "status": "placeholder",
+      "sha256": "ba30767cc7f48772fb389732b6b8b713094da40350615c3e029cc3031eb03d6f",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Colors_Brightness.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Colors_DarkColor",
+      "path": "Assets/Resources/camerafilterpack_colors_darkcolor.shader",
+      "guid": "19657c70b6f1ffe40918eee987a6c186",
+      "status": "placeholder",
+      "sha256": "b3ba30e1abc4bab0abd2e457f44e5ddf559308e6084caac41a84a0ce547f47b5",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Colors_DarkColor.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Colors_HSV",
+      "path": "Assets/Resources/camerafilterpack_colors_hsv.shader",
+      "guid": "f4093221fabb4e54fb4eb7b6f053dd89",
+      "status": "placeholder",
+      "sha256": "0f8b45d55328e96bd41c8c3c63600b65e5aaf36b2e6aa0313bb4e6683d1afcc0",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Colors_HUE_Rotate",
+      "path": "Assets/Resources/camerafilterpack_colors_hue_rotate.shader",
+      "guid": "def319a14edb4e54db73b610ae82f0ad",
+      "status": "placeholder",
+      "sha256": "5e2f82e7d5ae2b88f586258f8ac16da1c6dca745cf0cfa21cd1f18563f64d491",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Colors_HUE_Rotate.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Colors_NewPosterize",
+      "path": "Assets/Resources/camerafilterpack_colors_newposterize.shader",
+      "guid": "c871ebc2a3aa8794a8198286ed0dc97e",
+      "status": "placeholder",
+      "sha256": "964822b68cbffa6ba237bf5912c9b1ada31ec9b6b05adfc443e7c945ea64d824",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Colors_NewPosterize.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Colors_RgbClamp",
+      "path": "Assets/Resources/camerafilterpack_colors_rgbclamp.shader",
+      "guid": "16b0872837e861f408d68e3ae85ff84c",
+      "status": "placeholder",
+      "sha256": "de431f72bf4cf18d16779c0323c3067054aa2fea1e49deb4347154a31eab133f",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Colors_RgbClamp.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Colors_Threshold",
+      "path": "Assets/Resources/camerafilterpack_colors_threshold.shader",
+      "guid": "4ec24e49c032f2a4a98814d3d5cd9016",
+      "status": "placeholder",
+      "sha256": "7a34adf1a2b3b3ccb160296d56b932abf30e769eea67c5ae4be8eda2377504f6",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Colors_Threshold.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Color_BrightContrastSaturation",
+      "path": "Assets/Resources/camerafilterpack_color_brightcontrastsaturation.shader",
+      "guid": "920b8c931d98b594788e8ceae02d119e",
+      "status": "placeholder",
+      "sha256": "4fc90a69379477b1e83bcf59a7fca383d27757750130206b3f7ea244ef9789ae",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Color_BrightContrastSaturation.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Color_Chromatic_Aberration",
+      "path": "Assets/Resources/camerafilterpack_color_chromatic_aberration.shader",
+      "guid": "99129e4f12883f14aa246f3890b3902a",
+      "status": "placeholder",
+      "sha256": "c3acdce13663ff1084cb0d3b6b676824bf5d2686a425847f9f0510cfd5b4795b",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Color_Chromatic_Aberration.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Color_Chromatic_Plus",
+      "path": "Assets/Resources/camerafilterpack_color_chromatic_plus.shader",
+      "guid": "183382fd6927c4e4b9d93690177ef54e",
+      "status": "placeholder",
+      "sha256": "e4528b9a7f3511ae7d01d69a46c7c96c783603d4d5956a11a10fa141fd7aa56b",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Color_Chromatic_Plus.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Color_Contrast",
+      "path": "Assets/Resources/camerafilterpack_color_contrast.shader",
+      "guid": "d94a5369df1d9344780acc56bb3afda7",
+      "status": "placeholder",
+      "sha256": "fd17e4c76915abb810c4f7b28f8b4d161ceebd36c9b027caf33516c7a5eabd7c",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Color_Contrast.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Color_GrayScale",
+      "path": "Assets/Resources/camerafilterpack_color_grayscale.shader",
+      "guid": "cf3cbffe0f4a2264cb6261497fa7ee83",
+      "status": "evidence-based-reconstruction",
+      "sha256": "917b268fb49ef352b73a830317ed15e752e141602cfb7b54940527c3619da46f",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Color_GrayScale.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Color_Invert",
+      "path": "Assets/Resources/camerafilterpack_color_invert.shader",
+      "guid": "4b92242f21f52f24b8cb87959e0546c1",
+      "status": "placeholder",
+      "sha256": "439ab76da5814e2f206fb0088b98686e6dce23af70dff3151fec1e6c45d89b65",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Color_Invert.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Color_Noise",
+      "path": "Assets/Resources/camerafilterpack_color_noise.shader",
+      "guid": "7ab2117faabbf8d409868030e5815d86",
+      "status": "placeholder",
+      "sha256": "a9c0c3df14ac8d433838c432c1333e637086c5a508148dbb0087f3dad01daab5",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Color_Noise.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Color_RGB",
+      "path": "Assets/Resources/camerafilterpack_color_rgb.shader",
+      "guid": "246e2d4a0b208284dbf8ccbfaae53d10",
+      "status": "placeholder",
+      "sha256": "e5078989bc96fc164ec7b45261fb763176bd6d81eb27f5c82c3765fe9a9460ea",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Color_RGB.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Color_Sepia",
+      "path": "Assets/Resources/camerafilterpack_color_sepia.shader",
+      "guid": "b24982eedb450cf4cade88b2bf5a2bcb",
+      "status": "placeholder",
+      "sha256": "bb9eacb8ccd31cc1129245ada5a6088bc667f34d81c42079c4448719c37fb76b",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Color_Sepia.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Color_Switching",
+      "path": "Assets/Resources/camerafilterpack_color_switching.shader",
+      "guid": "c9f8e229d4fe32e4681f8aaff8185ab6",
+      "status": "placeholder",
+      "sha256": "bad0f4fe3ab810a63a4f62eb411a35ae6cb32f549a33c51d490ba1212e69ad23",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Color_Switching.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Color_YUV",
+      "path": "Assets/Resources/camerafilterpack_color_yuv.shader",
+      "guid": "14a415133075fd946b16e81c610f18e0",
+      "status": "placeholder",
+      "sha256": "776a23196215a4a7e0c6407d614e30de7785bbc3b784bbba4e265e96c723fd5a",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Color_YUV.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Color_Convert_Normal",
+      "path": "Assets/Resources/camerafilterpack_convert_normal.shader",
+      "guid": "d1b7f9cbd3925e34ba6562bf6e1c945b",
+      "status": "placeholder",
+      "sha256": "10d7eeb5c9d82c4449ecc811dc751cef8ec662d15a7e7e2d6ac517d0f706a6be",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Convert_Normal.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Distortion_Aspiration",
+      "path": "Assets/Resources/camerafilterpack_distortion_aspiration.shader",
+      "guid": "a6a3129175fcef545808dc11854b6d3b",
+      "status": "placeholder",
+      "sha256": "1fc42cc67e3f9c9dc004db44f79da618f16de9ae041a35ccde2346d01700a4a3",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Distortion_Aspiration.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Distortion_BigFace",
+      "path": "Assets/Resources/camerafilterpack_distortion_bigface.shader",
+      "guid": "da9b1b83a5ea5ee46aeff7656b5acea0",
+      "status": "placeholder",
+      "sha256": "cbf2409d9824dab6269c4e58343b9a2ab5425289e870d11a6c6758bcd60ec7bf",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Distortion_BigFace.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Distortion_BlackHole",
+      "path": "Assets/Resources/camerafilterpack_distortion_blackhole.shader",
+      "guid": "3034fe5e2a723344fb966da6e1916624",
+      "status": "placeholder",
+      "sha256": "869e232d4951746ec34d35d009a3c045fd95ff633680c059fa38c753e97ecaa9",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Distortion_BlackHole.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Distortion_Dissipation",
+      "path": "Assets/Resources/camerafilterpack_distortion_dissipation.shader",
+      "guid": "c2cec13588e74b848b371a16b898faf9",
+      "status": "placeholder",
+      "sha256": "cbedf2e47a847b327a6164d44e522e3547db5b8cc78c27b49b5d1098164b2c42",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Distortion_Dissipation.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Distortion_Dream",
+      "path": "Assets/Resources/camerafilterpack_distortion_dream.shader",
+      "guid": "8c2065d74dc47eb4786a32fd1d2ef25c",
+      "status": "placeholder",
+      "sha256": "cac610b52cd6c9f6bb1356480bdd3cefddc62e1833374d2301ef4250b089ccf2",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Distortion_Dream.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Distortion_Dream2",
+      "path": "Assets/Resources/camerafilterpack_distortion_dream2.shader",
+      "guid": "1a42ddd5d9d75d14aa823c1c05e4f9b9",
+      "status": "placeholder",
+      "sha256": "0d4bef6a2b0e9267ef692ebb971e6ac6187ac48ea1c400d49dc7772d26bbea06",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Distortion_Dream2.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Distortion_FishEye",
+      "path": "Assets/Resources/camerafilterpack_distortion_fisheye.shader",
+      "guid": "a0c61c4f4542ef147913dda3a00c1a06",
+      "status": "placeholder",
+      "sha256": "6891e27500e12a9de28aa871ea002e14425d96218e496f73d694612a826a00f9",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Distortion_FishEye.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Distortion_Flag",
+      "path": "Assets/Resources/camerafilterpack_distortion_flag.shader",
+      "guid": "c301ca143d644e04cbc8272ee3bd8337",
+      "status": "placeholder",
+      "sha256": "43fcbda690a00470013d785036edf085820ae16649081ef29f0089340e08a978",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Distortion_Flag.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Distortion_Flush",
+      "path": "Assets/Resources/camerafilterpack_distortion_flush.shader",
+      "guid": "413710827b98397488823409f1942ab7",
+      "status": "placeholder",
+      "sha256": "dfa974b331dc7304cb197d8be70e129e5c049669adb800d3acc7a602435028d7",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Distortion_Flush.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Distortion_float_Sphere",
+      "path": "Assets/Resources/camerafilterpack_distortion_half_sphere.shader",
+      "guid": "564c0d110385e3c49ae8bec22bd51e76",
+      "status": "placeholder",
+      "sha256": "3328f988a4e0079fec5d6755ca8dbcd26a4fd877bba1a578bccfb76e69ecb13e",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Distortion_Heat",
+      "path": "Assets/Resources/camerafilterpack_distortion_heat.shader",
+      "guid": "a16dd426032e2e34eaa0626c44c9a3d0",
+      "status": "placeholder",
+      "sha256": "463942d378d1d815452084b65493e051ce25b50e64210a140e69cdb620190e2d",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Distortion_Heat.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Distortion_Lens",
+      "path": "Assets/Resources/camerafilterpack_distortion_lens.shader",
+      "guid": "58c7b6bc2708e1e44b249288b8c16e99",
+      "status": "placeholder",
+      "sha256": "3722d329f7c98c2667385d57b0f51d47832a74c0dfdd212beb3955aa3e3de2d1",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Distortion_Lens.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Distortion_Noise",
+      "path": "Assets/Resources/camerafilterpack_distortion_noise.shader",
+      "guid": "5cbaa60d9a8e96c4eb02a89b763de10e",
+      "status": "placeholder",
+      "sha256": "624b9e36df2e3d60d9d1e4c8093391d1450f306138eb98dbc9e6a61d8fff4d7a",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Distortion_Noise.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Distortion_ShockWave",
+      "path": "Assets/Resources/camerafilterpack_distortion_shockwave.shader",
+      "guid": "5e60a1e77e727c344af4de0036053458",
+      "status": "placeholder",
+      "sha256": "4ade1139441603267d54fc44f71e749374328aad61f43cb43eeae8ed6f7ec890",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Distortion_ShockWave.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Distortion_ShockWaveManual",
+      "path": "Assets/Resources/camerafilterpack_distortion_shockwavemanual.shader",
+      "guid": "27837496282a5a645bb6f2f885d9a8a8",
+      "status": "placeholder",
+      "sha256": "cf363a76fe89ae75dca99fc09b9f8c86bd96402ec780ef29bf40d7bfe71a3879",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Distortion_ShockWaveManual.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Distortion_Twist",
+      "path": "Assets/Resources/camerafilterpack_distortion_twist.shader",
+      "guid": "b37e40591d95c714aa2f845b58a15816",
+      "status": "placeholder",
+      "sha256": "d665028db1d3da9452b61121b95d368914e2f53c871623b50ecafccc4c6c9244",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Distortion_Twist.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Distortion_Twist_Square",
+      "path": "Assets/Resources/camerafilterpack_distortion_twist_square.shader",
+      "guid": "d487d3f3cae921446b00778ca50ba9ef",
+      "status": "placeholder",
+      "sha256": "2d9f583b97ed3de191c726f464f3b5a8b532ceca279ddd403eb947846fc95131",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Distortion_Twist_Square.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Distortion_Water_Drop",
+      "path": "Assets/Resources/camerafilterpack_distortion_water_drop.shader",
+      "guid": "1e839404f6db7a343aeea58c3a954a56",
+      "status": "placeholder",
+      "sha256": "46a7b766c8416e57a59a01256fef19d21bf624d69dbf8922f35e477953e0e1e8",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Distortion_Water_Drop.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Distortion_Wave_Horizontal",
+      "path": "Assets/Resources/camerafilterpack_distortion_wave_horizontal.shader",
+      "guid": "04b78501c844f354f8da8769a5c1134b",
+      "status": "placeholder",
+      "sha256": "024b26f84234673e9bbcc2570b6f8ed384939a81484d8846212d0026be34fc26",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Distortion_Wave_Horizontal.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Drawing_BluePrint",
+      "path": "Assets/Resources/camerafilterpack_drawing_blueprint.shader",
+      "guid": "dd86019180f22194697cbc2a0719c0f2",
+      "status": "placeholder",
+      "sha256": "2a8524a19548cdf9993d00f2e7847947373f058a108502bae202f99eb60b0b96",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Drawing_BluePrint.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Drawing_CellShading",
+      "path": "Assets/Resources/camerafilterpack_drawing_cellshading.shader",
+      "guid": "37151856add83a84494a06f6c5769275",
+      "status": "placeholder",
+      "sha256": "417c2fabd7b67c2c796511f4463963148895bcdf1c4e3af42b9dc4e7cd14e8cd",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Drawing_CellShading.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Drawing_CellShading2",
+      "path": "Assets/Resources/camerafilterpack_drawing_cellshading2.shader",
+      "guid": "158c57ef852a3f44db58195e901bc05c",
+      "status": "placeholder",
+      "sha256": "bfa6dd121aba46f61308fefe326f5a0cd7d1bafd7d6f40a469aaf5c1ea8db3e2",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Drawing_CellShading2.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Drawing_Comics",
+      "path": "Assets/Resources/camerafilterpack_drawing_comics.shader",
+      "guid": "4192890a09fd96f4f972a8817c97115f",
+      "status": "placeholder",
+      "sha256": "d56b87603ec6760da522dd7a1c14b494317d2bc26080e1f51c91dd2e7fb39398",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Drawing_Comics.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Drawing_Crosshatch",
+      "path": "Assets/Resources/camerafilterpack_drawing_crosshatch.shader",
+      "guid": "ac92f017c43e2434eadce7a943051ce4",
+      "status": "placeholder",
+      "sha256": "093d415485ee476c092e236ff451d844b645e9cb5fe92f73b35edd74c96a5706",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Drawing_Crosshatch.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Drawing_Curve",
+      "path": "Assets/Resources/camerafilterpack_drawing_curve.shader",
+      "guid": "5344f614e3cb7e5438f090c179719030",
+      "status": "placeholder",
+      "sha256": "b794d089f95eb2e9ad4dd726faab60ff3e9150cbd38b6f57f8e1f9b22f4e89de",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Drawing_Curve.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Drawing_EnhancedComics",
+      "path": "Assets/Resources/camerafilterpack_drawing_enhancedcomics.shader",
+      "guid": "dbc8373e67a4c884ca2c6ce28af90898",
+      "status": "placeholder",
+      "sha256": "a4e52c15c19967d70b54a5e0e3405331ed782aa1efb6e932ef7e7d7166eb8082",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Drawing_EnhancedComics.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Drawing_floattone",
+      "path": "Assets/Resources/camerafilterpack_drawing_halftone.shader",
+      "guid": "84e5cbc476cde80439f4b2b2d05fed76",
+      "status": "placeholder",
+      "sha256": "bf7e520b19e97ecacfc3352c443709225b7f8745f10e0f2403ffa7bf1371b894",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Drawing_Laplacian",
+      "path": "Assets/Resources/camerafilterpack_drawing_laplacian.shader",
+      "guid": "902a2f43d685e4b43bd38b9f130d3891",
+      "status": "placeholder",
+      "sha256": "05d4e156893494875d50a2dc5787a6a6419212fb743de7887c8b7325368c398b",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Drawing_Laplacian.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Drawing_Lines",
+      "path": "Assets/Resources/camerafilterpack_drawing_lines.shader",
+      "guid": "194f81b3229f1ae45a35c23557aa7b0e",
+      "status": "placeholder",
+      "sha256": "90cc8513539a7171ecae8ae489205b0952a1c8f76aba3c887143ada028e1df85",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Drawing_Lines.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Drawing_Manga",
+      "path": "Assets/Resources/camerafilterpack_drawing_manga.shader",
+      "guid": "c2242763337d6174cbbed465547b7430",
+      "status": "placeholder",
+      "sha256": "4defa9a7de07ceb592418e3d7e9ae43c394d4bc19186de9ef8ecafe2707a297e",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Drawing_Manga.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Drawing_Manga2",
+      "path": "Assets/Resources/camerafilterpack_drawing_manga2.shader",
+      "guid": "5d4bd205e6a799e4d9c19b499429e1e7",
+      "status": "placeholder",
+      "sha256": "e19a8376ead4229bf1f8ffa117b1520f296eb71521cb3b248eb0f19ad39cdb3b",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Drawing_Manga2.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Drawing_Manga3",
+      "path": "Assets/Resources/camerafilterpack_drawing_manga3.shader",
+      "guid": "f5cea6ab191e0dd418086e6c164db4d9",
+      "status": "placeholder",
+      "sha256": "09caefc4f274f926d3adc0f96b389001afdbe20b71c223b5e2b682db8d181a19",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Drawing_Manga3.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Drawing_Manga4",
+      "path": "Assets/Resources/camerafilterpack_drawing_manga4.shader",
+      "guid": "7bacdffd3330ebc419a4623557d76edf",
+      "status": "placeholder",
+      "sha256": "3ad38acec030f5de6b05c3d2a52478bbd81cf8c4df81b97b43c47cea5f280203",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Drawing_Manga4.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Drawing_Manga5",
+      "path": "Assets/Resources/camerafilterpack_drawing_manga5.shader",
+      "guid": "a6ace027c9a555446b0f4fd91440d711",
+      "status": "placeholder",
+      "sha256": "770a5f33008494a1eaf8cfa6e4aa4ba0cc76c20e52709b0421157d92f3583865",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Drawing_Manga5.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Drawing_Manga_Color",
+      "path": "Assets/Resources/camerafilterpack_drawing_manga_color.shader",
+      "guid": "69020886bae8c994991e9a8dfad66d64",
+      "status": "placeholder",
+      "sha256": "3f468ebd5a0426961b463816a00294e028a563130caa60952e741366df14a7a2",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Drawing_Manga_Color.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Drawing_Manga_Flash",
+      "path": "Assets/Resources/camerafilterpack_drawing_manga_flash.shader",
+      "guid": "53f3728bdcf709646b6b12ac92b656c9",
+      "status": "placeholder",
+      "sha256": "8cbd5c22304bd182751ae2311ae0981b7f0b4e98f7296e3fdb49acff43a4a7c0",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Drawing_Manga_Flash.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Drawing_Manga_FlashWhite",
+      "path": "Assets/Resources/camerafilterpack_drawing_manga_flashwhite.shader",
+      "guid": "ff314f42c16184e4687104edc73eb00a",
+      "status": "placeholder",
+      "sha256": "b362e53ee2764c8a5cf06cbd437a4143a678a313db648777b5d3c6b8a993d7c4",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Drawing_Manga_FlashWhite.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Drawing_Manga_Flash_Color",
+      "path": "Assets/Resources/camerafilterpack_drawing_manga_flash_color.shader",
+      "guid": "cd20050e4ad83a84a971c7c2ed6457f2",
+      "status": "placeholder",
+      "sha256": "b971e31ae0f527742fb6c3d0b21fb5fa289674461a3be622d138f5c0b2bd406c",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Drawing_Manga_Flash_Color.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Drawing_NewCellShading",
+      "path": "Assets/Resources/camerafilterpack_drawing_newcellshading.shader",
+      "guid": "19359f2b586a427429c637c0d16ce304",
+      "status": "placeholder",
+      "sha256": "01173af9323cab9d6942259d30804e1db545a0125809a26e9d34dd822988a26f",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Drawing_NewCellShading.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Drawing_Paper",
+      "path": "Assets/Resources/camerafilterpack_drawing_paper.shader",
+      "guid": "4fadbb814df452b4e984fde6b4f7601f",
+      "status": "placeholder",
+      "sha256": "ee766d5a79df182434a854f779f9744909c6a5e410d23386c53499733d1d0192",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Drawing_Paper.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Drawing_Paper2",
+      "path": "Assets/Resources/camerafilterpack_drawing_paper2.shader",
+      "guid": "3b81d997907ab7d42971535e2f85a9f2",
+      "status": "placeholder",
+      "sha256": "671c15c9b11d00fcfa7fb07e9bea59763be4e00554371854a66e57f1ba765914",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Drawing_Paper2.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Drawing_Paper3",
+      "path": "Assets/Resources/camerafilterpack_drawing_paper3.shader",
+      "guid": "7df2a17369a24d64f9b8bd527642969e",
+      "status": "placeholder",
+      "sha256": "84eafc5ba28003b17b0c55af5f1dffd2dafe30a5e1d73a5a7fabb0e683241113",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Drawing_Paper3.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Drawing_Toon",
+      "path": "Assets/Resources/camerafilterpack_drawing_toon.shader",
+      "guid": "8f45e28111c34a8489570beb7bd14b1b",
+      "status": "placeholder",
+      "sha256": "39695ade7e76c59eaef8aa50255a252eff2c89582d5dd90a698ebb27cf75e740",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Drawing_Toon.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Edge_BlackLine",
+      "path": "Assets/Resources/camerafilterpack_edge_blackline.shader",
+      "guid": "af4845e92dd624e448c58bd85120d152",
+      "status": "placeholder",
+      "sha256": "db4f14b91be6754b811cbc20ba8c0bc3d12f4301654c9f2ebf65eeaeea435681",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Edge_BlackLine.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Edge_Edge_filter",
+      "path": "Assets/Resources/camerafilterpack_edge_edge_filter.shader",
+      "guid": "c6235a77112496c40ba1e51ca2767033",
+      "status": "placeholder",
+      "sha256": "ed656ec98724375aa4322eaa942ba18f92f67475fd78cd10d2ce5c051e827d4b",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Edge_Edge_filter.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Edge_Golden",
+      "path": "Assets/Resources/camerafilterpack_edge_golden.shader",
+      "guid": "b62e14c8cd4b6eb4da60c0568e6fe7f8",
+      "status": "placeholder",
+      "sha256": "7d3186fb9edc359940dfcb5fdfb1fb323214d1d50b0f727380773c3fd3308140",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Edge_Golden.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Edge_Neon",
+      "path": "Assets/Resources/camerafilterpack_edge_neon.shader",
+      "guid": "08f8cc53039bdee4b93cb3b34a610bfb",
+      "status": "placeholder",
+      "sha256": "d4127ab112bbf94adb48525523d651f452394eb6d5a4b1a0e0803b89d1388baa",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Edge_Neon.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Edge_Sigmoid",
+      "path": "Assets/Resources/camerafilterpack_edge_sigmoid.shader",
+      "guid": "63bfb1b7c4c79094ab3bb9725caaeac2",
+      "status": "placeholder",
+      "sha256": "69e7899f2b993061d63afcb1001611e7da96110c10821836f2e9e405a187e71d",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Edge_Sigmoid.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Edge_Sobel",
+      "path": "Assets/Resources/camerafilterpack_edge_sobel.shader",
+      "guid": "846d691f268b4c54d86de3a79ecbdde9",
+      "status": "placeholder",
+      "sha256": "d6074207de551d8d1ba78f2f0e90a891b64cc0efccc228bf05d40be90473d437",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Edge_Sobel.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/EXTRA_Rotation",
+      "path": "Assets/Resources/camerafilterpack_extra_rotation.shader",
+      "guid": "120f2cc63a9960141aabd2e171df1e9b",
+      "status": "placeholder",
+      "sha256": "064556d964661f6b0a6b75e6962fca7b53891f5f81755eb7db6ba44934f671af",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_EXTRA_Rotation.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/EXTRA_SHOWFPS",
+      "path": "Assets/Resources/camerafilterpack_extra_showfps.shader",
+      "guid": "c360a09085ed21347a8c7cbd09b29214",
+      "status": "placeholder",
+      "sha256": "a79a86cf57a3b7fed210920dc85aed7b772f71672c407c06a9d262db9d3044df",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_EXTRA_SHOWFPS.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/EyesVision_1",
+      "path": "Assets/Resources/camerafilterpack_eyesvision_1.shader",
+      "guid": "40dbe8b3cf8bba74c81328defb12c7cb",
+      "status": "placeholder",
+      "sha256": "1d3ded69447f0623530d139b2d845c3bf6f8d5d4d72b965ab7c2341bfe8a4a70",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_EyesVision_1.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/EyesVision_2",
+      "path": "Assets/Resources/camerafilterpack_eyesvision_2.shader",
+      "guid": "ae3af1acf45314c469615a4e8bdc0083",
+      "status": "placeholder",
+      "sha256": "dfb2d9bdbdb9c44cbe94344ae751e8bea777d47b9db7a15ffa4b383a3c1e352a",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_EyesVision_2.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Film_ColorPerfection",
+      "path": "Assets/Resources/camerafilterpack_film_colorperfection.shader",
+      "guid": "bcdff792c4672f04ca60422f8f6361de",
+      "status": "placeholder",
+      "sha256": "f8afdb644e4bfe9334b2daa5f62d55f0031acc1a6b8d98f620ac22b9504e3693",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Film_ColorPerfection.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Film_Grain",
+      "path": "Assets/Resources/camerafilterpack_film_grain.shader",
+      "guid": "1bca92f19ddefd545841bd3e1ea66fed",
+      "status": "placeholder",
+      "sha256": "b4f509ceb936a88c4036774fc97deddb5b66542c7c2134b0f26b679bac4c21c8",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Film_Grain.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Fly_Vision",
+      "path": "Assets/Resources/camerafilterpack_fly_vision.shader",
+      "guid": "c1b48eba741f18c48b6b2d00baee0090",
+      "status": "placeholder",
+      "sha256": "e4b6e20f9b677b109d904b2f2715042759cd2c877d39bedee9181091746eb78e",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Fly_Vision.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/FX_8bits",
+      "path": "Assets/Resources/camerafilterpack_fx_8bits.shader",
+      "guid": "2b22fffe0fd5d7f4f93c0ad6d8f41a20",
+      "status": "placeholder",
+      "sha256": "8475613e28ab18307b494e72ad98037a0c2c6b2e50d26091faf73ec3aa24be3a",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_FX_8bits.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/FX_8bits_gb",
+      "path": "Assets/Resources/camerafilterpack_fx_8bits_gb.shader",
+      "guid": "c0c8b8f8b9bca054aaeaaf414e9a94b6",
+      "status": "placeholder",
+      "sha256": "3a84cef2617cf4678b6fa6d1a804e273e7c3cde4e00c550268b4c03a88d04b01",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_FX_8bits_gb.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/FX_Ascii",
+      "path": "Assets/Resources/camerafilterpack_fx_ascii.shader",
+      "guid": "87ccdd59c1089394b82beeadfa5a695a",
+      "status": "placeholder",
+      "sha256": "b2458c2d305fb99995d5052d5dbca4c21976ddfa19904ccaf921a34bcee9de61",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_FX_Ascii.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/FX_DarkMatter",
+      "path": "Assets/Resources/camerafilterpack_fx_darkmatter.shader",
+      "guid": "5152816ee24f74446944d81972119083",
+      "status": "placeholder",
+      "sha256": "a8bfeda78c4c854a7718d0ff1564447284d8e881cc39918074ce4b5b46712ab1",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_FX_DarkMatter.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/FX_DigitalMatrix",
+      "path": "Assets/Resources/camerafilterpack_fx_digitalmatrix.shader",
+      "guid": "cd07ed058c6e56c49a3aae0804d4b1f8",
+      "status": "placeholder",
+      "sha256": "3a02add0fbc9aad12a0789939d8be3b2e66e9497774c3c56d682078bdd4e4a23",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_FX_DigitalMatrix.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/FX_DigitalMatrixDistortion",
+      "path": "Assets/Resources/camerafilterpack_fx_digitalmatrixdistortion.shader",
+      "guid": "cd13d07aae20ccc4e916c143119646f1",
+      "status": "placeholder",
+      "sha256": "bced229ff211e3f6d5e35e71595fb660306937ba33f80c791ca13cd94b258a72",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_FX_DigitalMatrixDistortion.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/FX_Dot_Circle",
+      "path": "Assets/Resources/camerafilterpack_fx_dot_circle.shader",
+      "guid": "959de9a993a98694990163cd3c24328d",
+      "status": "placeholder",
+      "sha256": "f266f3926582c7662b69d6d33d78d5959961cef6698a8541c7eb3d8a3e6e129e",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_FX_Dot_Circle.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/FX_Drunk",
+      "path": "Assets/Resources/camerafilterpack_fx_drunk.shader",
+      "guid": "e0628f46a1d7e634b96772f4c177ebb8",
+      "status": "placeholder",
+      "sha256": "08a5558ffe8b986c168cea8a154d858015e97b58ebbcc868ab67f8034adcf8fb",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_FX_Drunk.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/FX_Drunk2",
+      "path": "Assets/Resources/camerafilterpack_fx_drunk2.shader",
+      "guid": "65024b36c2be7ae438e980c2975dd421",
+      "status": "placeholder",
+      "sha256": "1e0069af363bdef7c70d60ac53d020e52c7fef810f97c0e3053693c99352463c",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_FX_Drunk2.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/FX_EarthQuake",
+      "path": "Assets/Resources/camerafilterpack_fx_earthquake.shader",
+      "guid": "d79bcee159693054fa62349d04187074",
+      "status": "placeholder",
+      "sha256": "b64c944129e5e0b304c1c6a26c85e4556cba9c79cb0eb7fc5584c2c0f0550c5f",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_FX_EarthQuake.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/FX_Funk",
+      "path": "Assets/Resources/camerafilterpack_fx_funk.shader",
+      "guid": "636d1e6f81fdfd64598b5685d5a034ac",
+      "status": "placeholder",
+      "sha256": "83a6c295154a988d623a8a1643cfd12949277a10108a209e31bde8d7b435a022",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_FX_Funk.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/FX_Glitch1",
+      "path": "Assets/Resources/camerafilterpack_fx_glitch1.shader",
+      "guid": "a6e391291a1c1c549bc0e67bc66e4a08",
+      "status": "placeholder",
+      "sha256": "a2b0a0a3f7c779a3eac36f736ed1a8e3ce932b9a7ecd8574ddf674a3a99c956f",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_FX_Glitch1.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/FX_Glitch2",
+      "path": "Assets/Resources/camerafilterpack_fx_glitch2.shader",
+      "guid": "25b3857181358d246bf90b7444504701",
+      "status": "placeholder",
+      "sha256": "1ff04bfa49be976ae056d40fd0acc2820e2eac85f3f4e8e8d7e9797e36d46488",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_FX_Glitch2.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/FX_Glitch3",
+      "path": "Assets/Resources/camerafilterpack_fx_glitch3.shader",
+      "guid": "b0704e9b71097614f8d1b7401587008c",
+      "status": "placeholder",
+      "sha256": "821d108727323974d9bd30445256f81aa0521e3147d8b9018a651797dc4657be",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_FX_Glitch3.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/FX_Grid",
+      "path": "Assets/Resources/camerafilterpack_fx_grid.shader",
+      "guid": "e68710c1dfc63754299e8ea98d89a7cc",
+      "status": "placeholder",
+      "sha256": "885d422e9ec4cd0f406ab52eb7ab23526590c32c9132ced38f97b46b28387420",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_FX_Grid.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/FX_Hexagon",
+      "path": "Assets/Resources/camerafilterpack_fx_hexagon.shader",
+      "guid": "78f03d0b49e78814a9b3a21a2d45cd09",
+      "status": "placeholder",
+      "sha256": "3323ef0d3eea68ceff40ceae1969a75128711154c98625ba2950c56e6ce33df8",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_FX_Hexagon.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/FX_Hexagon_Black",
+      "path": "Assets/Resources/camerafilterpack_fx_hexagon_black.shader",
+      "guid": "98a056b9252381147b6761ae2382f18d",
+      "status": "placeholder",
+      "sha256": "8d2ce1e389cf7a37fa0ac1ea64ea7c0eb45078a506d340e3eef1080cbcda940f",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_FX_Hexagon_Black.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/FX_Hypno",
+      "path": "Assets/Resources/camerafilterpack_fx_hypno.shader",
+      "guid": "347404c21b5c1c44ab986150e17e7478",
+      "status": "placeholder",
+      "sha256": "a570a0be3e24f7bd62d2fb47ae552f3757405262bb8d9fe6788d85bc99c9d826",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_FX_Hypno.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/FX_InverChromiLum",
+      "path": "Assets/Resources/camerafilterpack_fx_inverchromilum.shader",
+      "guid": "4374dbe9b03f0a74da73752c95ff1727",
+      "status": "placeholder",
+      "sha256": "b85121e6e0295459b1f131ae9cb1b51b09f6be7efa38749c24429ebe1adc1088",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_FX_InverChromiLum.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/FX_Mirror",
+      "path": "Assets/Resources/camerafilterpack_fx_mirror.shader",
+      "guid": "b34e38628e54b004c961fd467854508e",
+      "status": "placeholder",
+      "sha256": "dcb50d52cc22ea38f90527ccd2168dadb080ee9c7a16e1313f6c811292b0b655",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_FX_Mirror.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/FX_Plasma",
+      "path": "Assets/Resources/camerafilterpack_fx_plasma.shader",
+      "guid": "3fe6ee81053f20f4c8fd2d9c16e843f8",
+      "status": "placeholder",
+      "sha256": "e927a1ea218d97a15d233d9c56beda161e3c555188eb432f34a80c70c5a71f14",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_FX_Plasma.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/FX_Psycho",
+      "path": "Assets/Resources/camerafilterpack_fx_psycho.shader",
+      "guid": "5f57b3746ed5f41479045d42f51765a6",
+      "status": "placeholder",
+      "sha256": "009ab03dec966e99c7dcff0390a95204c8a160ed63cefc00c9479474dca41d21",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_FX_Psycho.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/FX_Scan",
+      "path": "Assets/Resources/camerafilterpack_fx_scan.shader",
+      "guid": "03cef9cbfc3a0bc4c807a88fa654b306",
+      "status": "placeholder",
+      "sha256": "272ed43c2be63668183af9082b47ec687652976d7ba6757019ceb926db72f893",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_FX_Scan.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/FX_Screens",
+      "path": "Assets/Resources/camerafilterpack_fx_screens.shader",
+      "guid": "3503fa610cec7034b8f536876649f4e1",
+      "status": "placeholder",
+      "sha256": "80860986ed0aadfe07205d547a4475d33030dab7d313d85421cfa959c4c9a6c5",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_FX_Screens.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/FX_Spot",
+      "path": "Assets/Resources/camerafilterpack_fx_spot.shader",
+      "guid": "54a4e1f0257b5ff4f8f6252336a53b4c",
+      "status": "placeholder",
+      "sha256": "08a711e119911f1cb5382f79e3ba821e40a09b66cb3f6f18dc63e58f44ec0061",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_FX_Spot.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/FX_superDot",
+      "path": "Assets/Resources/camerafilterpack_fx_superdot.shader",
+      "guid": "1792a8af66944ac4f97eaac1b8bc4539",
+      "status": "placeholder",
+      "sha256": "450ad23b0c56ea94e99ee0dd95df584eb70442af2b8777eb2ceeeabe5c6e7a8e",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_FX_superDot.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/FX_ZebraColor",
+      "path": "Assets/Resources/camerafilterpack_fx_zebracolor.shader",
+      "guid": "05bf75e8665b0f944a2a544ae180da1e",
+      "status": "placeholder",
+      "sha256": "ea43f10a728c2d4af6cb4011a619e4a306e63e9ce60a191cccb91f3114f5f59e",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_FX_ZebraColor.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Glasses_On",
+      "path": "Assets/Resources/camerafilterpack_glasses_on.shader",
+      "guid": "27c8136ae08218b48ba937091f068be7",
+      "status": "placeholder",
+      "sha256": "b0792b2dc9cbd4b31337e305f33e1a5ef6caea52ed7d472170efacbf10e047c5",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Glasses_On.cs",
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Glasses_On_3.cs",
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Glasses_On_4.cs",
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Glasses_On_5.cs",
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Glasses_On_6.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Glasses_OnX",
+      "path": "Assets/Resources/camerafilterpack_glasses_onx.shader",
+      "guid": "9d7b157840f2ed945865ef02adcdf393",
+      "status": "placeholder",
+      "sha256": "effe7a87ba0e69ad11600ce064fb186c17ee94b248007de33a56068e76bbeceb",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Glasses_On_2.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Glitch_Mozaic",
+      "path": "Assets/Resources/camerafilterpack_glitch_mozaic.shader",
+      "guid": "0a498c29c7a180e4bb550954ba949991",
+      "status": "placeholder",
+      "sha256": "e1f16397057d85e3d7f9c6489b5f0dd6148329905bc3f1cb8977c1351aa79864",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Glitch_Mozaic.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Glow_Glow",
+      "path": "Assets/Resources/camerafilterpack_glow_glow.shader",
+      "guid": "824a5f1910c3ffe40889edb2e7fa49e4",
+      "status": "placeholder",
+      "sha256": "c02cc9403dc83be43b4423731a5b41e7fe94fdaee648d6b2e5804492bf0db838",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Glow_Glow.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Glow_Glow_Color",
+      "path": "Assets/Resources/camerafilterpack_glow_glow_color.shader",
+      "guid": "198cea1d066e4d1419a1940883199d9c",
+      "status": "placeholder",
+      "sha256": "66983098884542769c5b291ccd24e01f4532ce357082d09ab21eb45bd75976cb",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Glow_Glow_Color.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Gradients_Ansi",
+      "path": "Assets/Resources/camerafilterpack_gradients_ansi.shader",
+      "guid": "4b742fc31f87d5c48a22544ee509a550",
+      "status": "placeholder",
+      "sha256": "8ba17fc155dad51634e63785661c36c79f7e06cb1ed75b2ee3d4874f540a7cc6",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Gradients_Desert",
+      "path": "Assets/Resources/camerafilterpack_gradients_desert.shader",
+      "guid": "766b64a8c3568e2478bc589a256d2df4",
+      "status": "placeholder",
+      "sha256": "4756ba2775b245cb6f22a27baf5a871d6de72c32c8410a17c4e722151f43c43f",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Gradients_ElectricGradient",
+      "path": "Assets/Resources/camerafilterpack_gradients_electricgradient.shader",
+      "guid": "51e28d4087e9cdf4da905e901e8dfb09",
+      "status": "placeholder",
+      "sha256": "996c58167eddcff0677c51cf79d0261b61a35336a741b2738257b262ab1712ee",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Gradients_FireGradient",
+      "path": "Assets/Resources/camerafilterpack_gradients_firegradient.shader",
+      "guid": "9baee719d834a01498cb3245539cd2f9",
+      "status": "placeholder",
+      "sha256": "613ab5ce8bbea3dfe9debe120ec589596fc1db15e6e31b0c5bf935f46e4710e8",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Gradients_Hue",
+      "path": "Assets/Resources/camerafilterpack_gradients_hue.shader",
+      "guid": "687741ecd637b374d9a0b484585c6a2a",
+      "status": "placeholder",
+      "sha256": "b047000fddb3c2ff9afd0c17d73e904a585c27a928975cbfea6566ff7817af06",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Gradients_NeonGradient",
+      "path": "Assets/Resources/camerafilterpack_gradients_neongradient.shader",
+      "guid": "4825ece97052b814486d7a90641174d1",
+      "status": "placeholder",
+      "sha256": "a3449f48b289d5274677364b5395d9d1fb157f1468bc14ad4ddb476fca9a38bd",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Gradients_Rainbow",
+      "path": "Assets/Resources/camerafilterpack_gradients_rainbow.shader",
+      "guid": "a89ffc594387d7c45ae394b7ba73458c",
+      "status": "placeholder",
+      "sha256": "292538e6362a91afdd4af9efa96c33df39fe7ceac23124cb478545928a057d02",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Gradients_Stripe",
+      "path": "Assets/Resources/camerafilterpack_gradients_stripe.shader",
+      "guid": "04c74a9f5d2456a48b862d397f9e82a0",
+      "status": "placeholder",
+      "sha256": "8bcc35043ec59654eb4ade80ca76c34f66d8adcd937604ec33ef0e28f9561056",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Gradients_Tech",
+      "path": "Assets/Resources/camerafilterpack_gradients_tech.shader",
+      "guid": "902ce2ed7f4690646bb6e320c89f5832",
+      "status": "placeholder",
+      "sha256": "621c9c318886b00cdb0750f630c113a1cdb3af2b6cb092e15440645aae9524e4",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Gradients_Therma",
+      "path": "Assets/Resources/camerafilterpack_gradients_therma.shader",
+      "guid": "8b0ffabb1ceda21409f0b8115edf472b",
+      "status": "placeholder",
+      "sha256": "2ce9032114ea185f223423c9794d26357c0da6210b5b4b7c460ea80120b802b9",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Light_Rainbow",
+      "path": "Assets/Resources/camerafilterpack_light_rainbow.shader",
+      "guid": "96d85a66c873d7e4690009ad0aa716cb",
+      "status": "placeholder",
+      "sha256": "dadfe2be6571a6245abf0deec464b3a251dbbd6df2c849f9b4cb9686fd36acc2",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Light_Rainbow.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Light_Rainbow2",
+      "path": "Assets/Resources/camerafilterpack_light_rainbow2.shader",
+      "guid": "91db010a762f3844faaca3a8608357ae",
+      "status": "placeholder",
+      "sha256": "f3c46e330e182950cf1bc7e075e1050a2d79409b4c65644fd4dd00936dbafe54",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Light_Rainbow2.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Light_Water",
+      "path": "Assets/Resources/camerafilterpack_light_water.shader",
+      "guid": "c1ee9a9d085556647bcbf747a217e8e3",
+      "status": "placeholder",
+      "sha256": "7e0e3d5f77e76cdb0efaa836253b80684712fd631598ed13c1062ae6876ec887",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Light_Water.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Light_Water2",
+      "path": "Assets/Resources/camerafilterpack_light_water2.shader",
+      "guid": "376e569b6f4f981418d39ce70922a44c",
+      "status": "placeholder",
+      "sha256": "5d16b5f1d01a3e2752b86a1763739cbf186aeaeb55631249ab187c271bdbe3e3",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Light_Water2.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Lut_PlayWith",
+      "path": "Assets/Resources/camerafilterpack_lut_playwith.shader",
+      "guid": "04d504c0aca909d46b298cebf491a10f",
+      "status": "placeholder",
+      "sha256": "1bf61517f999a999d1f3b66ea745939789cb26ce3f12621228107f838f9f2362",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Lut_PlayWith.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Lut_Plus",
+      "path": "Assets/Resources/camerafilterpack_lut_plus.shader",
+      "guid": "03b9265043f23bf478d552a03b35d513",
+      "status": "placeholder",
+      "sha256": "9bb0bf112b065b4f773e4ed4fe57361d9a63ab27bd1e55121eb139e237aee8fa",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Lut_Plus.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Lut_Simple",
+      "path": "Assets/Resources/camerafilterpack_lut_simple.shader",
+      "guid": "66fc5068ea466bd41a67263470e2b59b",
+      "status": "placeholder",
+      "sha256": "7c9b347b9b07414b6225874879ecdd54d341f3115b71c0f98802133e38a66091",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Lut_Simple.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Lut_TestMode",
+      "path": "Assets/Resources/camerafilterpack_lut_testmode.shader",
+      "guid": "e3816365ab25fc64e98fc9b37e93454d",
+      "status": "placeholder",
+      "sha256": "6bb5e91621f1c868d71c963d19fcfd9fcb57922d95cc9b17c8989b2af546c70d",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Lut_TestMode.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/NightVisionFX",
+      "path": "Assets/Resources/camerafilterpack_nightvisionfx.shader",
+      "guid": "1fc3dfbed6f0d0e4094a8dc21ca2b6a4",
+      "status": "placeholder",
+      "sha256": "8fa12ea2a00bc7edabc7184e0068ec81059c9e88b0c6701a23f8b19a4275d595",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_NightVisionFX.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/NightVision_4",
+      "path": "Assets/Resources/camerafilterpack_nightvision_4.shader",
+      "guid": "aeb3a6f131fdf004489fb507902da2b8",
+      "status": "placeholder",
+      "sha256": "30bc365b608f7fe21e5a141a2ecab610b5f5c29ee0d0d3cadae4e068a67d9d8a",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Noise_TV",
+      "path": "Assets/Resources/camerafilterpack_noise_tv.shader",
+      "guid": "b8b3ec3968a4e9d42a2518de7797b0b3",
+      "status": "placeholder",
+      "sha256": "5f01c853e28b3adf6ce5a4d46600c91dffd828fe234f62e7728c9285b11153bf",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Noise_TV.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Noise_TV_2",
+      "path": "Assets/Resources/camerafilterpack_noise_tv_2.shader",
+      "guid": "2cbdf47ad0aee1e448c3f47ef264d909",
+      "status": "placeholder",
+      "sha256": "06bdd477d195b5dbf85f22d6c0d980b9a5eaccce5bf2b5e07b2bf02ece65045e",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Noise_TV_2.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Noise_TV_3",
+      "path": "Assets/Resources/camerafilterpack_noise_tv_3.shader",
+      "guid": "053521e3611bf0d44b83fe29f6d5700a",
+      "status": "placeholder",
+      "sha256": "a7f6c1538bdb3d0beadf6c3e29c6e19f68aafbb0bfdadc715bc36bd220f51cb4",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Noise_TV_3.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Oculus_NightVision1",
+      "path": "Assets/Resources/camerafilterpack_oculus_nightvision1.shader",
+      "guid": "72d003678930bb64ebc54a17910ae930",
+      "status": "placeholder",
+      "sha256": "48292f0431cd818eef6493b7cd94cbf3002ab5a638b9136d7ad2c71f3d4e3ee4",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Oculus_NightVision1.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Oculus_NightVision2",
+      "path": "Assets/Resources/camerafilterpack_oculus_nightvision2.shader",
+      "guid": "2680340ecbb7efa47a78c4a8018af43d",
+      "status": "placeholder",
+      "sha256": "9bcae141d19ec67a3806376405049709b519ae3aebeb6cb8b57204b20dc5e54e",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Oculus_NightVision3",
+      "path": "Assets/Resources/camerafilterpack_oculus_nightvision3.shader",
+      "guid": "8ccf0b09c4731cb4385d3b963bb5f264",
+      "status": "placeholder",
+      "sha256": "d8ccc2075b20e2cb65be913776630b5f7a9bb2131621ddb93e91d73904e5220d",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Oculus_NightVision3.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Oculus_NightVision5",
+      "path": "Assets/Resources/camerafilterpack_oculus_nightvision5.shader",
+      "guid": "d8e990c8937750d4aa06484e8587f694",
+      "status": "placeholder",
+      "sha256": "38c25ea8bc3de76cf6dcbec98159aeacb64b51c613545fc3e3a804950ee6e6eb",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "CameraFilterPack/Oculus_ThermaVision",
+      "path": "Assets/Resources/camerafilterpack_oculus_thermavision.shader",
+      "guid": "e5f2f35bf20b93444a79c6efad884c98",
+      "status": "placeholder",
+      "sha256": "4201eb2dc685836e03dcb079d0fbfead23a58c14cde1724394c3e07b5f2eda6d",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Oculus_ThermaVision.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/OldFilm_Cutting1",
+      "path": "Assets/Resources/camerafilterpack_oldfilm_cutting1.shader",
+      "guid": "9968662e5f29ffa47aad980f88865904",
+      "status": "placeholder",
+      "sha256": "7013ff5cb2b82ca27469b6c92723118baf80980af2f1e6ba500d93fece6f379f",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_OldFilm_Cutting1.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/OldFilm_Cutting2",
+      "path": "Assets/Resources/camerafilterpack_oldfilm_cutting2.shader",
+      "guid": "73d3e2945d3b18c448fdca7476cfe560",
+      "status": "placeholder",
+      "sha256": "490085ebf9e480a4558de40d3434410a57bc07fa007d47550213f6e80b83ef5d",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_OldFilm_Cutting2.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Deep_OilPaintHQ",
+      "path": "Assets/Resources/camerafilterpack_pixelisation_deepoilpainthq.shader",
+      "guid": "62f230ba7c7c8f64d8210ce5bef9c9f2",
+      "status": "placeholder",
+      "sha256": "adb5e05d2124965bff7a5c97831fd292b7117c7ef936fc727d9c7137d28f6ffd",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Pixelisation_DeepOilPaintHQ.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Pixelisation_Dot",
+      "path": "Assets/Resources/camerafilterpack_pixelisation_dot.shader",
+      "guid": "2a040e14a743b0043bcba8229de59cea",
+      "status": "placeholder",
+      "sha256": "c21e02b2dd7c27a1d38e14a5c1dd23869040c0b7fe363e917c9d5afaad4a1874",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Pixelisation_Dot.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Pixelisation_OilPaint",
+      "path": "Assets/Resources/camerafilterpack_pixelisation_oilpaint.shader",
+      "guid": "de0c2a9847929cf41aabc1de3c548105",
+      "status": "placeholder",
+      "sha256": "fcc9c41c5a9577b84c26405b50da25f4fac20e142357fdadab39ba97f149a80f",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Pixelisation_OilPaint.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Pixelisation_OilPaintHQ",
+      "path": "Assets/Resources/camerafilterpack_pixelisation_oilpainthq.shader",
+      "guid": "c1b57cbc68effea4788f1eaa4fad8d05",
+      "status": "placeholder",
+      "sha256": "2b21280d8747ce25f94be72390f2e3533e3de0f07b063160b4ce277fdf8f6257",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Pixelisation_OilPaintHQ.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Pixelisation_Sweater",
+      "path": "Assets/Resources/camerafilterpack_pixelisation_sweater.shader",
+      "guid": "daa6b4571f4d986498880227cae6304c",
+      "status": "placeholder",
+      "sha256": "fd138d26efc6168b4b851eb6396e669238bb32f05c52e69ca61e730a9c4ad6d8",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Pixelisation_Sweater.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Pixel_Pixelisation",
+      "path": "Assets/Resources/camerafilterpack_pixel_pixelisation.shader",
+      "guid": "2aec6aa343f1d85408f146786868c5fd",
+      "status": "placeholder",
+      "sha256": "6bad821b83100276493b620aecdf914a8bcfb01d85014ff597be2d8844b5d2b5",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Pixel_Pixelisation.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/RainFX",
+      "path": "Assets/Resources/camerafilterpack_rainfx.shader",
+      "guid": "c3215390bb4af2b43bb07ab2ac02c582",
+      "status": "placeholder",
+      "sha256": "7414fa95af3755a29d04da2591fa06481f3a93860e8607878b43a36901cc12d2",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Rain_RainFX.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Real_VHS",
+      "path": "Assets/Resources/camerafilterpack_real_vhs.shader",
+      "guid": "d275263c50523584f98bcbbe18a73667",
+      "status": "placeholder",
+      "sha256": "d3318405289978a9a18b8706c6c84081225822567088e9a628d7468e33543a54",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Real_VHS.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Retro_Loading",
+      "path": "Assets/Resources/camerafilterpack_retro_loading.shader",
+      "guid": "4cef591a4868483409ae98c62ce53633",
+      "status": "placeholder",
+      "sha256": "6a708bbc0fa3896ba3f7436ff6ba78c43346dd281b3f029d95a77b87cf974602",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Retro_Loading.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Sharpen_Sharpen",
+      "path": "Assets/Resources/camerafilterpack_sharpen_sharpen.shader",
+      "guid": "e8c8f0f91f3311b4eb1c9bed9e626bfd",
+      "status": "placeholder",
+      "sha256": "9237548810088b93c0dc3a94ef6ba8607aae9d245fb13a97fd7353145ccc4f10",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Sharpen_Sharpen.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Special_Bubble",
+      "path": "Assets/Resources/camerafilterpack_special_bubble.shader",
+      "guid": "003fae4940d696548a3a18e53577ab84",
+      "status": "placeholder",
+      "sha256": "855c0f7d7ef8dd154ffa898c0806ea5e1d90d2c36ce961bcd75c156794140e66",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Special_Bubble.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_50",
+      "path": "Assets/Resources/camerafilterpack_tv_50.shader",
+      "guid": "45969fc108e9174408754bb885b7238f",
+      "status": "placeholder",
+      "sha256": "bd91cf9838171dc5b5f01398baf74bcdb178757c2f2b8bcbc04b7d6bb421bc3e",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_50.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_80",
+      "path": "Assets/Resources/camerafilterpack_tv_80.shader",
+      "guid": "78b3fb99dbd5352438c69336beee9d0b",
+      "status": "placeholder",
+      "sha256": "b855241871f0940b198c0f1a005faba3c2b812d107a61778696c52760276b99a",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_80.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_ARCADE",
+      "path": "Assets/Resources/camerafilterpack_tv_arcade.shader",
+      "guid": "e7d2ed613334d3449a18f42f15fdc7c5",
+      "status": "placeholder",
+      "sha256": "90b6f4f6b14488023de968daa528ed2006804e2da81d0586d34687b8852eeab9",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_ARCADE.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_ARCADE_2",
+      "path": "Assets/Resources/camerafilterpack_tv_arcade_2.shader",
+      "guid": "dd0e517089bf4c34abf05ac4b996b5f0",
+      "status": "placeholder",
+      "sha256": "94c2a55666c259e503ec256659a0e25c782e65a1237e882385d05862ce9d25ed",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_ARCADE_2.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_ARCADE_Fast",
+      "path": "Assets/Resources/camerafilterpack_tv_arcade_fast.shader",
+      "guid": "204e9cd1ab09e3f44910af932b789ee9",
+      "status": "placeholder",
+      "sha256": "14dd1fca7d25e13018b8e85073097010928328b06c73f13e04f66ddadcd45e9a",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_ARCADE_Fast.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_Artefact",
+      "path": "Assets/Resources/camerafilterpack_tv_artefact.shader",
+      "guid": "05c54f6755d0f3542a84bc4eccd2f71f",
+      "status": "placeholder",
+      "sha256": "8e37da87cd6f81072e07929c5bfb544a3e85c0a7c7a88d54c17b87b2f62377fa",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_Artefact.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_BrokenGlass",
+      "path": "Assets/Resources/camerafilterpack_tv_brokenglass.shader",
+      "guid": "ddc39d6b6fbc59a458b9c7e46cb9b4c3",
+      "status": "placeholder",
+      "sha256": "7c80ab4d355a80af1e80f889b2e9bc73001507ad5ffdf0efce5e29a207f4f1e8",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_BrokenGlass.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_BrokenGlass2",
+      "path": "Assets/Resources/camerafilterpack_tv_brokenglass2.shader",
+      "guid": "beda683e868d03448aa600da9aed1312",
+      "status": "placeholder",
+      "sha256": "faaf980db822c28a48da4e78c6ebe1bb92704151bdf1777691f0d85e4fcf83e6",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_BrokenGlass2.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_Chromatical",
+      "path": "Assets/Resources/camerafilterpack_tv_chromatical.shader",
+      "guid": "c3ae95ee3262f6346a45718a8e5080cf",
+      "status": "placeholder",
+      "sha256": "785527303e6a11124c0f9622f125d8a65bae177560e83a597dd416a08a557c16",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_Chromatical.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_Chromatical2",
+      "path": "Assets/Resources/camerafilterpack_tv_chromatical2.shader",
+      "guid": "bf10d1febddb6f141ab76f97fd2b379f",
+      "status": "placeholder",
+      "sha256": "7e280f85871932ec786c1200a2859fe5a7d14c491fb6baf7adbf1ff2b86f4e36",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_Chromatical2.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_CompressionFX",
+      "path": "Assets/Resources/camerafilterpack_tv_compressionfx.shader",
+      "guid": "1115aeca06420fc4683f2449ea6affb1",
+      "status": "placeholder",
+      "sha256": "484e3a1b9c3cbc2acc2bc258c8826ca8f616295de02b6cd278cbfd54a0356a94",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_CompressionFX.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_Distorted",
+      "path": "Assets/Resources/camerafilterpack_tv_distorted.shader",
+      "guid": "aa51e3c9f985c6b40aeb4c05932905ed",
+      "status": "placeholder",
+      "sha256": "1de9d51c6e566934ca15270cb0e409612b8f4ef5294eebbf3ad5afc3c1e276f8",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_Distorted.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_Horror",
+      "path": "Assets/Resources/camerafilterpack_tv_horror.shader",
+      "guid": "e7401926fa214584b8714a57c3e82e12",
+      "status": "placeholder",
+      "sha256": "216947ffc5b30a57a8049c095e2f2447c993673bb3a43156f5a61291f096ccbb",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_Horror.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_LED",
+      "path": "Assets/Resources/camerafilterpack_tv_led.shader",
+      "guid": "f4a44049f6fdac8478ec7584791653db",
+      "status": "placeholder",
+      "sha256": "6ff395537f500867a02a287bf896ff3fab6ecbf1ff280a4e732983fa556aaed7",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_LED.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_MovieNoise",
+      "path": "Assets/Resources/camerafilterpack_tv_movienoise.shader",
+      "guid": "f02b251a538cb154797df2371f9cd6fe",
+      "status": "placeholder",
+      "sha256": "29c35159ace6b3523827439377c6774ec589c7e8b93b726e44ee7b16fa537c7b",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_MovieNoise.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_Noise",
+      "path": "Assets/Resources/camerafilterpack_tv_noise.shader",
+      "guid": "3799c2b9803ad434b9a4f3f2362d9180",
+      "status": "placeholder",
+      "sha256": "d5b2d5b6cb1be6bc8e51ae43231459971083151cd753ad2fcb73861156775b8d",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_Noise.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_Old",
+      "path": "Assets/Resources/camerafilterpack_tv_old.shader",
+      "guid": "b18a501206bb96440a8a5b9566d27d40",
+      "status": "placeholder",
+      "sha256": "9dcae9320bbfe36fc823f53ad9a0156452c8c92e4452feba9f75aa947ca58ae9",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_Old.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_Old_Movie",
+      "path": "Assets/Resources/camerafilterpack_tv_old_movie.shader",
+      "guid": "697eb81055e97904d8428584fdf7d9c4",
+      "status": "placeholder",
+      "sha256": "74469f4792ccb11c1acf2c258d301ddb1d62763f1c63ea4efc30b84fec96e30d",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_Old_Movie.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_Old_Movie_2",
+      "path": "Assets/Resources/camerafilterpack_tv_old_movie_2.shader",
+      "guid": "0c499db657814b74683d2dccca06a0e0",
+      "status": "placeholder",
+      "sha256": "98dce24298b288b5d6a0113386eae3deb91598695c34bb7f7338f384262e7e47",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_Old_Movie_2.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_PlanetMars",
+      "path": "Assets/Resources/camerafilterpack_tv_planetmars.shader",
+      "guid": "dbc749b40e17621469e0322d4434b5ef",
+      "status": "placeholder",
+      "sha256": "cebbb2a087b76c72cbde193ad273d7b4e48955916b095b3aa419ef2946656c9e",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_PlanetMars.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_Posterize",
+      "path": "Assets/Resources/camerafilterpack_tv_posterize.shader",
+      "guid": "30a4f577e8e726c4aa3b6256c2e99be2",
+      "status": "placeholder",
+      "sha256": "846e3f95965ddfc4154ec6031dad574460a51fff842684e9f4753dd98f1e3948",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_Posterize.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_Rgb",
+      "path": "Assets/Resources/camerafilterpack_tv_rgb.shader",
+      "guid": "1f57328618e33b549bd144653706ade7",
+      "status": "placeholder",
+      "sha256": "44d593c26ba2c889bbd8862c4cf3c485752b0c3de937e4952fc498d0b81ba2fe",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_Rgb.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_Tiles",
+      "path": "Assets/Resources/camerafilterpack_tv_tiles.shader",
+      "guid": "67c33d75ca2c417488854b7532853b4a",
+      "status": "placeholder",
+      "sha256": "b987ca75fd4bc9fdba9b0f34235d1460f96165b7aed201e783b538f3fc2d0362",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_Tiles.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_Vcr",
+      "path": "Assets/Resources/camerafilterpack_tv_vcr.shader",
+      "guid": "ffb6622faeec2ba439705abbc638a06c",
+      "status": "placeholder",
+      "sha256": "6a3b3751c33c4424cb3d492dfcb35849694883cf2db60b16f4992c1cedba4b41",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_Vcr.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_VHS",
+      "path": "Assets/Resources/camerafilterpack_tv_vhs.shader",
+      "guid": "46167047483a3db498d0049aadcfdcef",
+      "status": "placeholder",
+      "sha256": "0eadbce89a5ca6000afc3be9b0591a5ae297a39de388502efa8a4aae6c544ddc",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_VHS.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_VHS_Rewind",
+      "path": "Assets/Resources/camerafilterpack_tv_vhs_rewind.shader",
+      "guid": "e4c1f9d34b292fc459d3feba1aff3b93",
+      "status": "placeholder",
+      "sha256": "f3b9bc9fb33cbcc59e207cd6033a4f7266c40efb9e7be16e82f02a88cf73fe9c",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_VHS_Rewind.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_Video3D",
+      "path": "Assets/Resources/camerafilterpack_tv_video3d.shader",
+      "guid": "e84561d5499e2d54783a901d9e6926d1",
+      "status": "placeholder",
+      "sha256": "345a910090cc2fbbfae1731b66bc35201a24dd83dc6597e833f63e770b852da3",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_Video3D.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_Videoflip",
+      "path": "Assets/Resources/camerafilterpack_tv_videoflip.shader",
+      "guid": "3ef34b8a876017d4eb929a256538fc1a",
+      "status": "placeholder",
+      "sha256": "6cf0207acf790218676171ae8bc9db4f5ef905d10b30b2a370f49732c4907fcf",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_Videoflip.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_Vignetting",
+      "path": "Assets/Resources/camerafilterpack_tv_vignetting.shader",
+      "guid": "1ffa9521bd7a0464aa628138958c820d",
+      "status": "placeholder",
+      "sha256": "c5afee8d56d6782ad814851b927530639f4e29b4c03a10894f0b321abb1bf565",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_Vignetting.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_Vintage",
+      "path": "Assets/Resources/camerafilterpack_tv_vintage.shader",
+      "guid": "f911913a5437e4847b29a4d2bcaa2e72",
+      "status": "placeholder",
+      "sha256": "84ed5dba2e282d2d69464d430f3cf5b18e487a6441a15a3ef8d0c2e86871ea72",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_Vintage.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_WideScreenCircle",
+      "path": "Assets/Resources/camerafilterpack_tv_widescreencircle.shader",
+      "guid": "9c70d1bf2ee1b2844bac12c5eb2a3284",
+      "status": "placeholder",
+      "sha256": "23583f634ce0bb72da1ac1347777b5ab6273117725dcc14910c24eb55e5b268d",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_WideScreenCircle.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_WideScreenHorizontal",
+      "path": "Assets/Resources/camerafilterpack_tv_widescreenhorizontal.shader",
+      "guid": "f1324321192ec7945a0447fcc18a2c92",
+      "status": "placeholder",
+      "sha256": "20df192a04267ec5f7a1d1d53c753f40e1c4c69b69509fa53ea3e2fbff6084aa",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_WideScreenHorizontal.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_WideScreenHV",
+      "path": "Assets/Resources/camerafilterpack_tv_widescreenhv.shader",
+      "guid": "da7b3b962ddb4464c99bb3984faa5b04",
+      "status": "placeholder",
+      "sha256": "ab7ae2dac5d0e023996571053449372b415c1118b6767c8891b989ff55c3816e",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_WideScreenHV.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/TV_WideScreenVertical",
+      "path": "Assets/Resources/camerafilterpack_tv_widescreenvertical.shader",
+      "guid": "f39b6042215aad54ebcf3d20ca00aa37",
+      "status": "placeholder",
+      "sha256": "ffa4c3cf70c83d59c2698cb081b09422d73d1901969083ed1ec065349558e4dc",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_TV_WideScreenVertical.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/VHS_Tracking",
+      "path": "Assets/Resources/camerafilterpack_vhs_tracking.shader",
+      "guid": "6a535a815bd036d4993411b931460dc0",
+      "status": "placeholder",
+      "sha256": "33dd9a68ca38cd55e62e47d7fe295166fe1829f99909019f48a198378286b2ac",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_VHS_Tracking.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Vision_Aura",
+      "path": "Assets/Resources/camerafilterpack_vision_aura.shader",
+      "guid": "9af9b156ff45ca34dacbed0df2114ea7",
+      "status": "placeholder",
+      "sha256": "c32ea79f5b57d96be6587de6d7c8aa1bd40ebd25e27cac2a43c0defa119d4d58",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Vision_Aura.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Vision_AuraDistortion",
+      "path": "Assets/Resources/camerafilterpack_vision_auradistortion.shader",
+      "guid": "f512eac9a08ab004fb0013ecad9747f9",
+      "status": "placeholder",
+      "sha256": "966a19b5b9e04ba283e55e989602f85c0335e74cd8043ffb8288498c131435a3",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Vision_AuraDistortion.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Vision_Blood",
+      "path": "Assets/Resources/camerafilterpack_vision_blood.shader",
+      "guid": "6d4ecc2acffe7504481b3e572e86db08",
+      "status": "placeholder",
+      "sha256": "f43eef13aa861eead334f1a965a9e5ae47f8f5beb7ce6789d0b53b7d22d17931",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Vision_Blood.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Vision_Blood_Fast",
+      "path": "Assets/Resources/camerafilterpack_vision_blood_fast.shader",
+      "guid": "c0dac8d894a1ccc4a987a6dcafc94ba7",
+      "status": "placeholder",
+      "sha256": "d41ad3a043cf823bebaf416225d4ce9293e1683287664d22db53e845e85c8a20",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Vision_Blood_Fast.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Vision_Drost",
+      "path": "Assets/Resources/camerafilterpack_vision_drost.shader",
+      "guid": "d59a65dff19b74e4b8744aa9d3bc17f4",
+      "status": "placeholder",
+      "sha256": "0ada87e4ba5ecf2958ecf428c313115f1166babfed3919f619e8db39517ffa18",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Vision_Drost.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Vision_Hell_Blood",
+      "path": "Assets/Resources/camerafilterpack_vision_hell_blood.shader",
+      "guid": "4e503ad2653a0ff46ae1603df5b79ad0",
+      "status": "placeholder",
+      "sha256": "19a2c2b0ca33765c00a067f4166def247e0077d626bd98e8f27b1a587431e256",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Vision_Hell_Blood.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Vision_Plasma",
+      "path": "Assets/Resources/camerafilterpack_vision_plasma.shader",
+      "guid": "92999c2edb71296499d9aae5cc0022c6",
+      "status": "placeholder",
+      "sha256": "23adbf951dbde44b953567c997a90b81b247a5e3b7b5e5b2f4b51bb6dfb69c99",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Vision_Plasma.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Vision_Psycho",
+      "path": "Assets/Resources/camerafilterpack_vision_psycho.shader",
+      "guid": "47f2870569ebb2346872bdb5be415f7e",
+      "status": "placeholder",
+      "sha256": "94866094b8713d262760c9415479fd85b992e7fecd36340ccfc9afb9fd915c65",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Vision_Psycho.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Vision_Rainbow",
+      "path": "Assets/Resources/camerafilterpack_vision_rainbow.shader",
+      "guid": "fc6d5b6afc02dd04489ebd6ba40aaeae",
+      "status": "placeholder",
+      "sha256": "d7b6505f95e3adfc535cb2bcf35bc007761869eb1b9d86a83c83fbed939ef7f4",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Vision_Rainbow.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Vision_SniperScore",
+      "path": "Assets/Resources/camerafilterpack_vision_sniperscore.shader",
+      "guid": "09e971b0a6307a54481404a9c40a0291",
+      "status": "placeholder",
+      "sha256": "c471ec11bbc20634d51bb651418254f885a739db1467babe2f1dac2f2f667dc5",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Vision_SniperScore.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Vision_Tunnel",
+      "path": "Assets/Resources/camerafilterpack_vision_tunnel.shader",
+      "guid": "5525c8d52119bfe4b89f9c834f52d11c",
+      "status": "placeholder",
+      "sha256": "5880d95c025a6a9743ad0b9f90c6750d24de1638eea89e79e9bba130c78a53b5",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Vision_Tunnel.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Vision_Warp",
+      "path": "Assets/Resources/camerafilterpack_vision_warp.shader",
+      "guid": "4d7a04f1e46157046ba6c09ad4efa0c8",
+      "status": "placeholder",
+      "sha256": "daba35b17b46e2e69bc81fcac3b16b83cd8d802ccddc88d1a99904d272aa3777",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Vision_Warp.cs"
+      ]
+    },
+    {
+      "name": "CameraFilterPack/Vision_Warp2",
+      "path": "Assets/Resources/camerafilterpack_vision_warp2.shader",
+      "guid": "d8a62f7c659807846930cf2edf447589",
+      "status": "placeholder",
+      "sha256": "c0ebf1817cf1410b600e40deae9c7c7138d149c2fda223f726257885a586597f",
+      "original_materials": [],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/CameraFilterPack_Vision_Warp2.cs"
+      ]
+    },
+    {
+      "name": "Hidden/DOFPro",
+      "path": "Assets/Resources/dofpro.shader",
+      "guid": "e1aff2346e286f640af20829af75594b",
+      "status": "placeholder",
+      "sha256": "7e9ed53d17ecac8469fa4c24a5e4c8fcacf27b02aafb7212eb2091fed03de86f",
+      "original_materials": [
+        "Assets/Resources/DOFDummyMat.mat"
+      ],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/FxProNS/DOFHelper.cs"
+      ]
+    },
+    {
+      "name": "Hidden/FxPro",
+      "path": "Assets/Resources/fxpro.shader",
+      "guid": "838b9f090572a554ba7a4509ec7721c1",
+      "status": "placeholder",
+      "sha256": "723aec30305c6312f6ecf87bd4c660204f55b5ee56c28bf1ba3a4b1311637abb",
+      "original_materials": [
+        "Assets/Resources/FxProDummyMat.mat"
+      ],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/FxPro.cs"
+      ]
+    },
+    {
+      "name": "Hidden/FxProTap",
+      "path": "Assets/Resources/fxprotap.shader",
+      "guid": "c1ffb72fc611add49992a8e511aefa1e",
+      "status": "placeholder",
+      "sha256": "1f38d7c0fae810eb87169b7f8510f05824ba4dccb1108f911dae52199f82d6c9",
+      "original_materials": [
+        "Assets/Resources/TapDummyMat.mat"
+      ],
+      "code_find_sites": [
+        "Assets/Scripts/Assembly-CSharp/FxPro.cs"
+      ]
+    },
+    {
+      "name": "TextMeshPro/Bitmap Custom Atlas",
+      "path": "Assets/Resources/shaders/tmp_bitmap-custom-atlas.shader",
+      "guid": "759806846f0dad84981283c4287f1a34",
+      "status": "target-package-replacement",
+      "sha256": "42892a52f22bdde6d482cf2da5f35e4b813063fc6fe42189eee5562080079494",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "TextMeshPro/Mobile/Bitmap",
+      "path": "Assets/Resources/shaders/tmp_bitmap-mobile.shader",
+      "guid": "20649e6a955fa5d44b12cf6cb60ebb5c",
+      "status": "target-package-replacement",
+      "sha256": "b50afc7edc8a710f8b4159149b2391e7238b5e4076cc0ea2119090ed29e13b4a",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "TextMeshPro/Bitmap",
+      "path": "Assets/Resources/shaders/tmp_bitmap.shader",
+      "guid": "406008d72cf428a4cb78348287be0717",
+      "status": "target-package-replacement",
+      "sha256": "1d32f34c71276c1321aa0540a2410e15808743a38b2026923045a4dec4a79b58",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "TextMeshPro/Distance Field Overlay",
+      "path": "Assets/Resources/shaders/tmp_sdf overlay.shader",
+      "guid": "7479a65c111cbdf4d8526e8968dd1b84",
+      "status": "target-package-replacement",
+      "sha256": "a0d318756cba0f95a7052c387e629d0add3e9a4125c8333f1d1ed591af5f17cb",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "TextMeshPro/Mobile/Distance Field - Masking",
+      "path": "Assets/Resources/shaders/tmp_sdf-mobile masking.shader",
+      "guid": "2fb8ad948cb641a4cba571ad2c991d09",
+      "status": "target-package-replacement",
+      "sha256": "41cff58473557bf760d03513a8c098f43a24e4eeb4c8ccd7d828c045a338a9ed",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "TextMeshPro/Mobile/Distance Field Overlay",
+      "path": "Assets/Resources/shaders/tmp_sdf-mobile overlay.shader",
+      "guid": "379e9ba6f41c0774ba0f8db78ce7e991",
+      "status": "target-package-replacement",
+      "sha256": "fb286386d0592ce6d63eb736f180b4b0f638ec538b0855aa54767a438ebd1173",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "TextMeshPro/Mobile/Distance Field",
+      "path": "Assets/Resources/shaders/tmp_sdf-mobile.shader",
+      "guid": "b3c1edfed71da5846ae1e02a6f9d900b",
+      "status": "target-package-replacement",
+      "sha256": "44c39aabc7e88e7e1feffc1880df754f4adf86b62e9512aa89e9d2d65171aff4",
+      "original_materials": [
+        "Assets/Material/LiberationSans SDF Material.mat",
+        "Assets/Material/NEW+ Material.mat",
+        "Assets/Resources/fonts & materials/LiberationSans SDF - Drop Shadow.mat",
+        "Assets/Resources/fonts & materials/LiberationSans SDF - Outline.mat"
+      ],
+      "code_find_sites": []
+    },
+    {
+      "name": "TextMeshPro/Mobile/Distance Field (Surface)",
+      "path": "Assets/Resources/shaders/tmp_sdf-surface-mobile.shader",
+      "guid": "093913d49b2856f4b94050f91e57c09e",
+      "status": "target-package-replacement",
+      "sha256": "f9fae5906dd37d89298338953294459975de58a5421e68dd9e82a79794b95509",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "TextMeshPro/Distance Field (Surface)",
+      "path": "Assets/Resources/shaders/tmp_sdf-surface.shader",
+      "guid": "524287f639a81424daf4cae03f6ec267",
+      "status": "target-package-replacement",
+      "sha256": "5dadb68b56429547918b392626e9af8fd5173936d20bb43cfca58dfa00947257",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "TextMeshPro/Distance Field",
+      "path": "Assets/Resources/shaders/tmp_sdf.shader",
+      "guid": "6a1345f14e0d9c7428041e842421ef95",
+      "status": "target-package-replacement",
+      "sha256": "10efe6d4728474a09970b857faf37913793e168dc13dbd4d7316b54b37615d97",
+      "original_materials": [
+        "Assets/Material/NEW Material.mat",
+        "Assets/Material/NEW+ Material_0.mat"
+      ],
+      "code_find_sites": []
+    },
+    {
+      "name": "TextMeshPro/Sprite",
+      "path": "Assets/Resources/shaders/tmp_sprite.shader",
+      "guid": "0597b17a2288d604a8f57d4fcd917b5b",
+      "status": "target-package-replacement",
+      "sha256": "af669bb9ae136c8099f8e0a94a6933fd2f1e1fb0a6842129939a319fab4b8dbb",
+      "original_materials": [
+        "Assets/Material/TextMeshPro_Sprite.mat"
+      ],
+      "code_find_sites": []
+    },
+    {
+      "name": "Cartoon FX/Mobile Particles Additive Alpha8",
+      "path": "Assets/Shader/Cartoon FX_Mobile Particles Additive Alpha8.shader",
+      "guid": "13d6ea2535c10a24294842a42731de72",
+      "status": "evidence-based-reconstruction",
+      "sha256": "2b1e152e80bcb41bcedec95a88815acc7832a071b886b2191a022da9c991bc48",
+      "original_materials": [
+        "Assets/Material/CFXM2_Blood Add.mat",
+        "Assets/Material/CFXM2_ShinyStar Add.mat",
+        "Assets/Material/CFXM2_Smiley Add 1.mat",
+        "Assets/Material/CFXM2_Smiley Add 2.mat",
+        "Assets/Material/CFXM2_Smiley Add 3.mat",
+        "Assets/Material/CFXM2_Smiley Add 4.mat",
+        "Assets/Material/CFXM2_Smiley Add 5.mat",
+        "Assets/Material/CFXM2_Smiley Add.mat",
+        "Assets/Material/CFXM2_Spade Add.mat",
+        "Assets/Material/CFXM_Anim_Triangle3_Add.mat",
+        "Assets/Material/CFXM_Anim_Triangle_AddSoft.mat",
+        "Assets/Material/gear.mat",
+        "Assets/Material/hel.mat",
+        "Assets/Material/particle.mat",
+        "Assets/Material/Rain.mat"
+      ],
+      "code_find_sites": []
+    },
+    {
+      "name": "Custom/BLUR",
+      "path": "Assets/Shader/Custom_BLUR.shader",
+      "guid": "9234d2e6101d86e4fb8e71be1a97564c",
+      "status": "evidence-based-reconstruction",
+      "sha256": "7d97a24accad72d64153f7b08d391c6fdafed9abb8a8eb19639f99f01850d339",
+      "original_materials": [
+        "Assets/Material/ZombieMat.mat"
+      ],
+      "code_find_sites": []
+    },
+    {
+      "name": "Graphy/Graph Mobile",
+      "path": "Assets/Shader/Graphy_Graph Mobile.shader",
+      "guid": "a99804cbd1901374db3634c8f1d87416",
+      "status": "placeholder",
+      "sha256": "a51489a84b37b3c4577d0c6fe75433cd2a1601d8fe1d87553f2f972f630dc078",
+      "original_materials": [
+        "Assets/Material/FPS_Graph.mat"
+      ],
+      "code_find_sites": []
+    },
+    {
+      "name": "Graphy/Graph Standard",
+      "path": "Assets/Shader/Graphy_Graph Standard.shader",
+      "guid": "8f6485cb1fc7a7e459dfd186012c9275",
+      "status": "placeholder",
+      "sha256": "bb5c8578d6d9b3ec6c75b892b506d37415e7523d2d8a22065432bb3cabd46109",
+      "original_materials": [],
+      "code_find_sites": []
+    },
+    {
+      "name": "LowPolyWater/Advanced",
+      "path": "Assets/Shader/LowPolyWater_Advanced.shader",
+      "guid": "9901c4e4da79e9e4d83ac3d13f695301",
+      "status": "evidence-based-reconstruction",
+      "sha256": "9956224245988e0138ee1c0d618d8adf4bdff95bfd30c393ce75570bd8fb9638",
+      "original_materials": [
+        "Assets/Material/HIGH.mat",
+        "Assets/Material/LOW.mat",
+        "Assets/Material/MAX.mat",
+        "Assets/Material/MED.mat"
+      ],
+      "code_find_sites": []
+    },
+    {
+      "name": "Projector/Light",
+      "path": "Assets/Shader/Projector_Light.shader",
+      "guid": "ab48412f2a3a73742a64213779e383e5",
+      "status": "evidence-based-reconstruction",
+      "sha256": "5bf9e936459694e991a7da86aa99f79c48b1f3203da62ebbced58e320a15b665",
+      "original_materials": [
+        "Assets/Material/LightProjector.mat"
+      ],
+      "code_find_sites": []
+    },
+    {
+      "name": "Projector/Multiply",
+      "path": "Assets/Shader/Projector_Multiply.shader",
+      "guid": "2e6568a88b6bd464792aa237f914c1d9",
+      "status": "evidence-based-reconstruction",
+      "sha256": "cd25fb3663e64eace3720cced0fd90e7cd20dda6a9c0b0202b1c27c8801ae0a6",
+      "original_materials": [
+        "Assets/Material/ShadowProjector.mat"
+      ],
+      "code_find_sites": []
+    },
+    {
+      "name": "RCCSkidmarks",
+      "path": "Assets/Shader/RCCSkidmarks.shader",
+      "guid": "90b618658daf1184e853c2693e081b2c",
+      "status": "evidence-based-reconstruction",
+      "sha256": "e599c955328bb4c358931856805614c83deb7f2a3040b0eb79074547521ecba0",
+      "original_materials": [
+        "Assets/Material/grass_SKID.mat"
+      ],
+      "code_find_sites": []
+    },
+    {
+      "name": "Sprites/Default with Fog",
+      "path": "Assets/Shader/Sprites_Default with Fog.shader",
+      "guid": "b30908f3e5196b14aa53804d70937d02",
+      "status": "evidence-based-reconstruction",
+      "sha256": "0e9fcac06a46ae5b234de72e04cff42e796e8ec9483adf2268727e6f973f99f3",
+      "original_materials": [
+        "Assets/Material/les.mat"
+      ],
+      "code_find_sites": []
+    },
+    {
+      "name": "Water/Water 2D Waves",
+      "path": "Assets/Shader/Water_Water 2D Waves.shader",
+      "guid": "da4a5cb24f108714192a2a705f451016",
+      "status": "evidence-based-reconstruction",
+      "sha256": "0d812ca125eb1e50c8b295e03fe43bf7f12e7970e5d4686fbe16b241f5c5da7b",
+      "original_materials": [
+        "Assets/Material/Water 0 Waves 0.mat"
+      ],
+      "code_find_sites": []
+    }
+  ]
+}

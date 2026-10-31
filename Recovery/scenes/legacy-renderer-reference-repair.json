@@ -1,0 +1,1957 @@
+{
+  "count": 195,
+  "changes": [
+    {
+      "asset": "Assets\\BENCHMARK.unity",
+      "gameobject_id": "974",
+      "original_renderer_id": "23113",
+      "native_renderer_id": "23113",
+      "data_component_id": "36926",
+      "native_particlesystem_id": "36927",
+      "emitter_id": "16361",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\BENCHMARK.unity",
+      "gameobject_id": "4842",
+      "original_renderer_id": "23114",
+      "native_renderer_id": "23114",
+      "data_component_id": "36928",
+      "native_particlesystem_id": "36929",
+      "emitter_id": "16362",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\BENCHMARK.unity",
+      "gameobject_id": "6073",
+      "original_renderer_id": "23115",
+      "native_renderer_id": "23115",
+      "data_component_id": "36930",
+      "native_particlesystem_id": "36931",
+      "emitter_id": "16363",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\CITY_STATIC.unity",
+      "gameobject_id": "49",
+      "original_renderer_id": "22755",
+      "native_renderer_id": "22755",
+      "data_component_id": "35496",
+      "native_particlesystem_id": "35497",
+      "emitter_id": "16260",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\CITY_STATIC.unity",
+      "gameobject_id": "5774",
+      "original_renderer_id": "22756",
+      "native_renderer_id": "22756",
+      "data_component_id": "35498",
+      "native_particlesystem_id": "35499",
+      "emitter_id": "16261",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\CITY_STATIC.unity",
+      "gameobject_id": "6956",
+      "original_renderer_id": "22757",
+      "native_renderer_id": "22757",
+      "data_component_id": "35500",
+      "native_particlesystem_id": "35501",
+      "emitter_id": "16262",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\FARM_STATIC.unity",
+      "gameobject_id": "1543",
+      "original_renderer_id": "22406",
+      "native_renderer_id": "22406",
+      "data_component_id": "34383",
+      "native_particlesystem_id": "34384",
+      "emitter_id": "16178",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\FARM_STATIC.unity",
+      "gameobject_id": "3546",
+      "original_renderer_id": "22407",
+      "native_renderer_id": "22407",
+      "data_component_id": "34385",
+      "native_particlesystem_id": "34386",
+      "emitter_id": "16179",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\FARM_STATIC.unity",
+      "gameobject_id": "6300",
+      "original_renderer_id": "22408",
+      "native_renderer_id": "22408",
+      "data_component_id": "34387",
+      "native_particlesystem_id": "34388",
+      "emitter_id": "16180",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\MENU.unity",
+      "gameobject_id": "964",
+      "original_renderer_id": "6937",
+      "native_renderer_id": "6937",
+      "data_component_id": "18562",
+      "native_particlesystem_id": "18563",
+      "emitter_id": "5897",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "103",
+      "original_renderer_id": "64677",
+      "native_renderer_id": "64677",
+      "data_component_id": "112930",
+      "native_particlesystem_id": "112931",
+      "emitter_id": "52556",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "635",
+      "original_renderer_id": "64678",
+      "native_renderer_id": "64678",
+      "data_component_id": "112932",
+      "native_particlesystem_id": "112933",
+      "emitter_id": "52557",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "862",
+      "original_renderer_id": "64679",
+      "native_renderer_id": "64679",
+      "data_component_id": "112934",
+      "native_particlesystem_id": "112935",
+      "emitter_id": "52558",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "1133",
+      "original_renderer_id": "64680",
+      "native_renderer_id": "64680",
+      "data_component_id": "112936",
+      "native_particlesystem_id": "112937",
+      "emitter_id": "52559",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "1600",
+      "original_renderer_id": "64681",
+      "native_renderer_id": "64681",
+      "data_component_id": "112938",
+      "native_particlesystem_id": "112939",
+      "emitter_id": "52560",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "2978",
+      "original_renderer_id": "64682",
+      "native_renderer_id": "64682",
+      "data_component_id": "112940",
+      "native_particlesystem_id": "112941",
+      "emitter_id": "52561",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "3287",
+      "original_renderer_id": "64683",
+      "native_renderer_id": "64683",
+      "data_component_id": "112942",
+      "native_particlesystem_id": "112943",
+      "emitter_id": "52562",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "5038",
+      "original_renderer_id": "64684",
+      "native_renderer_id": "64684",
+      "data_component_id": "112944",
+      "native_particlesystem_id": "112945",
+      "emitter_id": "52563",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "5212",
+      "original_renderer_id": "64685",
+      "native_renderer_id": "64685",
+      "data_component_id": "112946",
+      "native_particlesystem_id": "112947",
+      "emitter_id": "52564",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "5668",
+      "original_renderer_id": "64686",
+      "native_renderer_id": "64686",
+      "data_component_id": "112948",
+      "native_particlesystem_id": "112949",
+      "emitter_id": "52565",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "7077",
+      "original_renderer_id": "64687",
+      "native_renderer_id": "64687",
+      "data_component_id": "112950",
+      "native_particlesystem_id": "112951",
+      "emitter_id": "52566",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "8230",
+      "original_renderer_id": "64688",
+      "native_renderer_id": "64688",
+      "data_component_id": "112952",
+      "native_particlesystem_id": "112953",
+      "emitter_id": "52567",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "9360",
+      "original_renderer_id": "64689",
+      "native_renderer_id": "64689",
+      "data_component_id": "112954",
+      "native_particlesystem_id": "112955",
+      "emitter_id": "52568",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "9682",
+      "original_renderer_id": "64690",
+      "native_renderer_id": "64690",
+      "data_component_id": "112956",
+      "native_particlesystem_id": "112957",
+      "emitter_id": "52569",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "10460",
+      "original_renderer_id": "64691",
+      "native_renderer_id": "64691",
+      "data_component_id": "112958",
+      "native_particlesystem_id": "112959",
+      "emitter_id": "52570",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "11014",
+      "original_renderer_id": "64692",
+      "native_renderer_id": "64692",
+      "data_component_id": "112960",
+      "native_particlesystem_id": "112961",
+      "emitter_id": "52571",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "11072",
+      "original_renderer_id": "64693",
+      "native_renderer_id": "64693",
+      "data_component_id": "112962",
+      "native_particlesystem_id": "112963",
+      "emitter_id": "52572",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "11078",
+      "original_renderer_id": "64694",
+      "native_renderer_id": "64694",
+      "data_component_id": "112964",
+      "native_particlesystem_id": "112965",
+      "emitter_id": "52573",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "11893",
+      "original_renderer_id": "64695",
+      "native_renderer_id": "64695",
+      "data_component_id": "112966",
+      "native_particlesystem_id": "112967",
+      "emitter_id": "52574",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "12003",
+      "original_renderer_id": "64696",
+      "native_renderer_id": "64696",
+      "data_component_id": "112968",
+      "native_particlesystem_id": "112969",
+      "emitter_id": "52575",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "12036",
+      "original_renderer_id": "64697",
+      "native_renderer_id": "64697",
+      "data_component_id": "112970",
+      "native_particlesystem_id": "112971",
+      "emitter_id": "52576",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "12077",
+      "original_renderer_id": "64698",
+      "native_renderer_id": "64698",
+      "data_component_id": "112972",
+      "native_particlesystem_id": "112973",
+      "emitter_id": "52577",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "12265",
+      "original_renderer_id": "64699",
+      "native_renderer_id": "64699",
+      "data_component_id": "112974",
+      "native_particlesystem_id": "112975",
+      "emitter_id": "52578",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "12503",
+      "original_renderer_id": "64700",
+      "native_renderer_id": "64700",
+      "data_component_id": "112976",
+      "native_particlesystem_id": "112977",
+      "emitter_id": "52579",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "12537",
+      "original_renderer_id": "64701",
+      "native_renderer_id": "64701",
+      "data_component_id": "112978",
+      "native_particlesystem_id": "112979",
+      "emitter_id": "52580",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "12571",
+      "original_renderer_id": "64702",
+      "native_renderer_id": "64702",
+      "data_component_id": "112980",
+      "native_particlesystem_id": "112981",
+      "emitter_id": "52581",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "12579",
+      "original_renderer_id": "64703",
+      "native_renderer_id": "64703",
+      "data_component_id": "112982",
+      "native_particlesystem_id": "112983",
+      "emitter_id": "52582",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "12582",
+      "original_renderer_id": "64704",
+      "native_renderer_id": "64704",
+      "data_component_id": "112984",
+      "native_particlesystem_id": "112985",
+      "emitter_id": "52583",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "12919",
+      "original_renderer_id": "64705",
+      "native_renderer_id": "64705",
+      "data_component_id": "112986",
+      "native_particlesystem_id": "112987",
+      "emitter_id": "52584",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "12923",
+      "original_renderer_id": "64706",
+      "native_renderer_id": "64706",
+      "data_component_id": "112988",
+      "native_particlesystem_id": "112989",
+      "emitter_id": "52585",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "13481",
+      "original_renderer_id": "64707",
+      "native_renderer_id": "64707",
+      "data_component_id": "112990",
+      "native_particlesystem_id": "112991",
+      "emitter_id": "52586",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "13692",
+      "original_renderer_id": "64708",
+      "native_renderer_id": "64708",
+      "data_component_id": "112992",
+      "native_particlesystem_id": "112993",
+      "emitter_id": "52587",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "13763",
+      "original_renderer_id": "64709",
+      "native_renderer_id": "64709",
+      "data_component_id": "112994",
+      "native_particlesystem_id": "112995",
+      "emitter_id": "52588",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "13910",
+      "original_renderer_id": "64710",
+      "native_renderer_id": "64710",
+      "data_component_id": "112996",
+      "native_particlesystem_id": "112997",
+      "emitter_id": "52589",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "13927",
+      "original_renderer_id": "64711",
+      "native_renderer_id": "64711",
+      "data_component_id": "112998",
+      "native_particlesystem_id": "112999",
+      "emitter_id": "52590",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "14277",
+      "original_renderer_id": "64712",
+      "native_renderer_id": "64712",
+      "data_component_id": "113000",
+      "native_particlesystem_id": "113001",
+      "emitter_id": "52591",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "14837",
+      "original_renderer_id": "64713",
+      "native_renderer_id": "64713",
+      "data_component_id": "113002",
+      "native_particlesystem_id": "113003",
+      "emitter_id": "52592",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "14880",
+      "original_renderer_id": "64714",
+      "native_renderer_id": "64714",
+      "data_component_id": "113004",
+      "native_particlesystem_id": "113005",
+      "emitter_id": "52593",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "14956",
+      "original_renderer_id": "64715",
+      "native_renderer_id": "64715",
+      "data_component_id": "113006",
+      "native_particlesystem_id": "113007",
+      "emitter_id": "52594",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "15094",
+      "original_renderer_id": "64716",
+      "native_renderer_id": "64716",
+      "data_component_id": "113008",
+      "native_particlesystem_id": "113009",
+      "emitter_id": "52595",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "15140",
+      "original_renderer_id": "64717",
+      "native_renderer_id": "64717",
+      "data_component_id": "113010",
+      "native_particlesystem_id": "113011",
+      "emitter_id": "52596",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "15273",
+      "original_renderer_id": "64718",
+      "native_renderer_id": "64718",
+      "data_component_id": "113012",
+      "native_particlesystem_id": "113013",
+      "emitter_id": "52597",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "15471",
+      "original_renderer_id": "64719",
+      "native_renderer_id": "64719",
+      "data_component_id": "113014",
+      "native_particlesystem_id": "113015",
+      "emitter_id": "52598",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "15601",
+      "original_renderer_id": "64720",
+      "native_renderer_id": "64720",
+      "data_component_id": "113016",
+      "native_particlesystem_id": "113017",
+      "emitter_id": "52599",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "15667",
+      "original_renderer_id": "64721",
+      "native_renderer_id": "64721",
+      "data_component_id": "113018",
+      "native_particlesystem_id": "113019",
+      "emitter_id": "52600",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "15767",
+      "original_renderer_id": "64722",
+      "native_renderer_id": "64722",
+      "data_component_id": "113020",
+      "native_particlesystem_id": "113021",
+      "emitter_id": "52601",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "17207",
+      "original_renderer_id": "64723",
+      "native_renderer_id": "64723",
+      "data_component_id": "113022",
+      "native_particlesystem_id": "113023",
+      "emitter_id": "52602",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "17578",
+      "original_renderer_id": "64724",
+      "native_renderer_id": "64724",
+      "data_component_id": "113024",
+      "native_particlesystem_id": "113025",
+      "emitter_id": "52603",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "18339",
+      "original_renderer_id": "64725",
+      "native_renderer_id": "64725",
+      "data_component_id": "113026",
+      "native_particlesystem_id": "113027",
+      "emitter_id": "52604",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "18619",
+      "original_renderer_id": "64726",
+      "native_renderer_id": "64726",
+      "data_component_id": "113028",
+      "native_particlesystem_id": "113029",
+      "emitter_id": "52605",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "18853",
+      "original_renderer_id": "64727",
+      "native_renderer_id": "64727",
+      "data_component_id": "113030",
+      "native_particlesystem_id": "113031",
+      "emitter_id": "52606",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "19946",
+      "original_renderer_id": "64728",
+      "native_renderer_id": "64728",
+      "data_component_id": "113032",
+      "native_particlesystem_id": "113033",
+      "emitter_id": "52607",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "20877",
+      "original_renderer_id": "64729",
+      "native_renderer_id": "64729",
+      "data_component_id": "113034",
+      "native_particlesystem_id": "113035",
+      "emitter_id": "52608",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "21263",
+      "original_renderer_id": "64730",
+      "native_renderer_id": "64730",
+      "data_component_id": "113036",
+      "native_particlesystem_id": "113037",
+      "emitter_id": "52609",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "21884",
+      "original_renderer_id": "64731",
+      "native_renderer_id": "64731",
+      "data_component_id": "113038",
+      "native_particlesystem_id": "113039",
+      "emitter_id": "52610",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "21963",
+      "original_renderer_id": "64732",
+      "native_renderer_id": "64732",
+      "data_component_id": "113040",
+      "native_particlesystem_id": "113041",
+      "emitter_id": "52611",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "22453",
+      "original_renderer_id": "64733",
+      "native_renderer_id": "64733",
+      "data_component_id": "113042",
+      "native_particlesystem_id": "113043",
+      "emitter_id": "52612",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "22834",
+      "original_renderer_id": "64734",
+      "native_renderer_id": "64734",
+      "data_component_id": "113044",
+      "native_particlesystem_id": "113045",
+      "emitter_id": "52613",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "23181",
+      "original_renderer_id": "64735",
+      "native_renderer_id": "64735",
+      "data_component_id": "113046",
+      "native_particlesystem_id": "113047",
+      "emitter_id": "52614",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "23272",
+      "original_renderer_id": "64736",
+      "native_renderer_id": "64736",
+      "data_component_id": "113048",
+      "native_particlesystem_id": "113049",
+      "emitter_id": "52615",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "23360",
+      "original_renderer_id": "64737",
+      "native_renderer_id": "64737",
+      "data_component_id": "113050",
+      "native_particlesystem_id": "113051",
+      "emitter_id": "52616",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "23369",
+      "original_renderer_id": "64738",
+      "native_renderer_id": "64738",
+      "data_component_id": "113052",
+      "native_particlesystem_id": "113053",
+      "emitter_id": "52617",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "23562",
+      "original_renderer_id": "64739",
+      "native_renderer_id": "64739",
+      "data_component_id": "113054",
+      "native_particlesystem_id": "113055",
+      "emitter_id": "52618",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "24751",
+      "original_renderer_id": "64740",
+      "native_renderer_id": "64740",
+      "data_component_id": "113056",
+      "native_particlesystem_id": "113057",
+      "emitter_id": "52619",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "26121",
+      "original_renderer_id": "64741",
+      "native_renderer_id": "64741",
+      "data_component_id": "113058",
+      "native_particlesystem_id": "113059",
+      "emitter_id": "52620",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "26554",
+      "original_renderer_id": "64742",
+      "native_renderer_id": "64742",
+      "data_component_id": "113060",
+      "native_particlesystem_id": "113061",
+      "emitter_id": "52621",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\SCHOOL.unity",
+      "gameobject_id": "26602",
+      "original_renderer_id": "64743",
+      "native_renderer_id": "64743",
+      "data_component_id": "113062",
+      "native_particlesystem_id": "113063",
+      "emitter_id": "52622",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\MISSION_19.prefab",
+      "gameobject_id": "1724804207875695",
+      "original_renderer_id": "26632746491512912",
+      "native_renderer_id": "26632746491512912",
+      "data_component_id": "114969505138979684",
+      "native_particlesystem_id": "114969505138979685",
+      "emitter_id": "15107629493147155",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\MISSION_19.prefab",
+      "gameobject_id": "1618682377417806",
+      "original_renderer_id": "26693329660128220",
+      "native_renderer_id": "26693329660128220",
+      "data_component_id": "114969505138979686",
+      "native_particlesystem_id": "114969505138979687",
+      "emitter_id": "15726790013014859",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\MISSION_19.prefab",
+      "gameobject_id": "1884547391421755",
+      "original_renderer_id": "26045458335737618",
+      "native_renderer_id": "26045458335737618",
+      "data_component_id": "114969505138979688",
+      "native_particlesystem_id": "114969505138979689",
+      "emitter_id": "15581786255902400",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\MISSION_19.prefab",
+      "gameobject_id": "1243736805655561",
+      "original_renderer_id": "26043919389829319",
+      "native_renderer_id": "26043919389829319",
+      "data_component_id": "114969505138979690",
+      "native_particlesystem_id": "114969505138979691",
+      "emitter_id": "15215879266689626",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\MISSION_19.prefab",
+      "gameobject_id": "1061268324235159",
+      "original_renderer_id": "26572839542275309",
+      "native_renderer_id": "26572839542275309",
+      "data_component_id": "114969505138979692",
+      "native_particlesystem_id": "114969505138979693",
+      "emitter_id": "15094320201520353",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\MISSION_19.prefab",
+      "gameobject_id": "1587765826080250",
+      "original_renderer_id": "26292246286975720",
+      "native_renderer_id": "26292246286975720",
+      "data_component_id": "114969505138979694",
+      "native_particlesystem_id": "114969505138979695",
+      "emitter_id": "15384403120170545",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\MISSION_19.prefab",
+      "gameobject_id": "1044625135789424",
+      "original_renderer_id": "26009931292380359",
+      "native_renderer_id": "26009931292380359",
+      "data_component_id": "114969505138979696",
+      "native_particlesystem_id": "114969505138979697",
+      "emitter_id": "15370222726513266",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\MISSION_19.prefab",
+      "gameobject_id": "1589667821646929",
+      "original_renderer_id": "26574190619683098",
+      "native_renderer_id": "26574190619683098",
+      "data_component_id": "114969505138979698",
+      "native_particlesystem_id": "114969505138979699",
+      "emitter_id": "15799762105739359",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\MISSION_19.prefab",
+      "gameobject_id": "1372920208702427",
+      "original_renderer_id": "26651560128206891",
+      "native_renderer_id": "26651560128206891",
+      "data_component_id": "114969505138979700",
+      "native_particlesystem_id": "114969505138979701",
+      "emitter_id": "15571878917323452",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\MISSION_19.prefab",
+      "gameobject_id": "1985305603660343",
+      "original_renderer_id": "26976365255789935",
+      "native_renderer_id": "26976365255789935",
+      "data_component_id": "114969505138979702",
+      "native_particlesystem_id": "114969505138979703",
+      "emitter_id": "15431740505123533",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\MISSION_19.prefab",
+      "gameobject_id": "1705390221481576",
+      "original_renderer_id": "26658330495870062",
+      "native_renderer_id": "26658330495870062",
+      "data_component_id": "114969505138979704",
+      "native_particlesystem_id": "114969505138979705",
+      "emitter_id": "15264357844037074",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\MISSION_19.prefab",
+      "gameobject_id": "1977153420339851",
+      "original_renderer_id": "26704330047573733",
+      "native_renderer_id": "26704330047573733",
+      "data_component_id": "114969505138979706",
+      "native_particlesystem_id": "114969505138979707",
+      "emitter_id": "15121005239445321",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_17_TIME.prefab",
+      "gameobject_id": "1621510681728303",
+      "original_renderer_id": "26543023241981873",
+      "native_renderer_id": "26543023241981873",
+      "data_component_id": "212986746396254637",
+      "native_particlesystem_id": "212986746396254638",
+      "emitter_id": "15322008579206753",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_17_TIME.prefab",
+      "gameobject_id": "1060945828524476",
+      "original_renderer_id": "26299931057912216",
+      "native_renderer_id": "26299931057912216",
+      "data_component_id": "212986746396254639",
+      "native_particlesystem_id": "212986746396254640",
+      "emitter_id": "15151117949762783",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_17_TIME.prefab",
+      "gameobject_id": "1722951815217645",
+      "original_renderer_id": "26733197508254210",
+      "native_renderer_id": "26733197508254210",
+      "data_component_id": "212986746396254641",
+      "native_particlesystem_id": "212986746396254642",
+      "emitter_id": "15797698078144085",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_17_TIME.prefab",
+      "gameobject_id": "1149520701623706",
+      "original_renderer_id": "26871677951225513",
+      "native_renderer_id": "26871677951225513",
+      "data_component_id": "212986746396254643",
+      "native_particlesystem_id": "212986746396254644",
+      "emitter_id": "15293872096801073",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_19_SPEED.prefab",
+      "gameobject_id": "1632457200066912",
+      "original_renderer_id": "26548862692844868",
+      "native_renderer_id": "26548862692844868",
+      "data_component_id": "212967258453572105",
+      "native_particlesystem_id": "212967258453572106",
+      "emitter_id": "15760480127920944",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_19_SPEED.prefab",
+      "gameobject_id": "1302127217294661",
+      "original_renderer_id": "26432271528610696",
+      "native_renderer_id": "26432271528610696",
+      "data_component_id": "212967258453572107",
+      "native_particlesystem_id": "212967258453572108",
+      "emitter_id": "15330820015962899",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_19_SPEED.prefab",
+      "gameobject_id": "1642988549198181",
+      "original_renderer_id": "26031343952073922",
+      "native_renderer_id": "26031343952073922",
+      "data_component_id": "212967258453572109",
+      "native_particlesystem_id": "212967258453572110",
+      "emitter_id": "15729152026894248",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_24_SPEED.prefab",
+      "gameobject_id": "1709867586078768",
+      "original_renderer_id": "26751888446361502",
+      "native_renderer_id": "26751888446361502",
+      "data_component_id": "212941517718441081",
+      "native_particlesystem_id": "212941517718441082",
+      "emitter_id": "15722550256369544",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_24_SPEED.prefab",
+      "gameobject_id": "1589667821646929",
+      "original_renderer_id": "26386568470988373",
+      "native_renderer_id": "26386568470988373",
+      "data_component_id": "212941517718441083",
+      "native_particlesystem_id": "212941517718441084",
+      "emitter_id": "15962713294667487",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_24_SPEED.prefab",
+      "gameobject_id": "1025901758691103",
+      "original_renderer_id": "26578880696632637",
+      "native_renderer_id": "26578880696632637",
+      "data_component_id": "212941517718441085",
+      "native_particlesystem_id": "212941517718441086",
+      "emitter_id": "15517377532936435",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_26_SPEED.prefab",
+      "gameobject_id": "1256069497284392",
+      "original_renderer_id": "26728442554800362",
+      "native_renderer_id": "26728442554800362",
+      "data_component_id": "212995230596547002",
+      "native_particlesystem_id": "212995230596547003",
+      "emitter_id": "15335036306139620",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_26_SPEED.prefab",
+      "gameobject_id": "1634108722742392",
+      "original_renderer_id": "26191838273672616",
+      "native_renderer_id": "26191838273672616",
+      "data_component_id": "212995230596547004",
+      "native_particlesystem_id": "212995230596547005",
+      "emitter_id": "15135074601103973",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_31_TIME.prefab",
+      "gameobject_id": "1161607090078389",
+      "original_renderer_id": "26616352195932608",
+      "native_renderer_id": "26616352195932608",
+      "data_component_id": "212952320105404286",
+      "native_particlesystem_id": "212952320105404287",
+      "emitter_id": "15083485975560739",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_31_TIME.prefab",
+      "gameobject_id": "1470112387431263",
+      "original_renderer_id": "26556043395114336",
+      "native_renderer_id": "26556043395114336",
+      "data_component_id": "212952320105404288",
+      "native_particlesystem_id": "212952320105404289",
+      "emitter_id": "15975779338151784",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_31_TIME.prefab",
+      "gameobject_id": "1621510681728303",
+      "original_renderer_id": "26894352506636257",
+      "native_renderer_id": "26894352506636257",
+      "data_component_id": "212952320105404290",
+      "native_particlesystem_id": "212952320105404291",
+      "emitter_id": "15370081907136253",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_33_SPEED.prefab",
+      "gameobject_id": "1587765826080250",
+      "original_renderer_id": "26505490946690937",
+      "native_renderer_id": "26505490946690937",
+      "data_component_id": "212996929721055304",
+      "native_particlesystem_id": "212996929721055305",
+      "emitter_id": "15504506843557392",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_33_SPEED.prefab",
+      "gameobject_id": "1044625135789424",
+      "original_renderer_id": "26147706149845817",
+      "native_renderer_id": "26147706149845817",
+      "data_component_id": "212996929721055306",
+      "native_particlesystem_id": "212996929721055307",
+      "emitter_id": "15321515599905260",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_33_SPEED.prefab",
+      "gameobject_id": "1372920208702427",
+      "original_renderer_id": "26630063386271700",
+      "native_renderer_id": "26630063386271700",
+      "data_component_id": "212996929721055308",
+      "native_particlesystem_id": "212996929721055309",
+      "emitter_id": "15907165584567512",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_36_TIME.prefab",
+      "gameobject_id": "1724804207875695",
+      "original_renderer_id": "26952320105404285",
+      "native_renderer_id": "26952320105404285",
+      "data_component_id": "212996317296757492",
+      "native_particlesystem_id": "212996317296757493",
+      "emitter_id": "15544837802452058",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_36_TIME.prefab",
+      "gameobject_id": "1256069497284392",
+      "original_renderer_id": "26985908891298522",
+      "native_renderer_id": "26985908891298522",
+      "data_component_id": "212996317296757494",
+      "native_particlesystem_id": "212996317296757495",
+      "emitter_id": "15428560594236482",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_36_TIME.prefab",
+      "gameobject_id": "1573076885614623",
+      "original_renderer_id": "26796307679411080",
+      "native_renderer_id": "26796307679411080",
+      "data_component_id": "212996317296757496",
+      "native_particlesystem_id": "212996317296757497",
+      "emitter_id": "15914194998215968",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_36_TIME.prefab",
+      "gameobject_id": "1964675957374274",
+      "original_renderer_id": "26550211755470052",
+      "native_renderer_id": "26550211755470052",
+      "data_component_id": "212996317296757498",
+      "native_particlesystem_id": "212996317296757499",
+      "emitter_id": "15730984962074643",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_36_TIME.prefab",
+      "gameobject_id": "1580109562975512",
+      "original_renderer_id": "26154215509322802",
+      "native_renderer_id": "26154215509322802",
+      "data_component_id": "212996317296757500",
+      "native_particlesystem_id": "212996317296757501",
+      "emitter_id": "15065124395601053",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_40.prefab",
+      "gameobject_id": "1724804207875695",
+      "original_renderer_id": "26562080017223558",
+      "native_renderer_id": "26562080017223558",
+      "data_component_id": "212931825979905962",
+      "native_particlesystem_id": "212931825979905963",
+      "emitter_id": "15067212629291419",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_40.prefab",
+      "gameobject_id": "1703437598541787",
+      "original_renderer_id": "26729442808604298",
+      "native_renderer_id": "26729442808604298",
+      "data_component_id": "212931825979905964",
+      "native_particlesystem_id": "212931825979905965",
+      "emitter_id": "15415925016355036",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_40.prefab",
+      "gameobject_id": "1099118695303065",
+      "original_renderer_id": "26952854571839949",
+      "native_renderer_id": "26952854571839949",
+      "data_component_id": "212931825979905966",
+      "native_particlesystem_id": "212931825979905967",
+      "emitter_id": "15105912343260855",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_40.prefab",
+      "gameobject_id": "1985305603660343",
+      "original_renderer_id": "26543584136297381",
+      "native_renderer_id": "26543584136297381",
+      "data_component_id": "212931825979905968",
+      "native_particlesystem_id": "212931825979905969",
+      "emitter_id": "15510800835404288",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_40.prefab",
+      "gameobject_id": "1977153420339851",
+      "original_renderer_id": "26071519224935516",
+      "native_renderer_id": "26071519224935516",
+      "data_component_id": "212931825979905970",
+      "native_particlesystem_id": "212931825979905971",
+      "emitter_id": "15644357204029367",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_40.prefab",
+      "gameobject_id": "1634108722742392",
+      "original_renderer_id": "26463395028392447",
+      "native_renderer_id": "26463395028392447",
+      "data_component_id": "212931825979905972",
+      "native_particlesystem_id": "212931825979905973",
+      "emitter_id": "15401109917237556",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_40.prefab",
+      "gameobject_id": "1969106005120503",
+      "original_renderer_id": "26391225667286877",
+      "native_renderer_id": "26391225667286877",
+      "data_component_id": "212931825979905974",
+      "native_particlesystem_id": "212931825979905975",
+      "emitter_id": "15249237965167194",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_40.prefab",
+      "gameobject_id": "1946936116752871",
+      "original_renderer_id": "26518639523470932",
+      "native_renderer_id": "26518639523470932",
+      "data_component_id": "212931825979905976",
+      "native_particlesystem_id": "212931825979905977",
+      "emitter_id": "15045646810609841",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_41_SPEED.prefab",
+      "gameobject_id": "1724804207875695",
+      "original_renderer_id": "26519819979147140",
+      "native_renderer_id": "26519819979147140",
+      "data_component_id": "212990147326309167",
+      "native_particlesystem_id": "212990147326309168",
+      "emitter_id": "15958492976087124",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_41_SPEED.prefab",
+      "gameobject_id": "1703437598541787",
+      "original_renderer_id": "26785416887765914",
+      "native_renderer_id": "26785416887765914",
+      "data_component_id": "212990147326309169",
+      "native_particlesystem_id": "212990147326309170",
+      "emitter_id": "15370485308309611",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_41_SPEED.prefab",
+      "gameobject_id": "1642988549198181",
+      "original_renderer_id": "26919715546813240",
+      "native_renderer_id": "26919715546813240",
+      "data_component_id": "212990147326309171",
+      "native_particlesystem_id": "212990147326309172",
+      "emitter_id": "15781547038788540",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_42_SPEED.prefab",
+      "gameobject_id": "1228214996573471",
+      "original_renderer_id": "26377254122483221",
+      "native_renderer_id": "26377254122483221",
+      "data_component_id": "212995613491540678",
+      "native_particlesystem_id": "212995613491540679",
+      "emitter_id": "15964709452464588",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_42_SPEED.prefab",
+      "gameobject_id": "1521597976012101",
+      "original_renderer_id": "26206885339235049",
+      "native_renderer_id": "26206885339235049",
+      "data_component_id": "212995613491540680",
+      "native_particlesystem_id": "212995613491540681",
+      "emitter_id": "15014688489722358",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_42_SPEED.prefab",
+      "gameobject_id": "1000342987746139",
+      "original_renderer_id": "26779645028281783",
+      "native_renderer_id": "26779645028281783",
+      "data_component_id": "212995613491540682",
+      "native_particlesystem_id": "212995613491540683",
+      "emitter_id": "15651346862752233",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_42_SPEED.prefab",
+      "gameobject_id": "1016782227057731",
+      "original_renderer_id": "26632417286455428",
+      "native_renderer_id": "26632417286455428",
+      "data_component_id": "212995613491540684",
+      "native_particlesystem_id": "212995613491540685",
+      "emitter_id": "15508418958373931",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_42_SPEED.prefab",
+      "gameobject_id": "1387228018655110",
+      "original_renderer_id": "26665196363676991",
+      "native_renderer_id": "26665196363676991",
+      "data_component_id": "212995613491540686",
+      "native_particlesystem_id": "212995613491540687",
+      "emitter_id": "15333624887145751",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_43_TIME.prefab",
+      "gameobject_id": "1989434536655964",
+      "original_renderer_id": "26158804104143280",
+      "native_renderer_id": "26158804104143280",
+      "data_component_id": "212972858101724089",
+      "native_particlesystem_id": "212972858101724090",
+      "emitter_id": "15042926872356081",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_43_TIME.prefab",
+      "gameobject_id": "1422702022971346",
+      "original_renderer_id": "26439448774498175",
+      "native_renderer_id": "26439448774498175",
+      "data_component_id": "212972858101724091",
+      "native_particlesystem_id": "212972858101724092",
+      "emitter_id": "15748647350178904",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_43_TIME.prefab",
+      "gameobject_id": "1208269818966246",
+      "original_renderer_id": "26928470415872515",
+      "native_renderer_id": "26928470415872515",
+      "data_component_id": "212972858101724093",
+      "native_particlesystem_id": "212972858101724094",
+      "emitter_id": "15684591939922058",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_43_TIME.prefab",
+      "gameobject_id": "1000342987746139",
+      "original_renderer_id": "26257158962069237",
+      "native_renderer_id": "26257158962069237",
+      "data_component_id": "212972858101724095",
+      "native_particlesystem_id": "212972858101724096",
+      "emitter_id": "15781409212229096",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_46_TIME.prefab",
+      "gameobject_id": "1099118695303065",
+      "original_renderer_id": "26410049401584812",
+      "native_renderer_id": "26410049401584812",
+      "data_component_id": "212996929721055304",
+      "native_particlesystem_id": "212996929721055305",
+      "emitter_id": "15869737159367836",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_46_TIME.prefab",
+      "gameobject_id": "1061268324235159",
+      "original_renderer_id": "26322008579206753",
+      "native_renderer_id": "26322008579206753",
+      "data_component_id": "212996929721055306",
+      "native_particlesystem_id": "212996929721055307",
+      "emitter_id": "15290791091168379",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_46_TIME.prefab",
+      "gameobject_id": "1946936116752871",
+      "original_renderer_id": "26461198507368750",
+      "native_renderer_id": "26461198507368750",
+      "data_component_id": "212996929721055308",
+      "native_particlesystem_id": "212996929721055309",
+      "emitter_id": "15659395017433157",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_46_TIME.prefab",
+      "gameobject_id": "1007271993718322",
+      "original_renderer_id": "26995613491540677",
+      "native_renderer_id": "26995613491540677",
+      "data_component_id": "212996929721055310",
+      "native_particlesystem_id": "212996929721055311",
+      "emitter_id": "15232161876504159",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_47_SPEED.prefab",
+      "gameobject_id": "1731059169969419",
+      "original_renderer_id": "26870825142545114",
+      "native_renderer_id": "26870825142545114",
+      "data_component_id": "212996929721055304",
+      "native_particlesystem_id": "212996929721055305",
+      "emitter_id": "15046293153422232",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_47_SPEED.prefab",
+      "gameobject_id": "1536148047902537",
+      "original_renderer_id": "26557370351621873",
+      "native_renderer_id": "26557370351621873",
+      "data_component_id": "212996929721055306",
+      "native_particlesystem_id": "212996929721055307",
+      "emitter_id": "15516752276740115",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_47_SPEED.prefab",
+      "gameobject_id": "1171308771648913",
+      "original_renderer_id": "26020058479058421",
+      "native_renderer_id": "26020058479058421",
+      "data_component_id": "212996929721055308",
+      "native_particlesystem_id": "212996929721055309",
+      "emitter_id": "15071571527535092",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_48_SPEED.prefab",
+      "gameobject_id": "1951712121405908",
+      "original_renderer_id": "26718659434505043",
+      "native_renderer_id": "26718659434505043",
+      "data_component_id": "212980276641498917",
+      "native_particlesystem_id": "212980276641498918",
+      "emitter_id": "15903306750001045",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_48_SPEED.prefab",
+      "gameobject_id": "1827586244175853",
+      "original_renderer_id": "26961564233646162",
+      "native_renderer_id": "26961564233646162",
+      "data_component_id": "212980276641498919",
+      "native_particlesystem_id": "212980276641498920",
+      "emitter_id": "15020401160136567",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_48_SPEED.prefab",
+      "gameobject_id": "1510800835404288",
+      "original_renderer_id": "26022927893846794",
+      "native_renderer_id": "26022927893846794",
+      "data_component_id": "212980276641498921",
+      "native_particlesystem_id": "212980276641498922",
+      "emitter_id": "15573708808914349",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_48_SPEED.prefab",
+      "gameobject_id": "1543584136297381",
+      "original_renderer_id": "26092839867560389",
+      "native_renderer_id": "26092839867560389",
+      "data_component_id": "212980276641498923",
+      "native_particlesystem_id": "212980276641498924",
+      "emitter_id": "15954046000416270",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_48_SPEED.prefab",
+      "gameobject_id": "1894352506636257",
+      "original_renderer_id": "26748675518210311",
+      "native_renderer_id": "26748675518210311",
+      "data_component_id": "212980276641498925",
+      "native_particlesystem_id": "212980276641498926",
+      "emitter_id": "15167083804737704",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_48_SPEED.prefab",
+      "gameobject_id": "1077469347768860",
+      "original_renderer_id": "26110538250319365",
+      "native_renderer_id": "26110538250319365",
+      "data_component_id": "212980276641498927",
+      "native_particlesystem_id": "212980276641498928",
+      "emitter_id": "15704835532861747",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_51_SPEED.prefab",
+      "gameobject_id": "1243736805655561",
+      "original_renderer_id": "26075864462779534",
+      "native_renderer_id": "26075864462779534",
+      "data_component_id": "212999734183242045",
+      "native_particlesystem_id": "212999734183242046",
+      "emitter_id": "15147706149845817",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_51_SPEED.prefab",
+      "gameobject_id": "1587765826080250",
+      "original_renderer_id": "26692131138185966",
+      "native_renderer_id": "26692131138185966",
+      "data_component_id": "212999734183242047",
+      "native_particlesystem_id": "212999734183242048",
+      "emitter_id": "15630063386271700",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_51_SPEED.prefab",
+      "gameobject_id": "1313026266067498",
+      "original_renderer_id": "26288309231489556",
+      "native_renderer_id": "26288309231489556",
+      "data_component_id": "212999734183242049",
+      "native_particlesystem_id": "212999734183242050",
+      "emitter_id": "15472485487776518",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_51_SPEED.prefab",
+      "gameobject_id": "1632457200066912",
+      "original_renderer_id": "26728442554800362",
+      "native_renderer_id": "26728442554800362",
+      "data_component_id": "212999734183242051",
+      "native_particlesystem_id": "212999734183242052",
+      "emitter_id": "15335036306139620",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_51_SPEED.prefab",
+      "gameobject_id": "1946936116752871",
+      "original_renderer_id": "26070205081729383",
+      "native_renderer_id": "26070205081729383",
+      "data_component_id": "212999734183242053",
+      "native_particlesystem_id": "212999734183242054",
+      "emitter_id": "15717369901526261",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_52_TIME.prefab",
+      "gameobject_id": "1543584136297381",
+      "original_renderer_id": "26563641847262962",
+      "native_renderer_id": "26563641847262962",
+      "data_component_id": "212996929721055304",
+      "native_particlesystem_id": "212996929721055305",
+      "emitter_id": "15573904452112436",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_52_TIME.prefab",
+      "gameobject_id": "1958492976087124",
+      "original_renderer_id": "26113058623911109",
+      "native_renderer_id": "26113058623911109",
+      "data_component_id": "212996929721055306",
+      "native_particlesystem_id": "212996929721055307",
+      "emitter_id": "15938561924565582",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_55_TIME.prefab",
+      "gameobject_id": "1616352195932608",
+      "original_renderer_id": "26905480139500278",
+      "native_renderer_id": "26905480139500278",
+      "data_component_id": "212995997411268788",
+      "native_particlesystem_id": "212995997411268789",
+      "emitter_id": "15825639152872744",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_55_TIME.prefab",
+      "gameobject_id": "1754026925822528",
+      "original_renderer_id": "26885220433151312",
+      "native_renderer_id": "26885220433151312",
+      "data_component_id": "212995997411268790",
+      "native_particlesystem_id": "212995997411268791",
+      "emitter_id": "15657062054715584",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_56_SPEED.prefab",
+      "gameobject_id": "1711914853252429",
+      "original_renderer_id": "26216095195831122",
+      "native_renderer_id": "26216095195831122",
+      "data_component_id": "212995451949514753",
+      "native_particlesystem_id": "212995451949514754",
+      "emitter_id": "15543331396177948",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_56_SPEED.prefab",
+      "gameobject_id": "1694121525821480",
+      "original_renderer_id": "26125909588503792",
+      "native_renderer_id": "26125909588503792",
+      "data_component_id": "212995451949514755",
+      "native_particlesystem_id": "212995451949514756",
+      "emitter_id": "15093951263863283",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_56_SPEED.prefab",
+      "gameobject_id": "1703169052324433",
+      "original_renderer_id": "26985942781488476",
+      "native_renderer_id": "26985942781488476",
+      "data_component_id": "212995451949514757",
+      "native_particlesystem_id": "212995451949514758",
+      "emitter_id": "15617016307369612",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_60_TIME.prefab",
+      "gameobject_id": "1618682377417806",
+      "original_renderer_id": "26283731621500458",
+      "native_renderer_id": "26283731621500458",
+      "data_component_id": "212990836703645272",
+      "native_particlesystem_id": "212990836703645273",
+      "emitter_id": "15703169052324433",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_60_TIME.prefab",
+      "gameobject_id": "1884547391421755",
+      "original_renderer_id": "26749364211270325",
+      "native_renderer_id": "26749364211270325",
+      "data_component_id": "212990836703645274",
+      "native_particlesystem_id": "212990836703645275",
+      "emitter_id": "15419535952149204",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_61_SPEED.prefab",
+      "gameobject_id": "1038333544927157",
+      "original_renderer_id": "26766875343807881",
+      "native_renderer_id": "26766875343807881",
+      "data_component_id": "212996929721055304",
+      "native_particlesystem_id": "212996929721055305",
+      "emitter_id": "15180813923651600",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_61_SPEED.prefab",
+      "gameobject_id": "1168775426067361",
+      "original_renderer_id": "26261178848750679",
+      "native_renderer_id": "26261178848750679",
+      "data_component_id": "212996929721055306",
+      "native_particlesystem_id": "212996929721055307",
+      "emitter_id": "15285559684809351",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_61_SPEED.prefab",
+      "gameobject_id": "1499517081926786",
+      "original_renderer_id": "26339295499720458",
+      "native_renderer_id": "26339295499720458",
+      "data_component_id": "212996929721055308",
+      "native_particlesystem_id": "212996929721055309",
+      "emitter_id": "15040491821372589",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_68_TIME.prefab",
+      "gameobject_id": "1918264173551851",
+      "original_renderer_id": "26918178940278140",
+      "native_renderer_id": "26918178940278140",
+      "data_component_id": "212996941701857496",
+      "native_particlesystem_id": "212996941701857497",
+      "emitter_id": "15786040797758650",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_68_TIME.prefab",
+      "gameobject_id": "1875609422105747",
+      "original_renderer_id": "26255087799925006",
+      "native_renderer_id": "26255087799925006",
+      "data_component_id": "212996941701857498",
+      "native_particlesystem_id": "212996941701857499",
+      "emitter_id": "15742177870120833",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_68_TIME.prefab",
+      "gameobject_id": "1231814100211528",
+      "original_renderer_id": "26243116046688445",
+      "native_renderer_id": "26243116046688445",
+      "data_component_id": "212996941701857500",
+      "native_particlesystem_id": "212996941701857501",
+      "emitter_id": "15158734134602401",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_68_TIME.prefab",
+      "gameobject_id": "1354824845356902",
+      "original_renderer_id": "26404576429919846",
+      "native_renderer_id": "26404576429919846",
+      "data_component_id": "212996941701857502",
+      "native_particlesystem_id": "212996941701857503",
+      "emitter_id": "15395978680794091",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_69_SPEED.prefab",
+      "gameobject_id": "1320256170494724",
+      "original_renderer_id": "26923970309143781",
+      "native_renderer_id": "26923970309143781",
+      "data_component_id": "212995613491540678",
+      "native_particlesystem_id": "212995613491540679",
+      "emitter_id": "15056763329873683",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_69_SPEED.prefab",
+      "gameobject_id": "1672306508523268",
+      "original_renderer_id": "26096947965704001",
+      "native_renderer_id": "26096947965704001",
+      "data_component_id": "212995613491540680",
+      "native_particlesystem_id": "212995613491540681",
+      "emitter_id": "15058318715168512",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_69_SPEED.prefab",
+      "gameobject_id": "1770005084341472",
+      "original_renderer_id": "26695280048154070",
+      "native_renderer_id": "26695280048154070",
+      "data_component_id": "212995613491540682",
+      "native_particlesystem_id": "212995613491540683",
+      "emitter_id": "15472585690638836",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_70_TIME.prefab",
+      "gameobject_id": "1089843903986396",
+      "original_renderer_id": "26846667071028776",
+      "native_renderer_id": "26846667071028776",
+      "data_component_id": "212999734183242045",
+      "native_particlesystem_id": "212999734183242046",
+      "emitter_id": "15280369416922100",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_70_TIME.prefab",
+      "gameobject_id": "1808113985169905",
+      "original_renderer_id": "26740749146533265",
+      "native_renderer_id": "26740749146533265",
+      "data_component_id": "212999734183242047",
+      "native_particlesystem_id": "212999734183242048",
+      "emitter_id": "15389991902224113",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_70_TIME.prefab",
+      "gameobject_id": "1785330607447594",
+      "original_renderer_id": "26031271248971960",
+      "native_renderer_id": "26031271248971960",
+      "data_component_id": "212999734183242049",
+      "native_particlesystem_id": "212999734183242050",
+      "emitter_id": "15376155919033083",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_72_SPEED.prefab",
+      "gameobject_id": "1884547391421755",
+      "original_renderer_id": "26558735364151451",
+      "native_renderer_id": "26558735364151451",
+      "data_component_id": "212995313714201889",
+      "native_particlesystem_id": "212995313714201890",
+      "emitter_id": "15871677951225513",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_72_SPEED.prefab",
+      "gameobject_id": "1243736805655561",
+      "original_renderer_id": "26101133080060232",
+      "native_renderer_id": "26101133080060232",
+      "data_component_id": "212995313714201891",
+      "native_particlesystem_id": "212995313714201892",
+      "emitter_id": "15670902876012538",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_72_SPEED.prefab",
+      "gameobject_id": "1279359913592680",
+      "original_renderer_id": "26265447890608749",
+      "native_renderer_id": "26265447890608749",
+      "data_component_id": "212995313714201893",
+      "native_particlesystem_id": "212995313714201894",
+      "emitter_id": "15406415336663906",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_72_SPEED.prefab",
+      "gameobject_id": "1149520701623706",
+      "original_renderer_id": "26649574839352325",
+      "native_renderer_id": "26649574839352325",
+      "data_component_id": "212995313714201895",
+      "native_particlesystem_id": "212995313714201896",
+      "emitter_id": "15699859834940158",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_77_SPEED.prefab",
+      "gameobject_id": "1985305603660343",
+      "original_renderer_id": "26020354225312529",
+      "native_renderer_id": "26020354225312529",
+      "data_component_id": "212997200209739144",
+      "native_particlesystem_id": "212997200209739145",
+      "emitter_id": "15003859361203777",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_77_SPEED.prefab",
+      "gameobject_id": "1977153420339851",
+      "original_renderer_id": "26338760456887646",
+      "native_renderer_id": "26338760456887646",
+      "data_component_id": "212997200209739146",
+      "native_particlesystem_id": "212997200209739147",
+      "emitter_id": "15528593606710377",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_78_TIME.prefab",
+      "gameobject_id": "1194081240383615",
+      "original_renderer_id": "26651253047634019",
+      "native_renderer_id": "26651253047634019",
+      "data_component_id": "212986119357434684",
+      "native_particlesystem_id": "212986119357434685",
+      "emitter_id": "15219863644564498",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_78_TIME.prefab",
+      "gameobject_id": "1770005084341472",
+      "original_renderer_id": "26933346978742016",
+      "native_renderer_id": "26933346978742016",
+      "data_component_id": "212986119357434686",
+      "native_particlesystem_id": "212986119357434687",
+      "emitter_id": "15001523578506164",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_78_TIME.prefab",
+      "gameobject_id": "1056248600188076",
+      "original_renderer_id": "26796307679411080",
+      "native_renderer_id": "26796307679411080",
+      "data_component_id": "212986119357434688",
+      "native_particlesystem_id": "212986119357434689",
+      "emitter_id": "15914194998215968",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_78_TIME.prefab",
+      "gameobject_id": "1168105826085154",
+      "original_renderer_id": "26971710987103285",
+      "native_renderer_id": "26971710987103285",
+      "data_component_id": "212986119357434690",
+      "native_particlesystem_id": "212986119357434691",
+      "emitter_id": "15993887165044026",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_78_TIME.prefab",
+      "gameobject_id": "1146109142143575",
+      "original_renderer_id": "26352145303444960",
+      "native_renderer_id": "26352145303444960",
+      "data_component_id": "212986119357434692",
+      "native_particlesystem_id": "212986119357434693",
+      "emitter_id": "15927699503751179",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_78_TIME.prefab",
+      "gameobject_id": "1132299442727904",
+      "original_renderer_id": "26529819961491930",
+      "native_renderer_id": "26529819961491930",
+      "data_component_id": "212986119357434694",
+      "native_particlesystem_id": "212986119357434695",
+      "emitter_id": "15706357479021810",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_78_TIME.prefab",
+      "gameobject_id": "1066338149260220",
+      "original_renderer_id": "26610630345452049",
+      "native_renderer_id": "26610630345452049",
+      "data_component_id": "212986119357434696",
+      "native_particlesystem_id": "212986119357434697",
+      "emitter_id": "15669532061575845",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_78_TIME.prefab",
+      "gameobject_id": "1836662232304741",
+      "original_renderer_id": "26000268523363587",
+      "native_renderer_id": "26000268523363587",
+      "data_component_id": "212986119357434698",
+      "native_particlesystem_id": "212986119357434699",
+      "emitter_id": "15382668428045589",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_81_SPEED.prefab",
+      "gameobject_id": "1587765826080250",
+      "original_renderer_id": "26594813517421274",
+      "native_renderer_id": "26594813517421274",
+      "data_component_id": "212988579576377109",
+      "native_particlesystem_id": "212988579576377110",
+      "emitter_id": "15652820779262545",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_81_SPEED.prefab",
+      "gameobject_id": "1044625135789424",
+      "original_renderer_id": "26782363952479950",
+      "native_renderer_id": "26782363952479950",
+      "data_component_id": "212988579576377111",
+      "native_particlesystem_id": "212988579576377112",
+      "emitter_id": "15499177476600490",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_81_SPEED.prefab",
+      "gameobject_id": "1693062532245359",
+      "original_renderer_id": "26822859127950464",
+      "native_renderer_id": "26822859127950464",
+      "data_component_id": "212988579576377113",
+      "native_particlesystem_id": "212988579576377114",
+      "emitter_id": "15822685555958331",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_81_SPEED.prefab",
+      "gameobject_id": "1370222726513266",
+      "original_renderer_id": "26418063802667073",
+      "native_renderer_id": "26418063802667073",
+      "data_component_id": "212988579576377115",
+      "native_particlesystem_id": "212988579576377116",
+      "emitter_id": "15292503897609378",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_81_SPEED.prefab",
+      "gameobject_id": "1654652813765854",
+      "original_renderer_id": "26730581331603142",
+      "native_renderer_id": "26730581331603142",
+      "data_component_id": "212988579576377117",
+      "native_particlesystem_id": "212988579576377118",
+      "emitter_id": "15417981519418388",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_81_SPEED.prefab",
+      "gameobject_id": "1738231418250705",
+      "original_renderer_id": "26866342818266707",
+      "native_renderer_id": "26866342818266707",
+      "data_component_id": "212988579576377119",
+      "native_particlesystem_id": "212988579576377120",
+      "emitter_id": "15111734883506344",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_83_TIME.prefab",
+      "gameobject_id": "1060945828524476",
+      "original_renderer_id": "26626119028408548",
+      "native_renderer_id": "26626119028408548",
+      "data_component_id": "212999734183242045",
+      "native_particlesystem_id": "212999734183242046",
+      "emitter_id": "15246618066398393",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_83_TIME.prefab",
+      "gameobject_id": "1472185465350827",
+      "original_renderer_id": "26024855046230793",
+      "native_renderer_id": "26024855046230793",
+      "data_component_id": "212999734183242047",
+      "native_particlesystem_id": "212999734183242048",
+      "emitter_id": "15057666396558467",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    },
+    {
+      "asset": "Assets\\GameObject\\RACE_83_TIME.prefab",
+      "gameobject_id": "1969505138979683",
+      "original_renderer_id": "26910855355773451",
+      "native_renderer_id": "26910855355773451",
+      "data_component_id": "212999734183242049",
+      "native_particlesystem_id": "212999734183242050",
+      "emitter_id": "15597666875729992",
+      "reason": "Preserve Renderer-typed PPtrs such as LODGroup m_Renderers"
+    }
+  ],
+  "template": "Unity2023.2.22f1 editor-generated native component YAML",
+  "provenance": "evidence-based particle approximation preserving native renderer identity"
+}

@@ -1,0 +1,2118 @@
+{
+  "stream_references": 211,
+  "outcomes": {
+    "pass": 211
+  },
+  "checks": [
+    {
+      "owner": "sharedassets0.assets:631",
+      "path": "sharedassets0.resource",
+      "offset": 0,
+      "size": 11072,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:632",
+      "path": "sharedassets0.resource",
+      "offset": 11072,
+      "size": 3264,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:633",
+      "path": "sharedassets0.resource",
+      "offset": 14336,
+      "size": 1408,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:634",
+      "path": "sharedassets0.resource",
+      "offset": 15744,
+      "size": 10208,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:635",
+      "path": "sharedassets0.resource",
+      "offset": 25952,
+      "size": 17440,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:636",
+      "path": "sharedassets0.resource",
+      "offset": 43392,
+      "size": 11680,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:637",
+      "path": "sharedassets0.resource",
+      "offset": 55072,
+      "size": 11904,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:638",
+      "path": "sharedassets0.resource",
+      "offset": 66976,
+      "size": 11264,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:639",
+      "path": "sharedassets0.resource",
+      "offset": 78240,
+      "size": 11296,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:640",
+      "path": "sharedassets0.resource",
+      "offset": 89536,
+      "size": 52256,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:641",
+      "path": "sharedassets0.resource",
+      "offset": 141792,
+      "size": 4768,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:642",
+      "path": "sharedassets0.resource",
+      "offset": 146560,
+      "size": 12096,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:643",
+      "path": "sharedassets0.resource",
+      "offset": 158656,
+      "size": 6176,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:644",
+      "path": "sharedassets0.resource",
+      "offset": 164832,
+      "size": 7520,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:645",
+      "path": "sharedassets0.resource",
+      "offset": 172352,
+      "size": 25632,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:646",
+      "path": "sharedassets0.resource",
+      "offset": 197984,
+      "size": 107296,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:647",
+      "path": "sharedassets0.resource",
+      "offset": 305280,
+      "size": 1472,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:648",
+      "path": "sharedassets0.resource",
+      "offset": 306752,
+      "size": 1472,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:649",
+      "path": "sharedassets0.resource",
+      "offset": 308224,
+      "size": 5664,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:650",
+      "path": "sharedassets0.resource",
+      "offset": 313888,
+      "size": 4032,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:651",
+      "path": "sharedassets0.resource",
+      "offset": 317920,
+      "size": 5248,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:652",
+      "path": "sharedassets0.resource",
+      "offset": 323168,
+      "size": 4640,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:653",
+      "path": "sharedassets0.resource",
+      "offset": 327808,
+      "size": 8512,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:654",
+      "path": "sharedassets0.resource",
+      "offset": 336320,
+      "size": 36736,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:655",
+      "path": "sharedassets0.resource",
+      "offset": 373056,
+      "size": 12512,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:656",
+      "path": "sharedassets0.resource",
+      "offset": 385568,
+      "size": 9536,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:657",
+      "path": "sharedassets0.resource",
+      "offset": 395104,
+      "size": 16480,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:658",
+      "path": "sharedassets0.resource",
+      "offset": 411584,
+      "size": 51008,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:659",
+      "path": "sharedassets0.resource",
+      "offset": 462592,
+      "size": 24704,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:660",
+      "path": "sharedassets0.resource",
+      "offset": 487296,
+      "size": 3776,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:661",
+      "path": "sharedassets0.resource",
+      "offset": 491072,
+      "size": 4544,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:662",
+      "path": "sharedassets0.resource",
+      "offset": 495616,
+      "size": 6912,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:663",
+      "path": "sharedassets0.resource",
+      "offset": 502528,
+      "size": 3392,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:664",
+      "path": "sharedassets0.resource",
+      "offset": 505920,
+      "size": 6208,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:665",
+      "path": "sharedassets0.resource",
+      "offset": 512128,
+      "size": 7168,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:666",
+      "path": "sharedassets0.resource",
+      "offset": 519296,
+      "size": 10144,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:667",
+      "path": "sharedassets0.resource",
+      "offset": 529440,
+      "size": 10816,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:668",
+      "path": "sharedassets0.resource",
+      "offset": 540256,
+      "size": 2336,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:669",
+      "path": "sharedassets0.resource",
+      "offset": 542592,
+      "size": 11712,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:670",
+      "path": "sharedassets0.resource",
+      "offset": 554304,
+      "size": 4832,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:671",
+      "path": "sharedassets0.resource",
+      "offset": 559136,
+      "size": 9952,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:672",
+      "path": "sharedassets0.resource",
+      "offset": 569088,
+      "size": 9984,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:673",
+      "path": "sharedassets0.resource",
+      "offset": 579072,
+      "size": 13952,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:674",
+      "path": "sharedassets0.resource",
+      "offset": 593024,
+      "size": 10400,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:675",
+      "path": "sharedassets0.resource",
+      "offset": 603424,
+      "size": 8672,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:676",
+      "path": "sharedassets0.resource",
+      "offset": 612096,
+      "size": 5696,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:677",
+      "path": "sharedassets0.resource",
+      "offset": 617792,
+      "size": 7104,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:678",
+      "path": "sharedassets0.resource",
+      "offset": 624896,
+      "size": 5056,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:679",
+      "path": "sharedassets0.resource",
+      "offset": 629952,
+      "size": 832,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:680",
+      "path": "sharedassets0.resource",
+      "offset": 630784,
+      "size": 1952,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:681",
+      "path": "sharedassets0.resource",
+      "offset": 632736,
+      "size": 7040,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:682",
+      "path": "sharedassets0.resource",
+      "offset": 639776,
+      "size": 6336,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:683",
+      "path": "sharedassets0.resource",
+      "offset": 646112,
+      "size": 9184,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:684",
+      "path": "sharedassets0.resource",
+      "offset": 655296,
+      "size": 928,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:685",
+      "path": "sharedassets0.resource",
+      "offset": 656224,
+      "size": 12640,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:686",
+      "path": "sharedassets0.resource",
+      "offset": 668864,
+      "size": 2400,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:687",
+      "path": "sharedassets0.resource",
+      "offset": 671264,
+      "size": 9856,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:688",
+      "path": "sharedassets0.resource",
+      "offset": 681120,
+      "size": 548992,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets0.assets:689",
+      "path": "sharedassets0.resource",
+      "offset": 1230112,
+      "size": 8864,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets0.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:349",
+      "path": "sharedassets1.resource",
+      "offset": 0,
+      "size": 5984,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:350",
+      "path": "sharedassets1.resource",
+      "offset": 5984,
+      "size": 908288,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:351",
+      "path": "sharedassets1.resource",
+      "offset": 914272,
+      "size": 2720,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:352",
+      "path": "sharedassets1.resource",
+      "offset": 916992,
+      "size": 2560,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:353",
+      "path": "sharedassets1.resource",
+      "offset": 919552,
+      "size": 864960,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:354",
+      "path": "sharedassets1.resource",
+      "offset": 1784512,
+      "size": 3104,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:355",
+      "path": "sharedassets1.resource",
+      "offset": 1787616,
+      "size": 2848,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:356",
+      "path": "sharedassets1.resource",
+      "offset": 1790464,
+      "size": 1120096,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:357",
+      "path": "sharedassets1.resource",
+      "offset": 2910560,
+      "size": 819520,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:358",
+      "path": "sharedassets1.resource",
+      "offset": 3730080,
+      "size": 6560,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:359",
+      "path": "sharedassets1.resource",
+      "offset": 3736640,
+      "size": 7296,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:360",
+      "path": "sharedassets1.resource",
+      "offset": 3743936,
+      "size": 1152,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:361",
+      "path": "sharedassets1.resource",
+      "offset": 3745088,
+      "size": 11488,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:362",
+      "path": "sharedassets1.resource",
+      "offset": 3756576,
+      "size": 6912,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:363",
+      "path": "sharedassets1.resource",
+      "offset": 3763488,
+      "size": 4480,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:364",
+      "path": "sharedassets1.resource",
+      "offset": 3767968,
+      "size": 3296,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:365",
+      "path": "sharedassets1.resource",
+      "offset": 3771264,
+      "size": 10720,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:366",
+      "path": "sharedassets1.resource",
+      "offset": 3781984,
+      "size": 846528,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:367",
+      "path": "sharedassets1.resource",
+      "offset": 4628512,
+      "size": 5376,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:368",
+      "path": "sharedassets1.resource",
+      "offset": 4633888,
+      "size": 658208,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:369",
+      "path": "sharedassets1.resource",
+      "offset": 5292096,
+      "size": 1088,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:370",
+      "path": "sharedassets1.resource",
+      "offset": 5293184,
+      "size": 7648,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:371",
+      "path": "sharedassets1.resource",
+      "offset": 5300832,
+      "size": 1440,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:372",
+      "path": "sharedassets1.resource",
+      "offset": 5302272,
+      "size": 896,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:373",
+      "path": "sharedassets1.resource",
+      "offset": 5303168,
+      "size": 1504,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:374",
+      "path": "sharedassets1.resource",
+      "offset": 5304672,
+      "size": 795360,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:375",
+      "path": "sharedassets1.resource",
+      "offset": 6100032,
+      "size": 5088,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:376",
+      "path": "sharedassets1.resource",
+      "offset": 6105120,
+      "size": 5440,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:377",
+      "path": "sharedassets1.resource",
+      "offset": 6110560,
+      "size": 1440,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:378",
+      "path": "sharedassets1.resource",
+      "offset": 6112000,
+      "size": 1984,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:379",
+      "path": "sharedassets1.resource",
+      "offset": 6113984,
+      "size": 12096,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:380",
+      "path": "sharedassets1.resource",
+      "offset": 6126080,
+      "size": 3840,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:381",
+      "path": "sharedassets1.resource",
+      "offset": 6129920,
+      "size": 88448,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:382",
+      "path": "sharedassets1.resource",
+      "offset": 6218368,
+      "size": 3872,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:383",
+      "path": "sharedassets1.resource",
+      "offset": 6222240,
+      "size": 3744,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:384",
+      "path": "sharedassets1.resource",
+      "offset": 6225984,
+      "size": 7040,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:385",
+      "path": "sharedassets1.resource",
+      "offset": 6233024,
+      "size": 25088,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:386",
+      "path": "sharedassets1.resource",
+      "offset": 6258112,
+      "size": 246432,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:387",
+      "path": "sharedassets1.resource",
+      "offset": 6504544,
+      "size": 11296,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:388",
+      "path": "sharedassets1.resource",
+      "offset": 6515840,
+      "size": 1824,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:389",
+      "path": "sharedassets1.resource",
+      "offset": 6517664,
+      "size": 2752,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:390",
+      "path": "sharedassets1.resource",
+      "offset": 6520416,
+      "size": 779680,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:391",
+      "path": "sharedassets1.resource",
+      "offset": 7300096,
+      "size": 2016,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:392",
+      "path": "sharedassets1.resource",
+      "offset": 7302112,
+      "size": 864544,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:393",
+      "path": "sharedassets1.resource",
+      "offset": 8166656,
+      "size": 1021600,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:394",
+      "path": "sharedassets1.resource",
+      "offset": 9188256,
+      "size": 8416,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:395",
+      "path": "sharedassets1.resource",
+      "offset": 9196672,
+      "size": 1042464,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:396",
+      "path": "sharedassets1.resource",
+      "offset": 10239136,
+      "size": 2048,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:397",
+      "path": "sharedassets1.resource",
+      "offset": 10241184,
+      "size": 3232,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:398",
+      "path": "sharedassets1.resource",
+      "offset": 10244416,
+      "size": 1216,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:399",
+      "path": "sharedassets1.resource",
+      "offset": 10245632,
+      "size": 1184,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:400",
+      "path": "sharedassets1.resource",
+      "offset": 10246816,
+      "size": 608832,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:401",
+      "path": "sharedassets1.resource",
+      "offset": 10855648,
+      "size": 1408,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:402",
+      "path": "sharedassets1.resource",
+      "offset": 10857056,
+      "size": 2944,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:403",
+      "path": "sharedassets1.resource",
+      "offset": 10860000,
+      "size": 3232,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:404",
+      "path": "sharedassets1.resource",
+      "offset": 10863232,
+      "size": 4288,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:405",
+      "path": "sharedassets1.resource",
+      "offset": 10867520,
+      "size": 2624,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:406",
+      "path": "sharedassets1.resource",
+      "offset": 10870144,
+      "size": 210208,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:407",
+      "path": "sharedassets1.resource",
+      "offset": 11080352,
+      "size": 7584,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:408",
+      "path": "sharedassets1.resource",
+      "offset": 11087936,
+      "size": 2624,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:409",
+      "path": "sharedassets1.resource",
+      "offset": 11090560,
+      "size": 28576,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:410",
+      "path": "sharedassets1.resource",
+      "offset": 11119136,
+      "size": 864,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:411",
+      "path": "sharedassets1.resource",
+      "offset": 11120000,
+      "size": 717952,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:412",
+      "path": "sharedassets1.resource",
+      "offset": 11837952,
+      "size": 1984,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:413",
+      "path": "sharedassets1.resource",
+      "offset": 11839936,
+      "size": 999296,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:414",
+      "path": "sharedassets1.resource",
+      "offset": 12839232,
+      "size": 2112,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:415",
+      "path": "sharedassets1.resource",
+      "offset": 12841344,
+      "size": 777664,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:416",
+      "path": "sharedassets1.resource",
+      "offset": 13619008,
+      "size": 507392,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:417",
+      "path": "sharedassets1.resource",
+      "offset": 14126400,
+      "size": 530080,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:418",
+      "path": "sharedassets1.resource",
+      "offset": 14656480,
+      "size": 1344,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:419",
+      "path": "sharedassets1.resource",
+      "offset": 14657824,
+      "size": 5760,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:420",
+      "path": "sharedassets1.resource",
+      "offset": 14663584,
+      "size": 5440,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:421",
+      "path": "sharedassets1.resource",
+      "offset": 14669024,
+      "size": 3872,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:422",
+      "path": "sharedassets1.resource",
+      "offset": 14672896,
+      "size": 1568,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:423",
+      "path": "sharedassets1.resource",
+      "offset": 14674464,
+      "size": 1952,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:424",
+      "path": "sharedassets1.resource",
+      "offset": 14676416,
+      "size": 3776,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:425",
+      "path": "sharedassets1.resource",
+      "offset": 14680192,
+      "size": 1952,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:426",
+      "path": "sharedassets1.resource",
+      "offset": 14682144,
+      "size": 1888,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:427",
+      "path": "sharedassets1.resource",
+      "offset": 14684032,
+      "size": 8352,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:428",
+      "path": "sharedassets1.resource",
+      "offset": 14692384,
+      "size": 1504,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:429",
+      "path": "sharedassets1.resource",
+      "offset": 14693888,
+      "size": 3936,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:430",
+      "path": "sharedassets1.resource",
+      "offset": 14697824,
+      "size": 906944,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:431",
+      "path": "sharedassets1.resource",
+      "offset": 15604768,
+      "size": 4416,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:432",
+      "path": "sharedassets1.resource",
+      "offset": 15609184,
+      "size": 3424,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:433",
+      "path": "sharedassets1.resource",
+      "offset": 15612608,
+      "size": 695328,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:434",
+      "path": "sharedassets1.resource",
+      "offset": 16307936,
+      "size": 7584,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:435",
+      "path": "sharedassets1.resource",
+      "offset": 16315520,
+      "size": 1792,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:436",
+      "path": "sharedassets1.resource",
+      "offset": 16317312,
+      "size": 2880,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:437",
+      "path": "sharedassets1.resource",
+      "offset": 16320192,
+      "size": 2464,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:438",
+      "path": "sharedassets1.resource",
+      "offset": 16322656,
+      "size": 11232,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:439",
+      "path": "sharedassets1.resource",
+      "offset": 16333888,
+      "size": 3200,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:440",
+      "path": "sharedassets1.resource",
+      "offset": 16337088,
+      "size": 840288,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:441",
+      "path": "sharedassets1.resource",
+      "offset": 17177376,
+      "size": 1888,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:442",
+      "path": "sharedassets1.resource",
+      "offset": 17179264,
+      "size": 2240,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:443",
+      "path": "sharedassets1.resource",
+      "offset": 17181504,
+      "size": 928,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:444",
+      "path": "sharedassets1.resource",
+      "offset": 17182432,
+      "size": 21312,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:445",
+      "path": "sharedassets1.resource",
+      "offset": 17203744,
+      "size": 4640,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:446",
+      "path": "sharedassets1.resource",
+      "offset": 17208384,
+      "size": 5216,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:447",
+      "path": "sharedassets1.resource",
+      "offset": 17213600,
+      "size": 893568,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:448",
+      "path": "sharedassets1.resource",
+      "offset": 18107168,
+      "size": 3456,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:449",
+      "path": "sharedassets1.resource",
+      "offset": 18110624,
+      "size": 1536,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:450",
+      "path": "sharedassets1.resource",
+      "offset": 18112160,
+      "size": 617344,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:451",
+      "path": "sharedassets1.resource",
+      "offset": 18729504,
+      "size": 5280,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:452",
+      "path": "sharedassets1.resource",
+      "offset": 18734784,
+      "size": 57568,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:453",
+      "path": "sharedassets1.resource",
+      "offset": 18792352,
+      "size": 2016,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:454",
+      "path": "sharedassets1.resource",
+      "offset": 18794368,
+      "size": 11776,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:455",
+      "path": "sharedassets1.resource",
+      "offset": 18806144,
+      "size": 4544,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:456",
+      "path": "sharedassets1.resource",
+      "offset": 18810688,
+      "size": 7808,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:457",
+      "path": "sharedassets1.resource",
+      "offset": 18818496,
+      "size": 795360,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:458",
+      "path": "sharedassets1.resource",
+      "offset": 19613856,
+      "size": 3776,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:459",
+      "path": "sharedassets1.resource",
+      "offset": 19617632,
+      "size": 5664,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:460",
+      "path": "sharedassets1.resource",
+      "offset": 19623296,
+      "size": 759520,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:461",
+      "path": "sharedassets1.resource",
+      "offset": 20382816,
+      "size": 5152,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:462",
+      "path": "sharedassets1.resource",
+      "offset": 20387968,
+      "size": 113888,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:463",
+      "path": "sharedassets1.resource",
+      "offset": 20501856,
+      "size": 1216,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:464",
+      "path": "sharedassets1.resource",
+      "offset": 20503072,
+      "size": 887264,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:465",
+      "path": "sharedassets1.resource",
+      "offset": 21390336,
+      "size": 1440,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:466",
+      "path": "sharedassets1.resource",
+      "offset": 21391776,
+      "size": 2144,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:467",
+      "path": "sharedassets1.resource",
+      "offset": 21393920,
+      "size": 5760,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:468",
+      "path": "sharedassets1.resource",
+      "offset": 21399680,
+      "size": 1472,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:469",
+      "path": "sharedassets1.resource",
+      "offset": 21401152,
+      "size": 2432,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:470",
+      "path": "sharedassets1.resource",
+      "offset": 21403584,
+      "size": 2752,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:471",
+      "path": "sharedassets1.resource",
+      "offset": 21406336,
+      "size": 788864,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:472",
+      "path": "sharedassets1.resource",
+      "offset": 22195200,
+      "size": 9408,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:473",
+      "path": "sharedassets1.resource",
+      "offset": 22204608,
+      "size": 2016,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:474",
+      "path": "sharedassets1.resource",
+      "offset": 22206624,
+      "size": 1440,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:475",
+      "path": "sharedassets1.resource",
+      "offset": 22208064,
+      "size": 6592,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:476",
+      "path": "sharedassets1.resource",
+      "offset": 22214656,
+      "size": 2752,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:477",
+      "path": "sharedassets1.resource",
+      "offset": 22217408,
+      "size": 1536,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets1.assets:478",
+      "path": "sharedassets1.resource",
+      "offset": 22218944,
+      "size": 1440,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets1.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets2.assets:78",
+      "path": "sharedassets2.resource",
+      "offset": 0,
+      "size": 48384,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets2.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets2.assets:79",
+      "path": "sharedassets2.resource",
+      "offset": 48384,
+      "size": 2688,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets2.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets2.assets:80",
+      "path": "sharedassets2.resource",
+      "offset": 51072,
+      "size": 66688,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets2.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets5.assets:32",
+      "path": "sharedassets5.resource",
+      "offset": 0,
+      "size": 241760,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets5.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets5.assets:33",
+      "path": "sharedassets5.resource",
+      "offset": 241760,
+      "size": 3232,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets5.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets5.assets:34",
+      "path": "sharedassets5.resource",
+      "offset": 244992,
+      "size": 2720,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets5.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets7.assets:21",
+      "path": "sharedassets7.resource",
+      "offset": 0,
+      "size": 10240,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets7.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "sharedassets7.assets:22",
+      "path": "sharedassets7.resource",
+      "offset": 10240,
+      "size": 3488,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\sharedassets7.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "resources.assets:457",
+      "path": "resources.resource",
+      "offset": 0,
+      "size": 10560,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\resources.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "resources.assets:458",
+      "path": "resources.resource",
+      "offset": 10560,
+      "size": 13312,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\resources.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "resources.assets:459",
+      "path": "resources.resource",
+      "offset": 23872,
+      "size": 11584,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\resources.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "resources.assets:460",
+      "path": "resources.resource",
+      "offset": 35456,
+      "size": 7392,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\resources.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "resources.assets:461",
+      "path": "resources.resource",
+      "offset": 42848,
+      "size": 24352,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\resources.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "resources.assets:462",
+      "path": "resources.resource",
+      "offset": 67200,
+      "size": 10272,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\resources.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "resources.assets:463",
+      "path": "resources.resource",
+      "offset": 77472,
+      "size": 10560,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\resources.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "resources.assets:464",
+      "path": "resources.resource",
+      "offset": 88032,
+      "size": 8160,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\resources.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "resources.assets:465",
+      "path": "resources.resource",
+      "offset": 96192,
+      "size": 46368,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\resources.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "resources.assets:466",
+      "path": "resources.resource",
+      "offset": 142560,
+      "size": 20736,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\resources.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "resources.assets:467",
+      "path": "resources.resource",
+      "offset": 163296,
+      "size": 227616,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\resources.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "resources.assets:468",
+      "path": "resources.resource",
+      "offset": 390912,
+      "size": 10112,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\resources.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "resources.assets:469",
+      "path": "resources.resource",
+      "offset": 401024,
+      "size": 12000,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\resources.resource"
+      ],
+      "outcome": "pass"
+    },
+    {
+      "owner": "resources.assets:470",
+      "path": "resources.resource",
+      "offset": 413024,
+      "size": 8672,
+      "candidates": [
+        "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\raw-source\\Cartoon Hot Racer 3D_Data\\resources.resource"
+      ],
+      "outcome": "pass"
+    }
+  ]
+}

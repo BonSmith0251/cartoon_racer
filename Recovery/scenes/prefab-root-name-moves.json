@@ -1,0 +1,295 @@
+{
+  "count": 32,
+  "moves": [
+    {
+      "previous_asset": "Assets\\GameObject\\CHASE_TARGET_0.prefab",
+      "asset": "Assets\\GameObject\\CHASE_TARGET_0\\CHASE_TARGET.prefab",
+      "source_root_name": "CHASE_TARGET",
+      "root_local_id": "1709254077376921",
+      "guid": "6ca5143bf10b2ca40b8551a75f10df7d",
+      "sha256_unchanged": "da32b9360796d4310b0f2d781edbe22c3da1667105d7c23f43da03d92f39279a",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\PASSENGER_TARGET_0.prefab",
+      "asset": "Assets\\GameObject\\PASSENGER_TARGET_0\\PASSENGER_TARGET.prefab",
+      "source_root_name": "PASSENGER_TARGET",
+      "root_local_id": "1709254077376921",
+      "guid": "67ad4f47958c5044d84be8fd79844c24",
+      "sha256_unchanged": "82696d83d9360f4664a4e51c996a573720391f61c16131e4fd9733c104d83dc8",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\TRAFFIC_CAR10_0.prefab",
+      "asset": "Assets\\GameObject\\TRAFFIC_CAR10_0\\TRAFFIC_CAR10.prefab",
+      "source_root_name": "TRAFFIC_CAR10",
+      "root_local_id": "1709254077376921",
+      "guid": "d1e3d47a1904ece45a11dad62f57efbb",
+      "sha256_unchanged": "8b773e2f5a6dd7a253279e2900cab181649d1befe6b88a0477ac908e9fe18032",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\TRAFFIC_CAR10_1.prefab",
+      "asset": "Assets\\GameObject\\TRAFFIC_CAR10_1\\TRAFFIC_CAR10.prefab",
+      "source_root_name": "TRAFFIC_CAR10",
+      "root_local_id": "1709254077376921",
+      "guid": "54b7cfe51017aa94f89fd02b418f50ca",
+      "sha256_unchanged": "0bdbe270d75580f27a5f8795f3141cebb5ca47f8520b04b1389ad6f26526e2d3",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\TRAFFIC_CAR10_2.prefab",
+      "asset": "Assets\\GameObject\\TRAFFIC_CAR10_2\\TRAFFIC_CAR10.prefab",
+      "source_root_name": "TRAFFIC_CAR10",
+      "root_local_id": "1709254077376921",
+      "guid": "21fd12862c28d634bb3eac8177489115",
+      "sha256_unchanged": "a339c32c3b5a6be96325e5d080a4dc9a13949cbc917120bf31827005bd08ebb1",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\TRAFFIC_CAR11_0.prefab",
+      "asset": "Assets\\GameObject\\TRAFFIC_CAR11_0\\TRAFFIC_CAR11.prefab",
+      "source_root_name": "TRAFFIC_CAR11",
+      "root_local_id": "1709254077376921",
+      "guid": "005b9dffed162a0469f445a593812bb8",
+      "sha256_unchanged": "fd196946e90e4b6af2821c8604c47b3e1c8cef58b16edeb35426c68891d6ad9e",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\TRAFFIC_CAR11_1.prefab",
+      "asset": "Assets\\GameObject\\TRAFFIC_CAR11_1\\TRAFFIC_CAR11.prefab",
+      "source_root_name": "TRAFFIC_CAR11",
+      "root_local_id": "1709254077376921",
+      "guid": "215ce4b624ed66b4f891caccbadaa16e",
+      "sha256_unchanged": "dcb44081386b4daaaa32a1c75edf5a8fd5317cc96c00ebfdefc64abe65c85125",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\TRAFFIC_CAR12_0.prefab",
+      "asset": "Assets\\GameObject\\TRAFFIC_CAR12_0\\TRAFFIC_CAR12.prefab",
+      "source_root_name": "TRAFFIC_CAR12",
+      "root_local_id": "1709254077376921",
+      "guid": "14110aa79fc31d642847090060281f0c",
+      "sha256_unchanged": "c82ffb3e3f6788e53caac5d253353e520590a484e262921ca23b6692469a9ff6",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\TRAFFIC_CAR12_1.prefab",
+      "asset": "Assets\\GameObject\\TRAFFIC_CAR12_1\\TRAFFIC_CAR12.prefab",
+      "source_root_name": "TRAFFIC_CAR12",
+      "root_local_id": "1709254077376921",
+      "guid": "b6314ca07dede07489719171d102f89e",
+      "sha256_unchanged": "9cfda8871542dbf6b4de2624aee2818905d36235845c36003ab77eeadc97c652",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\TRAFFIC_CAR1_0.prefab",
+      "asset": "Assets\\GameObject\\TRAFFIC_CAR1_0\\TRAFFIC_CAR1.prefab",
+      "source_root_name": "TRAFFIC_CAR1",
+      "root_local_id": "1709254077376921",
+      "guid": "2a980e9ebd76d3d489e6ee1289cb702e",
+      "sha256_unchanged": "9990068c079498503f780a8ac2c255969fceb820cf87b62241916b702729e0b2",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\TRAFFIC_CAR1_1.prefab",
+      "asset": "Assets\\GameObject\\TRAFFIC_CAR1_1\\TRAFFIC_CAR1.prefab",
+      "source_root_name": "TRAFFIC_CAR1",
+      "root_local_id": "1709254077376921",
+      "guid": "b739a1dcddf04204c85b3fe2d009e67d",
+      "sha256_unchanged": "d78841ba116b370181add7354f313ad074f3d94613906b16f9fb9f4a8390cf66",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\TRAFFIC_CAR1_2.prefab",
+      "asset": "Assets\\GameObject\\TRAFFIC_CAR1_2\\TRAFFIC_CAR1.prefab",
+      "source_root_name": "TRAFFIC_CAR1",
+      "root_local_id": "1709254077376921",
+      "guid": "8f6c76bf2ceef844bb6e6ef07beaebeb",
+      "sha256_unchanged": "ace5bff6052bedb7943fc0d2559465c9ff8c404bffa9a9f9747da7a787df89da",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\TRAFFIC_CAR2_0.prefab",
+      "asset": "Assets\\GameObject\\TRAFFIC_CAR2_0\\TRAFFIC_CAR2.prefab",
+      "source_root_name": "TRAFFIC_CAR2",
+      "root_local_id": "1709254077376921",
+      "guid": "798d52c907793544ea40412b91f9620c",
+      "sha256_unchanged": "8dd1e14ef534aec597215529801559a61467172f763f2d4d46a1d48a918b0027",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\TRAFFIC_CAR2_1.prefab",
+      "asset": "Assets\\GameObject\\TRAFFIC_CAR2_1\\TRAFFIC_CAR2.prefab",
+      "source_root_name": "TRAFFIC_CAR2",
+      "root_local_id": "1709254077376921",
+      "guid": "9e37266e3045e2040834de5e2657e4be",
+      "sha256_unchanged": "b2d08762b09456b232e78394dc34949e907f4920675a96bc3b22719164c1bd1c",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\TRAFFIC_CAR2_2.prefab",
+      "asset": "Assets\\GameObject\\TRAFFIC_CAR2_2\\TRAFFIC_CAR2.prefab",
+      "source_root_name": "TRAFFIC_CAR2",
+      "root_local_id": "1709254077376921",
+      "guid": "bbf049ee0784f4f498e8853e0b302ed0",
+      "sha256_unchanged": "dc085969ce28ea8f3b4503dac987fc9d20139a5214bc8d042ab1abbce446c464",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\TRAFFIC_CAR3_0.prefab",
+      "asset": "Assets\\GameObject\\TRAFFIC_CAR3_0\\TRAFFIC_CAR3.prefab",
+      "source_root_name": "TRAFFIC_CAR3",
+      "root_local_id": "1709254077376921",
+      "guid": "fc9999ec90c8ee748b05758f717e0fc4",
+      "sha256_unchanged": "d7de5ce59c32581cc498b444be8c9a2ef066cb910b986e13369b8f40776f9eaf",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\TRAFFIC_CAR3_1.prefab",
+      "asset": "Assets\\GameObject\\TRAFFIC_CAR3_1\\TRAFFIC_CAR3.prefab",
+      "source_root_name": "TRAFFIC_CAR3",
+      "root_local_id": "1709254077376921",
+      "guid": "03b9703ad886c0e499e1da87e623cb0e",
+      "sha256_unchanged": "1135c34e3756e4e7b077c07143935e510a76d1bcaa89347815a82b9f93d4d043",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\TRAFFIC_CAR4_0.prefab",
+      "asset": "Assets\\GameObject\\TRAFFIC_CAR4_0\\TRAFFIC_CAR4.prefab",
+      "source_root_name": "TRAFFIC_CAR4",
+      "root_local_id": "1709254077376921",
+      "guid": "5be980e09beead54ea974d403853295f",
+      "sha256_unchanged": "4a9b6e80583b15e58e39c86bb5217aa014c5dc63846e3f647dd4b060fa82420c",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\TRAFFIC_CAR4_1.prefab",
+      "asset": "Assets\\GameObject\\TRAFFIC_CAR4_1\\TRAFFIC_CAR4.prefab",
+      "source_root_name": "TRAFFIC_CAR4",
+      "root_local_id": "1709254077376921",
+      "guid": "fa6170075c71d64438e5efc4ebf3083d",
+      "sha256_unchanged": "67bebe60e8e913892fbf541fec0c9947e5baac4b5ce11f26af873d8462800010",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\TRAFFIC_CAR5_0.prefab",
+      "asset": "Assets\\GameObject\\TRAFFIC_CAR5_0\\TRAFFIC_CAR5.prefab",
+      "source_root_name": "TRAFFIC_CAR5",
+      "root_local_id": "1709254077376921",
+      "guid": "e48c52aa22eeaf04b9367cc73caa7790",
+      "sha256_unchanged": "af063274e2419127aca63b1b22145257a95db1ff4673c4c13ccb7174add38602",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\TRAFFIC_CAR5_1.prefab",
+      "asset": "Assets\\GameObject\\TRAFFIC_CAR5_1\\TRAFFIC_CAR5.prefab",
+      "source_root_name": "TRAFFIC_CAR5",
+      "root_local_id": "1709254077376921",
+      "guid": "53d47eea6502407418f0f1395d20b1e0",
+      "sha256_unchanged": "cbd48fcd989a6c18c4809c33a76f50460bfe8b94df77686a661bab16960d2be6",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\TRAFFIC_CAR6_0.prefab",
+      "asset": "Assets\\GameObject\\TRAFFIC_CAR6_0\\TRAFFIC_CAR6.prefab",
+      "source_root_name": "TRAFFIC_CAR6",
+      "root_local_id": "1709254077376921",
+      "guid": "5610fa08962925d42870a2dc87330dbc",
+      "sha256_unchanged": "b7deb2e9201163cf8a4be53b443ffe165ca9d6b250c61664c2a81fa4fdf0bbcc",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\TRAFFIC_CAR6_1.prefab",
+      "asset": "Assets\\GameObject\\TRAFFIC_CAR6_1\\TRAFFIC_CAR6.prefab",
+      "source_root_name": "TRAFFIC_CAR6",
+      "root_local_id": "1709254077376921",
+      "guid": "d15a2fc8351f82f448530c51cc579aba",
+      "sha256_unchanged": "39087a991edc2af5a3347624654169607dc7f9e6e044cc3e9eb8a41df3af5c89",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\TRAFFIC_CAR7_0.prefab",
+      "asset": "Assets\\GameObject\\TRAFFIC_CAR7_0\\TRAFFIC_CAR7.prefab",
+      "source_root_name": "TRAFFIC_CAR7",
+      "root_local_id": "1709254077376921",
+      "guid": "e33c2651d7a317c4d8a149e4a2e8c02d",
+      "sha256_unchanged": "fb44b4247ae5e19aa0f1616472669ed31bc88005ad5bdb5fedf2a41c7fcd1825",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\TRAFFIC_CAR7_1.prefab",
+      "asset": "Assets\\GameObject\\TRAFFIC_CAR7_1\\TRAFFIC_CAR7.prefab",
+      "source_root_name": "TRAFFIC_CAR7",
+      "root_local_id": "1709254077376921",
+      "guid": "d5858a232bafde8489c0eee58a1ad779",
+      "sha256_unchanged": "7d067fdfa4f2a8e65d3090b69042a1208624b515c3c9ba1aa7a969ca66a7a0d2",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\TRAFFIC_CAR7_2.prefab",
+      "asset": "Assets\\GameObject\\TRAFFIC_CAR7_2\\TRAFFIC_CAR7.prefab",
+      "source_root_name": "TRAFFIC_CAR7",
+      "root_local_id": "1709254077376921",
+      "guid": "6f402c114874e9c4db525db0608e13fa",
+      "sha256_unchanged": "7363798e8c8d8ff42760a4c1b46013b8abd8a9429f54171c686cf050f320ccf3",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\TRAFFIC_CAR8_0.prefab",
+      "asset": "Assets\\GameObject\\TRAFFIC_CAR8_0\\TRAFFIC_CAR8.prefab",
+      "source_root_name": "TRAFFIC_CAR8",
+      "root_local_id": "1709254077376921",
+      "guid": "ff1cc0bafa300224b92245960549be57",
+      "sha256_unchanged": "55c17ac895fd6b60b5022062d37a090abc57b24c444a1933e0066b954cf1fef8",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\TRAFFIC_CAR8_1.prefab",
+      "asset": "Assets\\GameObject\\TRAFFIC_CAR8_1\\TRAFFIC_CAR8.prefab",
+      "source_root_name": "TRAFFIC_CAR8",
+      "root_local_id": "1709254077376921",
+      "guid": "d4479dd0335eb974299f5dbfc7f8df0a",
+      "sha256_unchanged": "4167b7445483136ad466a74b77296762421eb892a96bdf653841365e718d7df4",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\TRAFFIC_CAR8_2.prefab",
+      "asset": "Assets\\GameObject\\TRAFFIC_CAR8_2\\TRAFFIC_CAR8.prefab",
+      "source_root_name": "TRAFFIC_CAR8",
+      "root_local_id": "1709254077376921",
+      "guid": "929563a73228c324b8b599dd74b45a5c",
+      "sha256_unchanged": "962331265342724112d39b26a795614850ca3f26edf07e54fa7ba51db7956dfc",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\TRAFFIC_CAR9_0.prefab",
+      "asset": "Assets\\GameObject\\TRAFFIC_CAR9_0\\TRAFFIC_CAR9.prefab",
+      "source_root_name": "TRAFFIC_CAR9",
+      "root_local_id": "1709254077376921",
+      "guid": "ae05c6bc35050b748bd7dd2b330f729e",
+      "sha256_unchanged": "77ae3c36c97bf945ec246408645654204e803f5fac719ecba9b300b709cfe3f4",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\TRAFFIC_CAR9_1.prefab",
+      "asset": "Assets\\GameObject\\TRAFFIC_CAR9_1\\TRAFFIC_CAR9.prefab",
+      "source_root_name": "TRAFFIC_CAR9",
+      "root_local_id": "1709254077376921",
+      "guid": "76dc5d30c64d67443896f45198c3b013",
+      "sha256_unchanged": "228b5d2499068ab5fe8cbe0e59b5fb05eee838b5fc052b72ebbc0473305d7447",
+      "literal_loader_or_name_references": []
+    },
+    {
+      "previous_asset": "Assets\\GameObject\\TRAFFIC_CAR9_2.prefab",
+      "asset": "Assets\\GameObject\\TRAFFIC_CAR9_2\\TRAFFIC_CAR9.prefab",
+      "source_root_name": "TRAFFIC_CAR9",
+      "root_local_id": "1709254077376921",
+      "guid": "343e5bb2bb1bd8042a6ad3fcbfa3f4c3",
+      "sha256_unchanged": "fdb03a85a8c2975007ebb0a5a52b9abe36fa288c0ce52ad18a58a458b0e13010",
+      "literal_loader_or_name_references": []
+    }
+  ],
+  "policy": "Only non-Resources prefab file and .meta moved; content/GUID/localIDs unchanged; original rootname now matches file basename",
+  "checks": "No exact filename-stem string or old fullpath references in recovered script source"
+}

@@ -1,0 +1,158 @@
+{
+  "subshader": 0,
+  "pass_index": 0,
+  "stage": "progVertex",
+  "index": 30,
+  "blob_index": 30,
+  "keywords": [
+    "DIRECTIONAL",
+    "LPW_FOAM",
+    "WATER_REFLECTIVE",
+    "_CUSTOM_SHAPE",
+    "_DISTORT_ON",
+    "_LIGHTABS_ON",
+    "_SHADING_PIXELLIT",
+    "_WAVES_OFF"
+  ],
+  "constant_buffers": [
+    {
+      "slot": 0,
+      "name": "$Globals",
+      "params": [
+        {
+          "name": "_TexSize_",
+          "offset": 36,
+          "register": "cb0[2].y",
+          "detail": {
+            "m_NameIndex": 7,
+            "m_Index": 36,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 1
+          }
+        },
+        {
+          "name": "_RSpeed_",
+          "offset": 40,
+          "register": "cb0[2].z",
+          "detail": {
+            "m_NameIndex": 8,
+            "m_Index": 40,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 1
+          }
+        },
+        {
+          "name": "_RHeight_",
+          "offset": 44,
+          "register": "cb0[2].w",
+          "detail": {
+            "m_NameIndex": 9,
+            "m_Index": 44,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 1
+          }
+        }
+      ]
+    },
+    {
+      "slot": 1,
+      "name": "UnityPerCamera",
+      "params": [
+        {
+          "name": "_Time",
+          "offset": 0,
+          "register": "cb1[0].x",
+          "detail": {
+            "m_NameIndex": 20,
+            "m_Index": 0,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        },
+        {
+          "name": "_ProjectionParams",
+          "offset": 80,
+          "register": "cb1[5].x",
+          "detail": {
+            "m_NameIndex": 32,
+            "m_Index": 80,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        },
+        {
+          "name": "unity_OrthoParams",
+          "offset": 128,
+          "register": "cb1[8].x",
+          "detail": {
+            "m_NameIndex": 33,
+            "m_Index": 128,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "name": "UnityPerDraw",
+      "params": [
+        {
+          "name": "unity_ObjectToWorld",
+          "offset": 0,
+          "register": "cb2[0].x",
+          "detail": {
+            "m_NameIndex": 29,
+            "m_Index": 0,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_RowCount": 4
+          }
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "name": "UnityPerFrame",
+      "params": [
+        {
+          "name": "unity_MatrixV",
+          "offset": 144,
+          "register": "cb3[9].x",
+          "detail": {
+            "m_NameIndex": 34,
+            "m_Index": 144,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_RowCount": 4
+          }
+        },
+        {
+          "name": "unity_MatrixVP",
+          "offset": 272,
+          "register": "cb3[17].x",
+          "detail": {
+            "m_NameIndex": 30,
+            "m_Index": 272,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_RowCount": 4
+          }
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "_NoiseTex",
+      "slot": 0,
+      "sampler": 0
+    }
+  ]
+}

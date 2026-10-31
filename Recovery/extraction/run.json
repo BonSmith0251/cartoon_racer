@@ -1,0 +1,42 @@
+{
+  "utc": "2026-10-30T19:12:54.920309+00:00",
+  "source_copy_files": 198,
+  "raw_hash_mismatches": [],
+  "export_file_extensions": {
+    ".unity": 8,
+    ".meta": 3065,
+    ".anim": 75,
+    ".controller": 69,
+    ".ogg": 211,
+    ".asset": 724,
+    ".png": 577,
+    ".flare": 5,
+    ".ttf": 6,
+    ".otf": 1,
+    ".prefab": 292,
+    ".mat": 205,
+    ".physicMaterial": 5,
+    ".dll": 11,
+    ".cs": 625,
+    ".shader": 303,
+    ".txt": 3,
+    ".json": 1
+  },
+  "AssetRipper": "2.0.0",
+  "AssetRipper_process_id": 28128,
+  "port": 57432,
+  "source_version": "2018.2.20f1",
+  "target_project_handled_by": "scenes worker; 2023.2.22f1",
+  "settings": "Actual defaults in assetripper.log; post-load settings POST ignored, as page explicitly permits changes only before load",
+  "issues": [
+    {
+      "stage": "shader-export",
+      "provenance": "approximate",
+      "detail": "303 dummy shaders; source compiled bytes retained; verify visuals during integration"
+    },
+    {
+      "stage": "mapping",
+      "detail": "path_id_map.json is a partial alias table (2085 assets), omits destination GUID/local IDs; full source object evidence separate"
+    }
+  ]
+}

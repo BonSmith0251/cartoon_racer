@@ -1,0 +1,18 @@
+{
+  "status": "evidence-based reconstruction, pending Unity compilation and visual comparison",
+  "files": [
+    "Cartoon FX_Mobile Particles Additive Alpha8.shader",
+    "RCCSkidmarks.shader",
+    "Projector_Light.shader",
+    "Projector_Multiply.shader",
+    "Sprites_Default with Fog.shader",
+    "Custom_BLUR.shader"
+  ],
+  "evidence": "DXBC disassembly and serialized rtBlend0/depth/cull/tags from original source shader objects",
+  "boundaries": [
+    "Fog uses source radial eye distance; target compiler produces new variants.",
+    "Sprites use target UnitySprites helper for platform/instancing handling.",
+    "Source authoring shader text not recovered.",
+    "Remaining exported custom shaders still dummy until separately repaired."
+  ]
+}

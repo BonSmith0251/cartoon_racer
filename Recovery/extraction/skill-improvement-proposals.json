@@ -1,0 +1,22 @@
+{
+  "proposals": [
+    {
+      "topic": "AssetRipper settings sequencing",
+      "evidence": [
+        "assetripper-settings-export.html",
+        "assetripper.log"
+      ],
+      "finding": "Set and verify settings before loading any files; /Settings/Update can return 200 while post-load page forbids edits. HTTP status alone does not prove configuration applied.",
+      "scope": "AssetRipper GUI Free 2.0.0",
+      "verification": "Saved settings page explicitly states settings can only be changed before loading files."
+    },
+    {
+      "topic": "Export mapping limitations",
+      "evidence": [
+        "pristine-export/AuxiliaryFiles/path_id_map.json"
+      ],
+      "finding": "Do not label path_id_map.json a destination map without checking fields and coverage. This export lists 2085 PathID/Name/Type entries and lacks GUID/local IDs.",
+      "scope": "AssetRipper GUI Free 2.0.0 export of Unity 2018.2.20f1 game"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "schema": "source-scene-structure-comparison/1",
+  "scenes": [
+    {
+      "source": "level0",
+      "path": "Assets/MENU.unity",
+      "source_gameobjects": 4214,
+      "source_roots": 12,
+      "source_inactive": 294,
+      "source_hierarchy_records": 8428,
+      "compared": 8428,
+      "exported_yaml_documents": 18563,
+      "issues": 0
+    },
+    {
+      "source": "level1",
+      "path": "Assets/GAME.unity",
+      "source_gameobjects": 2036,
+      "source_roots": 11,
+      "source_inactive": 159,
+      "source_hierarchy_records": 4072,
+      "compared": 4072,
+      "exported_yaml_documents": 9167,
+      "issues": 0
+    },
+    {
+      "source": "level2",
+      "path": "Assets/FARM_STATIC.unity",
+      "source_gameobjects": 8087,
+      "source_roots": 51,
+      "source_inactive": 132,
+      "source_hierarchy_records": 16174,
+      "compared": 16174,
+      "exported_yaml_documents": 34388,
+      "issues": 0
+    },
+    {
+      "source": "level3",
+      "path": "Assets/CITY_STATIC.unity",
+      "source_gameobjects": 8128,
+      "source_roots": 3963,
+      "source_inactive": 183,
+      "source_hierarchy_records": 16256,
+      "compared": 16256,
+      "exported_yaml_documents": 35501,
+      "issues": 0
+    },
+    {
+      "source": "level4",
+      "path": "Assets/TRAFFIC.unity",
+      "source_gameobjects": 493,
+      "source_roots": 2,
+      "source_inactive": 0,
+      "source_hierarchy_records": 986,
+      "compared": 986,
+      "exported_yaml_documents": 2244,
+      "issues": 0
+    },
+    {
+      "source": "level5",
+      "path": "Assets/SCHOOL.unity",
+      "source_gameobjects": 26743,
+      "source_roots": 11,
+      "source_inactive": 509,
+      "source_hierarchy_records": 53486,
+      "compared": 53486,
+      "exported_yaml_documents": 113063,
+      "issues": 0
+    },
+    {
+      "source": "level6",
+      "path": "Assets/BENCHMARK.unity",
+      "source_gameobjects": 8205,
+      "source_roots": 9,
+      "source_inactive": 189,
+      "source_hierarchy_records": 16410,
+      "compared": 16410,
+      "exported_yaml_documents": 36931,
+      "issues": 0
+    },
+    {
+      "source": "level7",
+      "path": "Assets/VILLY.unity",
+      "source_gameobjects": 404,
+      "source_roots": 7,
+      "source_inactive": 10,
+      "source_hierarchy_records": 808,
+      "compared": 808,
+      "exported_yaml_documents": 1698,
+      "issues": 0
+    }
+  ],
+  "issues": [],
+  "result": "pass",
+  "scope": "GameObject names/active/layer/tag/ordered component IDs and Transform class/parent/ordered children/local pose plus RectTransform anchors/offset/size/pivot; reference/visual/runtime not asserted"
+}

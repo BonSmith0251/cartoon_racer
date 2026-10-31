@@ -1,0 +1,12 @@
+{
+  "schema": "cartoon-racer-target-guid-audit/1",
+  "target_asset_guids": 3230,
+  "resolved_package_guids": 9756,
+  "reference_occurrences": 175737,
+  "builtin_reference_occurrences": 16753,
+  "editor_resolved_legacy_ui_references": 7631,
+  "legacy_ui_evidence": "Actual UI component types in editor-audit; original DLL script pseudo-GUID retained",
+  "duplicate_asset_guids": {},
+  "missing": [],
+  "result": "pass"
+}

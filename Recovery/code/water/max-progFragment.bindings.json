@@ -1,0 +1,431 @@
+{
+  "subshader": 0,
+  "pass_index": 0,
+  "stage": "progFragment",
+  "index": 35,
+  "blob_index": 107,
+  "keywords": [
+    "DIRECTIONAL",
+    "LPW_FOAM",
+    "WATER_REFLECTIVE",
+    "_CUSTOM_SHAPE",
+    "_DISTORT_ON",
+    "_LIGHTABS_ON",
+    "_SHADING_PIXELLIT",
+    "_WAVES_HIGHQUALITY"
+  ],
+  "constant_buffers": [
+    {
+      "slot": 0,
+      "name": "$Globals",
+      "params": [
+        {
+          "name": "_ShoreIntensity",
+          "offset": 80,
+          "register": "cb0[5].x",
+          "detail": {
+            "m_NameIndex": 53,
+            "m_Index": 80,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 1
+          }
+        },
+        {
+          "name": "_ShoreDistance",
+          "offset": 84,
+          "register": "cb0[5].y",
+          "detail": {
+            "m_NameIndex": 54,
+            "m_Index": 84,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 1
+          }
+        },
+        {
+          "name": "_ShoreColor",
+          "offset": 96,
+          "register": "cb0[6].x",
+          "detail": {
+            "m_NameIndex": 55,
+            "m_Index": 96,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        },
+        {
+          "name": "_DeepColor",
+          "offset": 112,
+          "register": "cb0[7].x",
+          "detail": {
+            "m_NameIndex": 59,
+            "m_Index": 112,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        },
+        {
+          "name": "_Absorption",
+          "offset": 128,
+          "register": "cb0[8].x",
+          "detail": {
+            "m_NameIndex": 60,
+            "m_Index": 128,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 1
+          }
+        },
+        {
+          "name": "_SpecColor",
+          "offset": 160,
+          "register": "cb0[10].x",
+          "detail": {
+            "m_NameIndex": 48,
+            "m_Index": 160,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        },
+        {
+          "name": "_Opacity",
+          "offset": 176,
+          "register": "cb0[11].x",
+          "detail": {
+            "m_NameIndex": 49,
+            "m_Index": 176,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 1
+          }
+        },
+        {
+          "name": "_Specular",
+          "offset": 180,
+          "register": "cb0[11].y",
+          "detail": {
+            "m_NameIndex": 15,
+            "m_Index": 180,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 1
+          }
+        },
+        {
+          "name": "_Color",
+          "offset": 192,
+          "register": "cb0[12].x",
+          "detail": {
+            "m_NameIndex": 50,
+            "m_Index": 192,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        },
+        {
+          "name": "_SunColor",
+          "offset": 208,
+          "register": "cb0[13].x",
+          "detail": {
+            "m_NameIndex": 16,
+            "m_Index": 208,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        },
+        {
+          "name": "_Sun",
+          "offset": 224,
+          "register": "cb0[14].x",
+          "detail": {
+            "m_NameIndex": 17,
+            "m_Index": 224,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 3
+          }
+        },
+        {
+          "name": "_FresPower",
+          "offset": 240,
+          "register": "cb0[15].x",
+          "detail": {
+            "m_NameIndex": 18,
+            "m_Index": 240,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 1
+          }
+        },
+        {
+          "name": "_Diffuse",
+          "offset": 244,
+          "register": "cb0[15].y",
+          "detail": {
+            "m_NameIndex": 19,
+            "m_Index": 244,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 1
+          }
+        },
+        {
+          "name": "_FresColor",
+          "offset": 256,
+          "register": "cb0[16].x",
+          "detail": {
+            "m_NameIndex": 51,
+            "m_Index": 256,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 3
+          }
+        },
+        {
+          "name": "_Reflection",
+          "offset": 268,
+          "register": "cb0[16].w",
+          "detail": {
+            "m_NameIndex": 61,
+            "m_Index": 268,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 1
+          }
+        },
+        {
+          "name": "_Distortion",
+          "offset": 272,
+          "register": "cb0[17].x",
+          "detail": {
+            "m_NameIndex": 62,
+            "m_Index": 272,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 1
+          }
+        },
+        {
+          "name": "_BumpScale_",
+          "offset": 280,
+          "register": "cb0[17].z",
+          "detail": {
+            "m_NameIndex": 63,
+            "m_Index": 280,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 1
+          }
+        },
+        {
+          "name": "_BumpSpeed",
+          "offset": 284,
+          "register": "cb0[17].w",
+          "detail": {
+            "m_NameIndex": 64,
+            "m_Index": 284,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 1
+          }
+        },
+        {
+          "name": "_NormalOffset",
+          "offset": 288,
+          "register": "cb0[18].x",
+          "detail": {
+            "m_NameIndex": 65,
+            "m_Index": 288,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 1
+          }
+        }
+      ]
+    },
+    {
+      "slot": 1,
+      "name": "UnityPerCamera",
+      "params": [
+        {
+          "name": "_Time",
+          "offset": 0,
+          "register": "cb1[0].x",
+          "detail": {
+            "m_NameIndex": 20,
+            "m_Index": 0,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        },
+        {
+          "name": "_WorldSpaceCameraPos",
+          "offset": 64,
+          "register": "cb1[4].x",
+          "detail": {
+            "m_NameIndex": 21,
+            "m_Index": 64,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 3
+          }
+        },
+        {
+          "name": "_ProjectionParams",
+          "offset": 80,
+          "register": "cb1[5].x",
+          "detail": {
+            "m_NameIndex": 32,
+            "m_Index": 80,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        },
+        {
+          "name": "_ZBufferParams",
+          "offset": 112,
+          "register": "cb1[7].x",
+          "detail": {
+            "m_NameIndex": 56,
+            "m_Index": 112,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        },
+        {
+          "name": "unity_OrthoParams",
+          "offset": 128,
+          "register": "cb1[8].x",
+          "detail": {
+            "m_NameIndex": 33,
+            "m_Index": 128,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "name": "UnityLighting",
+      "params": [
+        {
+          "name": "unity_SHAr",
+          "offset": 624,
+          "register": "cb2[39].x",
+          "detail": {
+            "m_NameIndex": 22,
+            "m_Index": 624,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        },
+        {
+          "name": "unity_SHAg",
+          "offset": 640,
+          "register": "cb2[40].x",
+          "detail": {
+            "m_NameIndex": 23,
+            "m_Index": 640,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        },
+        {
+          "name": "unity_SHAb",
+          "offset": 656,
+          "register": "cb2[41].x",
+          "detail": {
+            "m_NameIndex": 24,
+            "m_Index": 656,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        },
+        {
+          "name": "unity_SHBr",
+          "offset": 672,
+          "register": "cb2[42].x",
+          "detail": {
+            "m_NameIndex": 25,
+            "m_Index": 672,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        },
+        {
+          "name": "unity_SHBg",
+          "offset": 688,
+          "register": "cb2[43].x",
+          "detail": {
+            "m_NameIndex": 26,
+            "m_Index": 688,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        },
+        {
+          "name": "unity_SHBb",
+          "offset": 704,
+          "register": "cb2[44].x",
+          "detail": {
+            "m_NameIndex": 27,
+            "m_Index": 704,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        },
+        {
+          "name": "unity_SHC",
+          "offset": 720,
+          "register": "cb2[45].x",
+          "detail": {
+            "m_NameIndex": 28,
+            "m_Index": 720,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "_BumpTex",
+      "slot": 0,
+      "sampler": 3
+    },
+    {
+      "name": "_ReflectionTex",
+      "slot": 1,
+      "sampler": 2
+    },
+    {
+      "name": "_CameraDepthTexture",
+      "slot": 2,
+      "sampler": 0
+    },
+    {
+      "name": "_FresnelTex",
+      "slot": 3,
+      "sampler": 1
+    }
+  ]
+}

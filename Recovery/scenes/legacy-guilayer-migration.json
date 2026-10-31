@@ -1,0 +1,37 @@
+{
+  "count": 4,
+  "components": [
+    {
+      "asset": "Assets\\GameObject\\Mirrors.prefab",
+      "original_local_id": "92061268324235159",
+      "replacement_guid": "0a9e7a2f58124371a20101b721cc092a",
+      "original_class": "GUILayer",
+      "source_payload": "LS0tICF1ITkyICY5MjA2MTI2ODMyNDIzNTE1OQpHVUlMYXllcjoKICBtX09iamVjdEhpZGVGbGFnczogMAogIG1fQ29ycmVzcG9uZGluZ1NvdXJjZU9iamVjdDoge2ZpbGVJRDogMH0KICBtX1ByZWZhYkludGVybmFsOiB7ZmlsZUlEOiAxMDAxMDAwMDB9CiAgbV9HYW1lT2JqZWN0OiB7ZmlsZUlEOiAxNzMwMjQyNjg2ODYwODc1fQogIG1fRW5hYmxlZDogMQo=",
+      "provenance": "preserved obsolete legacy engine system; source has zero GUIText/GUITexture native objects"
+    },
+    {
+      "asset": "Assets\\GameObject\\Mirrors.prefab",
+      "original_local_id": "92372920208702427",
+      "replacement_guid": "0a9e7a2f58124371a20101b721cc092a",
+      "original_class": "GUILayer",
+      "source_payload": "LS0tICF1ITkyICY5MjM3MjkyMDIwODcwMjQyNwpHVUlMYXllcjoKICBtX09iamVjdEhpZGVGbGFnczogMAogIG1fQ29ycmVzcG9uZGluZ1NvdXJjZU9iamVjdDoge2ZpbGVJRDogMH0KICBtX1ByZWZhYkludGVybmFsOiB7ZmlsZUlEOiAxMDAxMDAwMDB9CiAgbV9HYW1lT2JqZWN0OiB7ZmlsZUlEOiAxNzI0ODA0MjA3ODc1Njk1fQogIG1fRW5hYmxlZDogMQo=",
+      "provenance": "preserved obsolete legacy engine system; source has zero GUIText/GUITexture native objects"
+    },
+    {
+      "asset": "Assets\\GameObject\\Mirrors.prefab",
+      "original_local_id": "92336590748365959",
+      "replacement_guid": "0a9e7a2f58124371a20101b721cc092a",
+      "original_class": "GUILayer",
+      "source_payload": "LS0tICF1ITkyICY5MjMzNjU5MDc0ODM2NTk1OQpHVUlMYXllcjoKICBtX09iamVjdEhpZGVGbGFnczogMAogIG1fQ29ycmVzcG9uZGluZ1NvdXJjZU9iamVjdDoge2ZpbGVJRDogMH0KICBtX1ByZWZhYkludGVybmFsOiB7ZmlsZUlEOiAxMDAxMDAwMDB9CiAgbV9HYW1lT2JqZWN0OiB7ZmlsZUlEOiAxNjE4NjgyMzc3NDE3ODA2fQogIG1fRW5hYmxlZDogMQo=",
+      "provenance": "preserved obsolete legacy engine system; source has zero GUIText/GUITexture native objects"
+    },
+    {
+      "asset": "Assets\\GameObject\\RCCCamera.prefab",
+      "original_local_id": "92587765826080250",
+      "replacement_guid": "0a9e7a2f58124371a20101b721cc092a",
+      "original_class": "GUILayer",
+      "source_payload": "LS0tICF1ITkyICY5MjU4Nzc2NTgyNjA4MDI1MApHVUlMYXllcjoKICBtX09iamVjdEhpZGVGbGFnczogMAogIG1fQ29ycmVzcG9uZGluZ1NvdXJjZU9iamVjdDoge2ZpbGVJRDogMH0KICBtX1ByZWZhYkludGVybmFsOiB7ZmlsZUlEOiAxMDAxMDAwMDB9CiAgbV9HYW1lT2JqZWN0OiB7ZmlsZUlEOiAxNzI0ODA0MjA3ODc1Njk1fQogIG1fRW5hYmxlZDogMQo=",
+      "provenance": "preserved obsolete legacy engine system; source has zero GUIText/GUITexture native objects"
+    }
+  ]
+}

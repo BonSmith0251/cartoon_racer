@@ -1,0 +1,127 @@
+{
+  "shaders": [
+    {
+      "source_container": "C:\\Program Files (x86)\\GameTop.com\\Cartoon Hot Racer 3D\\Cartoon Hot Racer 3D_Data\\data.unity3d",
+      "serialized_file": "sharedassets0.assets",
+      "path_id": "582",
+      "name": "Projector/Multiply",
+      "platforms": [
+        4
+      ],
+      "decoded": true
+    },
+    {
+      "source_container": "C:\\Program Files (x86)\\GameTop.com\\Cartoon Hot Racer 3D\\Cartoon Hot Racer 3D_Data\\data.unity3d",
+      "serialized_file": "sharedassets0.assets",
+      "path_id": "584",
+      "name": "LowPolyWater/Advanced",
+      "platforms": [
+        4
+      ],
+      "decoded": true
+    },
+    {
+      "source_container": "C:\\Program Files (x86)\\GameTop.com\\Cartoon Hot Racer 3D\\Cartoon Hot Racer 3D_Data\\data.unity3d",
+      "serialized_file": "sharedassets0.assets",
+      "path_id": "585",
+      "name": "Cartoon FX/Mobile Particles Additive Alpha8",
+      "platforms": [
+        4
+      ],
+      "decoded": true
+    },
+    {
+      "source_container": "C:\\Program Files (x86)\\GameTop.com\\Cartoon Hot Racer 3D\\Cartoon Hot Racer 3D_Data\\data.unity3d",
+      "serialized_file": "sharedassets0.assets",
+      "path_id": "586",
+      "name": "Projector/Light",
+      "platforms": [
+        4
+      ],
+      "decoded": true
+    },
+    {
+      "source_container": "C:\\Program Files (x86)\\GameTop.com\\Cartoon Hot Racer 3D\\Cartoon Hot Racer 3D_Data\\data.unity3d",
+      "serialized_file": "sharedassets1.assets",
+      "path_id": "319",
+      "name": "Sprites/Default with Fog",
+      "platforms": [
+        4
+      ],
+      "decoded": true
+    },
+    {
+      "source_container": "C:\\Program Files (x86)\\GameTop.com\\Cartoon Hot Racer 3D\\Cartoon Hot Racer 3D_Data\\data.unity3d",
+      "serialized_file": "sharedassets1.assets",
+      "path_id": "320",
+      "name": "Water/Water 2D Waves",
+      "platforms": [
+        4
+      ],
+      "decoded": true
+    },
+    {
+      "source_container": "C:\\Program Files (x86)\\GameTop.com\\Cartoon Hot Racer 3D\\Cartoon Hot Racer 3D_Data\\data.unity3d",
+      "serialized_file": "sharedassets7.assets",
+      "path_id": "19",
+      "name": "Custom/BLUR",
+      "platforms": [
+        4
+      ],
+      "decoded": true
+    },
+    {
+      "source_container": "C:\\Program Files (x86)\\GameTop.com\\Cartoon Hot Racer 3D\\Cartoon Hot Racer 3D_Data\\data.unity3d",
+      "serialized_file": "resources.assets",
+      "path_id": "200",
+      "name": "Hidden/BloomPro",
+      "platforms": [
+        4
+      ],
+      "decoded": true
+    },
+    {
+      "source_container": "C:\\Program Files (x86)\\GameTop.com\\Cartoon Hot Racer 3D\\Cartoon Hot Racer 3D_Data\\data.unity3d",
+      "serialized_file": "resources.assets",
+      "path_id": "203",
+      "name": "CameraFilterPack/Color_GrayScale",
+      "platforms": [
+        4
+      ],
+      "decoded": true
+    },
+    {
+      "source_container": "C:\\Program Files (x86)\\GameTop.com\\Cartoon Hot Racer 3D\\Cartoon Hot Racer 3D_Data\\data.unity3d",
+      "serialized_file": "resources.assets",
+      "path_id": "351",
+      "name": "CameraFilterPack/Blur_Radial_Fast",
+      "platforms": [
+        4
+      ],
+      "decoded": true
+    },
+    {
+      "source_container": "C:\\Program Files (x86)\\GameTop.com\\Cartoon Hot Racer 3D\\Cartoon Hot Racer 3D_Data\\data.unity3d",
+      "serialized_file": "resources.assets",
+      "path_id": "416",
+      "name": "CameraFilterPack/Blur_Blurry",
+      "platforms": [
+        4
+      ],
+      "decoded": true
+    },
+    {
+      "source_container": "C:\\Program Files (x86)\\GameTop.com\\Cartoon Hot Racer 3D\\Cartoon Hot Racer 3D_Data\\data.unity3d",
+      "serialized_file": "resources.assets",
+      "path_id": "433",
+      "name": "RCCSkidmarks",
+      "platforms": [
+        4
+      ],
+      "decoded": true
+    }
+  ],
+  "stats": {
+    "disassembled_programs": 386
+  }
+}

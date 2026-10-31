@@ -1,0 +1,778 @@
+{
+    "unity": "2023.2.22f1",
+    "terrains": [
+        {
+            "name": "CITY_TERRAIN",
+            "path": "Assets/TerrainData/CITY_TERRAIN.asset",
+            "layers": 8,
+            "alphaResolution": 512,
+            "baseResolution": 32,
+            "alphaTextures": [
+                "SplatAlpha 0:512x512",
+                "SplatAlpha 1:512x512"
+            ],
+            "layerData": [
+                {
+                    "name": "layer_Ground_053d1cca0d6d0e9938",
+                    "path": "Assets/_TerrainAutoUpgrade/layer_Ground_053d1cca0d6d0e9938.terrainlayer",
+                    "diffuse": "Assets/Texture2D/Ground_05.png",
+                    "normal": "",
+                    "tileSize": {
+                        "x": 10.0,
+                        "y": 10.0
+                    },
+                    "tileOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "metallic": 0.0,
+                    "smoothness": 0.0,
+                    "specular": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "name": "layer_Ground_023d1cca0d6d0e9938",
+                    "path": "Assets/_TerrainAutoUpgrade/layer_Ground_023d1cca0d6d0e9938.terrainlayer",
+                    "diffuse": "Assets/Texture2D/Ground_02.png",
+                    "normal": "",
+                    "tileSize": {
+                        "x": 10.0,
+                        "y": 10.0
+                    },
+                    "tileOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "metallic": 0.0,
+                    "smoothness": 0.0,
+                    "specular": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "name": "layer_adesert_sand2_d12a734f1a24d4f9e",
+                    "path": "Assets/_TerrainAutoUpgrade/layer_adesert_sand2_d12a734f1a24d4f9e.terrainlayer",
+                    "diffuse": "Assets/Texture2D/adesert_sand2_d.png",
+                    "normal": "",
+                    "tileSize": {
+                        "x": 12.0,
+                        "y": 12.0
+                    },
+                    "tileOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "metallic": 0.0,
+                    "smoothness": 0.0,
+                    "specular": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "name": "layer_f0c5e0dea28ad7393413224f57302be9--textures-patterns-game-textures12a734f1a24d4f9e",
+                    "path": "Assets/_TerrainAutoUpgrade/layer_f0c5e0dea28ad7393413224f57302be9--textures-patterns-game-textures12a734f1a24d4f9e.terrainlayer",
+                    "diffuse": "Assets/Texture2D/f0c5e0dea28ad7393413224f57302be9--textures-patterns-game-textures.png",
+                    "normal": "",
+                    "tileSize": {
+                        "x": 12.0,
+                        "y": 12.0
+                    },
+                    "tileOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "metallic": 0.0,
+                    "smoothness": 0.0,
+                    "specular": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "name": "layer_wadada3d1cca0d6d0e9938",
+                    "path": "Assets/_TerrainAutoUpgrade/layer_wadada3d1cca0d6d0e9938.terrainlayer",
+                    "diffuse": "Assets/Texture2D/wadada.png",
+                    "normal": "",
+                    "tileSize": {
+                        "x": 10.0,
+                        "y": 10.0
+                    },
+                    "tileOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "metallic": 0.0,
+                    "smoothness": 0.0,
+                    "specular": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "name": "layer_ground39a962f8834c63bb",
+                    "path": "Assets/_TerrainAutoUpgrade/layer_ground39a962f8834c63bb.terrainlayer",
+                    "diffuse": "Assets/Texture2D/ground.png",
+                    "normal": "",
+                    "tileSize": {
+                        "x": 12.0,
+                        "y": 11.0
+                    },
+                    "tileOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "metallic": 0.0,
+                    "smoothness": 0.0,
+                    "specular": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "name": "layer_Ground_033d1cca0d6d0e9938",
+                    "path": "Assets/_TerrainAutoUpgrade/layer_Ground_033d1cca0d6d0e9938.terrainlayer",
+                    "diffuse": "Assets/Texture2D/Ground_03.png",
+                    "normal": "",
+                    "tileSize": {
+                        "x": 10.0,
+                        "y": 10.0
+                    },
+                    "tileOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "metallic": 0.0,
+                    "smoothness": 0.0,
+                    "specular": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "name": "layer_concrete_metallicb956af97c33fc3d7",
+                    "path": "Assets/_TerrainAutoUpgrade/layer_concrete_metallicb956af97c33fc3d7.terrainlayer",
+                    "diffuse": "Assets/Texture2D/concrete_metallic.png",
+                    "normal": "",
+                    "tileSize": {
+                        "x": 8.0,
+                        "y": 8.0
+                    },
+                    "tileOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "metallic": 0.0,
+                    "smoothness": 0.0,
+                    "specular": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "name": "FARM_TERRAIN",
+            "path": "Assets/TerrainData/FARM_TERRAIN.asset",
+            "layers": 8,
+            "alphaResolution": 512,
+            "baseResolution": 32,
+            "alphaTextures": [
+                "<missing>",
+                "<missing>"
+            ],
+            "layerData": [
+                {
+                    "name": "layer_Ground_053d1cca0d6d0e9938",
+                    "path": "Assets/_TerrainAutoUpgrade/layer_Ground_053d1cca0d6d0e9938.terrainlayer",
+                    "diffuse": "Assets/Texture2D/Ground_05.png",
+                    "normal": "",
+                    "tileSize": {
+                        "x": 10.0,
+                        "y": 10.0
+                    },
+                    "tileOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "metallic": 0.0,
+                    "smoothness": 0.0,
+                    "specular": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "name": "layer_Ground_023d1cca0d6d0e9938",
+                    "path": "Assets/_TerrainAutoUpgrade/layer_Ground_023d1cca0d6d0e9938.terrainlayer",
+                    "diffuse": "Assets/Texture2D/Ground_02.png",
+                    "normal": "",
+                    "tileSize": {
+                        "x": 10.0,
+                        "y": 10.0
+                    },
+                    "tileOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "metallic": 0.0,
+                    "smoothness": 0.0,
+                    "specular": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "name": "layer_adesert_sand2_d12a734f1a24d4f9e",
+                    "path": "Assets/_TerrainAutoUpgrade/layer_adesert_sand2_d12a734f1a24d4f9e.terrainlayer",
+                    "diffuse": "Assets/Texture2D/adesert_sand2_d.png",
+                    "normal": "",
+                    "tileSize": {
+                        "x": 12.0,
+                        "y": 12.0
+                    },
+                    "tileOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "metallic": 0.0,
+                    "smoothness": 0.0,
+                    "specular": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "name": "layer_f0c5e0dea28ad7393413224f57302be9--textures-patterns-game-textures12a734f1a24d4f9e",
+                    "path": "Assets/_TerrainAutoUpgrade/layer_f0c5e0dea28ad7393413224f57302be9--textures-patterns-game-textures12a734f1a24d4f9e.terrainlayer",
+                    "diffuse": "Assets/Texture2D/f0c5e0dea28ad7393413224f57302be9--textures-patterns-game-textures.png",
+                    "normal": "",
+                    "tileSize": {
+                        "x": 12.0,
+                        "y": 12.0
+                    },
+                    "tileOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "metallic": 0.0,
+                    "smoothness": 0.0,
+                    "specular": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "name": "layer_wadada3d1cca0d6d0e9938",
+                    "path": "Assets/_TerrainAutoUpgrade/layer_wadada3d1cca0d6d0e9938.terrainlayer",
+                    "diffuse": "Assets/Texture2D/wadada.png",
+                    "normal": "",
+                    "tileSize": {
+                        "x": 10.0,
+                        "y": 10.0
+                    },
+                    "tileOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "metallic": 0.0,
+                    "smoothness": 0.0,
+                    "specular": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "name": "layer_2de8029e8054e3484bf0e6ce4fa9274f--d-texture-paint-texture12a734f1a24d4f9e",
+                    "path": "Assets/_TerrainAutoUpgrade/layer_2de8029e8054e3484bf0e6ce4fa9274f--d-texture-paint-texture12a734f1a24d4f9e.terrainlayer",
+                    "diffuse": "Assets/Texture2D/2de8029e8054e3484bf0e6ce4fa9274f--d-texture-paint-texture.png",
+                    "normal": "",
+                    "tileSize": {
+                        "x": 12.0,
+                        "y": 12.0
+                    },
+                    "tileOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "metallic": 0.0,
+                    "smoothness": 0.0,
+                    "specular": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "name": "layer_Ground_043d1cca0d6d0e9938",
+                    "path": "Assets/_TerrainAutoUpgrade/layer_Ground_043d1cca0d6d0e9938.terrainlayer",
+                    "diffuse": "Assets/Texture2D/Ground_04.png",
+                    "normal": "",
+                    "tileSize": {
+                        "x": 10.0,
+                        "y": 10.0
+                    },
+                    "tileOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "metallic": 0.0,
+                    "smoothness": 0.0,
+                    "specular": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "name": "layer_concrete_metallicb956af97c33fc3d7",
+                    "path": "Assets/_TerrainAutoUpgrade/layer_concrete_metallicb956af97c33fc3d7.terrainlayer",
+                    "diffuse": "Assets/Texture2D/concrete_metallic.png",
+                    "normal": "",
+                    "tileSize": {
+                        "x": 8.0,
+                        "y": 8.0
+                    },
+                    "tileOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "metallic": 0.0,
+                    "smoothness": 0.0,
+                    "specular": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "name": "MENU",
+            "path": "Assets/TerrainData/MENU.asset",
+            "layers": 8,
+            "alphaResolution": 256,
+            "baseResolution": 32,
+            "alphaTextures": [
+                "SplatAlpha 0:256x256",
+                "SplatAlpha 1:256x256"
+            ],
+            "layerData": [
+                {
+                    "name": "layer_Ground_023d1cca0d6d0e9938",
+                    "path": "Assets/_TerrainAutoUpgrade/layer_Ground_023d1cca0d6d0e9938.terrainlayer",
+                    "diffuse": "Assets/Texture2D/Ground_02.png",
+                    "normal": "",
+                    "tileSize": {
+                        "x": 10.0,
+                        "y": 10.0
+                    },
+                    "tileOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "metallic": 0.0,
+                    "smoothness": 0.0,
+                    "specular": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "name": "layer_f0c5e0dea28ad7393413224f57302be9--textures-patterns-game-textures3d1cca0d6d0e9938",
+                    "path": "Assets/_TerrainAutoUpgrade/layer_f0c5e0dea28ad7393413224f57302be9--textures-patterns-game-textures3d1cca0d6d0e9938.terrainlayer",
+                    "diffuse": "Assets/Texture2D/f0c5e0dea28ad7393413224f57302be9--textures-patterns-game-textures.png",
+                    "normal": "",
+                    "tileSize": {
+                        "x": 10.0,
+                        "y": 10.0
+                    },
+                    "tileOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "metallic": 0.0,
+                    "smoothness": 0.0,
+                    "specular": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "name": "layer_wadada3d1cca0d6d0e9938",
+                    "path": "Assets/_TerrainAutoUpgrade/layer_wadada3d1cca0d6d0e9938.terrainlayer",
+                    "diffuse": "Assets/Texture2D/wadada.png",
+                    "normal": "",
+                    "tileSize": {
+                        "x": 10.0,
+                        "y": 10.0
+                    },
+                    "tileOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "metallic": 0.0,
+                    "smoothness": 0.0,
+                    "specular": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "name": "layer_adesert_sand2_d3d1cca0d6d0e9938",
+                    "path": "Assets/_TerrainAutoUpgrade/layer_adesert_sand2_d3d1cca0d6d0e9938.terrainlayer",
+                    "diffuse": "Assets/Texture2D/adesert_sand2_d.png",
+                    "normal": "",
+                    "tileSize": {
+                        "x": 10.0,
+                        "y": 10.0
+                    },
+                    "tileOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "metallic": 0.0,
+                    "smoothness": 0.0,
+                    "specular": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "name": "layer_2de8029e8054e3484bf0e6ce4fa9274f--d-texture-paint-texture3d1cca0d6d0e9938",
+                    "path": "Assets/_TerrainAutoUpgrade/layer_2de8029e8054e3484bf0e6ce4fa9274f--d-texture-paint-texture3d1cca0d6d0e9938.terrainlayer",
+                    "diffuse": "Assets/Texture2D/2de8029e8054e3484bf0e6ce4fa9274f--d-texture-paint-texture.png",
+                    "normal": "",
+                    "tileSize": {
+                        "x": 10.0,
+                        "y": 10.0
+                    },
+                    "tileOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "metallic": 0.0,
+                    "smoothness": 0.0,
+                    "specular": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "name": "layer_Ground_043d1cca0d6d0e9938",
+                    "path": "Assets/_TerrainAutoUpgrade/layer_Ground_043d1cca0d6d0e9938.terrainlayer",
+                    "diffuse": "Assets/Texture2D/Ground_04.png",
+                    "normal": "",
+                    "tileSize": {
+                        "x": 10.0,
+                        "y": 10.0
+                    },
+                    "tileOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "metallic": 0.0,
+                    "smoothness": 0.0,
+                    "specular": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "name": "layer_black56c06548c332e3f3",
+                    "path": "Assets/_TerrainAutoUpgrade/layer_black56c06548c332e3f3.terrainlayer",
+                    "diffuse": "Assets/Texture2D/black.png",
+                    "normal": "",
+                    "tileSize": {
+                        "x": 24.0,
+                        "y": 24.0
+                    },
+                    "tileOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "metallic": 0.0,
+                    "smoothness": 0.0,
+                    "specular": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "name": "layer_Ground_053d1cca0d6d0e9938",
+                    "path": "Assets/_TerrainAutoUpgrade/layer_Ground_053d1cca0d6d0e9938.terrainlayer",
+                    "diffuse": "Assets/Texture2D/Ground_05.png",
+                    "normal": "",
+                    "tileSize": {
+                        "x": 10.0,
+                        "y": 10.0
+                    },
+                    "tileOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "metallic": 0.0,
+                    "smoothness": 0.0,
+                    "specular": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "name": "SCHOOL",
+            "path": "Assets/TerrainData/SCHOOL.asset",
+            "layers": 5,
+            "alphaResolution": 512,
+            "baseResolution": 512,
+            "alphaTextures": [
+                "SplatAlpha 0:512x512",
+                "SplatAlpha 1:512x512"
+            ],
+            "layerData": [
+                {
+                    "name": "layer_Ground_053d1cca0d6d0e9938",
+                    "path": "Assets/_TerrainAutoUpgrade/layer_Ground_053d1cca0d6d0e9938.terrainlayer",
+                    "diffuse": "Assets/Texture2D/Ground_05.png",
+                    "normal": "",
+                    "tileSize": {
+                        "x": 10.0,
+                        "y": 10.0
+                    },
+                    "tileOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "metallic": 0.0,
+                    "smoothness": 0.0,
+                    "specular": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "name": "layer_Ground_0244617e676efbb12f",
+                    "path": "Assets/_TerrainAutoUpgrade/layer_Ground_0244617e676efbb12f.terrainlayer",
+                    "diffuse": "Assets/Texture2D/Ground_02.png",
+                    "normal": "",
+                    "tileSize": {
+                        "x": 11.0,
+                        "y": 11.0
+                    },
+                    "tileOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "metallic": 0.0,
+                    "smoothness": 0.0,
+                    "specular": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "name": "layer_wadada44617e676efbb12f",
+                    "path": "Assets/_TerrainAutoUpgrade/layer_wadada44617e676efbb12f.terrainlayer",
+                    "diffuse": "Assets/Texture2D/wadada.png",
+                    "normal": "",
+                    "tileSize": {
+                        "x": 11.0,
+                        "y": 11.0
+                    },
+                    "tileOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "metallic": 0.0,
+                    "smoothness": 0.0,
+                    "specular": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "name": "layer_d096ae7be4284409db28f42ec5f1a8ae--d-texture-game-texture44617e676efbb12f",
+                    "path": "Assets/_TerrainAutoUpgrade/layer_d096ae7be4284409db28f42ec5f1a8ae--d-texture-game-texture44617e676efbb12f.terrainlayer",
+                    "diffuse": "Assets/Texture2D/d096ae7be4284409db28f42ec5f1a8ae--d-texture-game-texture.png",
+                    "normal": "",
+                    "tileSize": {
+                        "x": 11.0,
+                        "y": 11.0
+                    },
+                    "tileOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "metallic": 0.0,
+                    "smoothness": 0.0,
+                    "specular": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                },
+                {
+                    "name": "layer_concrete_metallicb956af97c33fc3d7",
+                    "path": "Assets/_TerrainAutoUpgrade/layer_concrete_metallicb956af97c33fc3d7.terrainlayer",
+                    "diffuse": "Assets/Texture2D/concrete_metallic.png",
+                    "normal": "",
+                    "tileSize": {
+                        "x": 8.0,
+                        "y": 8.0
+                    },
+                    "tileOffset": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "metallic": 0.0,
+                    "smoothness": 0.0,
+                    "specular": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.0
+                    }
+                }
+            ]
+        }
+    ],
+    "bindings": [
+        {
+            "asset": "Assets/MENU.unity",
+            "objectName": "Terrain",
+            "dataPath": "Assets/TerrainData/MENU.asset",
+            "material": "Default-Terrain-Diffuse",
+            "materialPath": "Resources/unity_builtin_extra",
+            "shader": "Nature/Terrain/Diffuse",
+            "shaderSupported": true,
+            "specular": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "shininess": -1.0
+        },
+        {
+            "asset": "Assets/BENCHMARK.unity",
+            "objectName": "CITY_TERRAIN",
+            "dataPath": "Assets/TerrainData/CITY_TERRAIN.asset",
+            "material": "Default-Terrain-Diffuse",
+            "materialPath": "Resources/unity_builtin_extra",
+            "shader": "Nature/Terrain/Diffuse",
+            "shaderSupported": true,
+            "specular": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "shininess": -1.0
+        },
+        {
+            "asset": "Assets/SCHOOL.unity",
+            "objectName": "Terrain",
+            "dataPath": "Assets/TerrainData/SCHOOL.asset",
+            "material": "Default-Terrain-Specular",
+            "materialPath": "Resources/unity_builtin_extra",
+            "shader": "Nature/Terrain/Specular",
+            "shaderSupported": true,
+            "specular": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "shininess": 0.078125
+        },
+        {
+            "asset": "Assets/GameObject/CITY_TERRAIN.prefab",
+            "objectName": "CITY_TERRAIN",
+            "dataPath": "Assets/TerrainData/CITY_TERRAIN.asset",
+            "material": "Default-Terrain-Diffuse",
+            "materialPath": "Resources/unity_builtin_extra",
+            "shader": "Nature/Terrain/Diffuse",
+            "shaderSupported": true,
+            "specular": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "shininess": -1.0
+        },
+        {
+            "asset": "Assets/GameObject/FARM_TERRAIN.prefab",
+            "objectName": "FARM_TERRAIN",
+            "dataPath": "Assets/TerrainData/FARM_TERRAIN.asset",
+            "material": "Default-Terrain-Diffuse",
+            "materialPath": "Resources/unity_builtin_extra",
+            "shader": "Nature/Terrain/Diffuse",
+            "shaderSupported": true,
+            "specular": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "shininess": -1.0
+        }
+    ],
+    "errors": []
+}

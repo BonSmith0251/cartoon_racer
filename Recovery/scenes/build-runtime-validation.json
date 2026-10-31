@@ -1,0 +1,60 @@
+{
+  "schema": "cartoon-racer-build-runtime-validation/1",
+  "editor": "2023.2.22f1",
+  "build": {
+    "result": "Succeeded",
+    "bytes": "390976647",
+    "output": "D:\\Games\\CartoonRacerRecon\\Build\\CartoonRacerRecon.exe",
+    "errors": 0,
+    "warnings": 410
+  },
+  "build_log_pattern_occurrences": {
+    "negative_scale_boxcollider": 0,
+    "source_missing_script": 0,
+    "shader_error": 0,
+    "shader_warning": 0,
+    "legacy_renderer_cast": 0,
+    "obsolete_api_compile_warning": 1568,
+    "unused_field_or_event_compile_warning": 62,
+    "unsupported_legacy_guilayer": 0,
+    "generic_missing_reference": 0,
+    "lighting_uv_overlap": 0,
+    "animation_warning": 75
+  },
+  "warning_count_note": "417 is Unity BuildReport summary; log occurrences include repeated import/compile passes and are not additive warning totals",
+  "runtime": {
+    "smoke_completed": true,
+    "exit_code": 0,
+    "managed_errors": 0,
+    "native_presentation_diagnostics": 0,
+    "scenes": [
+      "Assets/GAME.unity Single",
+      "Assets/CITY_STATIC.unity Additive"
+    ],
+    "actions": [
+      "PLAY_BUTTON"
+    ],
+    "graphics": "Direct3D11, normal visible window; authentic final PNGs",
+    "evidence": "D:\\Games\\CartoonRacerRecon\\Recovery\\verification\\final-runtime-normal",
+    "physical_input": "Independent garage tutorial, starter-car purchase, Start -> Green Valleys, W and D input moved car with drift on prior build",
+    "remaining_runtime_warnings": {
+      "negative_scale_boxcolliders": 191,
+      "original_missing_script": 1
+    },
+    "earlier_tooling_artifacts": "Hidden-window black captures and repeated ShowWindow/topmost native presentation diagnostics excluded. Corrected launcher uses normal visible startup and one PID-validated foreground call."
+  },
+  "source_defects": {
+    "missing_script": 1,
+    "missing_reference_candidates": 10,
+    "invalid_unityevents": 43,
+    "classification_report": "Recovery/code/unityevent-source-classification.json; Recovery/verification/original-issue-classification.json"
+  },
+  "next_build_changes": [],
+  "frozen_build": "Final build includes original prefab root names, legacy GUILayer preservation and recovered water fog. Project/build frozen after final build.",
+  "final_fingerprints": {
+    "build_files": 255,
+    "editable_project_files": 6389,
+    "build_report": "Recovery/verification/final-tested-build-files.json",
+    "project_report": "Recovery/verification/final-tested-project-files.json"
+  }
+}

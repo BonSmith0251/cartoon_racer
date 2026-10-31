@@ -1,0 +1,7 @@
+﻿import pathlib,hashlib,json
+p=pathlib.Path(r'C:\Users\Administrator\.codex\skills\unity-project-reconstruction\references\scripts-and-components.md')
+out=pathlib.Path(r'D:\Games\CartoonRacerRecon\Recovery\skill-maintenance');before=p.read_bytes();(out/'scripts-and-components.md.before-unicode').write_bytes(before)
+s=before.decode('utf-8');needle='- A generated `string[]` wrapper';addition='- Generated field names can lose non-ASCII characters through a native raw API even when byte sizes and values decode correctly. Compare Unicode code points with managed metadata and the export; in the tested generator, its JSON API preserved a Cyrillic identifier that the raw API replaced with `?`. Use the preserving API before diagnosing a missing serialized field.\n'
+assert needle in s;s=s.replace(needle,addition+needle);p.write_text(s,encoding='utf-8')
+lp=out/'installed-improvements.json';rows=json.loads(lp.read_text(encoding='utf-8-sig'));rows.append({'path':str(p),'before_sha256':hashlib.sha256(before).hexdigest(),'after_sha256':hashlib.sha256(p.read_bytes()).hexdigest(),'installed':True,'evidence':['Recovery/verification/skill-improvement-proposal.json','Recovery/verification/independent-monobehaviour-export-comparison.json'],'validation':'Unicode-preserving JSON generator API; independent comparison 11922 scene MonoBehaviours,69956 scalar fields,21362 local/null refs with no differences; structural validator follows'})
+lp.write_text(json.dumps(rows,indent=2),encoding='utf-8');print('Installed Unicode field-name diagnostic')

@@ -1,0 +1,178 @@
+[
+  {
+    "terrain": "MENU",
+    "sourceIdentity": "sharedassets0.assets:4148",
+    "sourceLayerCount": 8,
+    "targetLayerCount": 8,
+    "layerDifferences": [],
+    "paintMaps": [
+      {
+        "index": 0,
+        "sourceIdentity": "sharedassets0.assets:345",
+        "source": {
+          "size": [
+            256,
+            256
+          ],
+          "sha256": "ff44f5b126f31b3ec887f855cbe7eaa116aa5ac26575799c1500ac80ab370031"
+        },
+        "target": {
+          "size": [
+            256,
+            256
+          ],
+          "sha256": "ff44f5b126f31b3ec887f855cbe7eaa116aa5ac26575799c1500ac80ab370031"
+        },
+        "equal": true
+      },
+      {
+        "index": 1,
+        "sourceIdentity": "sharedassets0.assets:344",
+        "source": {
+          "size": [
+            256,
+            256
+          ],
+          "sha256": "08d4d6e29e0a7da0a848f05d887850d8ddb2e1da0a9562c398bd41857d6b10a3"
+        },
+        "target": {
+          "size": [
+            256,
+            256
+          ],
+          "sha256": "08d4d6e29e0a7da0a848f05d887850d8ddb2e1da0a9562c398bd41857d6b10a3"
+        },
+        "equal": true
+      }
+    ]
+  },
+  {
+    "terrain": "CITY_TERRAIN",
+    "sourceIdentity": "sharedassets1.assets:129724",
+    "sourceLayerCount": 8,
+    "targetLayerCount": 8,
+    "layerDifferences": [],
+    "paintMaps": [
+      {
+        "index": 0,
+        "sourceIdentity": "sharedassets1.assets:239",
+        "source": {
+          "size": [
+            512,
+            512
+          ],
+          "sha256": "fa6aa79f12f25544d82141f77ec677f3590dab93f6377303b20c78ca10c9835c"
+        },
+        "target": {
+          "size": [
+            512,
+            512
+          ],
+          "sha256": "fa6aa79f12f25544d82141f77ec677f3590dab93f6377303b20c78ca10c9835c"
+        },
+        "equal": true
+      },
+      {
+        "index": 1,
+        "sourceIdentity": "sharedassets1.assets:240",
+        "source": {
+          "size": [
+            512,
+            512
+          ],
+          "sha256": "5b2d0edfb64ce74dcda68f70fc5093f7bf4ef9219d549d7fa057300b5d012176"
+        },
+        "target": {
+          "size": [
+            512,
+            512
+          ],
+          "sha256": "5b2d0edfb64ce74dcda68f70fc5093f7bf4ef9219d549d7fa057300b5d012176"
+        },
+        "equal": true
+      }
+    ]
+  },
+  {
+    "terrain": "FARM_TERRAIN",
+    "sourceIdentity": "sharedassets1.assets:129725",
+    "sourceLayerCount": 8,
+    "targetLayerCount": 8,
+    "layerDifferences": [],
+    "paintMaps": [
+      {
+        "index": 0,
+        "sourceIdentity": "sharedassets1.assets:241",
+        "source": {
+          "size": [
+            512,
+            512
+          ],
+          "sha256": "3ca89813392ca643a794eee310e06a62db766ca3933deb887542beace34cc7bb"
+        },
+        "target": null,
+        "equal": false
+      },
+      {
+        "index": 1,
+        "sourceIdentity": "sharedassets1.assets:238",
+        "source": {
+          "size": [
+            512,
+            512
+          ],
+          "sha256": "701814918b5ee2633567b94716d6c5251559a8c444b829f73963a2673c8b6ee7"
+        },
+        "target": null,
+        "equal": false
+      }
+    ]
+  },
+  {
+    "terrain": "SCHOOL",
+    "sourceIdentity": "sharedassets5.assets:158",
+    "sourceLayerCount": 5,
+    "targetLayerCount": 5,
+    "layerDifferences": [],
+    "paintMaps": [
+      {
+        "index": 0,
+        "sourceIdentity": "sharedassets5.assets:22",
+        "source": {
+          "size": [
+            512,
+            512
+          ],
+          "sha256": "8856810f7981cb1754b4b3822aea3d732a3e8726e5546377cf6df4c5e150428c"
+        },
+        "target": {
+          "size": [
+            512,
+            512
+          ],
+          "sha256": "8856810f7981cb1754b4b3822aea3d732a3e8726e5546377cf6df4c5e150428c"
+        },
+        "equal": true
+      },
+      {
+        "index": 1,
+        "sourceIdentity": "sharedassets5.assets:23",
+        "source": {
+          "size": [
+            512,
+            512
+          ],
+          "sha256": "6b2c7ac675152fb382dc79ba10cd65ffe424fedb1e28a47763cec24934b9d326"
+        },
+        "target": {
+          "size": [
+            512,
+            512
+          ],
+          "sha256": "6b2c7ac675152fb382dc79ba10cd65ffe424fedb1e28a47763cec24934b9d326"
+        },
+        "equal": true
+      }
+    ]
+  }
+]

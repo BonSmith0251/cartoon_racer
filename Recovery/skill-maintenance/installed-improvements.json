@@ -1,0 +1,66 @@
+﻿[
+    {
+        "path":  "C:\\Users\\Administrator\\.codex\\skills\\unity-project-reconstruction\\references\\discovery-and-extraction.md",
+        "before_sha256":  "9914ee926c03ec4ef752601114ba785500b0640a7b991e00f98a502959aeee43",
+        "after_sha256":  "b34aea30d1ade1312464192e9dd178da7d8eed0dbd33d0558ab9ea81afd3537c",
+        "installed":  true,
+        "evidence":  [
+                         "Recovery/extraction/skill-improvement-proposals.json",
+                         "Recovery/shaders/audit_shaders.py",
+                         "Recovery/shaders/source-shader-evidence.json"
+                     ],
+        "validation":  "observed exporter setting lock; 380 D3D11 programs disassembled; blend states compared to original typed data; structural validation follows; skill-creator quick_validate.py passed using isolated PyYAML 6.0.3",
+        "structural_validation":  "skill-creator quick_validate.py passed after installation"
+    },
+    {
+        "path":  "C:\\Users\\Administrator\\.codex\\skills\\unity-project-reconstruction\\references\\scenes-and-engine-features.md",
+        "before_sha256":  "0b2e898dbcab0e48a4abbb94e57816419810e8c2475078c90495520486094e81",
+        "after_sha256":  "eb4af35bacd18b411d322214e86d43ef03a1eaeee1819e68b3ebaffca3e6fe0b",
+        "installed":  true,
+        "evidence":  [
+                         "Recovery/extraction/skill-improvement-proposals.json",
+                         "Recovery/shaders/audit_shaders.py",
+                         "Recovery/shaders/source-shader-evidence.json"
+                     ],
+        "validation":  "observed exporter setting lock; 380 D3D11 programs disassembled; blend states compared to original typed data; structural validation follows; skill-creator quick_validate.py passed using isolated PyYAML 6.0.3",
+        "structural_validation":  "skill-creator quick_validate.py passed after installation"
+    },
+    {
+        "path":  "C:\\Users\\Administrator\\.codex\\skills\\unity-project-reconstruction\\references\\scripts-and-components.md",
+        "before_sha256":  "8df2170e122a69076fc1b34f4e91db045a2676685ea88b3b793cf0e4b437a926",
+        "after_sha256":  "a12a4040b7fb61997aece49ceabd7a84f9ce2a402e9777ed08c732db9baee438",
+        "installed":  true,
+        "evidence":  [
+                         "Recovery/verification/skill-improvement-proposal.json",
+                         "Recovery/verification/decode_monobehaviours.py",
+                         "Recovery/verification/monobehaviour-decode-summary.json"
+                     ],
+        "validation":  "26724/26724 custom source trees decoded with strict byte checks; 90811 non-null supplemental references resolve; independent verifier evidence; skill structural check follows",
+        "structural_validation":  "skill-creator quick_validate.py passed after installation"
+    },
+    {
+        "path":  "C:\\Users\\Administrator\\.codex\\skills\\unity-project-reconstruction\\references\\scripts-and-components.md",
+        "before_sha256":  "a12a4040b7fb61997aece49ceabd7a84f9ce2a402e9777ed08c732db9baee438",
+        "after_sha256":  "20dee713d1b2adae552e502ee61da6c7fdceb6a545a3cf2081a21a4ae501712f",
+        "installed":  true,
+        "evidence":  [
+                         "Recovery/verification/skill-improvement-proposal.json",
+                         "Recovery/verification/independent-monobehaviour-export-comparison.json"
+                     ],
+        "validation":  "Unicode-preserving JSON generator API; independent comparison 11922 scene MonoBehaviours,69956 scalar fields,21362 local/null refs with no differences; structural validator follows",
+        "structural_validation":  "skill-creator quick_validate.py passed after installation"
+    },
+    {
+        "path":  "C:\\Users\\Administrator\\.codex\\skills\\unity-project-reconstruction\\references\\version-migration.md",
+        "before_sha256":  "d81fd163c0a400cfe5a30cf39f962d5c623d6a2071ed723f41f6cff1bf9a2513",
+        "after_sha256":  "cfbfb5b599ad4642310d17202f681787aa4390f6dd2ebd2ff2cd786648b125aa",
+        "installed":  true,
+        "evidence":  [
+                         "Recovery/scenes/editor-import-5.log",
+                         "Recovery/scenes/legacy-renderer-reference-repair.json",
+                         "Recovery/scenes/windows-build.log"
+                     ],
+        "validation":  "Reproduced cast failures with data-only bridges; native2023 templates retain195 renderer IDs; standalone build succeeded without PPtr cast failures; simulation fidelity remains approximate",
+        "structural_validation":  "skill-creator quick_validate.py passed after installation"
+    }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "name": "globalgamemanagers",
+    "bytes": 206208,
+    "sha256": "bffb839fdc0a7c29d5e7784e2d0f27131baca7f574bc4e36833bd2e588dec0b1",
+    "kind": "SerializedFile",
+    "raw": "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\bundle-entries\\globalgamemanagers"
+  },
+  {
+    "name": "Resources/unity_builtin_extra",
+    "bytes": 236188,
+    "sha256": "354407f064ee536e4c48f54569a61a8661cdc59b9c2bea0b02017019b8905d68",
+    "kind": "SerializedFile",
+    "raw": "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\bundle-entries\\unity_builtin_extra"
+  },
+  {
+    "name": "globalgamemanagers.assets",
+    "bytes": 139836,
+    "sha256": "8c2caa52b37963e5f1ac8e26e7466068a79b78d9b1dceeec049c7aabc64dc754",
+    "kind": "SerializedFile",
+    "raw": "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\bundle-entries\\globalgamemanagers.assets"
+  },
+  {
+    "name": "sharedassets0.assets",
+    "bytes": 51948580,
+    "sha256": "cc9b85c646e330c5914107353341193f477cca8ac0fc41f29d69b45f3dfc72b2",
+    "kind": "SerializedFile",
+    "raw": "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\bundle-entries\\sharedassets0.assets"
+  },
+  {
+    "name": "level0",
+    "bytes": 2490868,
+    "sha256": "1f26cd75a264d7f6eae36e6939bacaac56a35f2880db621c17e7eec8a8042f02",
+    "kind": "SerializedFile",
+    "raw": "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\bundle-entries\\level0"
+  },
+  {
+    "name": "sharedassets1.assets",
+    "bytes": 61446580,
+    "sha256": "da065e7f573f5fd7ac0d0db71b83cbcbe06128eb6e5b7b97bcd506deb7bfddcf",
+    "kind": "SerializedFile",
+    "raw": "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\bundle-entries\\sharedassets1.assets"
+  },
+  {
+    "name": "level1",
+    "bytes": 1333376,
+    "sha256": "92e446a96814a1fa779b59227caddbf0396bc229e1651a54d0a7b21f7dbfc72b",
+    "kind": "SerializedFile",
+    "raw": "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\bundle-entries\\level1"
+  },
+  {
+    "name": "sharedassets2.assets",
+    "bytes": 1662760,
+    "sha256": "ed1d1b0b3049c3d791152a7ca8e08365635fcbfd9973538497727820b20fda8c",
+    "kind": "SerializedFile",
+    "raw": "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\bundle-entries\\sharedassets2.assets"
+  },
+  {
+    "name": "level2",
+    "bytes": 3802896,
+    "sha256": "e92f10f7bf15b4a9c3947b16b4cb77ab575c013cf7740c32118a68c3c24b7bd3",
+    "kind": "SerializedFile",
+    "raw": "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\bundle-entries\\level2"
+  },
+  {
+    "name": "sharedassets3.assets",
+    "bytes": 657104,
+    "sha256": "03946bae9a7b3912eecc72a2b91a3c44b6077db9a866195245a5af9ae1a04961",
+    "kind": "SerializedFile",
+    "raw": "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\bundle-entries\\sharedassets3.assets"
+  },
+  {
+    "name": "level3",
+    "bytes": 4257328,
+    "sha256": "ec2b9ca8d997e0ba3f8d8647a1b588cadf29d1485d549a27028c60f2354d3479",
+    "kind": "SerializedFile",
+    "raw": "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\bundle-entries\\level3"
+  },
+  {
+    "name": "sharedassets4.assets",
+    "bytes": 5808,
+    "sha256": "4b1c54482c2c422f5388dd98ea6e66c072c584f939720559d0ab72245fc21a15",
+    "kind": "SerializedFile",
+    "raw": "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\bundle-entries\\sharedassets4.assets"
+  },
+  {
+    "name": "level4",
+    "bytes": 216604,
+    "sha256": "aa1a9c5d5f9d55129e06968fa8605fbe505b421d1d25fe7d86820abead71cfbd",
+    "kind": "SerializedFile",
+    "raw": "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\bundle-entries\\level4"
+  },
+  {
+    "name": "sharedassets5.assets",
+    "bytes": 8276492,
+    "sha256": "25f2d9d4465f85847d4b77883517c0517b3b1178691594380475288c1d477c28",
+    "kind": "SerializedFile",
+    "raw": "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\bundle-entries\\sharedassets5.assets"
+  },
+  {
+    "name": "level5",
+    "bytes": 16948776,
+    "sha256": "cec8afeb128fdaa674c5d95e4c18c9224702b9281d1797c6893b63c60c9c06a2",
+    "kind": "SerializedFile",
+    "raw": "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\bundle-entries\\level5"
+  },
+  {
+    "name": "sharedassets6.assets",
+    "bytes": 123224,
+    "sha256": "146926cc044103c86cb8b65d28acd10997b5dadf469bfe276d32ded7f3fe82d4",
+    "kind": "SerializedFile",
+    "raw": "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\bundle-entries\\sharedassets6.assets"
+  },
+  {
+    "name": "level6",
+    "bytes": 4514356,
+    "sha256": "1f4817b6e8feea537adf45fdb5f0f58af9152a6527fae6c1ad13afe3c7e0211f",
+    "kind": "SerializedFile",
+    "raw": "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\bundle-entries\\level6"
+  },
+  {
+    "name": "sharedassets7.assets",
+    "bytes": 655172,
+    "sha256": "67617058a7fea6c78893db0bbcf590cf3e6cdefa3237c9ba79c0ede87df87ddc",
+    "kind": "SerializedFile",
+    "raw": "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\bundle-entries\\sharedassets7.assets"
+  },
+  {
+    "name": "level7",
+    "bytes": 213348,
+    "sha256": "23bcebdae69dd71519feea87ec0cb20283d2f453c9ce5ee0ace75f720087c968",
+    "kind": "SerializedFile",
+    "raw": "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\bundle-entries\\level7"
+  },
+  {
+    "name": "resources.assets",
+    "bytes": 13186660,
+    "sha256": "8505fab31ee6f1150ea8a759dd1d21730e17756c40894fd206d9908f48d95742",
+    "kind": "SerializedFile",
+    "raw": "D:\\Games\\CartoonRacerRecon\\Recovery\\extraction\\bundle-entries\\resources.assets"
+  }
+]

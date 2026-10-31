@@ -1,0 +1,664 @@
+[
+  {
+    "scope": "Assets/MENU.unity",
+    "owner": "2187",
+    "component": "16215",
+    "method": "OPEN_URL",
+    "export_target": "0",
+    "target_type": null,
+    "original_method_exists": false,
+    "source_binary_method_offset": 280,
+    "source_evidence": "original PPtr immediately before length-prefixed method name in UnityEvent payload",
+    "source_target": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "source_method": "OPEN_URL",
+    "classification": "original_null_target_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/MENU.unity",
+    "owner": "327",
+    "component": "14121",
+    "method": "OPEN_URL",
+    "export_target": "0",
+    "target_type": null,
+    "original_method_exists": false,
+    "source_binary_method_offset": 280,
+    "source_evidence": "original PPtr immediately before length-prefixed method name in UnityEvent payload",
+    "source_target": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "source_method": "OPEN_URL",
+    "classification": "original_null_target_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/MENU.unity",
+    "owner": "3141",
+    "component": "17336",
+    "method": "OPEN_URL",
+    "export_target": "0",
+    "target_type": null,
+    "original_method_exists": false,
+    "source_binary_method_offset": 280,
+    "source_evidence": "original PPtr immediately before length-prefixed method name in UnityEvent payload",
+    "source_target": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "source_method": "OPEN_URL",
+    "classification": "original_null_target_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/MENU.unity",
+    "owner": "1736",
+    "component": "15711",
+    "method": "OPEN_URL",
+    "export_target": "0",
+    "target_type": null,
+    "original_method_exists": false,
+    "source_binary_method_offset": 280,
+    "source_evidence": "original PPtr immediately before length-prefixed method name in UnityEvent payload",
+    "source_target": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "source_method": "OPEN_URL",
+    "classification": "original_null_target_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/MENU.unity",
+    "owner": "3047",
+    "component": "17221",
+    "method": "CLOSE_GDPR",
+    "export_target": "0",
+    "target_type": null,
+    "original_method_exists": false,
+    "source_binary_method_offset": 280,
+    "source_evidence": "original PPtr immediately before length-prefixed method name in UnityEvent payload",
+    "source_target": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "source_method": "CLOSE_GDPR",
+    "classification": "original_null_target_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/MENU.unity",
+    "owner": "356",
+    "component": "14159",
+    "method": "OPEN_SHOP",
+    "export_target": "15478",
+    "target_type": "MENU_MANAGER",
+    "original_method_exists": false,
+    "source_binary_method_offset": 280,
+    "source_evidence": "original PPtr immediately before length-prefixed method name in UnityEvent payload",
+    "source_target": {
+      "m_FileID": 0,
+      "m_PathID": 15478
+    },
+    "source_method": "OPEN_SHOP",
+    "classification": "original_method_absent_from_managed_build_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/MENU.unity",
+    "owner": "141",
+    "component": "13890",
+    "method": "CLOSE_SHOP",
+    "export_target": "15478",
+    "target_type": "MENU_MANAGER",
+    "original_method_exists": false,
+    "source_binary_method_offset": 280,
+    "source_evidence": "original PPtr immediately before length-prefixed method name in UnityEvent payload",
+    "source_target": {
+      "m_FileID": 0,
+      "m_PathID": 15478
+    },
+    "source_method": "CLOSE_SHOP",
+    "classification": "original_method_absent_from_managed_build_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/MENU.unity",
+    "owner": "3397",
+    "component": "17651",
+    "method": "BUY_1000_COINS",
+    "export_target": "15479",
+    "target_type": null,
+    "original_method_exists": false,
+    "source_binary_method_offset": 280,
+    "source_evidence": "original PPtr immediately before length-prefixed method name in UnityEvent payload",
+    "source_target": {
+      "m_FileID": 0,
+      "m_PathID": 15479
+    },
+    "source_method": "BUY_1000_COINS",
+    "classification": "original_null_script_target_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/MENU.unity",
+    "owner": "4082",
+    "component": "18416",
+    "method": "BUY_5000_COINS",
+    "export_target": "15479",
+    "target_type": null,
+    "original_method_exists": false,
+    "source_binary_method_offset": 280,
+    "source_evidence": "original PPtr immediately before length-prefixed method name in UnityEvent payload",
+    "source_target": {
+      "m_FileID": 0,
+      "m_PathID": 15479
+    },
+    "source_method": "BUY_5000_COINS",
+    "classification": "original_null_script_target_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/MENU.unity",
+    "owner": "4036",
+    "component": "18367",
+    "method": "BUY_10000_COINS",
+    "export_target": "15479",
+    "target_type": null,
+    "original_method_exists": false,
+    "source_binary_method_offset": 280,
+    "source_evidence": "original PPtr immediately before length-prefixed method name in UnityEvent payload",
+    "source_target": {
+      "m_FileID": 0,
+      "m_PathID": 15479
+    },
+    "source_method": "BUY_10000_COINS",
+    "classification": "original_null_script_target_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/MENU.unity",
+    "owner": "2784",
+    "component": "16929",
+    "method": "BUY_25000_COINS",
+    "export_target": "15479",
+    "target_type": null,
+    "original_method_exists": false,
+    "source_binary_method_offset": 280,
+    "source_evidence": "original PPtr immediately before length-prefixed method name in UnityEvent payload",
+    "source_target": {
+      "m_FileID": 0,
+      "m_PathID": 15479
+    },
+    "source_method": "BUY_25000_COINS",
+    "classification": "original_null_script_target_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/MENU.unity",
+    "owner": "2947",
+    "component": "17128",
+    "method": "BUY_50000_COINS",
+    "export_target": "15479",
+    "target_type": null,
+    "original_method_exists": false,
+    "source_binary_method_offset": 280,
+    "source_evidence": "original PPtr immediately before length-prefixed method name in UnityEvent payload",
+    "source_target": {
+      "m_FileID": 0,
+      "m_PathID": 15479
+    },
+    "source_method": "BUY_50000_COINS",
+    "classification": "original_null_script_target_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/MENU.unity",
+    "owner": "1949",
+    "component": "15969",
+    "method": "BUY_50_GEAR",
+    "export_target": "15479",
+    "target_type": null,
+    "original_method_exists": false,
+    "source_binary_method_offset": 280,
+    "source_evidence": "original PPtr immediately before length-prefixed method name in UnityEvent payload",
+    "source_target": {
+      "m_FileID": 0,
+      "m_PathID": 15479
+    },
+    "source_method": "BUY_50_GEAR",
+    "classification": "original_null_script_target_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/MENU.unity",
+    "owner": "2571",
+    "component": "16692",
+    "method": "BUY_100_GEAR",
+    "export_target": "15479",
+    "target_type": null,
+    "original_method_exists": false,
+    "source_binary_method_offset": 280,
+    "source_evidence": "original PPtr immediately before length-prefixed method name in UnityEvent payload",
+    "source_target": {
+      "m_FileID": 0,
+      "m_PathID": 15479
+    },
+    "source_method": "BUY_100_GEAR",
+    "classification": "original_null_script_target_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/MENU.unity",
+    "owner": "978",
+    "component": "14871",
+    "method": "BUY_250_GEAR",
+    "export_target": "15479",
+    "target_type": null,
+    "original_method_exists": false,
+    "source_binary_method_offset": 280,
+    "source_evidence": "original PPtr immediately before length-prefixed method name in UnityEvent payload",
+    "source_target": {
+      "m_FileID": 0,
+      "m_PathID": 15479
+    },
+    "source_method": "BUY_250_GEAR",
+    "classification": "original_null_script_target_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/MENU.unity",
+    "owner": "2218",
+    "component": "16255",
+    "method": "BUY_500_GEAR",
+    "export_target": "15479",
+    "target_type": null,
+    "original_method_exists": false,
+    "source_binary_method_offset": 280,
+    "source_evidence": "original PPtr immediately before length-prefixed method name in UnityEvent payload",
+    "source_target": {
+      "m_FileID": 0,
+      "m_PathID": 15479
+    },
+    "source_method": "BUY_500_GEAR",
+    "classification": "original_null_script_target_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/MENU.unity",
+    "owner": "268",
+    "component": "14031",
+    "method": "BUY_1000_GEAR",
+    "export_target": "15479",
+    "target_type": null,
+    "original_method_exists": false,
+    "source_binary_method_offset": 280,
+    "source_evidence": "original PPtr immediately before length-prefixed method name in UnityEvent payload",
+    "source_target": {
+      "m_FileID": 0,
+      "m_PathID": 15479
+    },
+    "source_method": "BUY_1000_GEAR",
+    "classification": "original_null_script_target_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/SCHOOL.unity",
+    "owner": "12473",
+    "component": "110412",
+    "method": "CHANGE_MAINVOLUME",
+    "export_target": "0",
+    "target_type": null,
+    "original_method_exists": false,
+    "source_binary_method_offset": 324,
+    "source_evidence": "original PPtr immediately before length-prefixed method name in UnityEvent payload",
+    "source_target": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "source_method": "CHANGE_MAINVOLUME",
+    "classification": "original_null_target_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/SCHOOL.unity",
+    "owner": "10363",
+    "component": "110025",
+    "method": "CHANGE_MUSICVOLUME",
+    "export_target": "0",
+    "target_type": null,
+    "original_method_exists": false,
+    "source_binary_method_offset": 324,
+    "source_evidence": "original PPtr immediately before length-prefixed method name in UnityEvent payload",
+    "source_target": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "source_method": "CHANGE_MUSICVOLUME",
+    "classification": "original_null_target_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/SCHOOL.unity",
+    "owner": "10363",
+    "component": "110025",
+    "method": "CHANGE_VOLUME",
+    "export_target": "0",
+    "target_type": null,
+    "original_method_exists": false,
+    "source_binary_method_offset": 432,
+    "source_evidence": "original PPtr immediately before length-prefixed method name in UnityEvent payload",
+    "source_target": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "source_method": "CHANGE_VOLUME",
+    "classification": "original_null_target_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/SCHOOL.unity",
+    "owner": "26590",
+    "component": "112897",
+    "method": "CHANGE_DISPLAYRESOLUTION",
+    "export_target": "0",
+    "target_type": null,
+    "original_method_exists": false,
+    "source_binary_method_offset": 324,
+    "source_evidence": "original PPtr immediately before length-prefixed method name in UnityEvent payload",
+    "source_target": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "source_method": "CHANGE_DISPLAYRESOLUTION",
+    "classification": "original_null_target_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/SCHOOL.unity",
+    "owner": "20000",
+    "component": "111756",
+    "method": "SELECT_ARROWS",
+    "export_target": "0",
+    "target_type": null,
+    "original_method_exists": false,
+    "source_binary_method_offset": 280,
+    "source_evidence": "original PPtr immediately before length-prefixed method name in UnityEvent payload",
+    "source_target": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "source_method": "SELECT_ARROWS",
+    "classification": "original_null_target_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/SCHOOL.unity",
+    "owner": "3098",
+    "component": "108760",
+    "method": "SELECT_GYRO",
+    "export_target": "0",
+    "target_type": null,
+    "original_method_exists": false,
+    "source_binary_method_offset": 280,
+    "source_evidence": "original PPtr immediately before length-prefixed method name in UnityEvent payload",
+    "source_target": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "source_method": "SELECT_GYRO",
+    "classification": "original_null_target_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/SCHOOL.unity",
+    "owner": "10455",
+    "component": "110038",
+    "method": "SELECT_WHEEL",
+    "export_target": "0",
+    "target_type": null,
+    "original_method_exists": false,
+    "source_binary_method_offset": 280,
+    "source_evidence": "original PPtr immediately before length-prefixed method name in UnityEvent payload",
+    "source_target": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "source_method": "SELECT_WHEEL",
+    "classification": "original_null_target_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/SCHOOL.unity",
+    "owner": "16756",
+    "component": "111209",
+    "method": "TO_MAIN",
+    "export_target": "0",
+    "target_type": null,
+    "original_method_exists": false,
+    "source_binary_method_offset": 280,
+    "source_evidence": "original PPtr immediately before length-prefixed method name in UnityEvent payload",
+    "source_target": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "source_method": "TO_MAIN",
+    "classification": "original_null_target_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/SCHOOL.unity",
+    "owner": "11626",
+    "component": "110269",
+    "method": "CLOSE_COMPLETE_",
+    "export_target": "0",
+    "target_type": null,
+    "original_method_exists": false,
+    "source_binary_method_offset": 280,
+    "source_evidence": "original PPtr immediately before length-prefixed method name in UnityEvent payload",
+    "source_target": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "source_method": "CLOSE_COMPLETE_",
+    "classification": "original_null_target_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/SCHOOL.unity",
+    "owner": "6660",
+    "component": "109370",
+    "method": "CLOSE_COMPLETE_",
+    "export_target": "0",
+    "target_type": null,
+    "original_method_exists": false,
+    "source_binary_method_offset": 280,
+    "source_evidence": "original PPtr immediately before length-prefixed method name in UnityEvent payload",
+    "source_target": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "source_method": "CLOSE_COMPLETE_",
+    "classification": "original_null_target_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/GameObject/RCCCanvas.prefab",
+    "owner": "1002669891404536",
+    "component": "114007631855938283",
+    "method": "OnClicked",
+    "export_target": "114102740480427115",
+    "target_type": "RCC_UIDashboardButton",
+    "original_method_exists": false,
+    "classification": "original_method_absent_from_managed_build_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/GameObject/RCCCanvas.prefab",
+    "owner": "1313026266067498",
+    "component": "114871677951225513",
+    "method": "OnClicked",
+    "export_target": "114324895902966674",
+    "target_type": "RCC_UIDashboardButton",
+    "original_method_exists": false,
+    "classification": "original_method_absent_from_managed_build_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/GameObject/RCCCanvas.prefab",
+    "owner": "1632457200066912",
+    "component": "114459574422864414",
+    "method": "OnClicked",
+    "export_target": "114643520764344681",
+    "target_type": "RCC_UIDashboardButton",
+    "original_method_exists": false,
+    "classification": "original_method_absent_from_managed_build_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/GameObject/RCCCanvas.prefab",
+    "owner": "1302127217294661",
+    "component": "114680316814070636",
+    "method": "OnClicked",
+    "export_target": "114840865588260109",
+    "target_type": "RCC_UIDashboardButton",
+    "original_method_exists": false,
+    "classification": "original_method_absent_from_managed_build_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/GameObject/RCCCanvas.prefab",
+    "owner": "1337165658744233",
+    "component": "114943936714323327",
+    "method": "OnClicked",
+    "export_target": "114801427673861454",
+    "target_type": "RCC_UIDashboardButton",
+    "original_method_exists": false,
+    "classification": "original_method_absent_from_managed_build_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/GameObject/RCCCanvas.prefab",
+    "owner": "1855622808019284",
+    "component": "114496312270990727",
+    "method": "OnClicked",
+    "export_target": "114689702243302038",
+    "target_type": "RCC_UIDashboardButton",
+    "original_method_exists": false,
+    "classification": "original_method_absent_from_managed_build_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/GameObject/RCCCanvas.prefab",
+    "owner": "1630063386271700",
+    "component": "114018029491951338",
+    "method": "OnClicked",
+    "export_target": "114468205013000556",
+    "target_type": "RCC_UIDashboardButton",
+    "original_method_exists": false,
+    "classification": "original_method_absent_from_managed_build_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/GameObject/RCCCanvas.prefab",
+    "owner": "1692131138185966",
+    "component": "114386449053441999",
+    "method": "OnClicked",
+    "export_target": "114226255723907480",
+    "target_type": "RCC_UIDashboardButton",
+    "original_method_exists": false,
+    "classification": "original_method_absent_from_managed_build_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/GameObject/RCCCanvas.prefab",
+    "owner": "1931825979905961",
+    "component": "114643592611943884",
+    "method": "OnClicked",
+    "export_target": "114524205615102493",
+    "target_type": "RCC_UIDashboardButton",
+    "original_method_exists": false,
+    "classification": "original_method_absent_from_managed_build_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/GameObject/RCCCanvas.prefab",
+    "owner": "1201897449910191",
+    "component": "114720219489767180",
+    "method": "OnClicked",
+    "export_target": "114694974358313517",
+    "target_type": "RCC_UIDashboardButton",
+    "original_method_exists": false,
+    "classification": "original_method_absent_from_managed_build_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/GameObject/RCCCanvas.prefab",
+    "owner": "1712091639049384",
+    "component": "114484930459117016",
+    "method": "OnClicked",
+    "export_target": "114755410431760959",
+    "target_type": "RCC_UIDashboardButton",
+    "original_method_exists": false,
+    "classification": "original_method_absent_from_managed_build_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/GameObject/RCCCanvas.prefab",
+    "owner": "1426252596376205",
+    "component": "114613532665075077",
+    "method": "OnClicked",
+    "export_target": "114316349108408056",
+    "target_type": "RCC_UIDashboardButton",
+    "original_method_exists": false,
+    "classification": "original_method_absent_from_managed_build_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/GameObject/RCCCanvas.prefab",
+    "owner": "1176931266004030",
+    "component": "114271006640031551",
+    "method": "OnClicked",
+    "export_target": "0",
+    "target_type": null,
+    "original_method_exists": false,
+    "classification": "original_null_target_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/GameObject/RCCCanvas.prefab",
+    "owner": "1060176988151448",
+    "component": "114740456564487223",
+    "method": "OnClicked",
+    "export_target": "114317509422434078",
+    "target_type": "RCC_UIDashboardButton",
+    "original_method_exists": false,
+    "classification": "original_method_absent_from_managed_build_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/GameObject/RCCCanvas.prefab",
+    "owner": "1353340443629527",
+    "component": "114738391913283437",
+    "method": "OnClicked",
+    "export_target": "114980642122306997",
+    "target_type": "RCC_UIDashboardButton",
+    "original_method_exists": false,
+    "classification": "original_method_absent_from_managed_build_preserved",
+    "pristine_export_component_unchanged": true
+  },
+  {
+    "scope": "Assets/GameObject/RCCCanvas.prefab",
+    "owner": "1359435272656907",
+    "component": "114856989002313516",
+    "method": "OnClicked",
+    "export_target": "114629028047289304",
+    "target_type": "RCC_UIDashboardButton",
+    "original_method_exists": false,
+    "classification": "original_method_absent_from_managed_build_preserved",
+    "pristine_export_component_unchanged": true
+  }
+]

@@ -1,0 +1,50 @@
+# Scenes and engine systems
+
+## Scene graph
+
+Recover scene lists/build order from metadata, scene containers, catalogs and loading code. Include streamed/additive scenes. Distinguish serialized roots from runtime observations and persistent objects.
+
+Preserve each GameObject's source identity, name, tag, layer, activeSelf, static flags, ordered components, parent, sibling index and local transform. Include hidden/inactive objects and duplicate names. Transform and RectTransform are not interchangeable; anchors, pivots, offsets, sizeDelta, Canvas scaling and layout components affect final UI placement.
+
+Prefer valid exported scenes/prefabs. Repair gaps using phased editor reconstruction:
+
+1. Create/map assets, ScriptableObjects, and scene object shells by source identity.
+2. Restore parents/sibling order and local transforms. Do not reparent preserving world position and then assume source local values survived.
+3. Create resolved component types in source order and restore value fields. Account for RequireComponent additions and disallow-multiple constraints; map auto-added components instead of duplicating them. Preserve enabled states.
+4. Resolve references against the completed identity map, including component references and sub-assets. Handle cycles without recursive cloning. Distinguish source nulls from new broken links.
+5. Apply scene settings, save, reload and compare structural dumps. Reruns should update mapped objects rather than append duplicates.
+
+Keep the editor out of Play Mode during reconstruction. Edit-time scripts can execute during import/component creation; stage data before enabling them and record temporary suppression. Restore source activation after graph completion.
+
+Prefab/variant provenance can be flattened or absent in builds. Preserve the flattened structure first. Label newly created reusable prefabs as reconstructed; compare flattened components, values, references and renders. Name equality does not establish shared prefab ancestry.
+
+Unity's [scene YAML example](https://docs.unity.com/en-us/engine/6000.0/manual/working-with-scenes/text-scene-format/yamlscene-example) illustrates scene settings and object references. Use the target editor's schema; do not treat a sample as universal.
+
+## Feature coverage
+
+Apply the following to encountered types. Extend recovery for unlisted types using their serialized schemas, package APIs, loader code and observed behavior.
+
+| System | Preserve or reconstruct | Verify |
+| --- | --- | --- |
+| Models/meshes | Vertex streams, topology, submeshes/material slots, indices, bounds, UV sets, normals/tangents, colors, blend shapes, bone weights/bind poses, LOD groups. An extracted mesh is not the original FBX/Blender source. | Counts, winding, culling, normals, scale, silhouette and LOD transitions. Avoid unnecessary coordinate conversion inside Unity. |
+| Skinning | Bone-array order, rootBone, bind poses, blend-shape weights, renderer bounds and rig hierarchy. | Multiple poses/clips; wrong bone indices may look correct at rest. |
+| Textures/materials | Dimensions/formats, mip chains, cube/array/3D layers, color space, alpha, sampler settings, texture transforms, shader properties/keywords, queues/passes. | Decoding and slot bindings; diagnose pink, white, black, transparent and normal-map errors separately. |
+| Shaders/rendering | Built-in/URP/HDRP configuration, pipeline assets, renderer features, variants, post-processing, compute dispatch and render targets. | GPU renders. Compiled programs do not restore Shader Graph/VFX Graph authoring graphs; document replacements and absent variants. |
+| Sprites/2D | Rects, pivots, pixels-per-unit, borders, trim offsets, packing rotation, atlas links, geometry, physics shapes, sorting layers/groups, 2D lighting, tilemaps/tiles. | Frame alignment, slicing, nine-slice, batching, collisions and tile layout. An atlas PNG is not correctly imported sprites. |
+| Animation | Clips, curves/bindings, tangents, compression, events, wrap/legacy flags, root motion, avatars, controllers, transitions, masks, layers, blend trees and overrides. | Binding paths, poses, timing, events, root trajectories, transitions and retargeting. Sampled transforms are a labeled fallback. |
+| Cameras/Timeline | Projection/orthographic size, FOV, clipping, viewport, culling/depth, targets/stacks, physical settings, Cinemachine components, tracks, signals, exposed references and bindings. | Framing/aspect ratio, cuts, priorities, blends, timing and return to gameplay. |
+| Lights/environment | Type, color/intensity, range, shadows/cookies, render settings, fog, skybox, lightmaps, renderer lightmap indices/scale-offsets, probes/reflection data. | Exposure, shadows, reflections and baked alignment before rebaking. Rebaking produces reconstructed data. |
+| Audio/video | Clips/streams, rates/channels, loop cues, sources/listeners, spatial curves, mixers/snapshots/routing, middleware banks/events, video/subtitles. | Triggers, gain, pitch, loops, polyphony and synchronization. Preserve event semantics. |
+| Physics | 2D/3D colliders/triggers, mesh/terrain shapes, rigidbodies, mass/inertia, constraints, joints, materials, collision matrix and time step. | Contacts, triggers, joint motion, grounding and timing; visible geometry alone does not establish collision. |
+| UI/input | Canvas/layout, TMP fonts/materials/atlases/fallbacks, event systems, persistent callbacks, input actions/schemes, legacy input, localization, UI Toolkit trees/styles where present. | Resolutions, text, navigation, pointer/controller actions, languages and callbacks. |
+| Particles/VFX | Modules/curves, renderer modes/materials, trails, sub-emitters, custom streams, simulation space/seeds and recoverable VFX runtime assets. | Emission/bursts, sorting, lifecycle, bounds, timing and camera dependence; absent authoring graphs may require recreation. |
+| Terrain/navigation | Height/alpha/detail maps, layers, trees/prototypes, neighbors, NavMesh data, agents, areas, links and obstacles. | Scale/seams, sampling, reachability and obstacle response; rebakes are new derived assets. |
+| Streaming/data | Resources paths, Addressables keys/labels/dependencies, bundle names, ScriptableObjects, TextAssets, JSON/custom binary data, localization and scene-loading semantics. | Original load keys/APIs and unload/release paths. Rebuild bundles/catalogs for the target; old bundles are not automatically portable. |
+| Other systems | Cloth, constraints/IK, Animation Rigging, splines, networking, XR, DOTS/Entities/SubScenes, Burst/native jobs, custom packages and procedural generators when present. | Configuration and behavior per system. ECS baked data/native jobs require package-specific analysis and may have no GameObject equivalent. |
+| Project settings | Tags/layers/sorting layers, quality, graphics, physics, time, input, audio, build scenes, defines, execution order and platform settings where recoverable. | Original ProjectSettings may not survive; label inferred/default values and test their effects. |
+
+## Diagnosis
+
+For missing objects, inspect scene membership, parent activation, decoding, dependencies, initialization and runtime spawning. For rendering errors, inspect payloads, references, sub-assets, material/pipeline settings and lighting before substituting assets. For motion errors, distinguish clips, bindings, state machines, root motion, physics and time-scale problems.
+
+Retain raw data until imports are validated. If a system cannot yet be rebuilt, list its owning objects, affected scenes and required evidence rather than silently removing it.

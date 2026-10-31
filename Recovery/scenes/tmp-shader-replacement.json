@@ -1,0 +1,77 @@
+[
+  {
+    "package_path": "Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader",
+    "destination": "Assets\\Resources\\shaders\\tmp_sdf overlay.shader",
+    "type": "genuine package shader, target-compatible reconstruction"
+  },
+  {
+    "package_path": "Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader",
+    "destination": "Assets\\Resources\\shaders\\tmp_bitmap.shader",
+    "type": "genuine package shader, target-compatible reconstruction"
+  },
+  {
+    "package_path": "Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader",
+    "destination": "Assets\\Resources\\shaders\\tmp_bitmap-mobile.shader",
+    "type": "genuine package shader, target-compatible reconstruction"
+  },
+  {
+    "package_path": "Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader",
+    "destination": "Assets\\Resources\\shaders\\tmp_sdf-surface.shader",
+    "type": "genuine package shader, target-compatible reconstruction"
+  },
+  {
+    "package_path": "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader",
+    "destination": "Assets\\Resources\\shaders\\tmp_sdf-mobile overlay.shader",
+    "type": "genuine package shader, target-compatible reconstruction"
+  },
+  {
+    "package_path": "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+    "destination": "Assets\\Resources\\shaders\\tmp_sdf-mobile.shader",
+    "type": "genuine package shader, target-compatible reconstruction"
+  },
+  {
+    "package_path": "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+    "destination": "Assets\\Resources\\shaders\\tmp_sdf.shader",
+    "type": "genuine package shader, target-compatible reconstruction"
+  },
+  {
+    "package_path": "Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc",
+    "destination": "Assets\\Shader\\TMPro_Properties.cginc",
+    "type": "include"
+  },
+  {
+    "package_path": "Assets/TextMesh Pro/Shaders/TMP_Sprite.shader",
+    "destination": "Assets\\Resources\\shaders\\tmp_sprite.shader",
+    "type": "genuine package shader, target-compatible reconstruction"
+  },
+  {
+    "package_path": "Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc",
+    "destination": "Assets\\Shader\\TMPro_Surface.cginc",
+    "type": "include"
+  },
+  {
+    "package_path": "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader",
+    "destination": "Assets\\Resources\\shaders\\tmp_sdf-mobile masking.shader",
+    "type": "genuine package shader, target-compatible reconstruction"
+  },
+  {
+    "package_path": "Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc",
+    "destination": "Assets\\Shader\\TMPro_Mobile.cginc",
+    "type": "include"
+  },
+  {
+    "package_path": "Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader",
+    "destination": "Assets\\Resources\\shaders\\tmp_sdf-surface-mobile.shader",
+    "type": "genuine package shader, target-compatible reconstruction"
+  },
+  {
+    "package_path": "Assets/TextMesh Pro/Shaders/TMPro.cginc",
+    "destination": "Assets\\Shader\\TMPro.cginc",
+    "type": "include"
+  },
+  {
+    "package_path": "Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader",
+    "destination": "Assets\\Resources\\shaders\\tmp_bitmap-custom-atlas.shader",
+    "type": "genuine package shader, target-compatible reconstruction"
+  }
+]

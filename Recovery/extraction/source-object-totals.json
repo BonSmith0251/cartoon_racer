@@ -1,0 +1,195 @@
+{
+  "objects": 394116,
+  "types": {
+    "PlayerSettings": 1,
+    "InputManager": 1,
+    "TagManager": 1,
+    "AudioManager": 1,
+    "ScriptMapper": 1,
+    "MonoManager": 1,
+    "GraphicsSettings": 1,
+    "TimeManager": 1,
+    "DelayedCallManager": 1,
+    "PhysicsManager": 1,
+    "BuildSettings": 1,
+    "QualitySettings": 1,
+    "ResourceManager": 1,
+    "NavMeshProjectSettings": 1,
+    "Physics2DSettings": 1,
+    "ClusterInputManager": 1,
+    "RuntimeInitializeOnLoadManager": 1,
+    "CloudWebServicesManager": 1,
+    "UnityAnalyticsManager": 1,
+    "UnityConnectSettings": 1,
+    "CrashReportManager": 1,
+    "PerformanceReportingManager": 1,
+    "StreamingManager": 1,
+    "Shader": 370,
+    "PreloadData": 9,
+    "Material": 217,
+    "Texture2D": 634,
+    "MonoScript": 855,
+    "Sprite": 301,
+    "Mesh": 370,
+    "AnimationClip": 75,
+    "AudioClip": 211,
+    "Cubemap": 6,
+    "Avatar": 19,
+    "AnimatorController": 69,
+    "Flare": 5,
+    "Font": 8,
+    "GameObject": 92424,
+    "Transform": 87082,
+    "MeshRenderer": 43184,
+    "MeshFilter": 43181,
+    "Rigidbody": 65,
+    "BoxCollider": 56054,
+    "AudioSource": 686,
+    "Animator": 4189,
+    "TrailRenderer": 24,
+    "Light": 253,
+    "Projector": 26,
+    "LensFlare": 65,
+    "SkinnedMeshRenderer": 50,
+    "WheelCollider": 228,
+    "ParticleSystem": 2393,
+    "ParticleSystemRenderer": 2393,
+    "SpriteRenderer": 13538,
+    "CanvasRenderer": 4964,
+    "RectTransform": 5342,
+    "MonoBehaviour": 32124,
+    "TerrainData": 4,
+    "ParticleAnimator": 195,
+    "EllipsoidParticleEmitter": 195,
+    "Camera": 15,
+    "ParticleRenderer": 195,
+    "MeshCollider": 748,
+    "AudioListener": 11,
+    "RenderSettings": 8,
+    "Animation": 126,
+    "FlareLayer": 14,
+    "TerrainCollider": 4,
+    "LightmapSettings": 8,
+    "LODGroup": 972,
+    "Terrain": 5,
+    "Canvas": 13,
+    "CanvasGroup": 3,
+    "NavMeshData": 3,
+    "NavMeshSettings": 3,
+    "CapsuleCollider": 135,
+    "PhysicMaterial": 5,
+    "SphereCollider": 1,
+    "TextAsset": 2,
+    "CGProgram": 7,
+    "GUILayer": 4,
+    "ConfigurableJoint": 2,
+    "ComputeShader": 1
+  },
+  "serialized_files": [
+    {
+      "name": "globalgamemanagers",
+      "version": "2018.2.20f1",
+      "objects": 23
+    },
+    {
+      "name": "unity_builtin_extra",
+      "version": "2018.2.20f1",
+      "objects": 27
+    },
+    {
+      "name": "globalgamemanagers.assets",
+      "version": "2018.2.20f1",
+      "objects": 854
+    },
+    {
+      "name": "sharedassets0.assets",
+      "version": "2018.2.20f1",
+      "objects": 4148
+    },
+    {
+      "name": "level0",
+      "version": "2018.2.20f1",
+      "objects": 18561
+    },
+    {
+      "name": "sharedassets1.assets",
+      "version": "2018.2.20f1",
+      "objects": 129725
+    },
+    {
+      "name": "level1",
+      "version": "2018.2.20f1",
+      "objects": 9167
+    },
+    {
+      "name": "sharedassets2.assets",
+      "version": "2018.2.20f1",
+      "objects": 864
+    },
+    {
+      "name": "level2",
+      "version": "2018.2.20f1",
+      "objects": 34382
+    },
+    {
+      "name": "sharedassets3.assets",
+      "version": "2018.2.20f1",
+      "objects": 18
+    },
+    {
+      "name": "level3",
+      "version": "2018.2.20f1",
+      "objects": 35495
+    },
+    {
+      "name": "sharedassets4.assets",
+      "version": "2018.2.20f1",
+      "objects": 2
+    },
+    {
+      "name": "level4",
+      "version": "2018.2.20f1",
+      "objects": 2244
+    },
+    {
+      "name": "sharedassets5.assets",
+      "version": "2018.2.20f1",
+      "objects": 158
+    },
+    {
+      "name": "level5",
+      "version": "2018.2.20f1",
+      "objects": 112929
+    },
+    {
+      "name": "sharedassets6.assets",
+      "version": "2018.2.20f1",
+      "objects": 774
+    },
+    {
+      "name": "level6",
+      "version": "2018.2.20f1",
+      "objects": 36925
+    },
+    {
+      "name": "sharedassets7.assets",
+      "version": "2018.2.20f1",
+      "objects": 3208
+    },
+    {
+      "name": "level7",
+      "version": "2018.2.20f1",
+      "objects": 1698
+    },
+    {
+      "name": "resources.assets",
+      "version": "2018.2.20f1",
+      "objects": 2844
+    },
+    {
+      "name": "unity default resources",
+      "version": "2018.2.0b9",
+      "objects": 70
+    }
+  ]
+}

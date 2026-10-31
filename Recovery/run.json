@@ -1,0 +1,62 @@
+{
+  "source": "C:/Program Files (x86)/GameTop.com/Cartoon Hot Racer 3D",
+  "output": "D:/Games/CartoonRacerRecon",
+  "source_version_player_evidence": "2018.2.20.62438",
+  "installed_target_editor": "2023.2.22f1_6b19bf4f8115",
+  "migration_decision": "User explicitly confirmed upgrade to Unity 2023.2.22f1",
+  "original_policy": "read-only; fingerprint before and after",
+  "routing": [
+    {
+      "role": "extraction",
+      "agent": "/root/extraction",
+      "requested_model": "gpt-6.1-sol",
+      "requested_effort": "medium",
+      "spawn": "accepted",
+      "actual_settings": "not exposed"
+    },
+    {
+      "role": "code",
+      "agent": "/root/code",
+      "requested_model": "gpt-6-astra",
+      "requested_effort": "high",
+      "spawn": "accepted",
+      "actual_settings": "not exposed"
+    },
+    {
+      "role": "scenes",
+      "agent": "/root/scenes",
+      "requested_model": "gpt-6.1-sol",
+      "requested_effort": "high",
+      "spawn": "accepted",
+      "actual_settings": "not exposed"
+    },
+    {
+      "actual_settings": "not exposed",
+      "agent": "/root/code",
+      "requested_effort": "high",
+      "role": "migration",
+      "spawn": "same assigned expert",
+      "requested_model": "gpt-6-astra"
+    },
+    {
+      "actual_settings": "not exposed",
+      "agent": "/root/verification",
+      "requested_effort": "high",
+      "role": "verification",
+      "spawn": "accepted",
+      "requested_model": "gpt-6-astra"
+    }
+  ],
+  "project_owner": "frozen after final integration; no active editor",
+  "validation": {
+    "source": "394116/394116 objects decoded across combined base and supplemental ledgers;198 original file set and hashes unchanged",
+    "editor": "2023.2.22f1 compile and8scenes/292prefabs load verified;54 audit issues independently classified original;final195native renderer/32prefab name checks pass",
+    "standalone": "Windows x64 Mono Development,Direct3D11;final build succeeded0errors410warnings;final visible smoke exit0,0managederrors/0nativepresentationerrors",
+    "behavior": "initial build physical garage purchase/menu/GreenValleys W+D driving pass;final build MENU->GAME+CITY_STATIC smoke pass;whole-game fidelity unverified",
+    "visual": "authentic original,target-menu,and driving captures;qualitative comparison only",
+    "limitations": "281 custom shader placeholders;legacy particles approximate;other water variants and broad missions/physics/audio equivalence unverified;original stale callbacks retained;visible trial/Development Build marks"
+  },
+  "handoff": "RECONSTRUCTION.md",
+  "independent_report": "Recovery/verification/verification-report.json",
+  "skill_improvements": "Recovery/skill-maintenance/installed-improvements.json"
+}

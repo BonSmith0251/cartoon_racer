@@ -1,0 +1,8 @@
+{
+  "status": "evidence-based reconstruction, target validation pending",
+  "files": [
+    "camerafilterpack_blur_blurry.shader",
+    "camerafilterpack_blur_radial_fast.shader"
+  ],
+  "evidence": "original DXBC + m_NameIndices/constant buffers; Blurry 3x3 [1,2,1] Gaussian; Radial four samples scales 1,1+.2v,1+.4v,1+.8v"
+}

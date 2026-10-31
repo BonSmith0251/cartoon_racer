@@ -1,0 +1,42 @@
+﻿{
+  "schema": "unity-reconstruction-scenes-findings/1",
+  "sourceGame": "Cartoon Hot Racer 3D",
+  "sourceUnity": "2018.2.20f1",
+  "targetUnity": "2023.2.22f1",
+  "findings": [
+    {
+      "finding": "AssetRipper scene local IDs retained source PathIDs",
+      "evidence": "static-scene-comparison.json and scene-source-destination-map.jsonl;116620 source graph records across8 scenes match",
+      "applicability": "This export only; verify local IDs and structure before reusing identity equality",
+      "checks": [
+        "names",
+        "active states",
+        "layers",
+        "component slot order",
+        "transform type",
+        "parent",
+        "local pose"
+      ]
+    },
+    {
+      "finding": "Auxiliary path_id_map.json is incomplete and contains no destination GUID map",
+      "evidence": "extraction worker inspected2085 asset aliases vs394046 source objects",
+      "applicability": "Do not claim complete reference mapping from this sidecar"
+    },
+    {
+      "finding": "Unity2023 resolves UGUI2.0 with integrated TMP; adding separate TMP3.0.6 produced immutable package duplicate GUIDs",
+      "evidence": "editor-import.log, editor-import-2.log; standalone TMP dependency removed; package script GUIDs matched installed canonical TMP GUIDs",
+      "applicability": "Target-package-specific; inspect actual resolved package contents and manifest lock"
+    },
+    {
+      "finding": "Legacy particle native types survive in export YAML but require explicit target adaptation",
+      "evidence": "195 each source ParticleAnimator/EllipsoidParticleEmitter/ParticleRenderer; legacy-particle-migration.json records585 replacements",
+      "applicability": "Compat components retain localIDs/raw YAML; dynamics approximated and not source fidelity proof"
+    },
+    {
+      "finding": "Reconstructed runtime tests must isolate persistent save path",
+      "evidence": "MENU_MANAGER first-run ES2 key writes and GAME_MANAGER startup reads; source company ABGames89/product Cartoon Hot Racer3D",
+      "applicability": "Changed company/product only in reconstruction; no original saves touched"
+    }
+  ]
+}

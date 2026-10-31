@@ -1,0 +1,49 @@
+# Scripts and components
+
+## Mono
+
+Inventory all managed assemblies, including custom assembly-definition outputs and plugins, not only `Assembly-CSharp.dll`. Inspect metadata without executing game code in the host. Preserve assembly names, namespaces/types, inheritance, interfaces, fields, attributes, references, and serialization callbacks.
+
+Decompile with matching reference assemblies available. Keep pristine output and repair a copy. Check iterator/async state machines, lambdas, generics, unsafe code, platform APIs, reflection and compiler-generated attributes on compilation failures. Compare uncertain logic repairs against IL. Decompiled C# need not match original comments, local variable names, or project layout.
+
+Choose source or binary use per assembly. Prefer editable source for game logic; retaining compatible plugin DLLs can be appropriate. Never import both source and DLL definitions of the same types. Do not copy player UnityEngine, UnityEditor or framework DLLs into Assets as replacements for editor libraries. Recreate asmdefs/dependency ordering as needed and preserve assembly identities used by reflection/serialization.
+
+## IL2CPP
+
+Pair native code and metadata from the same build/architecture. Determine metadata version and tool support. Recover type models, serialized layouts, signatures, native addresses, strings, call sites and registration data before reconstructing behavior.
+
+Inspect the output: tools can emit empty methods, `throw null`, wrappers, partial IL, or metadata-only assemblies. An output-mode name does not prove logic recovery. [Cpp2IL dummy-assembly documentation](https://github.com/SamboyCoding/Cpp2IL/blob/development/Cpp2IL.Core/README_CORE.md) distinguishes type models from method bodies; verify the installed version's actual output.
+
+Classify critical methods as verified recovered logic, partial native recovery, evidence-based reimplementation, or stubs. Prioritize startup, scene/asset loading, spawning, input/movement, animation, interactions, UI and saving according to the game. Correlate native code with serialized data and runtime observations. Record addresses and source fingerprints.
+
+Stubs can temporarily unblock serialization. Preserve type/field identities and list affected behavior. Do not let silent no-ops masquerade as recovered gameplay. Keep analysis dummy DLLs outside the runtime project when using recovered source.
+
+## Restore attachment and data
+
+1. Capture serialized component blobs and script identities before editing. Resolve MonoScript by assembly + namespace + type, not filename alone. Native Unity components are engine types, not scripts to decompile.
+2. Restore compatible MonoBehaviour/ScriptableObject types, field names/types, inheritance, enums, arrays, nested classes and attributes. Preserve SerializeReference managed type identities and reference IDs. Fix types before resaving assets that would lose unknown fields.
+3. Preserve valid exporter script `.meta` GUIDs. When moving from DLL classes to `.cs` scripts, map old script objects to actual new GUID/local IDs. A class inside a DLL does not necessarily use the local ID of a source script.
+4. Compile types, create/load instances, apply serialized values, then restore references after targets exist. Restore UnityEvent persistent targets, methods, argument data/types, and call states. Verify reflection-based callbacks separately.
+5. Check inactive objects, disabled components, prefabs/variants and ScriptableObjects for missing scripts. Retain unknown raw blobs. Do not delete missing components to clear warnings.
+
+Use Unity serialization APIs and the target editor schema for repairs. Narrow verified YAML edits can help; generic YAML round-trips can corrupt Unity tags, IDs and ordering.
+
+## Dependencies and startup
+
+Infer compatible packages from metadata/assembly references and record uncertainty. Do not combine installed packages with decompiled copies of the same types. Restore native-plugin platform/CPU filters, input backend, defines, evidenced execution order and runtime initialization hooks.
+
+Native DLLs are not portable C# source. Track ABI/platform constraints. Trace failures in stores, networking, authentication and middleware before replacing integrations. Offline substitutes are documented behavior changes; server code absent from the build is not locally recoverable.
+
+Runtime-created objects require creation logic or observation. Recover procedural meshes/materials, pooling, DontDestroyOnLoad objects and dynamic scenes at their lifecycle points. Avoid baking a runtime snapshot into a scene while leaving its spawner active, creating duplicates.
+
+## Validate generated managed type trees
+
+When built MonoBehaviour objects omit custom type trees, generate layouts from the matching original managed assemblies, then validate both exact byte consumption and decoded pointer identities. A parser returning data is insufficient: a shifted engine header can consume the expected total length yet decode the wrong script pointer.
+
+Conditional checks demonstrated with UnityPy 1.25.4, TypeTreeGeneratorAPI 0.0.10 and Unity 2018.2 Mono:
+
+- An AssetsTools-generated MonoBehaviour header omitted `m_Enabled` alignment. Compare its four engine header nodes with the version-matched UnityPy TPK MonoBehaviour header; preserve the custom field nodes and replace only the demonstrated mismatched header. Resolve the resulting script and owner pointers.
+- UnityScript module names can omit `.dll`. Resolve the loaded module name rather than assuming filename identity; an alternate supported generator backend can recover layouts when another backend cannot locate that module. Record which backend handled each exception.
+- A generated `string[]` wrapper was labeled `string` despite a string array child. Confirm the actual managed field type before rebuilding that wrapper as `vector`. Create fresh TypeTreeNodes: mutating a node's displayed type can leave cached native-parser behavior unchanged.
+
+Retain the failed raw object, generated tree, managed type evidence and repaired tree. Count remaining failures explicitly. Successful source decoding closes an inventory gap; compare exported values and imported attachments separately before claiming reconstruction fidelity.

@@ -1,0 +1,271 @@
+{
+  "schema": "cartoon-racer-engine-features/1",
+  "source_version": "2018.2.20f1",
+  "target_version": "2023.2.22f1",
+  "source_objects": 394046,
+  "source_scene_gameobjects": 58310,
+  "features": [
+    {
+      "system": "scene_graph",
+      "source_object_counts": {
+        "GameObject": 92424,
+        "Transform": 87082,
+        "RectTransform": 5342
+      },
+      "source_read": "pass",
+      "export": "recovered with exporter limitations",
+      "editor_import": "pass for supported types; obsolete components explicitly adapted/preserved",
+      "structural_verification": "passsource core hierarchy116620records; +390 deliberate particle native/data component additions; finalNativeRenderer refs no castwarnings in build",
+      "visual_verification": "Qualitative menu/city images and independent Green Valleys driving evidence; no whole-game visual equivalence claim",
+      "behavior_verification": "unattempted",
+      "player_verification": "PASS for build and narrow menu/city startup smoke; remaining systems/routes not comprehensively exercised",
+      "notes": []
+    },
+    {
+      "system": "models_and_skinning",
+      "source_object_counts": {
+        "Mesh": 357,
+        "MeshRenderer": 43184,
+        "SkinnedMeshRenderer": 50,
+        "LODGroup": 972,
+        "Avatar": 19
+      },
+      "source_read": "pass",
+      "export": "recovered with exporter limitations",
+      "editor_import": "pass for supported types; obsolete components explicitly adapted/preserved",
+      "structural_verification": "pending",
+      "visual_verification": "Qualitative menu/city images and independent Green Valleys driving evidence; no whole-game visual equivalence claim",
+      "behavior_verification": "unattempted",
+      "player_verification": "PASS for build and narrow menu/city startup smoke; remaining systems/routes not comprehensively exercised",
+      "notes": []
+    },
+    {
+      "system": "textures_materials_shaders",
+      "source_object_counts": {
+        "Texture2D": 594,
+        "Cubemap": 6,
+        "Material": 215,
+        "Shader": 365
+      },
+      "source_read": "pass",
+      "export": "recovered with exporter limitations",
+      "editor_import": "pass for supported types; obsolete components explicitly adapted/preserved",
+      "structural_verification": "pending",
+      "visual_verification": "Qualitative menu/city images and independent Green Valleys driving evidence; no whole-game visual equivalence claim",
+      "behavior_verification": "unattempted",
+      "player_verification": "PASS for build and narrow menu/city startup smoke; remaining systems/routes not comprehensively exercised",
+      "notes": [
+        "303 shaders initially exported as flat dummy stubs; preserved compiled originals independent of reconstruction; selected custom shaders reconstructed from source DXBC evidence; 11 TMP shaders replaced with genuine target package equivalents; remaining shader stubs require explicit review"
+      ]
+    },
+    {
+      "system": "animation",
+      "source_object_counts": {
+        "AnimationClip": 75,
+        "AnimatorController": 69,
+        "Animator": 4189,
+        "Animation": 126
+      },
+      "source_read": "pass",
+      "export": "recovered with exporter limitations",
+      "editor_import": "pass for supported types; obsolete components explicitly adapted/preserved",
+      "structural_verification": "pending",
+      "visual_verification": "Qualitative menu/city images and independent Green Valleys driving evidence; no whole-game visual equivalence claim",
+      "behavior_verification": "unattempted",
+      "player_verification": "PASS for build and narrow menu/city startup smoke; remaining systems/routes not comprehensively exercised",
+      "notes": []
+    },
+    {
+      "system": "cameras",
+      "source_object_counts": {
+        "Camera": 15,
+        "FlareLayer": 14,
+        "GUILayer": 4,
+        "LensFlare": 65,
+        "Projector": 26
+      },
+      "source_read": "pass",
+      "export": "recovered with exporter limitations",
+      "editor_import": "pass for supported types; obsolete components explicitly adapted/preserved",
+      "structural_verification": "pending",
+      "visual_verification": "Qualitative menu/city images and independent Green Valleys driving evidence; no whole-game visual equivalence claim",
+      "behavior_verification": "unattempted",
+      "player_verification": "PASS for build and narrow menu/city startup smoke; remaining systems/routes not comprehensively exercised",
+      "notes": [
+        "14FlareLayer preserved as supported native components;4 obsolete GUILayer raw records retained in explicit data bridges; source zero nativeGUIText/GUITexture objects"
+      ]
+    },
+    {
+      "system": "lighting",
+      "source_object_counts": {
+        "Light": 253,
+        "RenderSettings": 8,
+        "LightmapSettings": 8
+      },
+      "source_read": "pass",
+      "export": "recovered with exporter limitations",
+      "editor_import": "pass for supported types; obsolete components explicitly adapted/preserved",
+      "structural_verification": "pending",
+      "visual_verification": "Qualitative menu/city images and independent Green Valleys driving evidence; no whole-game visual equivalence claim",
+      "behavior_verification": "unattempted",
+      "player_verification": "PASS for build and narrow menu/city startup smoke; remaining systems/routes not comprehensively exercised",
+      "notes": []
+    },
+    {
+      "system": "audio",
+      "source_object_counts": {
+        "AudioClip": 211,
+        "AudioSource": 686,
+        "AudioListener": 11
+      },
+      "source_read": "pass",
+      "export": "recovered with exporter limitations",
+      "editor_import": "pass for supported types; obsolete components explicitly adapted/preserved",
+      "structural_verification": "pending",
+      "visual_verification": "Qualitative menu/city images and independent Green Valleys driving evidence; no whole-game visual equivalence claim",
+      "behavior_verification": "unattempted",
+      "player_verification": "PASS for build and narrow menu/city startup smoke; remaining systems/routes not comprehensively exercised",
+      "notes": []
+    },
+    {
+      "system": "physics",
+      "source_object_counts": {
+        "Rigidbody": 65,
+        "BoxCollider": 56054,
+        "MeshCollider": 748,
+        "WheelCollider": 228,
+        "CapsuleCollider": 135,
+        "TerrainCollider": 4,
+        "SphereCollider": 1,
+        "ConfigurableJoint": 2,
+        "PhysicMaterial": 5
+      },
+      "source_read": "pass",
+      "export": "recovered with exporter limitations",
+      "editor_import": "pass for supported types; obsolete components explicitly adapted/preserved",
+      "structural_verification": "pending",
+      "visual_verification": "Qualitative menu/city images and independent Green Valleys driving evidence; no whole-game visual equivalence claim",
+      "behavior_verification": "PASS for tested startup, language continuation, menu action, additive city load; independent real input exercised garage/purchase/Green Valleys and W/D driving with drift",
+      "player_verification": "PASS for build and narrow menu/city startup smoke; remaining systems/routes not comprehensively exercised",
+      "notes": []
+    },
+    {
+      "system": "ui_input",
+      "source_object_counts": {
+        "Canvas": 13,
+        "CanvasGroup": 3,
+        "CanvasRenderer": 4964,
+        "RectTransform": 5342,
+        "Font": 7,
+        "InputManager": 1
+      },
+      "source_read": "pass",
+      "export": "recovered with exporter limitations",
+      "editor_import": "pass for supported types; obsolete components explicitly adapted/preserved",
+      "structural_verification": "pending",
+      "visual_verification": "Qualitative menu/city images and independent Green Valleys driving evidence; no whole-game visual equivalence claim",
+      "behavior_verification": "PASS for tested startup, language continuation, menu action, additive city load; independent real input exercised garage/purchase/Green Valleys and W/D driving with drift",
+      "player_verification": "PASS for build and narrow menu/city startup smoke; remaining systems/routes not comprehensively exercised",
+      "notes": []
+    },
+    {
+      "system": "particles",
+      "source_object_counts": {
+        "ParticleSystem": 2393,
+        "ParticleSystemRenderer": 2393,
+        "ParticleAnimator": 195,
+        "EllipsoidParticleEmitter": 195,
+        "ParticleRenderer": 195,
+        "TrailRenderer": 24
+      },
+      "source_read": "pass",
+      "export": "recovered with exporter limitations",
+      "editor_import": "pass for supported types; obsolete components explicitly adapted/preserved",
+      "structural_verification": "pending",
+      "visual_verification": "Qualitative menu/city images and independent Green Valleys driving evidence; no whole-game visual equivalence claim",
+      "behavior_verification": "unattempted",
+      "player_verification": "PASS for build and narrow menu/city startup smoke; remaining systems/routes not comprehensively exercised",
+      "notes": [
+        "585 obsolete native components translated to 585 compatibility components at preserved local IDs; original YAML retained; particle dynamics approximated; no recovered gameplay calls to legacy particle APIs",
+        "OriginalParticleRenderer localIDs now nativeParticleSystemRenderer; separate rawdata components and nativePS preserve LODGroupRenderertypedPPtrs. Four obsoleteGUILayer records also preserved as data; source zero GUIText/GUITexture."
+      ]
+    },
+    {
+      "system": "terrain_navigation",
+      "source_object_counts": {
+        "Terrain": 5,
+        "TerrainData": 4,
+        "NavMeshData": 3,
+        "NavMeshSettings": 3
+      },
+      "source_read": "pass",
+      "export": "recovered with exporter limitations",
+      "editor_import": "pass for supported types; obsolete components explicitly adapted/preserved",
+      "structural_verification": "pending",
+      "visual_verification": "Qualitative menu/city images and independent Green Valleys driving evidence; no whole-game visual equivalence claim",
+      "behavior_verification": "unattempted",
+      "player_verification": "PASS for build and narrow menu/city startup smoke; remaining systems/routes not comprehensively exercised",
+      "notes": []
+    },
+    {
+      "system": "scripts_streaming",
+      "source_object_counts": {
+        "MonoScript": 849,
+        "MonoBehaviour": 32123,
+        "ResourceManager": 1,
+        "TextAsset": 2
+      },
+      "source_read": "pass",
+      "export": "recovered with exporter limitations",
+      "editor_import": "pass for supported types; obsolete components explicitly adapted/preserved",
+      "structural_verification": "pending",
+      "visual_verification": "Qualitative menu/city images and independent Green Valleys driving evidence; no whole-game visual equivalence claim",
+      "behavior_verification": "PASS for tested startup, language continuation, menu action, additive city load; independent real input exercised garage/purchase/Green Valleys and W/D driving with drift",
+      "player_verification": "PASS for build and narrow menu/city startup smoke; remaining systems/routes not comprehensively exercised",
+      "notes": [
+        "Source executable logic decompiled separately; classes retain exporter GUIDs. GAME creates runtime terrain prefab and loads FARM_STATIC or CITY_STATIC additively; do not bake runtime snapshot into scene."
+      ]
+    },
+    {
+      "system": "settings",
+      "source_object_counts": {
+        "PlayerSettings": 1,
+        "BuildSettings": 1,
+        "TagManager": 1,
+        "GraphicsSettings": 1,
+        "QualitySettings": 1,
+        "TimeManager": 1,
+        "PhysicsManager": 1,
+        "Physics2DSettings": 1,
+        "AudioManager": 1
+      },
+      "source_read": "pass",
+      "export": "recovered with exporter limitations",
+      "editor_import": "pass for supported types; obsolete components explicitly adapted/preserved",
+      "structural_verification": "pending",
+      "visual_verification": "Qualitative menu/city images and independent Green Valleys driving evidence; no whole-game visual equivalence claim",
+      "behavior_verification": "PASS for tested startup, language continuation, menu action, additive city load; independent real input exercised garage/purchase/Green Valleys and W/D driving with drift",
+      "player_verification": "PASS for build and narrow menu/city startup smoke; remaining systems/routes not comprehensively exercised",
+      "notes": [
+        "2023.2.22f1 explicitly approved by user. Source serialized settings preserved; company/product intentionally changed to CartoonRacerRecovery / CartoonRacerRecon Validation to isolate ES2 save path.",
+        "Actual Unityresolved UGUI built-in1.0 reports integratedTMP runtime; no separateTMPpackage to avoid duplicateGUIDs. AndroidJNI engine module required byIntenseVibration."
+      ]
+    }
+  ],
+  "source_inventory_scope": "394046 objects within game data.unity3d only; separate extraction coverage adds70 unity default resource objects",
+  "source_builtin_objects_separate": 70,
+  "source_all_containers_objects": 394116,
+  "validation_summary": {
+    "unity2023_compile": "pass",
+    "scene_source_core_comparison": "pass116620 GO/Transform records8scenes",
+    "scene_prefab_editor_loading": "pass8scenes292prefabs; original54issues retained",
+    "target_guid_references": "pass; legacy UI DLL aliases resolved byeditor",
+    "native_particle_renderer_references": "PASS: all 195 native renderer/system/data links checked at original renderer IDs",
+    "standalone_build": "PASS: final Windows build, 0 errors, 410 warnings; 255 final build files fingerprinted",
+    "runtime_smoke": "PASS: final normal-window standalone exited 0; MENU -> GAME + CITY_STATIC additive; 0 managed errors/exceptions and 0 native presentation diagnostics",
+    "visual_comparison": "PASS for tested scope: authentic visible menu and city gameplay captures; independent physical garage, purchase, Green Valleys start and W/D driving with drift on prior build. Whole-game pixel/behavior equivalence not asserted.",
+    "project_snapshot": "6389 editable project files independently fingerprinted after final freeze",
+    "prefab_runtime_names": "PASS: 32 duplicate non-Resources roots retain original names after GUID-preserving file moves",
+    "source_defects": "1 missing script, 10 reference candidates and 43 invalid UnityEvents independently classified as original source issues"
+  }
+}

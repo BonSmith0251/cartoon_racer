@@ -1,0 +1,323 @@
+{
+  "subshader": 0,
+  "pass_index": 0,
+  "stage": "progVertex",
+  "index": 32,
+  "blob_index": 32,
+  "keywords": [
+    "DIRECTIONAL",
+    "WATER_REFLECTIVE",
+    "_CUSTOM_SHAPE",
+    "_LIGHTABS_ON",
+    "_WAVES_OFF",
+    "_SHADING_VERTEXLIT"
+  ],
+  "constant_buffers": [
+    {
+      "slot": 0,
+      "name": "$Globals",
+      "params": [
+        {
+          "name": "_TexSize_",
+          "offset": 36,
+          "register": "cb0[2].y",
+          "detail": {
+            "m_NameIndex": 7,
+            "m_Index": 36,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 1
+          }
+        },
+        {
+          "name": "_RSpeed_",
+          "offset": 40,
+          "register": "cb0[2].z",
+          "detail": {
+            "m_NameIndex": 8,
+            "m_Index": 40,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 1
+          }
+        },
+        {
+          "name": "_RHeight_",
+          "offset": 44,
+          "register": "cb0[2].w",
+          "detail": {
+            "m_NameIndex": 9,
+            "m_Index": 44,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 1
+          }
+        },
+        {
+          "name": "_Specular",
+          "offset": 148,
+          "register": "cb0[9].y",
+          "detail": {
+            "m_NameIndex": 15,
+            "m_Index": 148,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 1
+          }
+        },
+        {
+          "name": "_SunColor",
+          "offset": 176,
+          "register": "cb0[11].x",
+          "detail": {
+            "m_NameIndex": 16,
+            "m_Index": 176,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        },
+        {
+          "name": "_Sun",
+          "offset": 192,
+          "register": "cb0[12].x",
+          "detail": {
+            "m_NameIndex": 17,
+            "m_Index": 192,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 3
+          }
+        },
+        {
+          "name": "_FresPower",
+          "offset": 208,
+          "register": "cb0[13].x",
+          "detail": {
+            "m_NameIndex": 18,
+            "m_Index": 208,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 1
+          }
+        },
+        {
+          "name": "_Diffuse",
+          "offset": 212,
+          "register": "cb0[13].y",
+          "detail": {
+            "m_NameIndex": 19,
+            "m_Index": 212,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 1
+          }
+        }
+      ]
+    },
+    {
+      "slot": 1,
+      "name": "UnityPerCamera",
+      "params": [
+        {
+          "name": "_Time",
+          "offset": 0,
+          "register": "cb1[0].x",
+          "detail": {
+            "m_NameIndex": 20,
+            "m_Index": 0,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        },
+        {
+          "name": "_WorldSpaceCameraPos",
+          "offset": 64,
+          "register": "cb1[4].x",
+          "detail": {
+            "m_NameIndex": 21,
+            "m_Index": 64,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 3
+          }
+        },
+        {
+          "name": "_ProjectionParams",
+          "offset": 80,
+          "register": "cb1[5].x",
+          "detail": {
+            "m_NameIndex": 32,
+            "m_Index": 80,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        },
+        {
+          "name": "unity_OrthoParams",
+          "offset": 128,
+          "register": "cb1[8].x",
+          "detail": {
+            "m_NameIndex": 33,
+            "m_Index": 128,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "name": "UnityLighting",
+      "params": [
+        {
+          "name": "unity_SHAr",
+          "offset": 624,
+          "register": "cb2[39].x",
+          "detail": {
+            "m_NameIndex": 22,
+            "m_Index": 624,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        },
+        {
+          "name": "unity_SHAg",
+          "offset": 640,
+          "register": "cb2[40].x",
+          "detail": {
+            "m_NameIndex": 23,
+            "m_Index": 640,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        },
+        {
+          "name": "unity_SHAb",
+          "offset": 656,
+          "register": "cb2[41].x",
+          "detail": {
+            "m_NameIndex": 24,
+            "m_Index": 656,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        },
+        {
+          "name": "unity_SHBr",
+          "offset": 672,
+          "register": "cb2[42].x",
+          "detail": {
+            "m_NameIndex": 25,
+            "m_Index": 672,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        },
+        {
+          "name": "unity_SHBg",
+          "offset": 688,
+          "register": "cb2[43].x",
+          "detail": {
+            "m_NameIndex": 26,
+            "m_Index": 688,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        },
+        {
+          "name": "unity_SHBb",
+          "offset": 704,
+          "register": "cb2[44].x",
+          "detail": {
+            "m_NameIndex": 27,
+            "m_Index": 704,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        },
+        {
+          "name": "unity_SHC",
+          "offset": 720,
+          "register": "cb2[45].x",
+          "detail": {
+            "m_NameIndex": 28,
+            "m_Index": 720,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "name": "UnityPerDraw",
+      "params": [
+        {
+          "name": "unity_ObjectToWorld",
+          "offset": 0,
+          "register": "cb3[0].x",
+          "detail": {
+            "m_NameIndex": 29,
+            "m_Index": 0,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_RowCount": 4
+          }
+        }
+      ]
+    },
+    {
+      "slot": 4,
+      "name": "UnityPerFrame",
+      "params": [
+        {
+          "name": "unity_MatrixV",
+          "offset": 144,
+          "register": "cb4[9].x",
+          "detail": {
+            "m_NameIndex": 34,
+            "m_Index": 144,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_RowCount": 4
+          }
+        },
+        {
+          "name": "unity_MatrixVP",
+          "offset": 272,
+          "register": "cb4[17].x",
+          "detail": {
+            "m_NameIndex": 30,
+            "m_Index": 272,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_RowCount": 4
+          }
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "_NoiseTex",
+      "slot": 0,
+      "sampler": 0
+    },
+    {
+      "name": "_FresnelTex",
+      "slot": 1,
+      "sampler": 1
+    }
+  ]
+}

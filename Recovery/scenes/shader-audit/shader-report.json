@@ -1,0 +1,2130 @@
+{
+    "unityVersion": "2023.2.22f1",
+    "utc": "2026-10-30T19:32:06.8103585Z",
+    "graphics": "Direct3D11",
+    "shaders": 303,
+    "errors": 0,
+    "results": [
+        {
+            "path": "Assets/Resources/bloompro.shader",
+            "name": "Hidden/BloomPro",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_3d_anomaly.shader",
+            "name": "CameraFilterPack/3D_Anomaly",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_3d_binary.shader",
+            "name": "CameraFilterPack/3D_Binary",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_3d_blackhole.shader",
+            "name": "CameraFilterPack/3D_BlackHole",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_3d_computer.shader",
+            "name": "CameraFilterPack/3D_Computer",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_3d_distortion.shader",
+            "name": "CameraFilterPack/3D_Distortion",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_3d_dust.shader",
+            "name": "CameraFilterPack/3D_Dust",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_3d_fog_smoke.shader",
+            "name": "CameraFilterPack/3D_Fog_Smoke",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_3d_ghost.shader",
+            "name": "CameraFilterPack/3D_Ghost",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_3d_inverse.shader",
+            "name": "CameraFilterPack/3D_Inverse",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_3d_matrix.shader",
+            "name": "CameraFilterPack/3D_Matrix",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_3d_mirror.shader",
+            "name": "CameraFilterPack/3D_Mirror",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_3d_myst.shader",
+            "name": "CameraFilterPack/3D_Myst",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_3d_scan_scene.shader",
+            "name": "CameraFilterPack/3D_Scan_Scene",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_3d_shield.shader",
+            "name": "CameraFilterPack/3D_Shield",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_3d_snow.shader",
+            "name": "CameraFilterPack/3D_Snow",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_aaa_blood.shader",
+            "name": "CameraFilterPack/AAA_Blood",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_aaa_blood_hit.shader",
+            "name": "CameraFilterPack/AAA_Blood_Hit",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_aaa_blood_plus.shader",
+            "name": "CameraFilterPack/AAA_Blood_Plus",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_aaa_bloodonscreen.shader",
+            "name": "CameraFilterPack/AAA_BloodOnScreen",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_aaa_supercomputer.shader",
+            "name": "CameraFilterPack/AAA_Super_Computer",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_aaa_superhexagon.shader",
+            "name": "CameraFilterPack/AAA_Super_Hexagon",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_aaa_waterdrop.shader",
+            "name": "CameraFilterPack/AAA_WaterDrop",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_aaa_waterdroppro.shader",
+            "name": "CameraFilterPack/AAA_WaterDropPro",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_alien_vision.shader",
+            "name": "CameraFilterPack/Alien_Vision",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_antialiasing_fxaa.shader",
+            "name": "CameraFilterPack/Antialiasing_FXAA",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_atmosphere_fog.shader",
+            "name": "CameraFilterPack/Atmosphere_Fog",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_atmosphere_rain.shader",
+            "name": "CameraFilterPack/Atmosphere_Rain",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_atmosphere_rain_pro.shader",
+            "name": "CameraFilterPack/Atmosphere_Rain_Pro",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_atmosphere_rain_pro_3d.shader",
+            "name": "CameraFilterPack/Atmosphere_Rain_Pro_3D",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_atmosphere_snow_8bits.shader",
+            "name": "CameraFilterPack/Atmosphere_Snow_8bits",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_blend.shader",
+            "name": "CameraFilterPack/Blend2Camera_Blend",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_bluescreen.shader",
+            "name": "CameraFilterPack/Blend2Camera_BlueScreen",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_color.shader",
+            "name": "CameraFilterPack/Blend2Camera_Color",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_colorburn.shader",
+            "name": "CameraFilterPack/Blend2Camera_ColorBurn",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_colordodge.shader",
+            "name": "CameraFilterPack/Blend2Camera_ColorDodge",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_colorkey.shader",
+            "name": "CameraFilterPack/Blend2Camera_ColorKey",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_darken.shader",
+            "name": "CameraFilterPack/Blend2Camera_Darken",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_darkercolor.shader",
+            "name": "CameraFilterPack/Blend2Camera_DarkerColor",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_difference.shader",
+            "name": "CameraFilterPack/Blend2Camera_Difference",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_divide.shader",
+            "name": "CameraFilterPack/Blend2Camera_Divide",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_exclusion.shader",
+            "name": "CameraFilterPack/Blend2Camera_Exclusion",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_greenscreen.shader",
+            "name": "CameraFilterPack/Blend2Camera_GreenScreen",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_hardlight.shader",
+            "name": "CameraFilterPack/Blend2Camera_HardLight",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_hardmix.shader",
+            "name": "CameraFilterPack/Blend2Camera_HardMix",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_hue.shader",
+            "name": "CameraFilterPack/Blend2Camera_Hue",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_lighten.shader",
+            "name": "CameraFilterPack/Blend2Camera_Lighten",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_lightercolor.shader",
+            "name": "CameraFilterPack/Blend2Camera_LighterColor",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_linearburn.shader",
+            "name": "CameraFilterPack/Blend2Camera_LinearBurn",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_lineardodge.shader",
+            "name": "CameraFilterPack/Blend2Camera_LinearDodge",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_linearlight.shader",
+            "name": "CameraFilterPack/Blend2Camera_LinearLight",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_luminosity.shader",
+            "name": "CameraFilterPack/Blend2Camera_Luminosity",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_multiply.shader",
+            "name": "CameraFilterPack/Blend2Camera_Multiply",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_overlay.shader",
+            "name": "CameraFilterPack/Blend2Camera_Overlay",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_pinlight.shader",
+            "name": "CameraFilterPack/Blend2Camera_PinLight",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_saturation.shader",
+            "name": "CameraFilterPack/Blend2Camera_Saturation",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_screen.shader",
+            "name": "CameraFilterPack/Blend2Camera_Screen",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_softlight.shader",
+            "name": "CameraFilterPack/Blend2Camera_SoftLight",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_splitscreen.shader",
+            "name": "CameraFilterPack/Blend2Camera_SplitScreen",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_splitscreen3d.shader",
+            "name": "CameraFilterPack/Blend2Camera_SplitScreen3D",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_subtract.shader",
+            "name": "CameraFilterPack/Blend2Camera_Subtract",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blend2camera_vividlight.shader",
+            "name": "CameraFilterPack/Blend2Camera_VividLight",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blizzard.shader",
+            "name": "CameraFilterPack/Blizzard",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blur_bloom.shader",
+            "name": "CameraFilterPack/Blur_Bloom",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blur_blurhole.shader",
+            "name": "CameraFilterPack/BlurHole",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blur_blurry.shader",
+            "name": "CameraFilterPack/Blur_Blurry",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blur_dithering2x2.shader",
+            "name": "CameraFilterPack/Blur_Dithering2x2",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blur_ditheroffset.shader",
+            "name": "CameraFilterPack/Blur_DitherOffset",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blur_focus.shader",
+            "name": "CameraFilterPack/Blur_Focus",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blur_gaussianblur.shader",
+            "name": "CameraFilterPack/Blur_GaussianBlur",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blur_movie.shader",
+            "name": "CameraFilterPack/Blur_Movie",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blur_noise.shader",
+            "name": "CameraFilterPack/Blur_Noise",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blur_radial.shader",
+            "name": "CameraFilterPack/Blur_Radial",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blur_radial_fast.shader",
+            "name": "CameraFilterPack/Blur_Radial_Fast",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blur_regular.shader",
+            "name": "CameraFilterPack/Blur_Regular",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blur_steam.shader",
+            "name": "CameraFilterPack/Blur_Steam",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blur_tilt_shift.shader",
+            "name": "CameraFilterPack/BlurTiltShift",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blur_tilt_shift_hole.shader",
+            "name": "CameraFilterPack/BlurTiltShift_Hole",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_blur_tilt_shift_v.shader",
+            "name": "CameraFilterPack/BlurTiltShift_V",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_color_brightcontrastsaturation.shader",
+            "name": "CameraFilterPack/Color_BrightContrastSaturation",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_color_chromatic_aberration.shader",
+            "name": "CameraFilterPack/Color_Chromatic_Aberration",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_color_chromatic_plus.shader",
+            "name": "CameraFilterPack/Color_Chromatic_Plus",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_color_contrast.shader",
+            "name": "CameraFilterPack/Color_Contrast",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_color_grayscale.shader",
+            "name": "CameraFilterPack/Color_GrayScale",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_color_invert.shader",
+            "name": "CameraFilterPack/Color_Invert",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_color_noise.shader",
+            "name": "CameraFilterPack/Color_Noise",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_color_rgb.shader",
+            "name": "CameraFilterPack/Color_RGB",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_color_sepia.shader",
+            "name": "CameraFilterPack/Color_Sepia",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_color_switching.shader",
+            "name": "CameraFilterPack/Color_Switching",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_color_yuv.shader",
+            "name": "CameraFilterPack/Color_YUV",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_colors_adjust_colorrgb.shader",
+            "name": "CameraFilterPack/Colors_Adjust_ColorRGB",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_colors_adjust_fullcolors.shader",
+            "name": "CameraFilterPack/Colors_Adjust_FullColors",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_colors_adjust_prefilters.shader",
+            "name": "CameraFilterPack/Colors_Adjust_PreFilters",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_colors_bleachbypass.shader",
+            "name": "CameraFilterPack/Colors_BleachBypass",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_colors_brightness.shader",
+            "name": "CameraFilterPack/Colors_Brightness",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_colors_darkcolor.shader",
+            "name": "CameraFilterPack/Colors_DarkColor",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_colors_hsv.shader",
+            "name": "CameraFilterPack/Colors_HSV",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_colors_hue_rotate.shader",
+            "name": "CameraFilterPack/Colors_HUE_Rotate",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_colors_newposterize.shader",
+            "name": "CameraFilterPack/Colors_NewPosterize",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_colors_rgbclamp.shader",
+            "name": "CameraFilterPack/Colors_RgbClamp",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_colors_threshold.shader",
+            "name": "CameraFilterPack/Colors_Threshold",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_convert_normal.shader",
+            "name": "CameraFilterPack/Color_Convert_Normal",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_distortion_aspiration.shader",
+            "name": "CameraFilterPack/Distortion_Aspiration",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_distortion_bigface.shader",
+            "name": "CameraFilterPack/Distortion_BigFace",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_distortion_blackhole.shader",
+            "name": "CameraFilterPack/Distortion_BlackHole",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_distortion_dissipation.shader",
+            "name": "CameraFilterPack/Distortion_Dissipation",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_distortion_dream.shader",
+            "name": "CameraFilterPack/Distortion_Dream",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_distortion_dream2.shader",
+            "name": "CameraFilterPack/Distortion_Dream2",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_distortion_fisheye.shader",
+            "name": "CameraFilterPack/Distortion_FishEye",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_distortion_flag.shader",
+            "name": "CameraFilterPack/Distortion_Flag",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_distortion_flush.shader",
+            "name": "CameraFilterPack/Distortion_Flush",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_distortion_half_sphere.shader",
+            "name": "CameraFilterPack/Distortion_float_Sphere",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_distortion_heat.shader",
+            "name": "CameraFilterPack/Distortion_Heat",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_distortion_lens.shader",
+            "name": "CameraFilterPack/Distortion_Lens",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_distortion_noise.shader",
+            "name": "CameraFilterPack/Distortion_Noise",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_distortion_shockwave.shader",
+            "name": "CameraFilterPack/Distortion_ShockWave",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_distortion_shockwavemanual.shader",
+            "name": "CameraFilterPack/Distortion_ShockWaveManual",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_distortion_twist.shader",
+            "name": "CameraFilterPack/Distortion_Twist",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_distortion_twist_square.shader",
+            "name": "CameraFilterPack/Distortion_Twist_Square",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_distortion_water_drop.shader",
+            "name": "CameraFilterPack/Distortion_Water_Drop",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_distortion_wave_horizontal.shader",
+            "name": "CameraFilterPack/Distortion_Wave_Horizontal",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_drawing_blueprint.shader",
+            "name": "CameraFilterPack/Drawing_BluePrint",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_drawing_cellshading.shader",
+            "name": "CameraFilterPack/Drawing_CellShading",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_drawing_cellshading2.shader",
+            "name": "CameraFilterPack/Drawing_CellShading2",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_drawing_comics.shader",
+            "name": "CameraFilterPack/Drawing_Comics",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_drawing_crosshatch.shader",
+            "name": "CameraFilterPack/Drawing_Crosshatch",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_drawing_curve.shader",
+            "name": "CameraFilterPack/Drawing_Curve",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_drawing_enhancedcomics.shader",
+            "name": "CameraFilterPack/Drawing_EnhancedComics",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_drawing_halftone.shader",
+            "name": "CameraFilterPack/Drawing_floattone",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_drawing_laplacian.shader",
+            "name": "CameraFilterPack/Drawing_Laplacian",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_drawing_lines.shader",
+            "name": "CameraFilterPack/Drawing_Lines",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_drawing_manga.shader",
+            "name": "CameraFilterPack/Drawing_Manga",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_drawing_manga2.shader",
+            "name": "CameraFilterPack/Drawing_Manga2",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_drawing_manga3.shader",
+            "name": "CameraFilterPack/Drawing_Manga3",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_drawing_manga4.shader",
+            "name": "CameraFilterPack/Drawing_Manga4",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_drawing_manga5.shader",
+            "name": "CameraFilterPack/Drawing_Manga5",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_drawing_manga_color.shader",
+            "name": "CameraFilterPack/Drawing_Manga_Color",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_drawing_manga_flash.shader",
+            "name": "CameraFilterPack/Drawing_Manga_Flash",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_drawing_manga_flash_color.shader",
+            "name": "CameraFilterPack/Drawing_Manga_Flash_Color",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_drawing_manga_flashwhite.shader",
+            "name": "CameraFilterPack/Drawing_Manga_FlashWhite",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_drawing_newcellshading.shader",
+            "name": "CameraFilterPack/Drawing_NewCellShading",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_drawing_paper.shader",
+            "name": "CameraFilterPack/Drawing_Paper",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_drawing_paper2.shader",
+            "name": "CameraFilterPack/Drawing_Paper2",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_drawing_paper3.shader",
+            "name": "CameraFilterPack/Drawing_Paper3",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_drawing_toon.shader",
+            "name": "CameraFilterPack/Drawing_Toon",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_edge_blackline.shader",
+            "name": "CameraFilterPack/Edge_BlackLine",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_edge_edge_filter.shader",
+            "name": "CameraFilterPack/Edge_Edge_filter",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_edge_golden.shader",
+            "name": "CameraFilterPack/Edge_Golden",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_edge_neon.shader",
+            "name": "CameraFilterPack/Edge_Neon",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_edge_sigmoid.shader",
+            "name": "CameraFilterPack/Edge_Sigmoid",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_edge_sobel.shader",
+            "name": "CameraFilterPack/Edge_Sobel",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_extra_rotation.shader",
+            "name": "CameraFilterPack/EXTRA_Rotation",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_extra_showfps.shader",
+            "name": "CameraFilterPack/EXTRA_SHOWFPS",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_eyesvision_1.shader",
+            "name": "CameraFilterPack/EyesVision_1",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_eyesvision_2.shader",
+            "name": "CameraFilterPack/EyesVision_2",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_film_colorperfection.shader",
+            "name": "CameraFilterPack/Film_ColorPerfection",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_film_grain.shader",
+            "name": "CameraFilterPack/Film_Grain",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_fly_vision.shader",
+            "name": "CameraFilterPack/Fly_Vision",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_fx_8bits.shader",
+            "name": "CameraFilterPack/FX_8bits",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_fx_8bits_gb.shader",
+            "name": "CameraFilterPack/FX_8bits_gb",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_fx_ascii.shader",
+            "name": "CameraFilterPack/FX_Ascii",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_fx_darkmatter.shader",
+            "name": "CameraFilterPack/FX_DarkMatter",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_fx_digitalmatrix.shader",
+            "name": "CameraFilterPack/FX_DigitalMatrix",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_fx_digitalmatrixdistortion.shader",
+            "name": "CameraFilterPack/FX_DigitalMatrixDistortion",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_fx_dot_circle.shader",
+            "name": "CameraFilterPack/FX_Dot_Circle",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_fx_drunk.shader",
+            "name": "CameraFilterPack/FX_Drunk",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_fx_drunk2.shader",
+            "name": "CameraFilterPack/FX_Drunk2",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_fx_earthquake.shader",
+            "name": "CameraFilterPack/FX_EarthQuake",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_fx_funk.shader",
+            "name": "CameraFilterPack/FX_Funk",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_fx_glitch1.shader",
+            "name": "CameraFilterPack/FX_Glitch1",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_fx_glitch2.shader",
+            "name": "CameraFilterPack/FX_Glitch2",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_fx_glitch3.shader",
+            "name": "CameraFilterPack/FX_Glitch3",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_fx_grid.shader",
+            "name": "CameraFilterPack/FX_Grid",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_fx_hexagon.shader",
+            "name": "CameraFilterPack/FX_Hexagon",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_fx_hexagon_black.shader",
+            "name": "CameraFilterPack/FX_Hexagon_Black",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_fx_hypno.shader",
+            "name": "CameraFilterPack/FX_Hypno",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_fx_inverchromilum.shader",
+            "name": "CameraFilterPack/FX_InverChromiLum",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_fx_mirror.shader",
+            "name": "CameraFilterPack/FX_Mirror",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_fx_plasma.shader",
+            "name": "CameraFilterPack/FX_Plasma",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_fx_psycho.shader",
+            "name": "CameraFilterPack/FX_Psycho",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_fx_scan.shader",
+            "name": "CameraFilterPack/FX_Scan",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_fx_screens.shader",
+            "name": "CameraFilterPack/FX_Screens",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_fx_spot.shader",
+            "name": "CameraFilterPack/FX_Spot",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_fx_superdot.shader",
+            "name": "CameraFilterPack/FX_superDot",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_fx_zebracolor.shader",
+            "name": "CameraFilterPack/FX_ZebraColor",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_glasses_on.shader",
+            "name": "CameraFilterPack/Glasses_On",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_glasses_onx.shader",
+            "name": "CameraFilterPack/Glasses_OnX",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_glitch_mozaic.shader",
+            "name": "CameraFilterPack/Glitch_Mozaic",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_glow_glow.shader",
+            "name": "CameraFilterPack/Glow_Glow",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_glow_glow_color.shader",
+            "name": "CameraFilterPack/Glow_Glow_Color",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_gradients_ansi.shader",
+            "name": "CameraFilterPack/Gradients_Ansi",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_gradients_desert.shader",
+            "name": "CameraFilterPack/Gradients_Desert",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_gradients_electricgradient.shader",
+            "name": "CameraFilterPack/Gradients_ElectricGradient",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_gradients_firegradient.shader",
+            "name": "CameraFilterPack/Gradients_FireGradient",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_gradients_hue.shader",
+            "name": "CameraFilterPack/Gradients_Hue",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_gradients_neongradient.shader",
+            "name": "CameraFilterPack/Gradients_NeonGradient",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_gradients_rainbow.shader",
+            "name": "CameraFilterPack/Gradients_Rainbow",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_gradients_stripe.shader",
+            "name": "CameraFilterPack/Gradients_Stripe",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_gradients_tech.shader",
+            "name": "CameraFilterPack/Gradients_Tech",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_gradients_therma.shader",
+            "name": "CameraFilterPack/Gradients_Therma",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_light_rainbow.shader",
+            "name": "CameraFilterPack/Light_Rainbow",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_light_rainbow2.shader",
+            "name": "CameraFilterPack/Light_Rainbow2",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_light_water.shader",
+            "name": "CameraFilterPack/Light_Water",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_light_water2.shader",
+            "name": "CameraFilterPack/Light_Water2",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_lut_playwith.shader",
+            "name": "CameraFilterPack/Lut_PlayWith",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_lut_plus.shader",
+            "name": "CameraFilterPack/Lut_Plus",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_lut_simple.shader",
+            "name": "CameraFilterPack/Lut_Simple",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_lut_testmode.shader",
+            "name": "CameraFilterPack/Lut_TestMode",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_nightvision_4.shader",
+            "name": "CameraFilterPack/NightVision_4",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_nightvisionfx.shader",
+            "name": "CameraFilterPack/NightVisionFX",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_noise_tv.shader",
+            "name": "CameraFilterPack/Noise_TV",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_noise_tv_2.shader",
+            "name": "CameraFilterPack/Noise_TV_2",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_noise_tv_3.shader",
+            "name": "CameraFilterPack/Noise_TV_3",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_oculus_nightvision1.shader",
+            "name": "CameraFilterPack/Oculus_NightVision1",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_oculus_nightvision2.shader",
+            "name": "CameraFilterPack/Oculus_NightVision2",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_oculus_nightvision3.shader",
+            "name": "CameraFilterPack/Oculus_NightVision3",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_oculus_nightvision5.shader",
+            "name": "CameraFilterPack/Oculus_NightVision5",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_oculus_thermavision.shader",
+            "name": "CameraFilterPack/Oculus_ThermaVision",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_oldfilm_cutting1.shader",
+            "name": "CameraFilterPack/OldFilm_Cutting1",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_oldfilm_cutting2.shader",
+            "name": "CameraFilterPack/OldFilm_Cutting2",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_pixel_pixelisation.shader",
+            "name": "CameraFilterPack/Pixel_Pixelisation",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_pixelisation_deepoilpainthq.shader",
+            "name": "CameraFilterPack/Deep_OilPaintHQ",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_pixelisation_dot.shader",
+            "name": "CameraFilterPack/Pixelisation_Dot",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_pixelisation_oilpaint.shader",
+            "name": "CameraFilterPack/Pixelisation_OilPaint",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_pixelisation_oilpainthq.shader",
+            "name": "CameraFilterPack/Pixelisation_OilPaintHQ",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_pixelisation_sweater.shader",
+            "name": "CameraFilterPack/Pixelisation_Sweater",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_rainfx.shader",
+            "name": "CameraFilterPack/RainFX",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_real_vhs.shader",
+            "name": "CameraFilterPack/Real_VHS",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_retro_loading.shader",
+            "name": "CameraFilterPack/Retro_Loading",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_sharpen_sharpen.shader",
+            "name": "CameraFilterPack/Sharpen_Sharpen",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_special_bubble.shader",
+            "name": "CameraFilterPack/Special_Bubble",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_50.shader",
+            "name": "CameraFilterPack/TV_50",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_80.shader",
+            "name": "CameraFilterPack/TV_80",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_arcade.shader",
+            "name": "CameraFilterPack/TV_ARCADE",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_arcade_2.shader",
+            "name": "CameraFilterPack/TV_ARCADE_2",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_arcade_fast.shader",
+            "name": "CameraFilterPack/TV_ARCADE_Fast",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_artefact.shader",
+            "name": "CameraFilterPack/TV_Artefact",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_brokenglass.shader",
+            "name": "CameraFilterPack/TV_BrokenGlass",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_brokenglass2.shader",
+            "name": "CameraFilterPack/TV_BrokenGlass2",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_chromatical.shader",
+            "name": "CameraFilterPack/TV_Chromatical",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_chromatical2.shader",
+            "name": "CameraFilterPack/TV_Chromatical2",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_compressionfx.shader",
+            "name": "CameraFilterPack/TV_CompressionFX",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_distorted.shader",
+            "name": "CameraFilterPack/TV_Distorted",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_horror.shader",
+            "name": "CameraFilterPack/TV_Horror",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_led.shader",
+            "name": "CameraFilterPack/TV_LED",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_movienoise.shader",
+            "name": "CameraFilterPack/TV_MovieNoise",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_noise.shader",
+            "name": "CameraFilterPack/TV_Noise",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_old.shader",
+            "name": "CameraFilterPack/TV_Old",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_old_movie.shader",
+            "name": "CameraFilterPack/TV_Old_Movie",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_old_movie_2.shader",
+            "name": "CameraFilterPack/TV_Old_Movie_2",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_planetmars.shader",
+            "name": "CameraFilterPack/TV_PlanetMars",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_posterize.shader",
+            "name": "CameraFilterPack/TV_Posterize",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_rgb.shader",
+            "name": "CameraFilterPack/TV_Rgb",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_tiles.shader",
+            "name": "CameraFilterPack/TV_Tiles",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_vcr.shader",
+            "name": "CameraFilterPack/TV_Vcr",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_vhs.shader",
+            "name": "CameraFilterPack/TV_VHS",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_vhs_rewind.shader",
+            "name": "CameraFilterPack/TV_VHS_Rewind",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_video3d.shader",
+            "name": "CameraFilterPack/TV_Video3D",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_videoflip.shader",
+            "name": "CameraFilterPack/TV_Videoflip",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_vignetting.shader",
+            "name": "CameraFilterPack/TV_Vignetting",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_vintage.shader",
+            "name": "CameraFilterPack/TV_Vintage",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_widescreencircle.shader",
+            "name": "CameraFilterPack/TV_WideScreenCircle",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_widescreenhorizontal.shader",
+            "name": "CameraFilterPack/TV_WideScreenHorizontal",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_widescreenhv.shader",
+            "name": "CameraFilterPack/TV_WideScreenHV",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_tv_widescreenvertical.shader",
+            "name": "CameraFilterPack/TV_WideScreenVertical",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_vhs_tracking.shader",
+            "name": "CameraFilterPack/VHS_Tracking",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_vision_aura.shader",
+            "name": "CameraFilterPack/Vision_Aura",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_vision_auradistortion.shader",
+            "name": "CameraFilterPack/Vision_AuraDistortion",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_vision_blood.shader",
+            "name": "CameraFilterPack/Vision_Blood",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_vision_blood_fast.shader",
+            "name": "CameraFilterPack/Vision_Blood_Fast",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_vision_drost.shader",
+            "name": "CameraFilterPack/Vision_Drost",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_vision_hell_blood.shader",
+            "name": "CameraFilterPack/Vision_Hell_Blood",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_vision_plasma.shader",
+            "name": "CameraFilterPack/Vision_Plasma",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_vision_psycho.shader",
+            "name": "CameraFilterPack/Vision_Psycho",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_vision_rainbow.shader",
+            "name": "CameraFilterPack/Vision_Rainbow",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_vision_sniperscore.shader",
+            "name": "CameraFilterPack/Vision_SniperScore",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_vision_tunnel.shader",
+            "name": "CameraFilterPack/Vision_Tunnel",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_vision_warp.shader",
+            "name": "CameraFilterPack/Vision_Warp",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/camerafilterpack_vision_warp2.shader",
+            "name": "CameraFilterPack/Vision_Warp2",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/dofpro.shader",
+            "name": "Hidden/DOFPro",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/fxpro.shader",
+            "name": "Hidden/FxPro",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/fxprotap.shader",
+            "name": "Hidden/FxProTap",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/shaders/tmp_bitmap-custom-atlas.shader",
+            "name": "TextMeshPro/Bitmap Custom Atlas",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/shaders/tmp_bitmap-mobile.shader",
+            "name": "TextMeshPro/Mobile/Bitmap",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/shaders/tmp_bitmap.shader",
+            "name": "TextMeshPro/Bitmap",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/shaders/tmp_sdf overlay.shader",
+            "name": "TextMeshPro/Distance Field Overlay",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/shaders/tmp_sdf-mobile masking.shader",
+            "name": "TextMeshPro/Mobile/Distance Field - Masking",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/shaders/tmp_sdf-mobile overlay.shader",
+            "name": "TextMeshPro/Mobile/Distance Field Overlay",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/shaders/tmp_sdf-mobile.shader",
+            "name": "TextMeshPro/Mobile/Distance Field",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/shaders/tmp_sdf-surface-mobile.shader",
+            "name": "TextMeshPro/Mobile/Distance Field (Surface)",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/shaders/tmp_sdf-surface.shader",
+            "name": "TextMeshPro/Distance Field (Surface)",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/shaders/tmp_sdf.shader",
+            "name": "TextMeshPro/Distance Field",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Resources/shaders/tmp_sprite.shader",
+            "name": "TextMeshPro/Sprite",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Shader/Cartoon FX_Mobile Particles Additive Alpha8.shader",
+            "name": "Cartoon FX/Mobile Particles Additive Alpha8",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Shader/Custom_BLUR.shader",
+            "name": "Custom/BLUR",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Shader/Graphy_Graph Mobile.shader",
+            "name": "Graphy/Graph Mobile",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Shader/Graphy_Graph Standard.shader",
+            "name": "Graphy/Graph Standard",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Shader/LowPolyWater_Advanced.shader",
+            "name": "LowPolyWater/Advanced",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Shader/Projector_Light.shader",
+            "name": "Projector/Light",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Shader/Projector_Multiply.shader",
+            "name": "Projector/Multiply",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Shader/RCCSkidmarks.shader",
+            "name": "RCCSkidmarks",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Shader/Sprites_Default with Fog.shader",
+            "name": "Sprites/Default with Fog",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        },
+        {
+            "path": "Assets/Shader/Water_Water 2D Waves.shader",
+            "name": "Water/Water 2D Waves",
+            "hasError": false,
+            "supported": true,
+            "messages": []
+        }
+    ]
+}

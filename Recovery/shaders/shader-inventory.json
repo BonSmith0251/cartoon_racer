@@ -1,0 +1,2176 @@
+[
+  {
+    "path": "Assets/Resources/bloompro.shader",
+    "name": "Hidden/BloomPro",
+    "guid": "87d794cfe52453c45bc3f424463d0c83",
+    "dummy": true,
+    "materials": [
+      "Assets/Resources/BloomDummyMat.mat"
+    ]
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_3d_anomaly.shader",
+    "name": "CameraFilterPack/3D_Anomaly",
+    "guid": "2885206364c5d09499b425dee4559739",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_3d_binary.shader",
+    "name": "CameraFilterPack/3D_Binary",
+    "guid": "b512d8a3f503d1943a76083532024c5e",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_3d_blackhole.shader",
+    "name": "CameraFilterPack/3D_BlackHole",
+    "guid": "27f517e79a32089498b611e7c1bbf31a",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_3d_computer.shader",
+    "name": "CameraFilterPack/3D_Computer",
+    "guid": "33605198c7b439e41820470c8450e424",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_3d_distortion.shader",
+    "name": "CameraFilterPack/3D_Distortion",
+    "guid": "59ab49b22b8a2d84fbabdde3333e97d1",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_3d_dust.shader",
+    "name": "CameraFilterPack/3D_Dust",
+    "guid": "3bb85694c7934e242afdb4b3d9f5e33b",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_3d_fog_smoke.shader",
+    "name": "CameraFilterPack/3D_Fog_Smoke",
+    "guid": "5f4fc50459d014143a51afb29709f82d",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_3d_ghost.shader",
+    "name": "CameraFilterPack/3D_Ghost",
+    "guid": "c12eb26463dcade4bb6402fec27ab6b6",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_3d_inverse.shader",
+    "name": "CameraFilterPack/3D_Inverse",
+    "guid": "1f7c00090e945c749af8d578c50a943b",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_3d_matrix.shader",
+    "name": "CameraFilterPack/3D_Matrix",
+    "guid": "7f084a96973f05548bf6449a0fc30471",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_3d_mirror.shader",
+    "name": "CameraFilterPack/3D_Mirror",
+    "guid": "a0917ce91171a1b409dc8957ac697c51",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_3d_myst.shader",
+    "name": "CameraFilterPack/3D_Myst",
+    "guid": "35a409bdc149e4a439580d16124f4bae",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_3d_scan_scene.shader",
+    "name": "CameraFilterPack/3D_Scan_Scene",
+    "guid": "a7ac82a3eba9f9a4e9da206def347a81",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_3d_shield.shader",
+    "name": "CameraFilterPack/3D_Shield",
+    "guid": "9271d3d3a0a44ba4b98864de87627122",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_3d_snow.shader",
+    "name": "CameraFilterPack/3D_Snow",
+    "guid": "19de4c078b07ad44ab5637996bf2df00",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_aaa_blood.shader",
+    "name": "CameraFilterPack/AAA_Blood",
+    "guid": "280a7dbd957a25848ab6403a59a3ccdc",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_aaa_bloodonscreen.shader",
+    "name": "CameraFilterPack/AAA_BloodOnScreen",
+    "guid": "ce74ab97409cc4249a083df6ab153146",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_aaa_blood_hit.shader",
+    "name": "CameraFilterPack/AAA_Blood_Hit",
+    "guid": "587a45298dfab4045b7f09b1c4011e70",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_aaa_blood_plus.shader",
+    "name": "CameraFilterPack/AAA_Blood_Plus",
+    "guid": "2f530fe8d1b6b654f959286e578abc3b",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_aaa_supercomputer.shader",
+    "name": "CameraFilterPack/AAA_Super_Computer",
+    "guid": "a1e50547189134443928e90ac9b5a55e",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_aaa_superhexagon.shader",
+    "name": "CameraFilterPack/AAA_Super_Hexagon",
+    "guid": "184ee35bf38d87249855ca2c77515436",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_aaa_waterdrop.shader",
+    "name": "CameraFilterPack/AAA_WaterDrop",
+    "guid": "3e5c4429937d2a54b979bb18125dcce1",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_aaa_waterdroppro.shader",
+    "name": "CameraFilterPack/AAA_WaterDropPro",
+    "guid": "be2c49f45ab8cad40872fb10b4ce7983",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_alien_vision.shader",
+    "name": "CameraFilterPack/Alien_Vision",
+    "guid": "cbbb0c1bbc5c214419a1989afac5dea4",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_antialiasing_fxaa.shader",
+    "name": "CameraFilterPack/Antialiasing_FXAA",
+    "guid": "302883cd4cf83f2499cc5b4929222abd",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_atmosphere_fog.shader",
+    "name": "CameraFilterPack/Atmosphere_Fog",
+    "guid": "b427e1eeb80813440a18fab8e4d8eb1e",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_atmosphere_rain.shader",
+    "name": "CameraFilterPack/Atmosphere_Rain",
+    "guid": "3a6df73d033af904bb8018e4734674d7",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_atmosphere_rain_pro.shader",
+    "name": "CameraFilterPack/Atmosphere_Rain_Pro",
+    "guid": "dc277a6155d456a4cb8376b580d31b88",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_atmosphere_rain_pro_3d.shader",
+    "name": "CameraFilterPack/Atmosphere_Rain_Pro_3D",
+    "guid": "d6e6b62d74394f64b9b0c8399f67a0ad",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_atmosphere_snow_8bits.shader",
+    "name": "CameraFilterPack/Atmosphere_Snow_8bits",
+    "guid": "94c343fddb919494080635964f783d4b",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_blend.shader",
+    "name": "CameraFilterPack/Blend2Camera_Blend",
+    "guid": "46a87f70f164bfd4593db6a0d51c05e4",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_bluescreen.shader",
+    "name": "CameraFilterPack/Blend2Camera_BlueScreen",
+    "guid": "b7352ff7824ceb84c888a42a61b94320",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_color.shader",
+    "name": "CameraFilterPack/Blend2Camera_Color",
+    "guid": "1a0461c796a248d4580ee8cb04e391f5",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_colorburn.shader",
+    "name": "CameraFilterPack/Blend2Camera_ColorBurn",
+    "guid": "b03a5a4cd19fa304683171eb0c820686",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_colordodge.shader",
+    "name": "CameraFilterPack/Blend2Camera_ColorDodge",
+    "guid": "726346fbf3f68f34e8786b44de6cce6e",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_colorkey.shader",
+    "name": "CameraFilterPack/Blend2Camera_ColorKey",
+    "guid": "d825a268adea4584a90c348ef2efac27",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_darken.shader",
+    "name": "CameraFilterPack/Blend2Camera_Darken",
+    "guid": "81af50652a2b68f4aacd636a857dd675",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_darkercolor.shader",
+    "name": "CameraFilterPack/Blend2Camera_DarkerColor",
+    "guid": "62564282b3aa0e94bb81810e2d308c22",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_difference.shader",
+    "name": "CameraFilterPack/Blend2Camera_Difference",
+    "guid": "e35de6f507482d647b6d8d7d5c37c935",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_divide.shader",
+    "name": "CameraFilterPack/Blend2Camera_Divide",
+    "guid": "2dbe401544f18854190eda343aea5c47",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_exclusion.shader",
+    "name": "CameraFilterPack/Blend2Camera_Exclusion",
+    "guid": "9acc8b3825c33614bb03cd5ed3fd71bb",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_greenscreen.shader",
+    "name": "CameraFilterPack/Blend2Camera_GreenScreen",
+    "guid": "cb541948c85a05f418b3ffd15773b4db",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_hardlight.shader",
+    "name": "CameraFilterPack/Blend2Camera_HardLight",
+    "guid": "ef74954845bde0e4d937c7932f645a68",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_hardmix.shader",
+    "name": "CameraFilterPack/Blend2Camera_HardMix",
+    "guid": "d0a9d3fb0dc81514fa4a7dceaa863bb1",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_hue.shader",
+    "name": "CameraFilterPack/Blend2Camera_Hue",
+    "guid": "0444610105a81ad4588e702da79bbdaa",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_lighten.shader",
+    "name": "CameraFilterPack/Blend2Camera_Lighten",
+    "guid": "a6e6b6f252d8c4d40b17994e0c22ca3f",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_lightercolor.shader",
+    "name": "CameraFilterPack/Blend2Camera_LighterColor",
+    "guid": "b80815274422b9344a5afeca217ba230",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_linearburn.shader",
+    "name": "CameraFilterPack/Blend2Camera_LinearBurn",
+    "guid": "9966f2a3ee56a6c449098758b31afad7",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_lineardodge.shader",
+    "name": "CameraFilterPack/Blend2Camera_LinearDodge",
+    "guid": "db8212c854dc0554f8b20fbb5a129704",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_linearlight.shader",
+    "name": "CameraFilterPack/Blend2Camera_LinearLight",
+    "guid": "800d00827f7925a44a690f95e5118355",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_luminosity.shader",
+    "name": "CameraFilterPack/Blend2Camera_Luminosity",
+    "guid": "70e1cddfa9c7f9249a575781bcff0da2",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_multiply.shader",
+    "name": "CameraFilterPack/Blend2Camera_Multiply",
+    "guid": "0b804d54800c3c34c8b7ca75df9eb9bb",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_overlay.shader",
+    "name": "CameraFilterPack/Blend2Camera_Overlay",
+    "guid": "672bd4031fec79845a66cd9863a87607",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_pinlight.shader",
+    "name": "CameraFilterPack/Blend2Camera_PinLight",
+    "guid": "08b242f1be917d345953a93cdf8b10f6",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_saturation.shader",
+    "name": "CameraFilterPack/Blend2Camera_Saturation",
+    "guid": "c88a93548e25c3a4a820cade8ff1eb08",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_screen.shader",
+    "name": "CameraFilterPack/Blend2Camera_Screen",
+    "guid": "32fb39aac74b3ce478234615a65b85b0",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_softlight.shader",
+    "name": "CameraFilterPack/Blend2Camera_SoftLight",
+    "guid": "2007c9c7b2d4d994385f9746d0f22935",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_splitscreen.shader",
+    "name": "CameraFilterPack/Blend2Camera_SplitScreen",
+    "guid": "4a22fc699d7cf604fb04214d18daf346",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_splitscreen3d.shader",
+    "name": "CameraFilterPack/Blend2Camera_SplitScreen3D",
+    "guid": "6b42e16992f062242950b49d661c43ee",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_subtract.shader",
+    "name": "CameraFilterPack/Blend2Camera_Subtract",
+    "guid": "55e89992fdf917345bedf78a13bfe520",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blend2camera_vividlight.shader",
+    "name": "CameraFilterPack/Blend2Camera_VividLight",
+    "guid": "ce50c2a5991e90b49855a4341a0704be",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blizzard.shader",
+    "name": "CameraFilterPack/Blizzard",
+    "guid": "4dedb285ca23d964ba6e307fd74ba534",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blur_bloom.shader",
+    "name": "CameraFilterPack/Blur_Bloom",
+    "guid": "5749163130a427848ad9a6019a851173",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blur_blurhole.shader",
+    "name": "CameraFilterPack/BlurHole",
+    "guid": "73c220930c7b73945a0bfaa9c564de68",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blur_blurry.shader",
+    "name": "CameraFilterPack/Blur_Blurry",
+    "guid": "1aca6d1a296778744a877986b7300171",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blur_dithering2x2.shader",
+    "name": "CameraFilterPack/Blur_Dithering2x2",
+    "guid": "5b6e7bd4123ff914e9733f912e73932f",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blur_ditheroffset.shader",
+    "name": "CameraFilterPack/Blur_DitherOffset",
+    "guid": "80e17c0f3ade5f34eb761decee26bcdf",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blur_focus.shader",
+    "name": "CameraFilterPack/Blur_Focus",
+    "guid": "08e5df781216f514189250f143a750d6",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blur_gaussianblur.shader",
+    "name": "CameraFilterPack/Blur_GaussianBlur",
+    "guid": "31378fd59ead8e0499fd0f4c4d6f7007",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blur_movie.shader",
+    "name": "CameraFilterPack/Blur_Movie",
+    "guid": "d0fca26ed9894464ead3318f399111a0",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blur_noise.shader",
+    "name": "CameraFilterPack/Blur_Noise",
+    "guid": "2b785abf55b80eb489192c8bdb2fe486",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blur_radial.shader",
+    "name": "CameraFilterPack/Blur_Radial",
+    "guid": "302027e6a1620cb48911a32101862a07",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blur_radial_fast.shader",
+    "name": "CameraFilterPack/Blur_Radial_Fast",
+    "guid": "c533ec55d17a0f64a94eb73d7f9212e2",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blur_regular.shader",
+    "name": "CameraFilterPack/Blur_Regular",
+    "guid": "21b6891e76e92ca419a6b686151bc365",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blur_steam.shader",
+    "name": "CameraFilterPack/Blur_Steam",
+    "guid": "105237c8deb027c4f8eb8bd693f0c921",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blur_tilt_shift.shader",
+    "name": "CameraFilterPack/BlurTiltShift",
+    "guid": "b3b55f469bea8104a8f2e2cff390e7cc",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blur_tilt_shift_hole.shader",
+    "name": "CameraFilterPack/BlurTiltShift_Hole",
+    "guid": "2863b28e62a1f0842b37349407892a7c",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_blur_tilt_shift_v.shader",
+    "name": "CameraFilterPack/BlurTiltShift_V",
+    "guid": "24dffaf1a74eb7c40885a99e4e4868f8",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_colors_adjust_colorrgb.shader",
+    "name": "CameraFilterPack/Colors_Adjust_ColorRGB",
+    "guid": "8c788a3f932643f4e84efcd0740f5e51",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_colors_adjust_fullcolors.shader",
+    "name": "CameraFilterPack/Colors_Adjust_FullColors",
+    "guid": "c807a41813ac472479bef9d050cd84ae",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_colors_adjust_prefilters.shader",
+    "name": "CameraFilterPack/Colors_Adjust_PreFilters",
+    "guid": "8e502224b864df7429f6f5ac6e4f9563",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_colors_bleachbypass.shader",
+    "name": "CameraFilterPack/Colors_BleachBypass",
+    "guid": "e772964bee020cc4881165fe2e88d67f",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_colors_brightness.shader",
+    "name": "CameraFilterPack/Colors_Brightness",
+    "guid": "cb382480ba7d52c439821583a7425fa2",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_colors_darkcolor.shader",
+    "name": "CameraFilterPack/Colors_DarkColor",
+    "guid": "19657c70b6f1ffe40918eee987a6c186",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_colors_hsv.shader",
+    "name": "CameraFilterPack/Colors_HSV",
+    "guid": "f4093221fabb4e54fb4eb7b6f053dd89",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_colors_hue_rotate.shader",
+    "name": "CameraFilterPack/Colors_HUE_Rotate",
+    "guid": "def319a14edb4e54db73b610ae82f0ad",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_colors_newposterize.shader",
+    "name": "CameraFilterPack/Colors_NewPosterize",
+    "guid": "c871ebc2a3aa8794a8198286ed0dc97e",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_colors_rgbclamp.shader",
+    "name": "CameraFilterPack/Colors_RgbClamp",
+    "guid": "16b0872837e861f408d68e3ae85ff84c",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_colors_threshold.shader",
+    "name": "CameraFilterPack/Colors_Threshold",
+    "guid": "4ec24e49c032f2a4a98814d3d5cd9016",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_color_brightcontrastsaturation.shader",
+    "name": "CameraFilterPack/Color_BrightContrastSaturation",
+    "guid": "920b8c931d98b594788e8ceae02d119e",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_color_chromatic_aberration.shader",
+    "name": "CameraFilterPack/Color_Chromatic_Aberration",
+    "guid": "99129e4f12883f14aa246f3890b3902a",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_color_chromatic_plus.shader",
+    "name": "CameraFilterPack/Color_Chromatic_Plus",
+    "guid": "183382fd6927c4e4b9d93690177ef54e",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_color_contrast.shader",
+    "name": "CameraFilterPack/Color_Contrast",
+    "guid": "d94a5369df1d9344780acc56bb3afda7",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_color_grayscale.shader",
+    "name": "CameraFilterPack/Color_GrayScale",
+    "guid": "cf3cbffe0f4a2264cb6261497fa7ee83",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_color_invert.shader",
+    "name": "CameraFilterPack/Color_Invert",
+    "guid": "4b92242f21f52f24b8cb87959e0546c1",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_color_noise.shader",
+    "name": "CameraFilterPack/Color_Noise",
+    "guid": "7ab2117faabbf8d409868030e5815d86",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_color_rgb.shader",
+    "name": "CameraFilterPack/Color_RGB",
+    "guid": "246e2d4a0b208284dbf8ccbfaae53d10",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_color_sepia.shader",
+    "name": "CameraFilterPack/Color_Sepia",
+    "guid": "b24982eedb450cf4cade88b2bf5a2bcb",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_color_switching.shader",
+    "name": "CameraFilterPack/Color_Switching",
+    "guid": "c9f8e229d4fe32e4681f8aaff8185ab6",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_color_yuv.shader",
+    "name": "CameraFilterPack/Color_YUV",
+    "guid": "14a415133075fd946b16e81c610f18e0",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_convert_normal.shader",
+    "name": "CameraFilterPack/Color_Convert_Normal",
+    "guid": "d1b7f9cbd3925e34ba6562bf6e1c945b",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_distortion_aspiration.shader",
+    "name": "CameraFilterPack/Distortion_Aspiration",
+    "guid": "a6a3129175fcef545808dc11854b6d3b",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_distortion_bigface.shader",
+    "name": "CameraFilterPack/Distortion_BigFace",
+    "guid": "da9b1b83a5ea5ee46aeff7656b5acea0",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_distortion_blackhole.shader",
+    "name": "CameraFilterPack/Distortion_BlackHole",
+    "guid": "3034fe5e2a723344fb966da6e1916624",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_distortion_dissipation.shader",
+    "name": "CameraFilterPack/Distortion_Dissipation",
+    "guid": "c2cec13588e74b848b371a16b898faf9",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_distortion_dream.shader",
+    "name": "CameraFilterPack/Distortion_Dream",
+    "guid": "8c2065d74dc47eb4786a32fd1d2ef25c",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_distortion_dream2.shader",
+    "name": "CameraFilterPack/Distortion_Dream2",
+    "guid": "1a42ddd5d9d75d14aa823c1c05e4f9b9",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_distortion_fisheye.shader",
+    "name": "CameraFilterPack/Distortion_FishEye",
+    "guid": "a0c61c4f4542ef147913dda3a00c1a06",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_distortion_flag.shader",
+    "name": "CameraFilterPack/Distortion_Flag",
+    "guid": "c301ca143d644e04cbc8272ee3bd8337",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_distortion_flush.shader",
+    "name": "CameraFilterPack/Distortion_Flush",
+    "guid": "413710827b98397488823409f1942ab7",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_distortion_half_sphere.shader",
+    "name": "CameraFilterPack/Distortion_float_Sphere",
+    "guid": "564c0d110385e3c49ae8bec22bd51e76",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_distortion_heat.shader",
+    "name": "CameraFilterPack/Distortion_Heat",
+    "guid": "a16dd426032e2e34eaa0626c44c9a3d0",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_distortion_lens.shader",
+    "name": "CameraFilterPack/Distortion_Lens",
+    "guid": "58c7b6bc2708e1e44b249288b8c16e99",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_distortion_noise.shader",
+    "name": "CameraFilterPack/Distortion_Noise",
+    "guid": "5cbaa60d9a8e96c4eb02a89b763de10e",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_distortion_shockwave.shader",
+    "name": "CameraFilterPack/Distortion_ShockWave",
+    "guid": "5e60a1e77e727c344af4de0036053458",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_distortion_shockwavemanual.shader",
+    "name": "CameraFilterPack/Distortion_ShockWaveManual",
+    "guid": "27837496282a5a645bb6f2f885d9a8a8",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_distortion_twist.shader",
+    "name": "CameraFilterPack/Distortion_Twist",
+    "guid": "b37e40591d95c714aa2f845b58a15816",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_distortion_twist_square.shader",
+    "name": "CameraFilterPack/Distortion_Twist_Square",
+    "guid": "d487d3f3cae921446b00778ca50ba9ef",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_distortion_water_drop.shader",
+    "name": "CameraFilterPack/Distortion_Water_Drop",
+    "guid": "1e839404f6db7a343aeea58c3a954a56",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_distortion_wave_horizontal.shader",
+    "name": "CameraFilterPack/Distortion_Wave_Horizontal",
+    "guid": "04b78501c844f354f8da8769a5c1134b",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_drawing_blueprint.shader",
+    "name": "CameraFilterPack/Drawing_BluePrint",
+    "guid": "dd86019180f22194697cbc2a0719c0f2",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_drawing_cellshading.shader",
+    "name": "CameraFilterPack/Drawing_CellShading",
+    "guid": "37151856add83a84494a06f6c5769275",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_drawing_cellshading2.shader",
+    "name": "CameraFilterPack/Drawing_CellShading2",
+    "guid": "158c57ef852a3f44db58195e901bc05c",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_drawing_comics.shader",
+    "name": "CameraFilterPack/Drawing_Comics",
+    "guid": "4192890a09fd96f4f972a8817c97115f",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_drawing_crosshatch.shader",
+    "name": "CameraFilterPack/Drawing_Crosshatch",
+    "guid": "ac92f017c43e2434eadce7a943051ce4",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_drawing_curve.shader",
+    "name": "CameraFilterPack/Drawing_Curve",
+    "guid": "5344f614e3cb7e5438f090c179719030",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_drawing_enhancedcomics.shader",
+    "name": "CameraFilterPack/Drawing_EnhancedComics",
+    "guid": "dbc8373e67a4c884ca2c6ce28af90898",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_drawing_halftone.shader",
+    "name": "CameraFilterPack/Drawing_floattone",
+    "guid": "84e5cbc476cde80439f4b2b2d05fed76",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_drawing_laplacian.shader",
+    "name": "CameraFilterPack/Drawing_Laplacian",
+    "guid": "902a2f43d685e4b43bd38b9f130d3891",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_drawing_lines.shader",
+    "name": "CameraFilterPack/Drawing_Lines",
+    "guid": "194f81b3229f1ae45a35c23557aa7b0e",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_drawing_manga.shader",
+    "name": "CameraFilterPack/Drawing_Manga",
+    "guid": "c2242763337d6174cbbed465547b7430",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_drawing_manga2.shader",
+    "name": "CameraFilterPack/Drawing_Manga2",
+    "guid": "5d4bd205e6a799e4d9c19b499429e1e7",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_drawing_manga3.shader",
+    "name": "CameraFilterPack/Drawing_Manga3",
+    "guid": "f5cea6ab191e0dd418086e6c164db4d9",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_drawing_manga4.shader",
+    "name": "CameraFilterPack/Drawing_Manga4",
+    "guid": "7bacdffd3330ebc419a4623557d76edf",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_drawing_manga5.shader",
+    "name": "CameraFilterPack/Drawing_Manga5",
+    "guid": "a6ace027c9a555446b0f4fd91440d711",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_drawing_manga_color.shader",
+    "name": "CameraFilterPack/Drawing_Manga_Color",
+    "guid": "69020886bae8c994991e9a8dfad66d64",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_drawing_manga_flash.shader",
+    "name": "CameraFilterPack/Drawing_Manga_Flash",
+    "guid": "53f3728bdcf709646b6b12ac92b656c9",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_drawing_manga_flashwhite.shader",
+    "name": "CameraFilterPack/Drawing_Manga_FlashWhite",
+    "guid": "ff314f42c16184e4687104edc73eb00a",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_drawing_manga_flash_color.shader",
+    "name": "CameraFilterPack/Drawing_Manga_Flash_Color",
+    "guid": "cd20050e4ad83a84a971c7c2ed6457f2",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_drawing_newcellshading.shader",
+    "name": "CameraFilterPack/Drawing_NewCellShading",
+    "guid": "19359f2b586a427429c637c0d16ce304",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_drawing_paper.shader",
+    "name": "CameraFilterPack/Drawing_Paper",
+    "guid": "4fadbb814df452b4e984fde6b4f7601f",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_drawing_paper2.shader",
+    "name": "CameraFilterPack/Drawing_Paper2",
+    "guid": "3b81d997907ab7d42971535e2f85a9f2",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_drawing_paper3.shader",
+    "name": "CameraFilterPack/Drawing_Paper3",
+    "guid": "7df2a17369a24d64f9b8bd527642969e",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_drawing_toon.shader",
+    "name": "CameraFilterPack/Drawing_Toon",
+    "guid": "8f45e28111c34a8489570beb7bd14b1b",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_edge_blackline.shader",
+    "name": "CameraFilterPack/Edge_BlackLine",
+    "guid": "af4845e92dd624e448c58bd85120d152",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_edge_edge_filter.shader",
+    "name": "CameraFilterPack/Edge_Edge_filter",
+    "guid": "c6235a77112496c40ba1e51ca2767033",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_edge_golden.shader",
+    "name": "CameraFilterPack/Edge_Golden",
+    "guid": "b62e14c8cd4b6eb4da60c0568e6fe7f8",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_edge_neon.shader",
+    "name": "CameraFilterPack/Edge_Neon",
+    "guid": "08f8cc53039bdee4b93cb3b34a610bfb",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_edge_sigmoid.shader",
+    "name": "CameraFilterPack/Edge_Sigmoid",
+    "guid": "63bfb1b7c4c79094ab3bb9725caaeac2",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_edge_sobel.shader",
+    "name": "CameraFilterPack/Edge_Sobel",
+    "guid": "846d691f268b4c54d86de3a79ecbdde9",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_extra_rotation.shader",
+    "name": "CameraFilterPack/EXTRA_Rotation",
+    "guid": "120f2cc63a9960141aabd2e171df1e9b",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_extra_showfps.shader",
+    "name": "CameraFilterPack/EXTRA_SHOWFPS",
+    "guid": "c360a09085ed21347a8c7cbd09b29214",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_eyesvision_1.shader",
+    "name": "CameraFilterPack/EyesVision_1",
+    "guid": "40dbe8b3cf8bba74c81328defb12c7cb",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_eyesvision_2.shader",
+    "name": "CameraFilterPack/EyesVision_2",
+    "guid": "ae3af1acf45314c469615a4e8bdc0083",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_film_colorperfection.shader",
+    "name": "CameraFilterPack/Film_ColorPerfection",
+    "guid": "bcdff792c4672f04ca60422f8f6361de",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_film_grain.shader",
+    "name": "CameraFilterPack/Film_Grain",
+    "guid": "1bca92f19ddefd545841bd3e1ea66fed",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_fly_vision.shader",
+    "name": "CameraFilterPack/Fly_Vision",
+    "guid": "c1b48eba741f18c48b6b2d00baee0090",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_fx_8bits.shader",
+    "name": "CameraFilterPack/FX_8bits",
+    "guid": "2b22fffe0fd5d7f4f93c0ad6d8f41a20",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_fx_8bits_gb.shader",
+    "name": "CameraFilterPack/FX_8bits_gb",
+    "guid": "c0c8b8f8b9bca054aaeaaf414e9a94b6",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_fx_ascii.shader",
+    "name": "CameraFilterPack/FX_Ascii",
+    "guid": "87ccdd59c1089394b82beeadfa5a695a",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_fx_darkmatter.shader",
+    "name": "CameraFilterPack/FX_DarkMatter",
+    "guid": "5152816ee24f74446944d81972119083",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_fx_digitalmatrix.shader",
+    "name": "CameraFilterPack/FX_DigitalMatrix",
+    "guid": "cd07ed058c6e56c49a3aae0804d4b1f8",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_fx_digitalmatrixdistortion.shader",
+    "name": "CameraFilterPack/FX_DigitalMatrixDistortion",
+    "guid": "cd13d07aae20ccc4e916c143119646f1",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_fx_dot_circle.shader",
+    "name": "CameraFilterPack/FX_Dot_Circle",
+    "guid": "959de9a993a98694990163cd3c24328d",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_fx_drunk.shader",
+    "name": "CameraFilterPack/FX_Drunk",
+    "guid": "e0628f46a1d7e634b96772f4c177ebb8",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_fx_drunk2.shader",
+    "name": "CameraFilterPack/FX_Drunk2",
+    "guid": "65024b36c2be7ae438e980c2975dd421",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_fx_earthquake.shader",
+    "name": "CameraFilterPack/FX_EarthQuake",
+    "guid": "d79bcee159693054fa62349d04187074",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_fx_funk.shader",
+    "name": "CameraFilterPack/FX_Funk",
+    "guid": "636d1e6f81fdfd64598b5685d5a034ac",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_fx_glitch1.shader",
+    "name": "CameraFilterPack/FX_Glitch1",
+    "guid": "a6e391291a1c1c549bc0e67bc66e4a08",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_fx_glitch2.shader",
+    "name": "CameraFilterPack/FX_Glitch2",
+    "guid": "25b3857181358d246bf90b7444504701",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_fx_glitch3.shader",
+    "name": "CameraFilterPack/FX_Glitch3",
+    "guid": "b0704e9b71097614f8d1b7401587008c",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_fx_grid.shader",
+    "name": "CameraFilterPack/FX_Grid",
+    "guid": "e68710c1dfc63754299e8ea98d89a7cc",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_fx_hexagon.shader",
+    "name": "CameraFilterPack/FX_Hexagon",
+    "guid": "78f03d0b49e78814a9b3a21a2d45cd09",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_fx_hexagon_black.shader",
+    "name": "CameraFilterPack/FX_Hexagon_Black",
+    "guid": "98a056b9252381147b6761ae2382f18d",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_fx_hypno.shader",
+    "name": "CameraFilterPack/FX_Hypno",
+    "guid": "347404c21b5c1c44ab986150e17e7478",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_fx_inverchromilum.shader",
+    "name": "CameraFilterPack/FX_InverChromiLum",
+    "guid": "4374dbe9b03f0a74da73752c95ff1727",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_fx_mirror.shader",
+    "name": "CameraFilterPack/FX_Mirror",
+    "guid": "b34e38628e54b004c961fd467854508e",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_fx_plasma.shader",
+    "name": "CameraFilterPack/FX_Plasma",
+    "guid": "3fe6ee81053f20f4c8fd2d9c16e843f8",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_fx_psycho.shader",
+    "name": "CameraFilterPack/FX_Psycho",
+    "guid": "5f57b3746ed5f41479045d42f51765a6",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_fx_scan.shader",
+    "name": "CameraFilterPack/FX_Scan",
+    "guid": "03cef9cbfc3a0bc4c807a88fa654b306",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_fx_screens.shader",
+    "name": "CameraFilterPack/FX_Screens",
+    "guid": "3503fa610cec7034b8f536876649f4e1",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_fx_spot.shader",
+    "name": "CameraFilterPack/FX_Spot",
+    "guid": "54a4e1f0257b5ff4f8f6252336a53b4c",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_fx_superdot.shader",
+    "name": "CameraFilterPack/FX_superDot",
+    "guid": "1792a8af66944ac4f97eaac1b8bc4539",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_fx_zebracolor.shader",
+    "name": "CameraFilterPack/FX_ZebraColor",
+    "guid": "05bf75e8665b0f944a2a544ae180da1e",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_glasses_on.shader",
+    "name": "CameraFilterPack/Glasses_On",
+    "guid": "27c8136ae08218b48ba937091f068be7",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_glasses_onx.shader",
+    "name": "CameraFilterPack/Glasses_OnX",
+    "guid": "9d7b157840f2ed945865ef02adcdf393",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_glitch_mozaic.shader",
+    "name": "CameraFilterPack/Glitch_Mozaic",
+    "guid": "0a498c29c7a180e4bb550954ba949991",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_glow_glow.shader",
+    "name": "CameraFilterPack/Glow_Glow",
+    "guid": "824a5f1910c3ffe40889edb2e7fa49e4",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_glow_glow_color.shader",
+    "name": "CameraFilterPack/Glow_Glow_Color",
+    "guid": "198cea1d066e4d1419a1940883199d9c",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_gradients_ansi.shader",
+    "name": "CameraFilterPack/Gradients_Ansi",
+    "guid": "4b742fc31f87d5c48a22544ee509a550",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_gradients_desert.shader",
+    "name": "CameraFilterPack/Gradients_Desert",
+    "guid": "766b64a8c3568e2478bc589a256d2df4",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_gradients_electricgradient.shader",
+    "name": "CameraFilterPack/Gradients_ElectricGradient",
+    "guid": "51e28d4087e9cdf4da905e901e8dfb09",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_gradients_firegradient.shader",
+    "name": "CameraFilterPack/Gradients_FireGradient",
+    "guid": "9baee719d834a01498cb3245539cd2f9",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_gradients_hue.shader",
+    "name": "CameraFilterPack/Gradients_Hue",
+    "guid": "687741ecd637b374d9a0b484585c6a2a",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_gradients_neongradient.shader",
+    "name": "CameraFilterPack/Gradients_NeonGradient",
+    "guid": "4825ece97052b814486d7a90641174d1",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_gradients_rainbow.shader",
+    "name": "CameraFilterPack/Gradients_Rainbow",
+    "guid": "a89ffc594387d7c45ae394b7ba73458c",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_gradients_stripe.shader",
+    "name": "CameraFilterPack/Gradients_Stripe",
+    "guid": "04c74a9f5d2456a48b862d397f9e82a0",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_gradients_tech.shader",
+    "name": "CameraFilterPack/Gradients_Tech",
+    "guid": "902ce2ed7f4690646bb6e320c89f5832",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_gradients_therma.shader",
+    "name": "CameraFilterPack/Gradients_Therma",
+    "guid": "8b0ffabb1ceda21409f0b8115edf472b",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_light_rainbow.shader",
+    "name": "CameraFilterPack/Light_Rainbow",
+    "guid": "96d85a66c873d7e4690009ad0aa716cb",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_light_rainbow2.shader",
+    "name": "CameraFilterPack/Light_Rainbow2",
+    "guid": "91db010a762f3844faaca3a8608357ae",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_light_water.shader",
+    "name": "CameraFilterPack/Light_Water",
+    "guid": "c1ee9a9d085556647bcbf747a217e8e3",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_light_water2.shader",
+    "name": "CameraFilterPack/Light_Water2",
+    "guid": "376e569b6f4f981418d39ce70922a44c",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_lut_playwith.shader",
+    "name": "CameraFilterPack/Lut_PlayWith",
+    "guid": "04d504c0aca909d46b298cebf491a10f",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_lut_plus.shader",
+    "name": "CameraFilterPack/Lut_Plus",
+    "guid": "03b9265043f23bf478d552a03b35d513",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_lut_simple.shader",
+    "name": "CameraFilterPack/Lut_Simple",
+    "guid": "66fc5068ea466bd41a67263470e2b59b",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_lut_testmode.shader",
+    "name": "CameraFilterPack/Lut_TestMode",
+    "guid": "e3816365ab25fc64e98fc9b37e93454d",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_nightvisionfx.shader",
+    "name": "CameraFilterPack/NightVisionFX",
+    "guid": "1fc3dfbed6f0d0e4094a8dc21ca2b6a4",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_nightvision_4.shader",
+    "name": "CameraFilterPack/NightVision_4",
+    "guid": "aeb3a6f131fdf004489fb507902da2b8",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_noise_tv.shader",
+    "name": "CameraFilterPack/Noise_TV",
+    "guid": "b8b3ec3968a4e9d42a2518de7797b0b3",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_noise_tv_2.shader",
+    "name": "CameraFilterPack/Noise_TV_2",
+    "guid": "2cbdf47ad0aee1e448c3f47ef264d909",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_noise_tv_3.shader",
+    "name": "CameraFilterPack/Noise_TV_3",
+    "guid": "053521e3611bf0d44b83fe29f6d5700a",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_oculus_nightvision1.shader",
+    "name": "CameraFilterPack/Oculus_NightVision1",
+    "guid": "72d003678930bb64ebc54a17910ae930",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_oculus_nightvision2.shader",
+    "name": "CameraFilterPack/Oculus_NightVision2",
+    "guid": "2680340ecbb7efa47a78c4a8018af43d",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_oculus_nightvision3.shader",
+    "name": "CameraFilterPack/Oculus_NightVision3",
+    "guid": "8ccf0b09c4731cb4385d3b963bb5f264",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_oculus_nightvision5.shader",
+    "name": "CameraFilterPack/Oculus_NightVision5",
+    "guid": "d8e990c8937750d4aa06484e8587f694",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_oculus_thermavision.shader",
+    "name": "CameraFilterPack/Oculus_ThermaVision",
+    "guid": "e5f2f35bf20b93444a79c6efad884c98",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_oldfilm_cutting1.shader",
+    "name": "CameraFilterPack/OldFilm_Cutting1",
+    "guid": "9968662e5f29ffa47aad980f88865904",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_oldfilm_cutting2.shader",
+    "name": "CameraFilterPack/OldFilm_Cutting2",
+    "guid": "73d3e2945d3b18c448fdca7476cfe560",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_pixelisation_deepoilpainthq.shader",
+    "name": "CameraFilterPack/Deep_OilPaintHQ",
+    "guid": "62f230ba7c7c8f64d8210ce5bef9c9f2",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_pixelisation_dot.shader",
+    "name": "CameraFilterPack/Pixelisation_Dot",
+    "guid": "2a040e14a743b0043bcba8229de59cea",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_pixelisation_oilpaint.shader",
+    "name": "CameraFilterPack/Pixelisation_OilPaint",
+    "guid": "de0c2a9847929cf41aabc1de3c548105",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_pixelisation_oilpainthq.shader",
+    "name": "CameraFilterPack/Pixelisation_OilPaintHQ",
+    "guid": "c1b57cbc68effea4788f1eaa4fad8d05",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_pixelisation_sweater.shader",
+    "name": "CameraFilterPack/Pixelisation_Sweater",
+    "guid": "daa6b4571f4d986498880227cae6304c",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_pixel_pixelisation.shader",
+    "name": "CameraFilterPack/Pixel_Pixelisation",
+    "guid": "2aec6aa343f1d85408f146786868c5fd",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_rainfx.shader",
+    "name": "CameraFilterPack/RainFX",
+    "guid": "c3215390bb4af2b43bb07ab2ac02c582",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_real_vhs.shader",
+    "name": "CameraFilterPack/Real_VHS",
+    "guid": "d275263c50523584f98bcbbe18a73667",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_retro_loading.shader",
+    "name": "CameraFilterPack/Retro_Loading",
+    "guid": "4cef591a4868483409ae98c62ce53633",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_sharpen_sharpen.shader",
+    "name": "CameraFilterPack/Sharpen_Sharpen",
+    "guid": "e8c8f0f91f3311b4eb1c9bed9e626bfd",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_special_bubble.shader",
+    "name": "CameraFilterPack/Special_Bubble",
+    "guid": "003fae4940d696548a3a18e53577ab84",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_50.shader",
+    "name": "CameraFilterPack/TV_50",
+    "guid": "45969fc108e9174408754bb885b7238f",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_80.shader",
+    "name": "CameraFilterPack/TV_80",
+    "guid": "78b3fb99dbd5352438c69336beee9d0b",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_arcade.shader",
+    "name": "CameraFilterPack/TV_ARCADE",
+    "guid": "e7d2ed613334d3449a18f42f15fdc7c5",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_arcade_2.shader",
+    "name": "CameraFilterPack/TV_ARCADE_2",
+    "guid": "dd0e517089bf4c34abf05ac4b996b5f0",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_arcade_fast.shader",
+    "name": "CameraFilterPack/TV_ARCADE_Fast",
+    "guid": "204e9cd1ab09e3f44910af932b789ee9",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_artefact.shader",
+    "name": "CameraFilterPack/TV_Artefact",
+    "guid": "05c54f6755d0f3542a84bc4eccd2f71f",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_brokenglass.shader",
+    "name": "CameraFilterPack/TV_BrokenGlass",
+    "guid": "ddc39d6b6fbc59a458b9c7e46cb9b4c3",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_brokenglass2.shader",
+    "name": "CameraFilterPack/TV_BrokenGlass2",
+    "guid": "beda683e868d03448aa600da9aed1312",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_chromatical.shader",
+    "name": "CameraFilterPack/TV_Chromatical",
+    "guid": "c3ae95ee3262f6346a45718a8e5080cf",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_chromatical2.shader",
+    "name": "CameraFilterPack/TV_Chromatical2",
+    "guid": "bf10d1febddb6f141ab76f97fd2b379f",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_compressionfx.shader",
+    "name": "CameraFilterPack/TV_CompressionFX",
+    "guid": "1115aeca06420fc4683f2449ea6affb1",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_distorted.shader",
+    "name": "CameraFilterPack/TV_Distorted",
+    "guid": "aa51e3c9f985c6b40aeb4c05932905ed",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_horror.shader",
+    "name": "CameraFilterPack/TV_Horror",
+    "guid": "e7401926fa214584b8714a57c3e82e12",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_led.shader",
+    "name": "CameraFilterPack/TV_LED",
+    "guid": "f4a44049f6fdac8478ec7584791653db",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_movienoise.shader",
+    "name": "CameraFilterPack/TV_MovieNoise",
+    "guid": "f02b251a538cb154797df2371f9cd6fe",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_noise.shader",
+    "name": "CameraFilterPack/TV_Noise",
+    "guid": "3799c2b9803ad434b9a4f3f2362d9180",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_old.shader",
+    "name": "CameraFilterPack/TV_Old",
+    "guid": "b18a501206bb96440a8a5b9566d27d40",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_old_movie.shader",
+    "name": "CameraFilterPack/TV_Old_Movie",
+    "guid": "697eb81055e97904d8428584fdf7d9c4",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_old_movie_2.shader",
+    "name": "CameraFilterPack/TV_Old_Movie_2",
+    "guid": "0c499db657814b74683d2dccca06a0e0",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_planetmars.shader",
+    "name": "CameraFilterPack/TV_PlanetMars",
+    "guid": "dbc749b40e17621469e0322d4434b5ef",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_posterize.shader",
+    "name": "CameraFilterPack/TV_Posterize",
+    "guid": "30a4f577e8e726c4aa3b6256c2e99be2",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_rgb.shader",
+    "name": "CameraFilterPack/TV_Rgb",
+    "guid": "1f57328618e33b549bd144653706ade7",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_tiles.shader",
+    "name": "CameraFilterPack/TV_Tiles",
+    "guid": "67c33d75ca2c417488854b7532853b4a",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_vcr.shader",
+    "name": "CameraFilterPack/TV_Vcr",
+    "guid": "ffb6622faeec2ba439705abbc638a06c",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_vhs.shader",
+    "name": "CameraFilterPack/TV_VHS",
+    "guid": "46167047483a3db498d0049aadcfdcef",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_vhs_rewind.shader",
+    "name": "CameraFilterPack/TV_VHS_Rewind",
+    "guid": "e4c1f9d34b292fc459d3feba1aff3b93",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_video3d.shader",
+    "name": "CameraFilterPack/TV_Video3D",
+    "guid": "e84561d5499e2d54783a901d9e6926d1",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_videoflip.shader",
+    "name": "CameraFilterPack/TV_Videoflip",
+    "guid": "3ef34b8a876017d4eb929a256538fc1a",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_vignetting.shader",
+    "name": "CameraFilterPack/TV_Vignetting",
+    "guid": "1ffa9521bd7a0464aa628138958c820d",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_vintage.shader",
+    "name": "CameraFilterPack/TV_Vintage",
+    "guid": "f911913a5437e4847b29a4d2bcaa2e72",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_widescreencircle.shader",
+    "name": "CameraFilterPack/TV_WideScreenCircle",
+    "guid": "9c70d1bf2ee1b2844bac12c5eb2a3284",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_widescreenhorizontal.shader",
+    "name": "CameraFilterPack/TV_WideScreenHorizontal",
+    "guid": "f1324321192ec7945a0447fcc18a2c92",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_widescreenhv.shader",
+    "name": "CameraFilterPack/TV_WideScreenHV",
+    "guid": "da7b3b962ddb4464c99bb3984faa5b04",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_tv_widescreenvertical.shader",
+    "name": "CameraFilterPack/TV_WideScreenVertical",
+    "guid": "f39b6042215aad54ebcf3d20ca00aa37",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_vhs_tracking.shader",
+    "name": "CameraFilterPack/VHS_Tracking",
+    "guid": "6a535a815bd036d4993411b931460dc0",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_vision_aura.shader",
+    "name": "CameraFilterPack/Vision_Aura",
+    "guid": "9af9b156ff45ca34dacbed0df2114ea7",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_vision_auradistortion.shader",
+    "name": "CameraFilterPack/Vision_AuraDistortion",
+    "guid": "f512eac9a08ab004fb0013ecad9747f9",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_vision_blood.shader",
+    "name": "CameraFilterPack/Vision_Blood",
+    "guid": "6d4ecc2acffe7504481b3e572e86db08",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_vision_blood_fast.shader",
+    "name": "CameraFilterPack/Vision_Blood_Fast",
+    "guid": "c0dac8d894a1ccc4a987a6dcafc94ba7",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_vision_drost.shader",
+    "name": "CameraFilterPack/Vision_Drost",
+    "guid": "d59a65dff19b74e4b8744aa9d3bc17f4",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_vision_hell_blood.shader",
+    "name": "CameraFilterPack/Vision_Hell_Blood",
+    "guid": "4e503ad2653a0ff46ae1603df5b79ad0",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_vision_plasma.shader",
+    "name": "CameraFilterPack/Vision_Plasma",
+    "guid": "92999c2edb71296499d9aae5cc0022c6",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_vision_psycho.shader",
+    "name": "CameraFilterPack/Vision_Psycho",
+    "guid": "47f2870569ebb2346872bdb5be415f7e",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_vision_rainbow.shader",
+    "name": "CameraFilterPack/Vision_Rainbow",
+    "guid": "fc6d5b6afc02dd04489ebd6ba40aaeae",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_vision_sniperscore.shader",
+    "name": "CameraFilterPack/Vision_SniperScore",
+    "guid": "09e971b0a6307a54481404a9c40a0291",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_vision_tunnel.shader",
+    "name": "CameraFilterPack/Vision_Tunnel",
+    "guid": "5525c8d52119bfe4b89f9c834f52d11c",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_vision_warp.shader",
+    "name": "CameraFilterPack/Vision_Warp",
+    "guid": "4d7a04f1e46157046ba6c09ad4efa0c8",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/camerafilterpack_vision_warp2.shader",
+    "name": "CameraFilterPack/Vision_Warp2",
+    "guid": "d8a62f7c659807846930cf2edf447589",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/dofpro.shader",
+    "name": "Hidden/DOFPro",
+    "guid": "e1aff2346e286f640af20829af75594b",
+    "dummy": true,
+    "materials": [
+      "Assets/Resources/DOFDummyMat.mat"
+    ]
+  },
+  {
+    "path": "Assets/Resources/fxpro.shader",
+    "name": "Hidden/FxPro",
+    "guid": "838b9f090572a554ba7a4509ec7721c1",
+    "dummy": true,
+    "materials": [
+      "Assets/Resources/FxProDummyMat.mat"
+    ]
+  },
+  {
+    "path": "Assets/Resources/fxprotap.shader",
+    "name": "Hidden/FxProTap",
+    "guid": "c1ffb72fc611add49992a8e511aefa1e",
+    "dummy": true,
+    "materials": [
+      "Assets/Resources/TapDummyMat.mat"
+    ]
+  },
+  {
+    "path": "Assets/Resources/shaders/tmp_bitmap-custom-atlas.shader",
+    "name": "TextMeshPro/Bitmap Custom Atlas",
+    "guid": "759806846f0dad84981283c4287f1a34",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/shaders/tmp_bitmap-mobile.shader",
+    "name": "TextMeshPro/Mobile/Bitmap",
+    "guid": "20649e6a955fa5d44b12cf6cb60ebb5c",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/shaders/tmp_bitmap.shader",
+    "name": "TextMeshPro/Bitmap",
+    "guid": "406008d72cf428a4cb78348287be0717",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/shaders/tmp_sdf overlay.shader",
+    "name": "TextMeshPro/Distance Field Overlay",
+    "guid": "7479a65c111cbdf4d8526e8968dd1b84",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/shaders/tmp_sdf-mobile masking.shader",
+    "name": "TextMeshPro/Mobile/Distance Field - Masking",
+    "guid": "2fb8ad948cb641a4cba571ad2c991d09",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/shaders/tmp_sdf-mobile overlay.shader",
+    "name": "TextMeshPro/Mobile/Distance Field Overlay",
+    "guid": "379e9ba6f41c0774ba0f8db78ce7e991",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/shaders/tmp_sdf-mobile.shader",
+    "name": "TextMeshPro/Mobile/Distance Field",
+    "guid": "b3c1edfed71da5846ae1e02a6f9d900b",
+    "dummy": true,
+    "materials": [
+      "Assets/Material/LiberationSans SDF Material.mat",
+      "Assets/Material/NEW+ Material.mat",
+      "Assets/Resources/fonts & materials/LiberationSans SDF - Drop Shadow.mat",
+      "Assets/Resources/fonts & materials/LiberationSans SDF - Outline.mat"
+    ]
+  },
+  {
+    "path": "Assets/Resources/shaders/tmp_sdf-surface-mobile.shader",
+    "name": "TextMeshPro/Mobile/Distance Field (Surface)",
+    "guid": "093913d49b2856f4b94050f91e57c09e",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/shaders/tmp_sdf-surface.shader",
+    "name": "TextMeshPro/Distance Field (Surface)",
+    "guid": "524287f639a81424daf4cae03f6ec267",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Resources/shaders/tmp_sdf.shader",
+    "name": "TextMeshPro/Distance Field",
+    "guid": "6a1345f14e0d9c7428041e842421ef95",
+    "dummy": true,
+    "materials": [
+      "Assets/Material/NEW Material.mat",
+      "Assets/Material/NEW+ Material_0.mat"
+    ]
+  },
+  {
+    "path": "Assets/Resources/shaders/tmp_sprite.shader",
+    "name": "TextMeshPro/Sprite",
+    "guid": "0597b17a2288d604a8f57d4fcd917b5b",
+    "dummy": true,
+    "materials": [
+      "Assets/Material/TextMeshPro_Sprite.mat"
+    ]
+  },
+  {
+    "path": "Assets/Shader/Cartoon FX_Mobile Particles Additive Alpha8.shader",
+    "name": "Cartoon FX/Mobile Particles Additive Alpha8",
+    "guid": "13d6ea2535c10a24294842a42731de72",
+    "dummy": true,
+    "materials": [
+      "Assets/Material/CFXM2_Blood Add.mat",
+      "Assets/Material/CFXM2_ShinyStar Add.mat",
+      "Assets/Material/CFXM2_Smiley Add 1.mat",
+      "Assets/Material/CFXM2_Smiley Add 2.mat",
+      "Assets/Material/CFXM2_Smiley Add 3.mat",
+      "Assets/Material/CFXM2_Smiley Add 4.mat",
+      "Assets/Material/CFXM2_Smiley Add 5.mat",
+      "Assets/Material/CFXM2_Smiley Add.mat",
+      "Assets/Material/CFXM2_Spade Add.mat",
+      "Assets/Material/CFXM_Anim_Triangle3_Add.mat",
+      "Assets/Material/CFXM_Anim_Triangle_AddSoft.mat",
+      "Assets/Material/gear.mat",
+      "Assets/Material/hel.mat",
+      "Assets/Material/particle.mat",
+      "Assets/Material/Rain.mat"
+    ]
+  },
+  {
+    "path": "Assets/Shader/Custom_BLUR.shader",
+    "name": "Custom/BLUR",
+    "guid": "9234d2e6101d86e4fb8e71be1a97564c",
+    "dummy": true,
+    "materials": [
+      "Assets/Material/ZombieMat.mat"
+    ]
+  },
+  {
+    "path": "Assets/Shader/Graphy_Graph Mobile.shader",
+    "name": "Graphy/Graph Mobile",
+    "guid": "a99804cbd1901374db3634c8f1d87416",
+    "dummy": true,
+    "materials": [
+      "Assets/Material/FPS_Graph.mat"
+    ]
+  },
+  {
+    "path": "Assets/Shader/Graphy_Graph Standard.shader",
+    "name": "Graphy/Graph Standard",
+    "guid": "8f6485cb1fc7a7e459dfd186012c9275",
+    "dummy": true,
+    "materials": []
+  },
+  {
+    "path": "Assets/Shader/LowPolyWater_Advanced.shader",
+    "name": "LowPolyWater/Advanced",
+    "guid": "9901c4e4da79e9e4d83ac3d13f695301",
+    "dummy": true,
+    "materials": [
+      "Assets/Material/HIGH.mat",
+      "Assets/Material/LOW.mat",
+      "Assets/Material/MAX.mat",
+      "Assets/Material/MED.mat"
+    ]
+  },
+  {
+    "path": "Assets/Shader/Projector_Light.shader",
+    "name": "Projector/Light",
+    "guid": "ab48412f2a3a73742a64213779e383e5",
+    "dummy": true,
+    "materials": [
+      "Assets/Material/LightProjector.mat"
+    ]
+  },
+  {
+    "path": "Assets/Shader/Projector_Multiply.shader",
+    "name": "Projector/Multiply",
+    "guid": "2e6568a88b6bd464792aa237f914c1d9",
+    "dummy": true,
+    "materials": [
+      "Assets/Material/ShadowProjector.mat"
+    ]
+  },
+  {
+    "path": "Assets/Shader/RCCSkidmarks.shader",
+    "name": "RCCSkidmarks",
+    "guid": "90b618658daf1184e853c2693e081b2c",
+    "dummy": true,
+    "materials": [
+      "Assets/Material/grass_SKID.mat"
+    ]
+  },
+  {
+    "path": "Assets/Shader/Sprites_Default with Fog.shader",
+    "name": "Sprites/Default with Fog",
+    "guid": "b30908f3e5196b14aa53804d70937d02",
+    "dummy": true,
+    "materials": [
+      "Assets/Material/les.mat"
+    ]
+  },
+  {
+    "path": "Assets/Shader/Water_Water 2D Waves.shader",
+    "name": "Water/Water 2D Waves",
+    "guid": "da4a5cb24f108714192a2a705f451016",
+    "dummy": true,
+    "materials": [
+      "Assets/Material/Water 0 Waves 0.mat"
+    ]
+  }
+]

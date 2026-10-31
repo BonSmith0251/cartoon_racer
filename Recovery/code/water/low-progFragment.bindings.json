@@ -1,0 +1,173 @@
+{
+  "subshader": 0,
+  "pass_index": 0,
+  "stage": "progFragment",
+  "index": 32,
+  "blob_index": 104,
+  "keywords": [
+    "DIRECTIONAL",
+    "WATER_REFLECTIVE",
+    "_CUSTOM_SHAPE",
+    "_LIGHTABS_ON",
+    "_WAVES_OFF",
+    "_SHADING_VERTEXLIT"
+  ],
+  "constant_buffers": [
+    {
+      "slot": 0,
+      "name": "$Globals",
+      "params": [
+        {
+          "name": "_DeepColor",
+          "offset": 80,
+          "register": "cb0[5].x",
+          "detail": {
+            "m_NameIndex": 59,
+            "m_Index": 80,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        },
+        {
+          "name": "_Absorption",
+          "offset": 96,
+          "register": "cb0[6].x",
+          "detail": {
+            "m_NameIndex": 60,
+            "m_Index": 96,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 1
+          }
+        },
+        {
+          "name": "_SpecColor",
+          "offset": 128,
+          "register": "cb0[8].x",
+          "detail": {
+            "m_NameIndex": 48,
+            "m_Index": 128,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        },
+        {
+          "name": "_Opacity",
+          "offset": 144,
+          "register": "cb0[9].x",
+          "detail": {
+            "m_NameIndex": 49,
+            "m_Index": 144,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 1
+          }
+        },
+        {
+          "name": "_Color",
+          "offset": 160,
+          "register": "cb0[10].x",
+          "detail": {
+            "m_NameIndex": 50,
+            "m_Index": 160,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        },
+        {
+          "name": "_FresColor",
+          "offset": 224,
+          "register": "cb0[14].x",
+          "detail": {
+            "m_NameIndex": 51,
+            "m_Index": 224,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 3
+          }
+        },
+        {
+          "name": "_Reflection",
+          "offset": 236,
+          "register": "cb0[14].w",
+          "detail": {
+            "m_NameIndex": 61,
+            "m_Index": 236,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 1
+          }
+        },
+        {
+          "name": "_NormalOffset",
+          "offset": 256,
+          "register": "cb0[16].x",
+          "detail": {
+            "m_NameIndex": 65,
+            "m_Index": 256,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 1
+          }
+        }
+      ]
+    },
+    {
+      "slot": 1,
+      "name": "UnityPerCamera",
+      "params": [
+        {
+          "name": "_ProjectionParams",
+          "offset": 80,
+          "register": "cb1[5].x",
+          "detail": {
+            "m_NameIndex": 32,
+            "m_Index": 80,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        },
+        {
+          "name": "_ZBufferParams",
+          "offset": 112,
+          "register": "cb1[7].x",
+          "detail": {
+            "m_NameIndex": 56,
+            "m_Index": 112,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        },
+        {
+          "name": "unity_OrthoParams",
+          "offset": 128,
+          "register": "cb1[8].x",
+          "detail": {
+            "m_NameIndex": 33,
+            "m_Index": 128,
+            "m_ArraySize": 0,
+            "m_Type": 0,
+            "m_Dim": 4
+          }
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "_ReflectionTex",
+      "slot": 0,
+      "sampler": 1
+    },
+    {
+      "name": "_CameraDepthTexture",
+      "slot": 1,
+      "sampler": 0
+    }
+  ]
+}
